@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhalt_website=self.webpackChunkhalt_website||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"news","permalink":"/blog/tags/news","description":"News tag description","count":1}]}')}}]);
