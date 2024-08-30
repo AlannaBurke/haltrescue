@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/announce",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-09-07-announcement/2024-09-07-announcement.md",
+  "source": "@site/blog/2024-09-07-announcement/2024-09-07-announcement.md",
+  "title": "A Big Announcement",
+  "description": "We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!",
+  "date": "2024-09-07T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "news",
+      "permalink": "/blog/tags/news",
+      "description": "News tag description"
+    }
+  ],
+  "readingTime": 0.93,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Alanna Burke",
+      "title": "Board Member, Foster Parent, Volunteer",
+      "page": {
+        "permalink": "/blog/authors/aburke"
+      },
+      "socials": {
+        "x": "https://x.com/aburke626"
+      },
+      "imageURL": "/img/aburke.jpg",
+      "key": "aburke"
+    }
+  ],
+  "frontMatter": {
+    "slug": "announce",
+    "title": "A Big Announcement",
+    "authors": [
+      "aburke"
+    ],
+    "tags": [
+      "news"
+    ]
+  },
+  "unlisted": false
+}

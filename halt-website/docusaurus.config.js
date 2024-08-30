@@ -86,7 +86,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -102,15 +102,15 @@ const config = {
             items: [
               {
                 label: 'Adoption/Foster Application',
-                to: 'https://bit.ly/halt-adoption',
+                href: 'https://bit.ly/halt-adoption',
               },
               {
                 label: 'Surrender a Pet',
-                to: 'https://bit.ly/halt-surrender',
+                href: 'https://bit.ly/halt-surrender',
               },
               {
                 label: 'Petfinder',
-                to: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/',
+                href: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/',
               },
             ],
           },
@@ -131,7 +131,7 @@ const config = {
               },
               {
                 label: 'Mastodon',
-                href: '@helpingAllLittlePipsqueaks@mstdn.social',
+                href: 'https://mstdn.social/@haltrescue',
               },
             ],
           },
@@ -140,7 +140,7 @@ const config = {
             items: [
               {
                 label: 'PayPal',
-                to: 'donations@helpingalllittlethings.org',
+                href: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',
               },
               {
                 label: 'Venmo',
