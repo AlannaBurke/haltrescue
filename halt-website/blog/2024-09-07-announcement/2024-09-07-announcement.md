@@ -19,9 +19,9 @@ Thank you for being a part of our journey — we couldn’t do it without you, a
 
 ### Follow us on:
 
-[Facebook](https://www.facebook.com/HALPRescue/)    
-[Twitter](https://twitter.com/halfrescue)    
-[Instagram](https://www.instagram.com/halfrescue/)    
+[Facebook](https://www.facebook.com/HALTRescue/)    
+[Twitter](https://twitter.com/HALT__rescue)    
+[Instagram](https://www.instagram.com/helpingalllittlethings/)    
 [Mastodon](https://mstdn.social/@haltrescue)    
 
 

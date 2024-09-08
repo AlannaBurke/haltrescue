@@ -120,15 +120,15 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                href: 'https://www.facebook.com/HALPRescue/',
+                href: 'https://www.facebook.com/HALTRescue/',
               }, 
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/halfrescue',
+                href: 'https://twitter.com/HALT__rescue',
               },
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/halfrescue/',
+                href: 'https://www.instagram.com/helpingalllittlethings/',
               },
               {
                 label: 'Mastodon',
