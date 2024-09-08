@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://alannaburke.github.io/haltrescue/blog</id>
     <title>Helping All Little Things Blog</title>
     <updated>2024-09-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://alannaburke.github.io/haltrescue/blog"/>
     <subtitle>Helping All Little Things Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://alannaburke.github.io/haltrescue/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[A Big Announcement]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/announce</id>
-        <link href="https://your-docusaurus-site.example.com/blog/announce"/>
+        <id>https://alannaburke.github.io/haltrescue/blog/announce</id>
+        <link href="https://alannaburke.github.io/haltrescue/blog/announce"/>
         <updated>2024-09-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!]]></summary>
         <content type="html"><![CDATA[<p>We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!</p>

@@ -1,31 +1,30 @@
 {
-  "permalink": "/blog/announce",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-09-07-announcement/2024-09-07-announcement.md",
+  "permalink": "/haltrescue/blog/announce",
   "source": "@site/blog/2024-09-07-announcement/2024-09-07-announcement.md",
   "title": "A Big Announcement",
-  "description": "We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!",
+  "description": "We have exciting news to share! Helping All Little Pipsqueaks is evolving and will be going back to our original name, Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate! We are so grateful that Alex and the rest of the Pipsqueakery helped us get through these past tumultuous 4 years. Without them, we never would have survived as a rescue.",
   "date": "2024-09-07T00:00:00.000Z",
   "tags": [
     {
       "inline": false,
       "label": "news",
-      "permalink": "/blog/tags/news",
+      "permalink": "/haltrescue/blog/tags/news",
       "description": "News tag description"
     }
   ],
-  "readingTime": 0.93,
+  "readingTime": 1.275,
   "hasTruncateMarker": true,
   "authors": [
     {
       "name": "Alanna Burke",
       "title": "Board Member, Foster Parent, Volunteer",
       "page": {
-        "permalink": "/blog/authors/aburke"
+        "permalink": "/haltrescue/blog/authors/aburke"
       },
       "socials": {
         "x": "https://x.com/aburke626"
       },
-      "imageURL": "/img/aburke.jpg",
+      "imageURL": "/haltrescue/img/aburke.jpg",
       "key": "aburke"
     }
   ],
