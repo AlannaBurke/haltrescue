@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhalt_website=self.webpackChunkhalt_website||[]).push([[434],{2966:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/haltrescue/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
