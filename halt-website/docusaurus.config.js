@@ -78,7 +78,7 @@ const config = {
         title: 'Helping All Little Things',
         logo: {
           alt: 'Helping All Little Things Logo',
-          src: 'img/color-whitebg.png',
+          src: 'img/logo-transparent.png',
         },
         items: [
           // {
