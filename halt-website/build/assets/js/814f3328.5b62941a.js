@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhalt_website=self.webpackChunkhalt_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A Big Announcement","permalink":"/blog/announce","unlisted":false,"date":"2024-09-07T00:00:00.000Z"}]}')}}]);

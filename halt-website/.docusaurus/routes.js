@@ -3,120 +3,120 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '2e4'),
+    path: '/haltrescue/blog',
+    component: ComponentCreator('/haltrescue/blog', 'a4a'),
     exact: true
   },
   {
-    path: '/blog/announce',
-    component: ComponentCreator('/blog/announce', 'e0e'),
+    path: '/haltrescue/blog/announce',
+    component: ComponentCreator('/haltrescue/blog/announce', 'fce'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/haltrescue/blog/archive',
+    component: ComponentCreator('/haltrescue/blog/archive', '6cb'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/haltrescue/blog/authors',
+    component: ComponentCreator('/haltrescue/blog/authors', 'f2f'),
     exact: true
   },
   {
-    path: '/blog/authors/aburke',
-    component: ComponentCreator('/blog/authors/aburke', 'a11'),
+    path: '/haltrescue/blog/authors/aburke',
+    component: ComponentCreator('/haltrescue/blog/authors/aburke', '21d'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/haltrescue/blog/tags',
+    component: ComponentCreator('/haltrescue/blog/tags', '3c3'),
     exact: true
   },
   {
-    path: '/blog/tags/news',
-    component: ComponentCreator('/blog/tags/news', '7c2'),
+    path: '/haltrescue/blog/tags/news',
+    component: ComponentCreator('/haltrescue/blog/tags/news', '197'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/haltrescue/markdown-page',
+    component: ComponentCreator('/haltrescue/markdown-page', '28d'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/haltrescue/docs',
+    component: ComponentCreator('/haltrescue/docs', 'cff'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/haltrescue/docs',
+        component: ComponentCreator('/haltrescue/docs', '0a7'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/haltrescue/docs',
+            component: ComponentCreator('/haltrescue/docs', '0df'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/haltrescue/docs/category/tutorial---basics',
+                component: ComponentCreator('/haltrescue/docs/category/tutorial---basics', 'ac3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/haltrescue/docs/category/tutorial---extras',
+                component: ComponentCreator('/haltrescue/docs/category/tutorial---extras', '1e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/haltrescue/docs/intro',
+                component: ComponentCreator('/haltrescue/docs/intro', 'abe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/haltrescue/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/congratulations', 'bf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/haltrescue/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/create-a-blog-post', 'b5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/haltrescue/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/create-a-document', '56b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/haltrescue/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/create-a-page', '981'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/haltrescue/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/deploy-your-site', '3a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/haltrescue/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/haltrescue/docs/tutorial-basics/markdown-features', '28b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/haltrescue/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/haltrescue/docs/tutorial-extras/manage-docs-versions', 'd21'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/haltrescue/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/haltrescue/docs/tutorial-extras/translate-your-site', 'f18'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -127,8 +127,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/haltrescue/',
+    component: ComponentCreator('/haltrescue/', '0f3'),
     exact: true
   },
   {

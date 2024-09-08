@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Helping All Little Things Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://alannaburke.github.io/haltrescue/blog</link>
         <description>Helping All Little Things Blog</description>
         <lastBuildDate>Sat, 07 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[A Big Announcement]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/announce</link>
-            <guid>https://your-docusaurus-site.example.com/blog/announce</guid>
+            <link>https://alannaburke.github.io/haltrescue/blog/announce</link>
+            <guid>https://alannaburke.github.io/haltrescue/blog/announce</guid>
             <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!]]></description>
             <content:encoded><![CDATA[<p>We have exciting news to share! Helping All Little Pipsqueaks is evolving and will now be known as Helping All Little Things — an independent rescue dedicated to small animals and sanctuary care. While we are branching out on our own, we want to reassure you that nothing has changed in our friendship with The Pipsqueakery. We’re still great friends and will continue to collaborate!</p>
