@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helpingalllittlethings.org/blog</id>
     <title>Helping All Little Things Blog</title>
-    <updated>2024-09-07T00:00:00.000Z</updated>
+    <updated>2024-09-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helpingalllittlethings.org/blog"/>
     <subtitle>Helping All Little Things Blog</subtitle>
     <icon>https://helpingalllittlethings.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New T Shirt Fundraiser!]]></title>
+        <id>https://helpingalllittlethings.org/blog/tshirt2024</id>
+        <link href="https://helpingalllittlethings.org/blog/tshirt2024"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Our New Rescue T-Shirts!]]></summary>
+        <content type="html"><![CDATA[<p>Introducing Our New Rescue T-Shirts!</p>
+<p>We are beyond excited to announce the launch of our new t-shirts featuring our adorable brand-new logo! 🎉 These shirts are not only cute and comfy but also a wonderful way to show your support for our small animal rescue as we relaunch. Every purchase goes directly toward helping us care for our rescue animals, provide medical attention, food, and all the love they need. 🐹🐰</p>
+<p><img decoding="async" loading="lazy" alt="New Helping All Little Things Logo Tee" src="https://helpingalllittlethings.org/assets/images/tshirt2024-b45a852b8310edd3e847d4af907de6a6.jpeg" width="513" height="490" class="img_ev3q"></p>
+<p>Our t-shirts come in a variety of colors, so you can choose your favorite and wear it proudly knowing that you’re making a real difference in the lives of the animals we save. Whether you’re a long-time supporter or new to our community, this is a fun way to help while spreading awareness for our cause. Plus, who wouldn’t want to rock our adorable new logo? 💖</p>
+<p>Help us continue our mission of rescuing and caring for the tiniest, most vulnerable animals by grabbing a shirt today. Thank you for being part of this amazing community—we couldn’t do this without you! 🌟</p>
+<p>Head over to the shop now and pick yours up before they’re gone! 🛍️👕</p>
+<p><a href="https://www.customink.com/fundraising/haltrescuestartup" target="_blank" rel="noopener noreferrer">https://www.customink.com/fundraising/haltrescuestartup</a></p>]]></content>
+        <author>
+            <name>Alanna Burke</name>
+        </author>
+        <category label="fundraiser" term="fundraiser"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Big Announcement]]></title>
         <id>https://helpingalllittlethings.org/blog/announce</id>
