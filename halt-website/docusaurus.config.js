@@ -155,6 +155,10 @@ const config = {
                 label: 'Amazon Wish List',
                 href: 'https://bit.ly/halt-piggies',
               },
+              {
+                label: 'Chewy Wish List',
+                href: 'https://www.chewy.com/g/helping-all-little-things_b129784992',
+              },
             ],
           },
         ],
