@@ -14,6 +14,6 @@ fundraiser:
   description: fundraiser tag description
 
 education:
-  label: education
-  permalink: /education
-  description: education tag description
+  label: educational
+  permalink: /educational
+  description: educational tag description
