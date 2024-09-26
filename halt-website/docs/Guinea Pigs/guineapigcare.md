@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Guinea Pig Care'
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Guinea Pig Care
@@ -11,16 +11,19 @@ sidebar_position: 4
 
 Plain, quality pellets are best for guinea pigs. Guinea pigs under 6 months old should be fed an Alfalfa pellet and hay-based diet. Do not feed your guinea pig any food with artificial coloring, seeds or corn as these foods pose a choking hazard and cannot be properly digested.
 
-Kleenmama hay and pellets are the best hay and pellets hat you can
-provide for your guinea pig. Their shipping prices can be intimidating, but it is more less expensive to order online than to buy in pet stores, even with shipping. Kleenmama hay and pellets can be ordered online at www.kmshayloft.com.
+Oxbow carries several lines of healthy guinea pig foods and can be found commercially available in most pet stores.
 
-Oxbow Essentials is the second best in quality. Though it can be more expensive than buying in bulk, it can be much more convenient to find and purchase in stores. For store locations, visit https://www.oxbowanimalhealth.com/store-locator.
+Visit www.oxbowanimalhealth.com/ for more information on products that they carry. Oxbow can also be found on Amazon.com or Chewy.com
 
-Sweet Meadow also provides quality hay and pellets. They can be
-ordered in bulk and shipping is a bit more reasonable. It is important to note that their winter hay isn’t as good as their late spring and summer hay. To order, visit www.sweetmeadowfarm.com.
+Sweet Meadow Farm also provides quality hay and pellets.
+They can be ordered in bulk on chewy.com.
+For more information on their products please visit www.sweetmeadowfarm.com.
 
-Small Pet Select provides quality hay and pellets as well.
-To order, visit www.smallpetselect.com.
+Small Pet Select provides quality hay and pellets which can be ordered on their website, chewy.com, or amazon.com.
+For more information on their products please visit www.smallpetselect.com.
+
+Sherwood Pet Health carries a healthy line of pellets and treats and can be found on their website https://store.sherwoodpethealth.com/, chewy.com or amazon.com.
+
 
 ### What about fresh foods?
 
@@ -56,8 +59,7 @@ Never use cedar bedding. Cedar gives off an oily residue that can get stuck in y
 ### Where can I purchase fleece cage liners?
 
 Fleece cage liners can be purchased online from
-guineapigmarket.com, www.etsy.com/shop/TheGuineaPigSlave, or
-letsleepingpigslie.com and a portion of their sales will be donated to local rescues. https://guineadad.com/ also makes excellent liners and supports rescues.
+guineapigmarket.com and various Etsy sites. https://guineadad.com/ also makes excellent liners and supports rescues.
 
 ### What about toys?
 
