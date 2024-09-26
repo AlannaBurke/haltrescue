@@ -49,8 +49,7 @@ Your average chain store will sell you a cage that is much too small (and overpr
 ### What type of cage do I need for my guinea pig?
 
 Consider purchasing or building a C&C cage. C&C cages can be
-purchased online for easier assembly at www.guineapigcagesstore.com. Their price for a jumbo size cage is still cheaper than a “large” cage from the pet store and they support animal rescues. You can also purchase individual supplies to build a C&C cage. Bed Bath & Beyond carries Grid Wire Modular Shelving and Storage Cubes that can be used for the frame. Local sign stores often carry sheets of Coroplast and if you tell them that it’s for building a guinea pig cage, they will sometimes sell it at
-a discounted rate, especially if you are not fussy about the color.
+purchased online for easier assembly at www.guineapigcagesstore.com and https://www.cagetopia.com/. Their price for a jumbo size cage is still cheaper than a “large” cage from the pet store and they support animal rescues. You can also purchase individual supplies to build a C&C cage. Bed Bath & Beyond carries Grid Wire Modular Shelving and Storage Cubes that can be used for the frame. Local sign stores often carry sheets of Coroplast and if you tell them that it’s for building a guinea pig cage, they will sometimes sell it at a discounted rate, especially if you are not fussy about the color.
 
 ### What kind of bedding should I buy?
 
@@ -59,7 +58,7 @@ Never use cedar bedding. Cedar gives off an oily residue that can get stuck in y
 ### Where can I purchase fleece cage liners?
 
 Fleece cage liners can be purchased online from
-guineapigmarket.com and various Etsy sites. https://guineadad.com/ also makes excellent liners and supports rescues.
+http://guineapigmarket.com and various Etsy sites. https://guineadad.com/ also makes excellent liners and supports rescues.
 
 ### What about toys?
 
