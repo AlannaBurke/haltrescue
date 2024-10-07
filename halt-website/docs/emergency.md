@@ -5,6 +5,8 @@ sidebar_position: 4
 
 # Emergency Preparedness
 
+![Emergency Preparedness Graphic](emergency.png)
+
 ## 1. Create an Emergency Plan
   - __Identify Safe Locations__: Know where the nearest pet-friendly shelters, hotels, or boarding facilities are located. Some shelters may not allow pets unless they are service animals, so it’s crucial to find pet-friendly options ahead of time.
   - Emergency shelters operating for the disaster may also allow pets, but make sure to check before you go. Have these locations and numbers saved so you aren’t scrambling in an emergency.
@@ -41,6 +43,8 @@ sidebar_position: 4
 ## 7. After the Disaster
   - __Inspect Your Home__: Before allowing your pets to roam freely, inspect the area for hazards such as broken glass, exposed wires, or standing water.
   - __Behavior Changes__: Pets may be anxious, agitated, or even aggressive after a traumatic event. Provide them with patience and a safe, calm environment as they readjust.
+
+## [>Download our Emergency Preparedness Printable Checklist](emergencychecklist.pdf)
 
 
 By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster.
