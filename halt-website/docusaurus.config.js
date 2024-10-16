@@ -113,6 +113,10 @@ const config = {
                 label: 'Petfinder',
                 href: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/',
               },
+              {
+                label: 'Sign up for our Newsletter',
+                href: 'https://subscribepage.io/halt',
+              },
             ],
           },
           {
