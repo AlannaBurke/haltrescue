@@ -28,10 +28,6 @@ She now provides sanctuary to two hedgehogs and six chinchillas while supporting
 ![board-pic](alanna.jpg)
 Alanna has always been involved in rescue, mostly working with cats, but became a part of HALT in 2017 when she adopted rats and then guinea pigs. Alanna handles all things technical and web-related for the rescue, as well as most of the graphics. She currently has 7 guinea pigs, 3 cats, and a dog. 
 
-<br /><br />
-<br />
-
-
 ### Treasurer: Lynne Blecher
 
 ![board-pic](lynne.jpg)
