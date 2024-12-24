@@ -135,6 +135,10 @@ const config = {
                 href: 'https://mstdn.social/@haltrescue',
               },
               {
+                label: 'BlueSky',
+                href: 'https://bsky.app/profile/haltrescue.bsky.social',
+              },
+              {
                 label: 'Sign up for our Newsletter',
                 href: 'https://subscribepage.io/halt',
               },

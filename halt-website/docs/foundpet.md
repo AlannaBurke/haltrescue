@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Help, I Found a Pet!'
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Help, I Found a Pet!
