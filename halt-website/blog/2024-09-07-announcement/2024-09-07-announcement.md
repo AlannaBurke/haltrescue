@@ -1,7 +1,7 @@
 ---
 slug: announce
 title: A Big Announcement
-authors: [aburke]
+authors: [alanna]
 tags: [news]
 ---
 
