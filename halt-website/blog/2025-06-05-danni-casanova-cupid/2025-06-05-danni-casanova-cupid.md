@@ -55,6 +55,7 @@ Your support helps us continue saving and caring for the most vulnerable small a
 
 ### 📞 Donate Directly to Our Vets
  - Southern Maine Hospital for Small Mammals: (207) 535-9330
+ - Broadview Vets of Dover: (603) 740-1800
  - House Paws: (856) 234-5230
 (Note: The account may still be under Helping All Little Pipsqueaks — we’re in the process of updating it.)
 
