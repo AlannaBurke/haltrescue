@@ -1,8 +1,17 @@
-aburke:
+alanna:
   name: Alanna Burke
   title: Board Member, Foster Parent, Volunteer
   image_url: /img/aburke.jpg
   page: true
-  socials:
-    x: aburke626
 
+jen:
+  name: Jen Dupee
+  title: Board Member, Foster Parent, Volunteer
+  image_url: /img/jen.jpg
+  page: true
+ 
+danni:
+  name: Danielle Challender
+  title: President, New Hampshire Sanctuary
+  image_url: /img/danni.jpg
+  page: true

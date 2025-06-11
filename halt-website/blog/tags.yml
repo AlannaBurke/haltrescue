@@ -1,19 +1,29 @@
 news:
   label: news
   permalink: /news
-  description: News tag description
+  description: News
 
 adoptions:
   label: adoptions
   permalink: /adoptions
-  description: adoptions tag description
+  description: adoptions
+
+adoptables:
+  label: adoptables
+  permalink: /adoptables
+  description: adoptables
 
 fundraiser:
   label: fundraiser
   permalink: /fundraiser
-  description: fundraiser tag description
+  description: fundraiser
 
-education:
+educational:
   label: educational
   permalink: /educational
-  description: educational tag description
+  description: educational
+
+humans:
+  label: humans
+  permalink: /humans
+  description: humans

@@ -1,7 +1,7 @@
 ---
 slug: board
 title: Meet the Board of Directors
-authors: [aburke]
+authors: [alanna]
 tags: [humans]
 ---
 
