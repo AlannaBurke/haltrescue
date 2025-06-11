@@ -73,7 +73,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/social_card.png',
       navbar: {
         title: 'Helping All Little Things',
@@ -178,6 +177,14 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+};
+
+module.exports = {
+  themeConfig: {
+    metadata: [
+      { name: 'facebook-domain-verification', content: 'rtjdkbevsuqbzw61b6ncw62sjf3vww' },
+    ],
+  },
 };
 
 export default config;
