@@ -27,3 +27,13 @@ humans:
   label: humans
   permalink: /humans
   description: humans
+
+satin:
+  label: satin
+  permalink: /satin
+  description: satin syndrome
+
+dental:
+  label: dental
+  permalink: /dental
+  description: dentale
