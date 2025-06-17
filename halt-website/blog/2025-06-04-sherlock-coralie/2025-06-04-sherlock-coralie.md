@@ -2,7 +2,7 @@
 slug: 6-4-sherlock-coralie
 title: Update on Sherlock and Coralie
 authors: [danni]
-tags: [news, educational, satin]
+tags: [news, educational, satin, sanctuary]
 ---
 
 ## 🦷 Sherlock Update + Urgent Help Needed!

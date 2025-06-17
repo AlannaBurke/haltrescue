@@ -2,7 +2,7 @@
 slug: 6-6-babies
 title: Baby Pigs are Growing Up!
 authors: [danni]
-tags: [news]
+tags: [news, sanctuary]
 ---
 
 ## 🎓  Not-So-Baby Girls Graduate!
