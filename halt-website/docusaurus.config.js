@@ -123,10 +123,6 @@ const config = {
                 href: 'https://www.facebook.com/HALTRescue/',
               }, 
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/HALT__rescue',
-              },
-              {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/helpingalllittlethings/',
               },
@@ -137,6 +133,14 @@ const config = {
               {
                 label: 'BlueSky',
                 href: 'https://bsky.app/profile/haltrescue.bsky.social',
+              },
+              {
+                label: 'Threads',
+                href: 'https://www.threads.com/@helpingalllittlethings',
+              },
+              {
+                label: 'TikTok',
+                href: 'https://twitter.com/HALT__rescue',
               },
               {
                 label: 'Sign up for our Newsletter',

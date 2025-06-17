@@ -9,6 +9,8 @@ tags: [adoptions]
 
 We are so excited to share not one, not two, but three wonderful adoptions today!
 
+<!-- truncate -->
+
 ## 💕 Sylvie & Checkers
 
 We started the day with the exciting news that Sylvie and Checkers were adopted this morning! Their new family had previously adopted a guinea pig named Frazzle from us, but unfortunately, Frazzle wasn’t getting along with one of their existing piggies.

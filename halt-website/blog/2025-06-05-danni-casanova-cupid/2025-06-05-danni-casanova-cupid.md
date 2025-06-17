@@ -11,6 +11,8 @@ Danni, Casanova, and Cupid are checking in from their wonderful foster home—an
 
 Casanova and Cupid met by chance and headed off to foster together. While Casanova was a bit of a drama starter at first (aren’t all the best leading men?), things have really smoothed out. There are still the occasional kerfuffles when everyone gets the zoomies and crashes into each other, but now that they’ve settled in, their personalities are really starting to shine.
 
+<!-- truncate -->
+
 These boys came to us from the Woodbridge guinea pig group and were pretty beat up when they arrived.
 
 💫 Danni has been with us since he was just 3 weeks old—his birthday is April 21st!—and he’s been patiently waiting for his forever home ever since.

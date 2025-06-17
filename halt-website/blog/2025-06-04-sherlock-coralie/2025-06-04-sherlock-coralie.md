@@ -11,6 +11,8 @@ We really need to take some updated glamour shots of Sherlock, because this brav
 
 As expected, his teeth were a complete mess—including a random spare tooth just hanging out where it didn’t belong. We’re likely looking at dental surgeries every 6 weeks to keep him healthy and comfortable.
 
+<!-- truncate -->
+
 ⸻
 
 ### 🐹 Sherlock’s Favorites (for anyone who wants to spoil him!)
