@@ -140,7 +140,7 @@ const config = {
               },
               {
                 label: 'TikTok',
-                href: 'https://twitter.com/HALT__rescue',
+                href: 'https://www.tiktok.com/@helpingalllittlethings',
               },
               {
                 label: 'Sign up for our Newsletter',

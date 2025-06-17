@@ -42,3 +42,8 @@ rainbowbridge:
   label: rainbow bridge
   permalink: /rainbowbridge
   description: Remembering the pets who have crossed the rainbow bridge.
+
+sanctuary:
+  label: sanctuary
+  permalink: /sanctuary
+  description: sanctuary

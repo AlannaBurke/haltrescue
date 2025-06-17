@@ -8,7 +8,6 @@ sidebar_position: 1
 If you’re a guinea pig owner or enthusiast, it’s crucial to be aware of the health conditions that can affect your furry companions. One such condition is **Satin Syndrome**, a disease that primarily affects satin-coated guinea pigs. While these guinea pigs are prized for their beautiful, glossy fur, they are at higher risk of developing a painful and often debilitating condition that affects their bones.  
 In this post, we’ll explore what Satin Syndrome is, the signs and symptoms to watch for, and how it can be managed to ensure your guinea pig lives a comfortable life.
 
-
 <figure>
     ![Satin guinea pig](satinpig.jpg "Satin guinea pig")  
     <figcaption>Satin guinea pig</figcaption>
@@ -30,9 +29,6 @@ Compare the following photos of guinea pig hair under a microscope.
   <figcaption>X Ray of a satin guinea pig hair</figcaption>
 </figure>
 
-
-
-
 Osteodystrophy can lead to **osteoporosis-like** symptoms in guinea pigs, and as the condition progresses, it can cause extreme pain, mobility issues, and fractures. The exact cause of Satin Syndrome is still being studied, but it’s believed that a calcium metabolism disorder might play a key role in the development of the disease.
 
 ## Signs and Symptoms of Satin Syndrome
@@ -52,8 +48,8 @@ Here are the common signs to watch for:
 
 If you notice any of the signs mentioned above, it’s important to take your guinea pig to a veterinarian who specializes in small animals or exotics. Satin Syndrome is typically diagnosed through a combination of **physical examination**, **X-rays**, and an evaluation of your guinea pig’s symptoms.
 
-	•	**X-rays** are the most effective way to diagnose Satin Syndrome, as they can reveal changes in bone density, deformities, and fractures.  
-	•	**Bloodwork** may also be conducted to check calcium and phosphorus levels, although the exact cause of the syndrome remains unclear and may not always be reflected in these tests.
+ - **X-rays** are the most effective way to diagnose Satin Syndrome, as they can reveal changes in bone density, deformities, and fractures.  
+ - **Bloodwork** may also be conducted to check calcium and phosphorus levels, although the exact cause of the syndrome remains unclear and may not always be reflected in these tests.
 
 ## Managing Satin Syndrome
 
@@ -73,6 +69,3 @@ There’s no surefire way to prevent Satin Syndrome, as it appears to be linked 
 ## Final Thoughts
 
 Satin Syndrome is a heartbreaking condition for guinea pigs and their owners alike, but early detection and proper care can make a significant difference in managing the disease. If your guinea pig has a satin coat, it’s essential to be vigilant about their health and watch for any signs of discomfort or bone issues. By working closely with your veterinarian, you can help ensure that your guinea pig enjoys a comfortable and fulfilling life, even with Satin Syndrome.  
-
-
-
