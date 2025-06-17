@@ -13,6 +13,8 @@ Last night, Novel was eating celery on his own, and this afternoon, Parody munch
 
 Now that we know it helps, we should be able to get a bit more at a time—but I expect I’ll still need to make regular trips to the vet to pick it up. (Not a problem—I’m there at least once a week anyway!)
 
+<!-- truncate -->
+
 ## 🐹 A New Roommate and a Little Surprise
 
 I also took a chance and moved Parody into the couch cage, and so far he’s doing great! He’s very calm and seems completely smitten with Hero. Honestly, the babies really seem to lift everyone’s spirits—mine included.

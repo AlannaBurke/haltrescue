@@ -5,9 +5,9 @@ authors: [alanna]
 tags: [humans]
 ---
 
-## Meet the Board of Directors
-
 We want to be open and transparent with our followers and supports about who's running things, so we're thrilled to introduce our Board of Directors!
+
+<!-- truncate -->
 
 ### President: Danni Challender
 

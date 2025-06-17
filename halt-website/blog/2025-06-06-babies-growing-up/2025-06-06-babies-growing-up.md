@@ -11,6 +11,8 @@ Our “babies” aren’t babies anymore—Saga, Fantasy, Madrigal, Gothic, and 
 
 Their move into the adult cage made space for a new special group…
 
+<!-- truncate -->
+
 ⸻
 
 ## 💫 Introducing: Team Wonkiest Females
