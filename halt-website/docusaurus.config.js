@@ -35,6 +35,20 @@ const config = {
     locales: ['en'],
   },
 
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-docs',
+  //     {
+  //       id: 'sanctuary',
+  //       path: 'sanctuary',
+  //       routeBasePath: 'sanctuary',
+  //       sidebarPath: require.resolve('./sidebars.js'),
+  //       showLastUpdateAuthor: false,
+  //       showLastUpdateTime: false,
+  //     },
+  //   ],
+  // ],
+
   presets: [
     [
       'classic',
@@ -42,10 +56,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -54,15 +64,11 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //  editUrl:
-          //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        pages: {},
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -81,20 +87,23 @@ const config = {
           src: 'img/logo-transparent.png',
         },
         items: [
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'sanctuarySidebar',
+          //   docsPluginId: 'sanctuary',
+          //   position: 'left',
+          //   label: 'Sanctuary',
+          // },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Resources',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          { to: '/blog', label: 'Blog', position: 'left' },
         ],
-      },
+        },
+      
       footer: {
         style: 'dark',
         links: [
