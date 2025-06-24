@@ -42,7 +42,7 @@ Compare the following photos of guinea pig hair under a microscope.
 
 Satin Syndrome usually manifests in adulthood, often between 1-2 years of age, but it can sometimes appear earlier or later in life. Unfortunately, by the time symptoms are noticeable, the disease may already be advanced.
 
-Here are the common signs to watch for \- download our detailed printable checklist here: 
+Here are the common signs to watch for \- download our detailed printable checklist here: [Satin Syndrome Printable Checklist](satin-checklist.pdf).
 
 1. **Difficulty Moving**: One of the earliest signs of Satin Syndrome is difficulty moving or limping. Your guinea pig may struggle to hop, climb, or move around its enclosure. You may notice them becoming less active, preferring to stay in one spot or lying down more often.  
 2. **Hunched Posture**: A hunched, stiff posture is a telltale sign of discomfort or pain in guinea pigs with Satin Syndrome. This is often due to bone pain, especially in the spine and legs, caused by the weakening of their skeletal structure.  
