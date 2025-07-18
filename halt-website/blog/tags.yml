@@ -33,6 +33,16 @@ satin:
   permalink: /satin
   description: satin syndrome
 
+lethalwhite:
+  label: lethalwhite
+  permalink: /lethalwhite
+  description: Lethal White Guinea Pigs
+
+medical:
+  label: medical
+  permalink: /medical
+  description: medical
+
 dental:
   label: dental
   permalink: /dental
@@ -47,3 +57,4 @@ sanctuary:
   label: sanctuary
   permalink: /sanctuary
   description: sanctuary
+
