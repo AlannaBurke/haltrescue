@@ -58,3 +58,24 @@ sanctuary:
   permalink: /sanctuary
   description: sanctuary
 
+guineapigs:
+  label: guineapigs
+  permalink: /guineapigs
+  description: guinea pigs
+
+chinchillas:
+  label: chinchillas
+  permalink: /chinchillas
+  description: chinchillas
+
+mice:
+  label: mice
+  permalink: /mice
+  description: mice
+
+hamsters:
+  label: hamsters
+  permalink: /hamsters
+  description: hamsters
+
+

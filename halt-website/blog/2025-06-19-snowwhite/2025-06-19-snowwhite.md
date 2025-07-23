@@ -2,7 +2,7 @@
 slug: 6-19-snowwhite
 title: Adoption Alert - Snow White
 authors: [jen]
-tags: [adoptions]
+tags: [adoptions, guineapigs]
 ---
 
 We are very excited to announce that Snow White has found a wonderful forever home! Congrats pretty girl! You will be so spoiled!

@@ -2,7 +2,7 @@
 slug: 6-6-babies
 title: Baby Pigs are Growing Up!
 authors: [danni]
-tags: [news, sanctuary]
+tags: [news, sanctuary, guineapigs]
 ---
 
 ## 🎓  Not-So-Baby Girls Graduate!
@@ -26,6 +26,7 @@ Haiku, Brynlee, Blakely, Memoir, and Coralie.
 ## 🍽️ Eating Update!
 
 The good news keeps coming—Coralie and Memoir are back to eating on their own, thanks to a solid pain management routine.
+
  - Novel is still our most hand-fed piggy right now, but he’s making slow progress.
  - Caper gets a little handfeeding too… but honestly? That’s more because he’s spoiled and likes the attention. 😄
 
@@ -35,11 +36,8 @@ We’re celebrating the little wins every day—whether it’s a piggie eating o
 
 ⸻
 
-
 ![Guinea Pig Herd](herd.jpg)
 ![Guinea Pig Herd - Team Wonkiest Females](herd2.jpg)
-
-
 
 ## 🙏  Support Our Rescue Work
 
