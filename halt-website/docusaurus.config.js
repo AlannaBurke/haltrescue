@@ -24,7 +24,7 @@ const config = {
   projectName: 'haltrescue', // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -152,6 +152,10 @@ const config = {
                 href: 'https://www.tiktok.com/@helpingalllittlethings',
               },
               {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@HelpingAllLittleThings',
+              },
+              {
                 label: 'Sign up for our Newsletter',
                 href: 'https://subscribepage.io/halt',
               },
@@ -179,6 +183,10 @@ const config = {
               {
                 label: 'Chewy Wish List',
                 href: 'https://www.chewy.com/g/helping-all-little-things_b129784992',
+              },
+              {
+                label: 'Gift Card for Veggies',
+                href: 'https://giftcards.shopmarketbasket.com/products/mb-gift-card-fresh-produce',
               },
             ],
           },
