@@ -2,7 +2,7 @@
 slug: biz-pigs
 title: From the Desk of Susan from Marketing and Carol from HR
 authors: [jen]
-tags: [adoptables]
+tags: [adoptables, guineapigs]
 ---
 
 ## From the Desk of Susan from Marketing and Carol from HR
@@ -16,9 +16,9 @@ There will be a PowerPoint presentation (because would it even be a real busines
 <!-- truncate -->
 
 Susan from Marketing will be leading the bulk of today’s session. She and Carol firmly believe that every home needs business guinea pigs. What do they bring to the table?
-	•	First, they’re excellent at keeping everyone on schedule. They know when it’s veggie time and will politely remind you—by screaming into the void—if you’re even a minute late.
-	•	They’re highly motivating. Who wouldn’t want to work harder for these tiny, adorable faces?
-	•	They bring structured fun to the workplace—think of it as business-appropriate enrichment. Maybe a veggie party at lunch to boost team morale?
+ - First, they’re excellent at keeping everyone on schedule. They know when it’s veggie time and will politely remind you—by screaming into the void—if you’re even a minute late.
+ - They’re highly motivating. Who wouldn’t want to work harder for these tiny, adorable faces?
+ - They bring structured fun to the workplace—think of it as business-appropriate enrichment. Maybe a veggie party at lunch to boost team morale?
 
 Now, let’s address logistics. Susan and Carol are a bonded pair and must stay together. They’re a dynamic duo, and let’s be honest: two business pigs are always better than one.
 

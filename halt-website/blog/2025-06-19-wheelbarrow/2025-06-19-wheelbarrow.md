@@ -2,7 +2,7 @@
 slug: 6-19-wheelbarrow
 title: Wheelbarrow
 authors: [jen]
-tags: [sanctuary, medical]
+tags: [sanctuary, medical, hamsters]
 ---
 
 For those of you who remember Little Miss Wheelbarrow—the hamster who was supposed to be “normal,” but came in with a very clearly not-normal leg 😅—we have an exciting update!

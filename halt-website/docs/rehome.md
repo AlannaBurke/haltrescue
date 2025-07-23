@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'How to Rehome a Pet'
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # How to Rehome a Pet
