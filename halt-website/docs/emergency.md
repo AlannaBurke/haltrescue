@@ -1,6 +1,5 @@
 ---
 sidebar_label: 'Emergency Preparedness'
-sidebar_position: 3
 ---
 
 # Emergency Preparedness
