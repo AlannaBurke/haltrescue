@@ -20,8 +20,6 @@ The best news? She’s expected to live a normal, happy, healthy hamster life! �
 ![Wheelbarrow](wb1.jpg)
 ![Wheelbarrow](wb2.jpg)
 ![Wheelbarrow](wb3.jpg)
-
-
 ⸻
 
 ## 🙏  Support Our Rescue Work
