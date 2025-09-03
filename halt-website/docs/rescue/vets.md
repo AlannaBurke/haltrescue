@@ -131,3 +131,11 @@ As rescuers, we have a responsibility to:
  - Connect with vets who care enough to keep learning, too
 
 Sometimes a second opinion — or a little research — is the difference between palliative care and a second chance.
+
+## Legal and Ethical Boundaries for Rescues Giving Medical Advice
+
+It’s important to clarify a crucial boundary: rescues are not veterinarians, and we cannot legally diagnose animals, prescribe medications, or provide specific dosages—even if you send us a photo or describe the symptoms in detail. While we deeply understand and care about the animals we work with, it is illegal and unethical for us to give medical advice for animals that are not under the direct care of our veterinarians.
+
+What we can do is help guide you in your own vet care journey. We can suggest a list of questions to ask your veterinarian, help you determine if it’s time to seek a second opinion, or share general experiences (not medical advice) that may help inform your next steps. But the bottom line is: we cannot diagnose, treat, or medicate your pet.
+
+This is not only about legality—it’s about safety. Every animal is different, and even common conditions can present in unusual ways. Only a licensed veterinarian who has physically examined your pet is qualified to make medical decisions for them.

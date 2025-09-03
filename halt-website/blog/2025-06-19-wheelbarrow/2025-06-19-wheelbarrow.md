@@ -30,6 +30,7 @@ Your support helps us continue saving and caring for the most vulnerable small a
 ⸻
 
 ### 💸  Ways to Donate
+
  - PayPal: donations@helpingalllittlethings.org
  - Venmo: [@haltrescue](https://account.venmo.com/u/haltrescue) (watch for imposters — it’s _not_ haltrescue_)
  - CashApp: [$haltrescue](https://cash.app/$Haltrescue)
@@ -42,11 +43,13 @@ Your support helps us continue saving and caring for the most vulnerable small a
 
 
 ### 🛒 Wishlist Donations
+
  - 🛍️ [Amazon Wishlist](https://tinyurl.com/HALT-Amazon-Wishlist)
  - 🛍️ [Chewy Wishlist](https://tinyurl.com/HALT-Chewy-Wishlist)
 
 
 ### 📞 Donate Directly to Our Vets
+
  - Southern Maine Hospital for Small Mammals: (207) 535-9330
  - Broadview Vets of Dover: (603) 740-1800
  - House Paws: (856) 234-5230
