@@ -85,6 +85,9 @@ Animal cruelty cases in NJ are handled by Humane Law Enforcement Officers (HLEOs
 2. Request to speak with the Humane Law Enforcement Officer
 
 3. Provide documented facts
+   
+4. State: you believe conditions may violate the cruelty statute (N.J. Stat. § 4:22-17 et seq.) and pet shop facility regulations (N.J.A.C. 8:23A).
+
 
 Suggested script:
 
