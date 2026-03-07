@@ -3,6 +3,7 @@ slug: board
 title: Meet the Board of Directors
 authors: [alanna]
 tags: [humans]
+image: /blog/2024-10-23-meet-the-board/danni.jpg
 ---
 
 We want to be open and transparent with our followers and supports about who's running things, so we're thrilled to introduce our Board of Directors!

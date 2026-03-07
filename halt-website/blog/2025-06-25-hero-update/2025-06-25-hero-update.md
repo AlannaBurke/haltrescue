@@ -3,6 +3,7 @@ slug: 6-25-hero-update
 title: Difficult Hero Update
 authors: [danni]
 tags: [sanctuary, lethalwhite, guineapigs]
+image: /blog/2025-06-25-hero-update/hero625-1.jpg
 ---
 
 Hero is doing better after some oxygen support and a dose of Lasix.

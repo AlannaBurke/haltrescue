@@ -813,11 +813,13 @@ img[alt=board-pic] {
 /* All inline images in markdown content */
 .markdown img {
   display: block;
-  max-width: 100%;
+  max-width: min(100%, 720px);   /* reasonable max size — not full-bleed */
   height: auto;
   margin: 1.5rem auto;
-  border-radius: 12px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  border-radius: 8px;            /* slightly rounded corners */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+  outline: 2px solid #d1d5db;   /* light gray 1px border, 2px out */
+  outline-offset: 2px;
 }
 
 /* Inline images that appear inside a paragraph (e.g. small icons) */
@@ -825,8 +827,10 @@ img[alt=board-pic] {
   display: inline;
   margin: 0 0.25rem;
   vertical-align: middle;
-  border-radius: 6px;
+  border-radius: 4px;
   box-shadow: none;
+  outline: none;
+  max-width: 100%;
 }
 
 /* If an image is the ONLY element in a paragraph, treat it as block */
@@ -845,9 +849,18 @@ img[alt=board-pic] {
   margin-right: 20px;
   margin-bottom: 12px;
   float: left;
+  max-width: 200px;
+  border-radius: 8px;
+  outline: 2px solid #d1d5db;
+  outline-offset: 2px;
 }
 
-/* Dark mode: slightly softer shadow */
+/* Dark mode: softer gray outline */
 [data-theme='dark'] .markdown img {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+  outline-color: #374151;
+}
+
+[data-theme='dark'] img[alt=board-pic] {
+  outline-color: #374151;
 }

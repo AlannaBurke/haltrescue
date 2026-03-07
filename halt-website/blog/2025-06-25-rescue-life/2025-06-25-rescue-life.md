@@ -3,6 +3,7 @@ slug: 6-25-rescue-life
 title: A Slice of Rescue Life
 authors: [danni]
 tags: [humans, guineapigs]
+image: /blog/2025-06-25-rescue-life/rescue-life.jpg
 ---
 
 It may seem like a small win, but to me it’s a big one:
