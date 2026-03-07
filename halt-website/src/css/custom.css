@@ -478,9 +478,24 @@ h1, h2, h3, h4, h5, h6 {
 /* ============================================================
    BLOG
    ============================================================ */
+/* Let the blog use the full Docusaurus container width.
+   The col--7 / col--3 grid already handles proportions. */
 .blog-list-page .container,
 .blog-post-page .container {
-  max-width: 860px;
+  max-width: var(--ifm-container-width);
+}
+
+/* Widen the blog post content column */
+.blog-list-page .col--7 {
+  --ifm-col-width: calc(8 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
+}
+
+.blog-list-page .col--3 {
+  --ifm-col-width: calc(4 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
 }
 
 article header h2 a,
