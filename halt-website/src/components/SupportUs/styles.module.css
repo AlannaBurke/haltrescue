@@ -119,82 +119,108 @@
   line-height: 1.5;
 }
 
-/* ── Donate list with brand logos ──────────────────────────── */
-.donateList {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+/* ── Icon badge buttons (matches footer LogoButton pattern) ── */
+.iconBtnGroup {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  margin-bottom: 0.75rem;
 }
 
-.donateList li {
-  font-size: 0.9rem;
-  line-height: 1.5;
-}
-
-/* A row with logo + handle */
-.donateLink {
+.iconBtn {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.35rem 0.75rem 0.35rem 0.4rem;
-  border-radius: 8px;
+  gap: 0.6rem;
+  padding: 0.4rem 0.75rem 0.4rem 0.4rem;
+  border-radius: 999px;
   background: var(--halt-teal-light, #e0f7f8);
   text-decoration: none;
-  font-weight: 700;
-  font-size: 0.88rem;
-  color: var(--halt-teal-dark, #0a6b73);
   transition: background 0.2s ease, transform 0.15s ease;
   border: 1.5px solid transparent;
+  width: fit-content;
 }
 
-.donateLink:hover {
+.iconBtn:hover {
   background: var(--halt-teal, #0f8a93);
-  color: #fff;
   transform: translateY(-1px);
   text-decoration: none;
 }
 
-.donateLink:hover .brandLogo,
-.donateLink:hover .brandLogoSquare {
-  filter: brightness(0) invert(1);
-}
-
-[data-theme='dark'] .donateLink {
+[data-theme='dark'] .iconBtn {
   background: rgba(45, 212, 223, 0.1);
-  color: var(--halt-teal, #2dd4df);
   border-color: rgba(45, 212, 223, 0.2);
 }
 
-[data-theme='dark'] .donateLink:hover {
+[data-theme='dark'] .iconBtn:hover {
   background: var(--halt-teal, #0f8a93);
+}
+
+/* The colored circle containing the white icon */
+.iconBtnCircle {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+/* The white SVG icon inside the circle */
+.iconBtnImg {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+  /* Override global image styles */
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+
+/* Text stack next to the icon */
+.iconBtnText {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.iconBtnLabel {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--halt-teal-dark, #0a6b73);
+  line-height: 1.2;
+}
+
+.iconBtn:hover .iconBtnLabel {
   color: #fff;
 }
 
-/* Brand logo — wide format (PayPal, Venmo, Amazon) */
-.brandLogo {
-  height: 18px;
-  width: auto;
-  max-width: 64px;
-  object-fit: contain;
-  display: block;
-  flex-shrink: 0;
+[data-theme='dark'] .iconBtnLabel {
+  color: var(--halt-teal, #2dd4df);
 }
 
-/* Brand logo — square/icon format (CashApp) */
-.brandLogoSquare {
-  height: 22px;
-  width: 22px;
-  object-fit: contain;
-  display: block;
-  flex-shrink: 0;
-  border-radius: 5px;
+[data-theme='dark'] .iconBtn:hover .iconBtnLabel {
+  color: #fff;
 }
 
-.donateHandle {
-  font-size: 0.88rem;
+.iconBtnSublabel {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.2;
+}
+
+.iconBtn:hover .iconBtnSublabel {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+[data-theme='dark'] .iconBtnSublabel {
+  color: rgba(255, 255, 255, 0.55);
 }
 
 /* ── Warning text ──────────────────────────────────────────── */
@@ -203,14 +229,29 @@
   font-size: 0.78rem;
   font-style: italic;
   color: var(--halt-coral, #e07a6e);
-  margin-top: 0.1rem;
-  padding-left: 0.25rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+
+/* ── Inline text link ──────────────────────────────────────── */
+.inlineLink {
+  color: var(--halt-teal, #0f8a93);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.inlineLink:hover {
+  color: var(--halt-coral, #e07a6e);
+}
+
+[data-theme='dark'] .inlineLink {
+  color: var(--halt-teal, #2dd4df);
 }
 
 /* ── Check / mail address ──────────────────────────────────── */
-.checkItem {
-  margin-top: 0.25rem;
+.checkBlock {
   font-size: 0.9rem;
+  margin-top: 0.25rem;
 }
 
 .address {
@@ -221,61 +262,6 @@
   color: var(--ifm-color-emphasis-700);
   padding-left: 0.75rem;
   border-left: 3px solid var(--halt-teal-light, #b2e8eb);
-}
-
-/* ── Wishlist buttons with logos ───────────────────────────── */
-.wishlistButtons {
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  margin-top: 0.25rem;
-}
-
-.wishlistBtn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.55rem;
-  padding: 0.55rem 1.1rem 0.55rem 0.75rem;
-  background: var(--halt-teal-light, #e0f7f8);
-  color: var(--halt-teal-dark, #0a6b73);
-  border-radius: 999px;
-  font-size: 0.9rem;
-  font-weight: 700;
-  text-decoration: none;
-  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
-  border: 2px solid transparent;
-}
-
-.wishlistBtn:hover {
-  background: var(--halt-teal, #0f8a93);
-  color: #fff;
-  transform: translateY(-1px);
-  text-decoration: none;
-}
-
-.wishlistBtn:hover .wishlistLogo {
-  filter: brightness(0) invert(1);
-}
-
-[data-theme='dark'] .wishlistBtn {
-  background: rgba(45, 212, 223, 0.12);
-  color: var(--halt-teal, #2dd4df);
-  border-color: rgba(45, 212, 223, 0.25);
-}
-
-[data-theme='dark'] .wishlistBtn:hover {
-  background: var(--halt-teal, #0f8a93);
-  color: #fff;
-}
-
-/* Wishlist logo (Amazon wide, Chewy badge) */
-.wishlistLogo {
-  height: 20px;
-  width: auto;
-  max-width: 72px;
-  object-fit: contain;
-  display: block;
-  flex-shrink: 0;
 }
 
 /* ── Vet list ──────────────────────────────────────────────── */
@@ -333,8 +319,7 @@
 
 /* ── Reduced motion ─────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
-  .wishlistBtn,
-  .donateLink {
+  .iconBtn {
     transition: none;
   }
 }
