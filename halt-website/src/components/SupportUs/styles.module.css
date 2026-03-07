@@ -1,0 +1,265 @@
+/* ── Outer wrapper ─────────────────────────────────────────── */
+.wrapper {
+  margin: 3rem 0 1.5rem;
+  padding: 0;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 6px 32px rgba(15, 138, 147, 0.15);
+  border: 2px solid var(--halt-teal-light, #b2e8eb);
+  background: var(--halt-warm-white, #fffaf6);
+}
+
+[data-theme='dark'] .wrapper {
+  background: #1a1a2e;
+  border-color: rgba(45, 212, 223, 0.2);
+  box-shadow: 0 6px 32px rgba(0, 0, 0, 0.35);
+}
+
+/* ── Header band ───────────────────────────────────────────── */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, var(--halt-teal, #0f8a93) 0%, #0a6b73 100%);
+  color: #fff;
+}
+
+.headerIcon {
+  font-size: 2.5rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.title {
+  margin: 0 0 0.25rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #fff !important; /* override markdown heading colour */
+  line-height: 1.2;
+}
+
+/* Docusaurus adds anchor links to h2 — hide them inside the component */
+.title .hash-link {
+  display: none;
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+  line-height: 1.4;
+}
+
+/* ── Three-column grid ─────────────────────────────────────── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border-top: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+[data-theme='dark'] .grid {
+  border-top-color: rgba(45, 212, 223, 0.15);
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Individual card ───────────────────────────────────────── */
+.card {
+  padding: 1.5rem 1.75rem;
+  border-right: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+.card:last-child {
+  border-right: none;
+}
+
+[data-theme='dark'] .card {
+  border-right-color: rgba(45, 212, 223, 0.12);
+}
+
+@media (max-width: 900px) {
+  .card {
+    border-right: none;
+    border-bottom: 2px solid var(--halt-teal-light, #b2e8eb);
+  }
+  .card:last-child {
+    border-bottom: none;
+  }
+  [data-theme='dark'] .card {
+    border-bottom-color: rgba(45, 212, 223, 0.12);
+  }
+}
+
+.cardIcon {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.cardTitle {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--halt-teal-dark, #0a6b73);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+[data-theme='dark'] .cardTitle {
+  color: var(--halt-teal, #2dd4df);
+}
+
+/* Hide Docusaurus auto-anchor on h3 inside component */
+.cardTitle .hash-link {
+  display: none;
+}
+
+.cardBody {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.5;
+}
+
+/* ── Lists ─────────────────────────────────────────────────── */
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.list li {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--ifm-color-emphasis-800);
+}
+
+/* ── Links ─────────────────────────────────────────────────── */
+.link {
+  color: var(--halt-teal, #0f8a93);
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.link:hover {
+  color: var(--halt-coral, #e07a6e);
+  text-decoration: underline;
+}
+
+[data-theme='dark'] .link {
+  color: var(--halt-teal, #2dd4df);
+}
+
+/* ── Inline detail / warning text ─────────────────────────── */
+.detail {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.warning {
+  display: block;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--halt-coral, #e07a6e);
+  margin-top: 0.1rem;
+}
+
+/* ── Mailing address ───────────────────────────────────────── */
+.checkAddress {
+  margin-top: 0.25rem;
+}
+
+.address {
+  font-style: normal;
+  font-size: 0.85rem;
+  margin-top: 0.3rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--halt-teal-light, #b2e8eb);
+}
+
+/* ── Wishlist buttons ──────────────────────────────────────── */
+.wishlistButtons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.wishlistBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1.1rem;
+  background: var(--halt-teal-light, #e0f7f8);
+  color: var(--halt-teal-dark, #0a6b73);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease;
+  border: 2px solid transparent;
+}
+
+.wishlistBtn:hover {
+  background: var(--halt-teal, #0f8a93);
+  color: #fff;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+[data-theme='dark'] .wishlistBtn {
+  background: rgba(45, 212, 223, 0.12);
+  color: var(--halt-teal, #2dd4df);
+  border-color: rgba(45, 212, 223, 0.25);
+}
+
+[data-theme='dark'] .wishlistBtn:hover {
+  background: var(--halt-teal, #0f8a93);
+  color: #fff;
+}
+
+/* ── Vet note ──────────────────────────────────────────────── */
+.vetNote {
+  margin-top: 0.75rem;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-500);
+  line-height: 1.4;
+}
+
+/* ── Footer thank-you ──────────────────────────────────────── */
+.thankYou {
+  margin: 0;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--halt-teal-dark, #0a6b73);
+  background: var(--halt-teal-light, #e0f7f8);
+  border-top: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+[data-theme='dark'] .thankYou {
+  background: rgba(45, 212, 223, 0.08);
+  color: var(--halt-teal, #2dd4df);
+  border-top-color: rgba(45, 212, 223, 0.15);
+}
+
+/* ── Reduced motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .wishlistBtn {
+    transition: none;
+  }
+}
