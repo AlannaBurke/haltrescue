@@ -3,7 +3,7 @@ slug: 7-1-vet-update
 title: More Vet Updates
 authors: [danni]
 tags: [sanctuary, medical, guineapigs]
-image: /blog/2025-07-1-vet-update/7-1.jpg
+image: ./7-1.jpg
 ---
 
 Just a few more updates from yesterday’s vet visit—nothing too exciting, but still worth sharing!

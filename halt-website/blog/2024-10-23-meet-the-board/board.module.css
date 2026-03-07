@@ -1,0 +1,132 @@
+/* ============================================================
+   Meet the Board of Directors — Profile Card Layout
+   ============================================================ */
+
+.boardGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.boardCard {
+  display: flex;
+  gap: 1.75rem;
+  align-items: flex-start;
+  background: var(--ifm-card-background-color, #fff);
+  border-radius: 20px;
+  padding: 1.75rem;
+  box-shadow: 0 4px 20px rgba(15, 138, 147, 0.10);
+  border: 1.5px solid rgba(15, 138, 147, 0.12);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.boardCard:hover {
+  box-shadow: 0 8px 32px rgba(15, 138, 147, 0.18);
+  transform: translateY(-2px);
+}
+
+/* Alternating accent stripe on left */
+.boardCard:nth-child(odd) {
+  border-left: 5px solid var(--ifm-color-primary, #0f8a93);
+}
+
+.boardCard:nth-child(even) {
+  border-left: 5px solid #e07a6e;
+}
+
+.boardPhotoWrap {
+  flex-shrink: 0;
+  width: 130px;
+}
+
+.boardPhoto {
+  width: 130px !important;
+  height: 130px !important;
+  object-fit: cover;
+  border-radius: 50% !important;
+  border: 3px solid var(--ifm-color-primary, #0f8a93) !important;
+  box-shadow: 0 4px 16px rgba(15, 138, 147, 0.25) !important;
+  outline: none !important;
+  margin: 0 !important;
+  display: block;
+}
+
+.boardCard:nth-child(even) .boardPhoto {
+  border-color: #e07a6e !important;
+  box-shadow: 0 4px 16px rgba(224, 122, 110, 0.25) !important;
+}
+
+.boardInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+.boardRole {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #fff;
+  background: var(--ifm-color-primary, #0f8a93);
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  margin-bottom: 0.5rem;
+}
+
+.boardCard:nth-child(even) .boardRole {
+  background: #e07a6e;
+}
+
+.boardName {
+  font-size: 1.3rem !important;
+  font-weight: 800 !important;
+  color: var(--ifm-color-primary, #0f8a93) !important;
+  margin: 0.25rem 0 0.75rem !important;
+  border-bottom: none !important;
+}
+
+.boardCard:nth-child(even) .boardName {
+  color: #c45c50 !important;
+}
+
+.boardInfo p {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  margin-bottom: 0.6rem;
+  color: var(--ifm-font-color-base);
+}
+
+/* ─── Mobile ─────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .boardCard {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.5rem 1.25rem;
+  }
+
+  .boardPhotoWrap {
+    width: 110px;
+  }
+
+  .boardPhoto {
+    width: 110px !important;
+    height: 110px !important;
+  }
+
+  .boardName {
+    font-size: 1.15rem !important;
+  }
+}
+
+/* ─── Dark mode ──────────────────────────────────────────── */
+[data-theme='dark'] .boardCard {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(15, 138, 147, 0.2);
+}
+
+[data-theme='dark'] .boardCard:hover {
+  background: rgba(255, 255, 255, 0.07);
+}

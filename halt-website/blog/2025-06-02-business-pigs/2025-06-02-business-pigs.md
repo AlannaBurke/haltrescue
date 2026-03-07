@@ -3,7 +3,7 @@ slug: biz-pigs
 title: From the Desk of Susan from Marketing and Carol from HR
 authors: [jen]
 tags: [adoptables, guineapigs]
-image: /blog/2025-06-02-business-pigs/bizpig1.jpg
+image: ./bizpig1.jpg
 ---
 
 ## From the Desk of Susan from Marketing and Carol from HR

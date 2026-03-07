@@ -1,0 +1,69 @@
+/* ============================================================
+   Blog Archive Page
+   ============================================================ */
+
+.archiveHeader {
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, #0a6b73 100%);
+  padding: 3rem 1.5rem 3.5rem;
+  text-align: center;
+}
+
+.archiveHeaderInner {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.archiveTitle {
+  font-size: 2.5rem !important;
+  font-weight: 800 !important;
+  color: #fff !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.archiveSubtitle {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 0;
+}
+
+.archiveMain {
+  padding: 2.5rem 0 4rem;
+}
+
+/* ─── Year section ─────────────────────────────────────────── */
+.yearSection {
+  margin-bottom: 3.5rem;
+}
+
+.yearHeading {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.yearBadge {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+  background: var(--ifm-color-primary);
+  padding: 0.25rem 1rem;
+  border-radius: 999px;
+  line-height: 1.4;
+}
+
+.yearCount {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  font-weight: 500;
+}
+
+/* ─── Dark mode ─────────────────────────────────────────────── */
+[data-theme='dark'] .archiveHeader {
+  background: linear-gradient(135deg, #0a6b73 0%, #073f44 100%);
+}
+
+[data-theme='dark'] .yearBadge {
+  background: var(--ifm-color-primary);
+}
