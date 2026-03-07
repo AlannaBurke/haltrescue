@@ -3,6 +3,7 @@ slug: 7-2-chinnies
 title: Chinchilla Intake
 authors: [jen]
 tags: [chinchillas]
+image: /blog/2025-07-2-chinnies/chinnies7-2.jpg
 ---
 
 Our first surrender of the day is a trio of chinchillas—how cute are these ladies?! 😻

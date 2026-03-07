@@ -3,6 +3,7 @@ slug: 6-3-parody-novel
 title: Update on Parody and Novel
 authors: [danni]
 tags: [news, educational, sanctuary, guineapigs]
+image: /blog/2025-06-03-parody-novel/parody.jpg
 ---
 
 ## 💊 Pain Management Update + A Sweet Social Shift

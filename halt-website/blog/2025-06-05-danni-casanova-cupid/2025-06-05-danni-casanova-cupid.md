@@ -3,6 +3,7 @@ slug: 6-5-adoptables
 title: Adoptables - Danni, Casanova, Cupid
 authors: [jen]
 tags: [adoptables, guineapigs]
+image: /blog/2025-06-05-danni-casanova-cupid/adoptables.jpg
 ---
 
 ## 🐹 Danni, Casanova & Cupid Check In! 💌

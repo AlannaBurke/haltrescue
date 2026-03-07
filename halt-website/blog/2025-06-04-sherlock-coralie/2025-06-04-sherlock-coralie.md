@@ -3,6 +3,7 @@ slug: 6-4-sherlock-coralie
 title: Update on Sherlock and Coralie
 authors: [danni]
 tags: [news, satin, sanctuary, chinchillas, guineapigs]
+image: /blog/2025-06-04-sherlock-coralie/sherlock.jpg
 ---
 
 ## 🦷 Sherlock Update + Urgent Help Needed!
