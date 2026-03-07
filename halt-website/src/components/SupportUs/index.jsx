@@ -113,14 +113,13 @@ export default function SupportUs() {
           <p className={styles.cardBody} style={{ marginTop: '0.75rem' }}>
             🥬 You can also donate a{' '}
             <a
-              href="https://www.instacart.com/store/gift-cards"
+              href="https://giftcards.shopmarketbasket.com/products/mb-gift-card-fresh-produce"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.inlineLink}
             >
-              gift card for fresh veggies
-            </a>
-            {' '}via Instacart!
+              Market Basket fresh produce gift card
+            </a>!
           </p>
         </div>
 

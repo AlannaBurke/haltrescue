@@ -1,0 +1,155 @@
+/* ─── Page Header ─────────────────────────────────────────────────────────── */
+.pageHeader {
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+.pageTitle {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.pageSubtitle {
+  font-size: 1.05rem;
+  color: var(--ifm-color-emphasis-600);
+  margin: 0;
+}
+
+/* ─── Authors Grid ────────────────────────────────────────────────────────── */
+.authorsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.75rem;
+  margin-top: 1rem;
+}
+
+/* ─── Author Card ─────────────────────────────────────────────────────────── */
+.authorCard {
+  background: var(--ifm-card-background-color, #fff);
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.authorCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(15, 138, 147, 0.18);
+}
+
+.authorCardLink {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1.5rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+.authorCardLink:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* ─── Author Image ────────────────────────────────────────────────────────── */
+.authorImageWrapper {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 4px solid var(--ifm-color-primary-lightest, #b2e0e3);
+  box-shadow: 0 4px 16px rgba(15, 138, 147, 0.2);
+  margin-bottom: 1.25rem;
+  flex-shrink: 0;
+}
+
+.authorImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  /* Override global image styles for author photos */
+  border-radius: 0 !important;
+  outline: none !important;
+  max-width: none !important;
+  margin: 0 !important;
+}
+
+.authorImagePlaceholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  background: var(--ifm-color-primary-lightest, #e0f5f6);
+}
+
+/* ─── Author Info ─────────────────────────────────────────────────────────── */
+.authorInfo {
+  text-align: center;
+  flex: 1;
+}
+
+.authorName {
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  color: var(--ifm-color-primary) !important;
+  margin-bottom: 0.35rem !important;
+}
+
+.authorTitle {
+  font-size: 0.875rem;
+  color: var(--ifm-color-emphasis-600);
+  margin: 0 0 0.75rem;
+  line-height: 1.4;
+}
+
+.authorCount {
+  display: inline-block;
+  background: var(--ifm-color-primary-lightest, #e0f5f6);
+  color: var(--ifm-color-primary-dark, #0a6e74);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+}
+
+/* ─── CTA ─────────────────────────────────────────────────────────────────── */
+.authorCta {
+  display: inline-block;
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+  transition: color 0.15s ease;
+}
+
+.authorCard:hover .authorCta {
+  color: var(--halt-accent, #e07a6e);
+}
+
+/* ─── Dark mode ───────────────────────────────────────────────────────────── */
+[data-theme='dark'] .authorCard {
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .authorCount {
+  background: rgba(15, 138, 147, 0.2);
+  color: var(--ifm-color-primary-light);
+}
+
+/* ─── Mobile ──────────────────────────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .authorsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .pageTitle {
+    font-size: 1.75rem;
+  }
+}

@@ -63,7 +63,7 @@ export default function FooterLayout({ style, links, logo, copyright }) {
         <div className={styles.brandRow}>
           <a href="/" className={styles.brandLink} aria-label="Helping All Little Things — home">
             <img
-              src="/img/logo-transparent.png"
+              src="/img/logo-square.png"
               alt="HALT Rescue logo"
               className={styles.brandLogo}
             />
