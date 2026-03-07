@@ -4,10 +4,10 @@ import styles from './styles.module.css';
 
 // ─── Social links with logo icons ───────────────────────────────────────────
 const SOCIAL_LINKS = [
-  { label: 'Facebook',    href: 'https://www.facebook.com/HALTRescue/',                          logo: '/img/logos/facebook.png',    bg: '#1877F2' },
-  { label: 'Instagram',   href: 'https://www.instagram.com/helpingalllittlethings/',              logo: '/img/logos/instagram.png',   bg: '#E1306C' },
-  { label: 'TikTok',      href: 'https://www.tiktok.com/@helpingalllittlethings',                 logo: '/img/logos/tiktok.png',      bg: '#010101' },
-  { label: 'YouTube',     href: 'https://www.youtube.com/@HelpingAllLittleThings',               logo: '/img/logos/youtube.png',     bg: '#FF0000' },
+  { label: 'Facebook',    href: 'https://www.facebook.com/HALTRescue/',                          logo: '/img/logos/facebook.svg',    bg: '#1877F2' },
+  { label: 'Instagram',   href: 'https://www.instagram.com/helpingalllittlethings/',              logo: '/img/logos/instagram.svg',   bg: '#E1306C' },
+  { label: 'TikTok',      href: 'https://www.tiktok.com/@helpingalllittlethings',                 logo: '/img/logos/tiktok.svg',      bg: '#010101' },
+  { label: 'YouTube',     href: 'https://www.youtube.com/@HelpingAllLittleThings',               logo: '/img/logos/youtube.svg',     bg: '#FF0000' },
   { label: 'Threads',     href: 'https://www.threads.com/@helpingalllittlethings',               logo: '/img/logos/threads.svg',     bg: '#101010' },
   { label: 'BlueSky',     href: 'https://bsky.app/profile/haltrescue.bsky.social',               logo: '/img/logos/bluesky.svg',     bg: '#0085FF' },
   { label: 'Mastodon',    href: 'https://mstdn.social/@haltrescue',                              logo: '/img/logos/mastodon.svg',    bg: '#6364FF' },

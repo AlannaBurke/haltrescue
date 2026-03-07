@@ -3,7 +3,7 @@ slug: 6-8-adoptions
 title: Adoption Alert - Sylvie, Checkers, Challah, and Fortune!
 authors: [jen]
 tags: [adoptions, guineapigs]
-image: /blog/2025-06-08-adoptions/adoptions.jpg
+image: ./adoptions.jpg
 ---
 
 ## 🐹✨ Triple Adoption Celebration! ✨🐹

@@ -30,45 +30,46 @@ export default function SupportUs() {
 
         {/* Donate */}
         <div className={styles.card}>
-          <div className={styles.cardIcon} aria-hidden="true">💸</div>
           <h3 className={styles.cardTitle}>Ways to Donate</h3>
-          <ul className={styles.list}>
+          <ul className={styles.donateList}>
             <li>
               <a
-                href="mailto:donations@helpingalllittlethings.org"
-                className={styles.link}
+                href="https://www.paypal.com/ncp/payment/8SJFNZQVMQ452"
+                className={styles.donateLink}
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Donate via PayPal"
               >
-                PayPal
+                <img src="/img/logos/paypal.svg" alt="PayPal" className={styles.brandLogo} />
+                <span className={styles.donateHandle}>PayPal</span>
               </a>
-              <span className={styles.detail}> donations@helpingalllittlethings.org</span>
             </li>
             <li>
               <a
                 href="https://account.venmo.com/u/haltrescue"
-                className={styles.link}
+                className={styles.donateLink}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Donate via Venmo"
               >
-                Venmo
+                <img src="/img/logos/venmo.svg" alt="Venmo" className={styles.brandLogo} />
+                <span className={styles.donateHandle}>@haltrescue</span>
               </a>
-              <span className={styles.detail}> @haltrescue</span>
-              <span className={styles.warning}> (watch for imposters — not haltrescue_)</span>
+              <span className={styles.warning}>(watch for imposters — not haltrescue_)</span>
             </li>
             <li>
               <a
                 href="https://cash.app/$Haltrescue"
-                className={styles.link}
+                className={styles.donateLink}
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Donate via CashApp"
               >
-                CashApp
+                <img src="/img/logos/cashapp.svg" alt="Cash App" className={styles.brandLogoSquare} />
+                <span className={styles.donateHandle}>$haltrescue</span>
               </a>
-              <span className={styles.detail}> $haltrescue</span>
             </li>
-            <li className={styles.checkAddress}>
+            <li className={styles.checkItem}>
               <strong>Mail a Check:</strong>
               <address className={styles.address}>
                 Helping All Little Things<br />
@@ -82,7 +83,6 @@ export default function SupportUs() {
 
         {/* Wishlists */}
         <div className={styles.card}>
-          <div className={styles.cardIcon} aria-hidden="true">🛒</div>
           <h3 className={styles.cardTitle}>Wishlist Donations</h3>
           <p className={styles.cardBody}>
             Shop our wishlists and items ship directly to our animals!
@@ -95,7 +95,8 @@ export default function SupportUs() {
               rel="noopener noreferrer"
               aria-label="HALT Amazon Wishlist"
             >
-              🛍️ Amazon Wishlist
+              <img src="/img/logos/amazon.svg" alt="Amazon" className={styles.wishlistLogo} />
+              <span>Wishlist</span>
             </a>
             <a
               href="https://tinyurl.com/HALT-Chewy-Wishlist"
@@ -104,30 +105,30 @@ export default function SupportUs() {
               rel="noopener noreferrer"
               aria-label="HALT Chewy Wishlist"
             >
-              🛍️ Chewy Wishlist
+              <img src="/img/logos/chewy.svg" alt="Chewy" className={styles.wishlistLogo} />
+              <span>Wishlist</span>
             </a>
           </div>
         </div>
 
         {/* Donate to vets */}
         <div className={styles.card}>
-          <div className={styles.cardIcon} aria-hidden="true">📞</div>
           <h3 className={styles.cardTitle}>Donate Directly to Our Vets</h3>
           <p className={styles.cardBody}>
             You can call any of our veterinary partners and donate directly to our account.
           </p>
-          <ul className={styles.list}>
+          <ul className={styles.vetList}>
             <li>
               <strong>Southern Maine Hospital for Small Mammals</strong><br />
-              <a href="tel:+12075359330" className={styles.link}>(207) 535-9330</a>
+              <a href="tel:+12075359330" className={styles.vetPhone}>(207) 535-9330</a>
             </li>
             <li>
               <strong>Broadview Vets of Dover</strong><br />
-              <a href="tel:+16037401800" className={styles.link}>(603) 740-1800</a>
+              <a href="tel:+16037401800" className={styles.vetPhone}>(603) 740-1800</a>
             </li>
             <li>
               <strong>House Paws</strong><br />
-              <a href="tel:+18562345230" className={styles.link}>(856) 234-5230</a>
+              <a href="tel:+18562345230" className={styles.vetPhone}>(856) 234-5230</a>
             </li>
           </ul>
           <p className={styles.vetNote}>

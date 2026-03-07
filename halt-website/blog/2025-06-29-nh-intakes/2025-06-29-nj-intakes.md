@@ -3,7 +3,7 @@ slug: 6-29-nh-intakes
 title: New Arrivals in NH!
 authors: [danni]
 tags: [sanctuary, news, guineapigs]
-image: /blog/2025-06-29-nh-intakes/maddy.jpg
+image: ./maddy.jpg
 ---
 
 SURPRISE!

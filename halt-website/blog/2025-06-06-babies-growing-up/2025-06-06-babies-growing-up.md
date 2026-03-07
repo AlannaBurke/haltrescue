@@ -3,7 +3,7 @@ slug: 6-6-babies
 title: Baby Pigs are Growing Up!
 authors: [danni]
 tags: [news, sanctuary, guineapigs]
-image: /blog/2025-06-06-babies-growing-up/herd.jpg
+image: ./herd.jpg
 ---
 
 ## 🎓  Not-So-Baby Girls Graduate!

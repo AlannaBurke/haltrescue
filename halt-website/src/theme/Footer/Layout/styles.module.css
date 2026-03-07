@@ -164,7 +164,7 @@
   box-shadow: none !important;
   outline: none !important;
   margin: 0 !important;
-  filter: brightness(0) invert(1);
+  /* SVGs are pre-colored white — no filter needed */
 }
 
 .logoBtnLabel {

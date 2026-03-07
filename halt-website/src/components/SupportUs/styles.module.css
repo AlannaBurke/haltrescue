@@ -35,11 +35,10 @@
   margin: 0 0 0.25rem;
   font-size: 1.4rem;
   font-weight: 800;
-  color: #fff !important; /* override markdown heading colour */
+  color: #fff !important;
   line-height: 1.2;
 }
 
-/* Docusaurus adds anchor links to h2 — hide them inside the component */
 .title .hash-link {
   display: none;
 }
@@ -96,12 +95,6 @@
   }
 }
 
-.cardIcon {
-  font-size: 1.75rem;
-  margin-bottom: 0.5rem;
-  line-height: 1;
-}
-
 .cardTitle {
   margin: 0 0 0.75rem;
   font-size: 1rem;
@@ -115,7 +108,6 @@
   color: var(--halt-teal, #2dd4df);
 }
 
-/* Hide Docusaurus auto-anchor on h3 inside component */
 .cardTitle .hash-link {
   display: none;
 }
@@ -127,56 +119,98 @@
   line-height: 1.5;
 }
 
-/* ── Lists ─────────────────────────────────────────────────── */
-.list {
+/* ── Donate list with brand logos ──────────────────────────── */
+.donateList {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.5rem;
 }
 
-.list li {
+.donateList li {
   font-size: 0.9rem;
   line-height: 1.5;
-  color: var(--ifm-color-emphasis-800);
 }
 
-/* ── Links ─────────────────────────────────────────────────── */
-.link {
-  color: var(--halt-teal, #0f8a93);
-  font-weight: 700;
+/* A row with logo + handle */
+.donateLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.75rem 0.35rem 0.4rem;
+  border-radius: 8px;
+  background: var(--halt-teal-light, #e0f7f8);
   text-decoration: none;
-  transition: color 0.2s ease;
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--halt-teal-dark, #0a6b73);
+  transition: background 0.2s ease, transform 0.15s ease;
+  border: 1.5px solid transparent;
 }
 
-.link:hover {
-  color: var(--halt-coral, #e07a6e);
-  text-decoration: underline;
+.donateLink:hover {
+  background: var(--halt-teal, #0f8a93);
+  color: #fff;
+  transform: translateY(-1px);
+  text-decoration: none;
 }
 
-[data-theme='dark'] .link {
+.donateLink:hover .brandLogo,
+.donateLink:hover .brandLogoSquare {
+  filter: brightness(0) invert(1);
+}
+
+[data-theme='dark'] .donateLink {
+  background: rgba(45, 212, 223, 0.1);
   color: var(--halt-teal, #2dd4df);
+  border-color: rgba(45, 212, 223, 0.2);
 }
 
-/* ── Inline detail / warning text ─────────────────────────── */
-.detail {
-  font-size: 0.85rem;
-  color: var(--ifm-color-emphasis-600);
+[data-theme='dark'] .donateLink:hover {
+  background: var(--halt-teal, #0f8a93);
+  color: #fff;
 }
 
+/* Brand logo — wide format (PayPal, Venmo, Amazon) */
+.brandLogo {
+  height: 18px;
+  width: auto;
+  max-width: 64px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* Brand logo — square/icon format (CashApp) */
+.brandLogoSquare {
+  height: 22px;
+  width: 22px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+  border-radius: 5px;
+}
+
+.donateHandle {
+  font-size: 0.88rem;
+}
+
+/* ── Warning text ──────────────────────────────────────────── */
 .warning {
   display: block;
   font-size: 0.78rem;
   font-style: italic;
   color: var(--halt-coral, #e07a6e);
   margin-top: 0.1rem;
+  padding-left: 0.25rem;
 }
 
-/* ── Mailing address ───────────────────────────────────────── */
-.checkAddress {
+/* ── Check / mail address ──────────────────────────────────── */
+.checkItem {
   margin-top: 0.25rem;
+  font-size: 0.9rem;
 }
 
 .address {
@@ -189,7 +223,7 @@
   border-left: 3px solid var(--halt-teal-light, #b2e8eb);
 }
 
-/* ── Wishlist buttons ──────────────────────────────────────── */
+/* ── Wishlist buttons with logos ───────────────────────────── */
 .wishlistButtons {
   display: flex;
   flex-direction: column;
@@ -200,8 +234,8 @@
 .wishlistBtn {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  padding: 0.5rem 1.1rem;
+  gap: 0.55rem;
+  padding: 0.55rem 1.1rem 0.55rem 0.75rem;
   background: var(--halt-teal-light, #e0f7f8);
   color: var(--halt-teal-dark, #0a6b73);
   border-radius: 999px;
@@ -219,6 +253,10 @@
   text-decoration: none;
 }
 
+.wishlistBtn:hover .wishlistLogo {
+  filter: brightness(0) invert(1);
+}
+
 [data-theme='dark'] .wishlistBtn {
   background: rgba(45, 212, 223, 0.12);
   color: var(--halt-teal, #2dd4df);
@@ -228,6 +266,42 @@
 [data-theme='dark'] .wishlistBtn:hover {
   background: var(--halt-teal, #0f8a93);
   color: #fff;
+}
+
+/* Wishlist logo (Amazon wide, Chewy badge) */
+.wishlistLogo {
+  height: 20px;
+  width: auto;
+  max-width: 72px;
+  object-fit: contain;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* ── Vet list ──────────────────────────────────────────────── */
+.vetList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.vetPhone {
+  color: var(--halt-teal, #0f8a93);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.vetPhone:hover {
+  color: var(--halt-coral, #e07a6e);
+  text-decoration: underline;
+}
+
+[data-theme='dark'] .vetPhone {
+  color: var(--halt-teal, #2dd4df);
 }
 
 /* ── Vet note ──────────────────────────────────────────────── */
@@ -259,7 +333,8 @@
 
 /* ── Reduced motion ─────────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
-  .wishlistBtn {
+  .wishlistBtn,
+  .donateLink {
     transition: none;
   }
 }
