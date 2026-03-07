@@ -5,42 +5,73 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Rescuing Small Animals',
-    png: require('@site/static/img/piggie1.png').default,
+    icon: require('@site/static/img/icon-rescue.png').default,
+    iconAlt: 'Illustration of gentle hands cupping a tiny guinea pig surrounded by hearts',
     description: (
       <>
-        Helping All Little Things is a dedicated rescue that focuses on small animals, providing them with love, care, and, in some cases, hospice care for those in need. Based in New Hampshire and operating as a 501(c)(3) nonprofit organization, we’re passionate about giving vulnerable animals the attention and medical care they deserve.
+        Helping All Little Things is a dedicated rescue that focuses on small animals,
+        providing them with love, care, and, in some cases, hospice care for those in need.
+        Based in New Hampshire and operating as a 501(c)(3) nonprofit organization, we're
+        passionate about giving vulnerable animals the attention and medical care they deserve.
       </>
     ),
+    linkHref: 'https://bit.ly/halt-adoption',
+    linkLabel: 'Apply to Adopt or Foster',
   },
   {
     title: 'Education and Awareness',
-    png: require('@site/static/img/ada-2.png').default,
+    icon: require('@site/static/img/icon-education.png').default,
+    iconAlt: 'Illustration of a chinchilla wearing glasses reading a book',
     description: (
       <>
-        Did you know that small animals like hamsters, rabbits, and guinea pigs have unique care needs that often go overlooked? At Helping All Little Things, we are passionate about spreading awareness and providing accurate, accessible information to help pet owners take the best care of their little companions. From regular care tips to advice on recognizing health issues, we’re committed to making sure every small animal receives the care they deserve.
+        Did you know that small animals like hamsters, rabbits, and guinea pigs have unique
+        care needs that often go overlooked? At Helping All Little Things, we are passionate
+        about spreading awareness and providing accurate, accessible information to help pet
+        owners take the best care of their little companions.
       </>
     ),
+    linkHref: '/docs/intro',
+    linkLabel: 'Browse Resources',
   },
   {
     title: 'Every Dollar Makes a Difference',
-    png: require('@site/static/img/chinnie.png').default,
+    icon: require('@site/static/img/icon-donate.png').default,
+    iconAlt: 'Illustration of a hamster holding a big heart',
     description: (
       <>
-        Helping All Little Things is entirely grant and donor-funded, with the majority of our support coming from small donations from our amazing social media followers. We rely on the generosity of our community to continue our work, and every single dollar goes directly toward the care and comfort of the small animals we rescue. Your support, no matter the amount, makes a huge impact and helps us give these little creatures the love and care they deserve. Thank you for making a difference!
+        Helping All Little Things is entirely grant and donor-funded. We rely on the
+        generosity of our community, and every single dollar goes directly toward the care
+        and comfort of the small animals we rescue. Your support, no matter the amount,
+        makes a huge impact. Thank you for making a difference!
       </>
     ),
+    linkHref: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',
+    linkLabel: 'Donate Now',
   },
 ];
 
-function Feature({png, title, description}) {
+function Feature({icon, iconAlt, title, description, linkHref, linkLabel}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <img className={styles.featureSvg} src={png} role="img"alt="Example banner" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+    <div className={clsx('col col--4', styles.featureCol)}>
+      <div className="halt-feature-card">
+        <img
+          className="halt-feature-icon"
+          src={icon}
+          alt={iconAlt}
+          loading="lazy"
+          width="160"
+          height="160"
+        />
+        <Heading as="h3" className="halt-feature-title">{title}</Heading>
+        <p className="halt-feature-desc">{description}</p>
+        {linkHref && (
+          <a
+            href={linkHref}
+            className={styles.featureLink}
+            aria-label={linkLabel}>
+            {linkLabel} →
+          </a>
+        )}
       </div>
     </div>
   );

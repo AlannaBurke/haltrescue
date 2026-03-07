@@ -1,10 +1,10 @@
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
+ * Homepage-specific styles for HALT Rescue.
+ * Global theme variables are defined in custom.css.
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 5rem 0 8rem;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 3rem 1.5rem 6rem;
   }
 }
 
@@ -20,4 +20,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
 }

@@ -1,0 +1,33 @@
+.figure {
+  display: block;
+  margin: 1.75rem auto;
+  text-align: center;
+}
+
+.imageWrapper {
+  display: block;
+}
+
+/* Ensure the img inside renders nicely */
+.imageWrapper img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.caption {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.4;
+  padding: 0 0.5rem;
+}
+
+[data-theme='dark'] .caption {
+  color: var(--ifm-color-emphasis-500);
+}

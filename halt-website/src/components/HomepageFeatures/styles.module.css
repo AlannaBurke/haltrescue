@@ -1,11 +1,54 @@
+/**
+ * HomepageFeatures section styles.
+ * Card and icon styles are in custom.css as global utilities
+ * so they can be reused across the site.
+ */
+
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+  padding: 4rem 0 5rem;
+  background: var(--halt-cream);
+  position: relative;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.featureCol {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+}
+
+/* Responsive: stack on mobile */
+@media screen and (max-width: 996px) {
+  .featureCol {
+    width: 100%;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* "Learn more" link inside feature card */
+.featureLink {
+  display: inline-block;
+  margin-top: 1.25rem;
+  color: var(--halt-teal-dark);
+  font-weight: 800;
+  font-size: 0.92rem;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+  padding-bottom: 2px;
+}
+
+.featureLink:hover {
+  color: var(--halt-coral);
+  border-bottom-color: var(--halt-coral);
+  text-decoration: none;
+}
+
+[data-theme='dark'] .featureLink {
+  color: var(--halt-teal);
+}
+
+[data-theme='dark'] .featureLink:hover {
+  color: var(--halt-coral);
 }

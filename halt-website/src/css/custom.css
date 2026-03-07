@@ -1,35 +1,866 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * HALT Rescue - Custom Theme
+ * A modern, cute, and accessible theme inspired by the HALT logo art.
+ * Color palette: teal, coral pink, soft lavender, warm cream.
  */
 
-/* You can override the default Infima variables here. */
+/* ============================================================
+   GOOGLE FONTS
+   ============================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Nunito+Sans:wght@400;600;700&display=swap');
+
+/* ============================================================
+   CSS CUSTOM PROPERTIES (LIGHT MODE)
+   ============================================================ */
 :root {
-  --ifm-color-primary: #12939c;
-  --ifm-color-primary-dark: #10848c;
-  --ifm-color-primary-darker: #0f7d85;
-  --ifm-color-primary-darkest: #0d676d;
-  --ifm-color-primary-light: #14a2ac;
-  --ifm-color-primary-lighter: #15a9b3;
-  --ifm-color-primary-lightest: #17bfcb;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  /* Infima primary — teal from the logo */
+  --ifm-color-primary: #0f8a93;
+  --ifm-color-primary-dark: #0d7c84;
+  --ifm-color-primary-darker: #0c757d;
+  --ifm-color-primary-darkest: #0a6067;
+  --ifm-color-primary-light: #1198a2;
+  --ifm-color-primary-lighter: #129fb1;
+  --ifm-color-primary-lightest: #15b5c4;
+
+  /* Brand palette */
+  --halt-teal: #0f8a93;
+  --halt-teal-dark: #0a6067;
+  --halt-teal-light: #e0f5f7;
+  --halt-coral: #e07a6e;
+  --halt-coral-light: #fdecea;
+  --halt-coral-dark: #c45f54;
+  --halt-lavender: #b39ddb;
+  --halt-lavender-light: #f3eeff;
+  --halt-cream: #fffaf6;
+  --halt-warm-white: #ffffff;
+  --halt-text-dark: #2d3748;
+  --halt-text-medium: #4a5568;
+  --halt-text-light: #718096;
+
+  /* Typography */
+  --ifm-font-family-base: 'Nunito', 'Nunito Sans', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Nunito', system-ui, sans-serif;
+  --ifm-font-size-base: 17px;
+  --ifm-line-height-base: 1.75;
+
+  /* Spacing & shape */
+  --ifm-global-radius: 16px;
+  --ifm-card-border-radius: 20px;
+  --ifm-button-border-radius: 50px;
+  --ifm-navbar-height: 68px;
+
+  /* Shadows */
+  --halt-shadow-sm: 0 2px 8px rgba(15, 138, 147, 0.12);
+  --halt-shadow-md: 0 4px 20px rgba(15, 138, 147, 0.16);
+  --halt-shadow-lg: 0 8px 40px rgba(15, 138, 147, 0.20);
+
+  /* Code */
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: rgba(15, 138, 147, 0.08);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* ============================================================
+   CSS CUSTOM PROPERTIES (DARK MODE)
+   ============================================================ */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #2dd4df;
+  --ifm-color-primary-dark: #1ec8d3;
+  --ifm-color-primary-darker: #17bfca;
+  --ifm-color-primary-darkest: #0fa3ae;
+  --ifm-color-primary-light: #3cdde8;
+  --ifm-color-primary-lighter: #4ae2ec;
+  --ifm-color-primary-lightest: #72edf3;
+
+  --halt-teal: #2dd4df;
+  --halt-teal-light: #0d3b3e;
+  --halt-coral: #f4a49c;
+  --halt-coral-light: #3d1f1d;
+  --halt-lavender: #c5b3f0;
+  --halt-lavender-light: #2a2040;
+  --halt-cream: #1a1a2e;
+  --halt-text-dark: #f0f4f8;
+  --halt-text-medium: #cbd5e0;
+  --halt-text-light: #a0aec0;
+
+  --docusaurus-highlighted-code-line-bg: rgba(45, 212, 223, 0.12);
+  --ifm-background-color: #12121f;
+  --ifm-background-surface-color: #1a1a2e;
 }
 
-img[alt=board-pic] {
-  margin-right: 15px;
-  float: left; 
+/* ============================================================
+   GLOBAL BASE STYLES
+   ============================================================ */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--ifm-font-family-base);
+  color: var(--halt-text-dark);
+  background-color: var(--halt-cream);
+}
+
+[data-theme='dark'] body {
+  background-color: var(--halt-cream);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+/* ============================================================
+   NAVBAR
+   ============================================================ */
+.navbar {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 2px solid var(--halt-teal-light);
+  box-shadow: 0 2px 16px rgba(15, 138, 147, 0.10);
+  padding: 0 1.5rem;
+}
+
+[data-theme='dark'] .navbar {
+  background: rgba(18, 18, 31, 0.95);
+  border-bottom-color: rgba(45, 212, 223, 0.15);
+}
+
+.navbar__brand {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--halt-teal-dark);
+  gap: 0.5rem;
+}
+
+.navbar__logo {
+  height: 44px;
+  width: auto;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.navbar__logo:hover {
+  transform: rotate(-5deg) scale(1.05);
+}
+
+.navbar__title {
+  font-weight: 800;
+  color: var(--halt-teal-dark);
+}
+
+[data-theme='dark'] .navbar__title {
+  color: var(--halt-teal);
+}
+
+.navbar__link {
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-radius: 50px;
+  padding: 0.35rem 0.9rem;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark) !important;
+  text-decoration: none;
+}
+
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .navbar__link--active {
+  background: rgba(45, 212, 223, 0.15);
+  color: var(--halt-teal) !important;
+}
+
+/* ============================================================
+   HERO SECTION
+   ============================================================ */
+.hero--primary {
+  background: linear-gradient(135deg, #0f8a93 0%, #1198a2 40%, #0a6067 100%);
+  position: relative;
+  overflow: hidden;
+  padding: 5rem 0 8rem;
+  min-height: 520px;
+  display: flex;
+  align-items: center;
+}
+
+.hero--primary::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('/img/paw-hearts-pattern.png');
+  background-size: 300px 300px;
+  opacity: 0.06;
+  pointer-events: none;
+}
+
+/* Wavy bottom edge on hero */
+.hero--primary::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  right: 0;
+  height: 80px;
+  background: var(--halt-cream);
+  clip-path: ellipse(55% 100% at 50% 100%);
+}
+
+[data-theme='dark'] .hero--primary::after {
+  background: var(--halt-cream);
+}
+
+.hero__title {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 900;
+  color: #ffffff;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+  margin-bottom: 0.5rem;
+  line-height: 1.15;
+}
+
+.hero__subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+/* ============================================================
+   HOMEPAGE HERO BANNER IMAGE
+   ============================================================ */
+.halt-hero-banner {
+  width: 100%;
+  max-width: 820px;
+  border-radius: 24px;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.25);
+  margin: 1.5rem auto 0;
+  display: block;
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.halt-hero-banner:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .halt-hero-banner:hover {
+    transform: none;
   }
+}
+
+/* ============================================================
+   HERO CTA BUTTONS
+   ============================================================ */
+.halt-hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.button--primary {
+  background: #ffffff;
+  color: var(--halt-teal-dark) !important;
+  border: none;
+  font-weight: 800;
+  font-size: 1rem;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.button--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  color: var(--halt-teal-dark) !important;
+  text-decoration: none;
+}
+
+.button--secondary {
+  background: transparent;
+  color: #ffffff !important;
+  border: 2.5px solid rgba(255, 255, 255, 0.7);
+  font-weight: 800;
+  font-size: 1rem;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  transition: background 0.2s ease, border-color 0.2s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.button--secondary:hover {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: #ffffff;
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .button--primary:hover,
+  .button--secondary:hover {
+    transform: none;
+  }
+}
+
+/* ============================================================
+   FEATURES SECTION
+   ============================================================ */
+.features {
+  padding: 4rem 0 5rem;
+  background: var(--halt-cream);
+  position: relative;
+}
+
+[data-theme='dark'] .features {
+  background: var(--halt-cream);
+}
+
+.halt-feature-card {
+  background: var(--halt-warm-white);
+  border-radius: var(--ifm-card-border-radius);
+  padding: 2.5rem 2rem;
+  box-shadow: var(--halt-shadow-sm);
+  border: 2px solid transparent;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.halt-feature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--halt-shadow-lg);
+  border-color: var(--halt-teal-light);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .halt-feature-card:hover {
+    transform: none;
+  }
+}
+
+[data-theme='dark'] .halt-feature-card {
+  background: #1e1e35;
+  border-color: rgba(45, 212, 223, 0.1);
+}
+
+[data-theme='dark'] .halt-feature-card:hover {
+  border-color: rgba(45, 212, 223, 0.3);
+}
+
+.halt-feature-icon {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  margin-bottom: 1.5rem;
+  border-radius: 50%;
+  transition: transform 0.4s ease;
+}
+
+.halt-feature-card:hover .halt-feature-icon {
+  transform: scale(1.08) rotate(3deg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .halt-feature-card:hover .halt-feature-icon {
+    transform: none;
+  }
+}
+
+.halt-feature-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--halt-teal-dark);
+  margin-bottom: 0.75rem;
+}
+
+[data-theme='dark'] .halt-feature-title {
+  color: var(--halt-teal);
+}
+
+.halt-feature-desc {
+  color: var(--halt-text-medium);
+  font-size: 0.97rem;
+  line-height: 1.7;
+  flex-grow: 1;
+}
+
+[data-theme='dark'] .halt-feature-desc {
+  color: var(--halt-text-medium);
+}
+
+/* ============================================================
+   SECTION LABELS / BADGES
+   ============================================================ */
+.halt-section-badge {
+  display: inline-block;
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark);
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.3rem 1rem;
+  border-radius: 50px;
+  margin-bottom: 0.75rem;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+  background: linear-gradient(160deg, #0a5a60 0%, #0f8a93 60%, #0d7c84 100%);
+  position: relative;
+  overflow: hidden;
+  padding-top: 4rem;
+}
+
+.footer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('/img/paw-hearts-pattern.png');
+  background-size: 250px 250px;
+  opacity: 0.05;
+  pointer-events: none;
+}
+
+.footer__title {
+  font-size: 1rem;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.95);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+}
+
+.footer__link-item {
+  color: rgba(255, 255, 255, 0.78);
+  font-weight: 600;
+  font-size: 0.92rem;
+  transition: color 0.2s ease, padding-left 0.2s ease;
+  display: inline-block;
+}
+
+.footer__link-item:hover {
+  color: #ffffff;
+  padding-left: 4px;
+  text-decoration: none;
+}
+
+.footer__copyright {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* ============================================================
+   BLOG — wider layout
+   ============================================================ */
+
+/* Increase the global container cap for blog pages */
+.blog-list-page,
+.blog-post-page {
+  --ifm-container-width: 1400px;
+  --ifm-container-width-xl: 1400px;
+}
+
+.blog-list-page .container,
+.blog-post-page .container {
+  max-width: 1400px;
+}
+
+/* Blog list: content col = 9/12, sidebar = 3/12 */
+.blog-list-page .col--7 {
+  --ifm-col-width: calc(9 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
+}
+
+.blog-list-page .col--3 {
+  --ifm-col-width: calc(3 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
+}
+
+/* Blog post page: content col = 9/12, sidebar = 3/12 */
+.blog-post-page .col--7 {
+  --ifm-col-width: calc(9 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
+}
+
+.blog-post-page .col--3 {
+  --ifm-col-width: calc(3 / 12 * 100%);
+  flex: 0 0 var(--ifm-col-width);
+  max-width: var(--ifm-col-width);
+}
+
+article header h2 a,
+article header h1 {
+  font-weight: 800;
+  color: var(--halt-teal-dark);
+  transition: color 0.2s ease;
+}
+
+[data-theme='dark'] article header h2 a,
+[data-theme='dark'] article header h1 {
+  color: var(--halt-teal);
+}
+
+article header h2 a:hover {
+  color: var(--halt-coral);
+  text-decoration: none;
+}
+
+.blog-post-page article {
+  background: var(--halt-warm-white);
+  border-radius: var(--ifm-card-border-radius);
+  padding: 2.5rem;
+  box-shadow: var(--halt-shadow-sm);
+  border: 2px solid var(--halt-teal-light);
+}
+
+[data-theme='dark'] .blog-post-page article {
+  background: #1e1e35;
+  border-color: rgba(45, 212, 223, 0.15);
+}
+
+/* Blog card in list view */
+.blog-list-page article {
+  background: var(--halt-warm-white);
+  border-radius: var(--ifm-card-border-radius);
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--halt-shadow-sm);
+  border: 2px solid transparent;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.blog-list-page article:hover {
+  border-color: var(--halt-teal-light);
+  box-shadow: var(--halt-shadow-md);
+}
+
+[data-theme='dark'] .blog-list-page article {
+  background: #1e1e35;
+}
+
+/* ============================================================
+   DOCS / SIDEBAR
+   ============================================================ */
+.menu__link {
+  border-radius: 10px;
+  font-weight: 600;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.menu__link:hover {
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark);
+}
+
+.menu__link--active {
+  background: var(--halt-teal-light) !important;
+  color: var(--halt-teal-dark) !important;
+  font-weight: 800;
+}
+
+[data-theme='dark'] .menu__link:hover {
+  background: rgba(45, 212, 223, 0.12);
+  color: var(--halt-teal);
+}
+
+[data-theme='dark'] .menu__link--active {
+  background: rgba(45, 212, 223, 0.18) !important;
+  color: var(--halt-teal) !important;
+}
+
+/* ============================================================
+   MARKDOWN CONTENT
+   ============================================================ */
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  color: var(--halt-teal-dark);
+}
+
+[data-theme='dark'] .markdown h1,
+[data-theme='dark'] .markdown h2,
+[data-theme='dark'] .markdown h3 {
+  color: var(--halt-teal);
+}
+
+.markdown a {
+  color: var(--halt-teal);
+  font-weight: 600;
+  text-decoration-color: rgba(15, 138, 147, 0.35);
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.markdown a:hover {
+  color: var(--halt-coral);
+  text-decoration-color: var(--halt-coral);
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--halt-coral);
+  background: var(--halt-coral-light);
+  border-radius: 0 12px 12px 0;
+  padding: 1rem 1.5rem;
+  color: var(--halt-text-medium);
+}
+
+[data-theme='dark'] .markdown blockquote {
+  background: var(--halt-coral-light);
+  border-left-color: var(--halt-coral);
+}
+
+/* ============================================================
+   BOARD MEMBER IMAGES (existing style, improved)
+   ============================================================ */
+img[alt=board-pic] {
+  margin-right: 20px;
+  margin-bottom: 12px;
+  float: left;
+  border-radius: 50%;
+  border: 3px solid var(--halt-teal-light);
+  box-shadow: var(--halt-shadow-sm);
+}
+
+/* ============================================================
+   PAGINATION
+   ============================================================ */
+.pagination-nav__link {
+  border-radius: var(--ifm-global-radius);
+  border: 2px solid var(--halt-teal-light);
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.pagination-nav__link:hover {
+  background: var(--halt-teal-light);
+  border-color: var(--halt-teal);
+}
+
+.pagination-nav__label {
+  font-weight: 700;
+  color: var(--halt-teal-dark);
+}
+
+/* ============================================================
+   TABLE OF CONTENTS
+   ============================================================ */
+.table-of-contents__link {
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.2rem 0.5rem;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark);
+}
+
+/* ============================================================
+   ADMONITIONS (callout boxes)
+   ============================================================ */
+.admonition {
+  border-radius: var(--ifm-global-radius);
+  border-left-width: 5px;
+}
+
+.admonition-note {
+  border-left-color: var(--halt-teal);
+  background: var(--halt-teal-light);
+}
+
+.admonition-tip {
+  border-left-color: #48bb78;
+  background: #f0fff4;
+}
+
+.admonition-warning {
+  border-left-color: var(--halt-coral);
+  background: var(--halt-coral-light);
+}
+
+/* ============================================================
+   SKIP TO CONTENT (accessibility)
+   ============================================================ */
+.skipToContent_fXgn {
+  background: var(--halt-teal-dark);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 0 0 12px 12px;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+}
+
+/* ============================================================
+   SEARCH BAR
+   ============================================================ */
+.navbar__search-input {
+  border-radius: 50px;
+  border: 2px solid var(--halt-teal-light);
+  padding: 0.4rem 1rem;
+  font-family: var(--ifm-font-family-base);
+  font-weight: 600;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.navbar__search-input:focus {
+  border-color: var(--halt-teal);
+  box-shadow: 0 0 0 3px rgba(15, 138, 147, 0.2);
+  outline: none;
+}
+
+/* ============================================================
+   FOCUS STYLES (accessibility)
+   ============================================================ */
+:focus-visible {
+  outline: 3px solid var(--halt-coral);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   MOBILE RESPONSIVE OVERRIDES
+   ============================================================ */
+@media screen and (max-width: 996px) {
+  .hero--primary {
+    padding: 3rem 1.5rem 6rem;
+    min-height: auto;
+  }
+
+  .hero__title {
+    font-size: 2rem;
+  }
+
+  .halt-hero-banner {
+    max-width: 100%;
+    border-radius: 16px;
+  }
+
+  .halt-feature-card {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .halt-feature-icon {
+    width: 120px;
+    height: 120px;
+  }
+
+  .blog-post-page article {
+    padding: 1.5rem;
+  }
+
+  .halt-hero-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .hero__title {
+    font-size: 1.7rem;
+  }
+
+  .halt-feature-icon {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+/* ============================================================
+   PRINT STYLES
+   ============================================================ */
+@media print {
+  .navbar,
+  .footer,
+  .pagination-nav {
+    display: none;
+  }
+}
+
+/* ============================================================
+   IMAGES IN POSTS & DOCS — global responsive defaults
+   ============================================================ */
+
+/* All inline images in markdown content */
+.markdown img {
+  display: block;
+  max-width: min(100%, 720px);   /* reasonable max size — not full-bleed */
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 8px;            /* slightly rounded corners */
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+  outline: 2px solid #d1d5db;   /* light gray 1px border, 2px out */
+  outline-offset: 2px;
+}
+
+/* Inline images that appear inside a paragraph (e.g. small icons) */
+.markdown p img {
+  display: inline;
+  margin: 0 0.25rem;
+  vertical-align: middle;
+  border-radius: 4px;
+  box-shadow: none;
+  outline: none;
+  max-width: 100%;
+}
+
+/* If an image is the ONLY element in a paragraph, treat it as block */
+.markdown p:has(> img:only-child) {
+  text-align: center;
+}
+
+.markdown p:has(> img:only-child) img {
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* Board member float images keep their existing style */
+img[alt=board-pic] {
+  display: inline; /* override the block rule above */
+  margin-right: 20px;
+  margin-bottom: 12px;
+  float: left;
+  max-width: 200px;
+  border-radius: 8px;
+  outline: 2px solid #d1d5db;
+  outline-offset: 2px;
+}
+
+/* Dark mode: softer gray outline */
+[data-theme='dark'] .markdown img {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+  outline-color: #374151;
+}
+
+[data-theme='dark'] img[alt=board-pic] {
+  outline-color: #374151;
+}

@@ -1,0 +1,226 @@
+/* ============================================================
+   HALT Custom Footer
+   ============================================================ */
+
+.footer {
+  background: #0a5c63;
+  color: rgba(255, 255, 255, 0.9);
+  padding-top: 0;
+  margin-top: 0;
+  font-family: var(--ifm-font-family-base);
+}
+
+/* Wave transition from page content to footer */
+.wave {
+  display: block;
+  line-height: 0;
+  margin-bottom: -2px;
+  background: var(--ifm-background-color);
+}
+
+.wave svg {
+  display: block;
+  width: 100%;
+  height: 60px;
+}
+
+.inner {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 1.5rem;
+}
+
+/* ─── Brand row ─────────────────────────────────────────── */
+.brandRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.brandLink {
+  flex-shrink: 0;
+  display: block;
+}
+
+.brandLogo {
+  height: 72px;
+  width: auto;
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.3));
+}
+
+.brandText {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.brandName {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.brandTagline {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.7);
+  font-style: italic;
+}
+
+/* ─── Three-column grid ─────────────────────────────────── */
+.columns {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr 1.6fr;
+  gap: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+.column {}
+
+.colTitle {
+  font-size: 0.8rem !important;
+  font-weight: 700 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.55) !important;
+  margin-bottom: 1rem !important;
+  margin-top: 0 !important;
+}
+
+/* ─── Text links (rescue column) ────────────────────────── */
+.linkList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.textLink {
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+
+.textLink:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* ─── Logo button grid ──────────────────────────────────── */
+.logoGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.logoBtn {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.7rem 0.35rem 0.35rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.logoBtn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.logoBtnIcon {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.logoBtnImg {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  display: block;
+  /* Override global image styles */
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  margin: 0 !important;
+  /* SVGs are pre-colored white — no filter needed */
+}
+
+.logoBtnLabel {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  white-space: nowrap;
+}
+
+/* Veggie gift card link */
+.veggieLink {
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  padding: 0.3rem 0.6rem;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  transition: background 0.2s;
+}
+
+.veggieLink:hover {
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ─── Copyright ─────────────────────────────────────────── */
+.copyright {
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  text-align: center;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* ─── Mobile ─────────────────────────────────────────────── */
+@media (max-width: 996px) {
+  .columns {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .columns {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  .brandRow {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .inner {
+    padding: 2rem 1.25rem 1.25rem;
+  }
+}

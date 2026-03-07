@@ -1,0 +1,325 @@
+/* ── Outer wrapper ─────────────────────────────────────────── */
+.wrapper {
+  margin: 3rem 0 1.5rem;
+  padding: 0;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 6px 32px rgba(15, 138, 147, 0.15);
+  border: 2px solid var(--halt-teal-light, #b2e8eb);
+  background: var(--halt-warm-white, #fffaf6);
+}
+
+[data-theme='dark'] .wrapper {
+  background: #1a1a2e;
+  border-color: rgba(45, 212, 223, 0.2);
+  box-shadow: 0 6px 32px rgba(0, 0, 0, 0.35);
+}
+
+/* ── Header band ───────────────────────────────────────────── */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, var(--halt-teal, #0f8a93) 0%, #0a6b73 100%);
+  color: #fff;
+}
+
+.headerIcon {
+  font-size: 2.5rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.title {
+  margin: 0 0 0.25rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #fff !important;
+  line-height: 1.2;
+}
+
+.title .hash-link {
+  display: none;
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 0.95rem;
+  opacity: 0.9;
+  line-height: 1.4;
+}
+
+/* ── Three-column grid ─────────────────────────────────────── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border-top: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+[data-theme='dark'] .grid {
+  border-top-color: rgba(45, 212, 223, 0.15);
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Individual card ───────────────────────────────────────── */
+.card {
+  padding: 1.5rem 1.75rem;
+  border-right: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+.card:last-child {
+  border-right: none;
+}
+
+[data-theme='dark'] .card {
+  border-right-color: rgba(45, 212, 223, 0.12);
+}
+
+@media (max-width: 900px) {
+  .card {
+    border-right: none;
+    border-bottom: 2px solid var(--halt-teal-light, #b2e8eb);
+  }
+  .card:last-child {
+    border-bottom: none;
+  }
+  [data-theme='dark'] .card {
+    border-bottom-color: rgba(45, 212, 223, 0.12);
+  }
+}
+
+.cardTitle {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--halt-teal-dark, #0a6b73);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+[data-theme='dark'] .cardTitle {
+  color: var(--halt-teal, #2dd4df);
+}
+
+.cardTitle .hash-link {
+  display: none;
+}
+
+.cardBody {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.5;
+}
+
+/* ── Icon badge buttons (matches footer LogoButton pattern) ── */
+.iconBtnGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.iconBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.4rem 0.75rem 0.4rem 0.4rem;
+  border-radius: 999px;
+  background: var(--halt-teal-light, #e0f7f8);
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.15s ease;
+  border: 1.5px solid transparent;
+  width: fit-content;
+}
+
+.iconBtn:hover {
+  background: var(--halt-teal, #0f8a93);
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+[data-theme='dark'] .iconBtn {
+  background: rgba(45, 212, 223, 0.1);
+  border-color: rgba(45, 212, 223, 0.2);
+}
+
+[data-theme='dark'] .iconBtn:hover {
+  background: var(--halt-teal, #0f8a93);
+}
+
+/* The colored circle containing the white icon */
+.iconBtnCircle {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+/* The white SVG icon inside the circle */
+.iconBtnImg {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  display: block;
+  /* Override global image styles */
+  border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+
+/* Text stack next to the icon */
+.iconBtnText {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.iconBtnLabel {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--halt-teal-dark, #0a6b73);
+  line-height: 1.2;
+}
+
+.iconBtn:hover .iconBtnLabel {
+  color: #fff;
+}
+
+[data-theme='dark'] .iconBtnLabel {
+  color: var(--halt-teal, #2dd4df);
+}
+
+[data-theme='dark'] .iconBtn:hover .iconBtnLabel {
+  color: #fff;
+}
+
+.iconBtnSublabel {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.2;
+}
+
+.iconBtn:hover .iconBtnSublabel {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+[data-theme='dark'] .iconBtnSublabel {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* ── Warning text ──────────────────────────────────────────── */
+.warning {
+  display: block;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--halt-coral, #e07a6e);
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+
+/* ── Inline text link ──────────────────────────────────────── */
+.inlineLink {
+  color: var(--halt-teal, #0f8a93);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.inlineLink:hover {
+  color: var(--halt-coral, #e07a6e);
+}
+
+[data-theme='dark'] .inlineLink {
+  color: var(--halt-teal, #2dd4df);
+}
+
+/* ── Check / mail address ──────────────────────────────────── */
+.checkBlock {
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.address {
+  font-style: normal;
+  font-size: 0.85rem;
+  margin-top: 0.3rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+  padding-left: 0.75rem;
+  border-left: 3px solid var(--halt-teal-light, #b2e8eb);
+}
+
+/* ── Vet list ──────────────────────────────────────────────── */
+.vetList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.vetPhone {
+  color: var(--halt-teal, #0f8a93);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.vetPhone:hover {
+  color: var(--halt-coral, #e07a6e);
+  text-decoration: underline;
+}
+
+[data-theme='dark'] .vetPhone {
+  color: var(--halt-teal, #2dd4df);
+}
+
+/* ── Vet note ──────────────────────────────────────────────── */
+.vetNote {
+  margin-top: 0.75rem;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-500);
+  line-height: 1.4;
+}
+
+/* ── Footer thank-you ──────────────────────────────────────── */
+.thankYou {
+  margin: 0;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--halt-teal-dark, #0a6b73);
+  background: var(--halt-teal-light, #e0f7f8);
+  border-top: 2px solid var(--halt-teal-light, #b2e8eb);
+}
+
+[data-theme='dark'] .thankYou {
+  background: rgba(45, 212, 223, 0.08);
+  color: var(--halt-teal, #2dd4df);
+  border-top-color: rgba(45, 212, 223, 0.15);
+}
+
+/* ── Reduced motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .iconBtn {
+    transition: none;
+  }
+}
