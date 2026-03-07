@@ -10,6 +10,29 @@ import styles from './styles.module.css';
  *
  * No imports needed — it's registered globally in src/theme/MDXComponents.js
  */
+
+/** Reusable icon-badge button — matches the footer's LogoButton pattern */
+function IconBtn({ label, href, logo, bg, sublabel }) {
+  return (
+    <a
+      href={href}
+      className={styles.iconBtn}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label={label}
+      title={label}
+    >
+      <span className={styles.iconBtnCircle} style={{ background: bg }}>
+        <img src={logo} alt="" className={styles.iconBtnImg} aria-hidden="true" />
+      </span>
+      <span className={styles.iconBtnText}>
+        <span className={styles.iconBtnLabel}>{label}</span>
+        {sublabel && <span className={styles.iconBtnSublabel}>{sublabel}</span>}
+      </span>
+    </a>
+  );
+}
+
 export default function SupportUs() {
   return (
     <aside className={styles.wrapper} aria-label="Support our rescue work">
@@ -28,90 +51,80 @@ export default function SupportUs() {
       {/* Three-column grid */}
       <div className={styles.grid}>
 
-        {/* Donate */}
+        {/* ── Donate ── */}
         <div className={styles.card}>
           <h3 className={styles.cardTitle}>Ways to Donate</h3>
-          <ul className={styles.donateList}>
-            <li>
-              <a
-                href="https://www.paypal.com/ncp/payment/8SJFNZQVMQ452"
-                className={styles.donateLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Donate via PayPal"
-              >
-                <img src="/img/logos/paypal.svg" alt="PayPal" className={styles.brandLogo} />
-                <span className={styles.donateHandle}>PayPal</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://account.venmo.com/u/haltrescue"
-                className={styles.donateLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Donate via Venmo"
-              >
-                <img src="/img/logos/venmo.svg" alt="Venmo" className={styles.brandLogo} />
-                <span className={styles.donateHandle}>@haltrescue</span>
-              </a>
-              <span className={styles.warning}>(watch for imposters — not haltrescue_)</span>
-            </li>
-            <li>
-              <a
-                href="https://cash.app/$Haltrescue"
-                className={styles.donateLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Donate via CashApp"
-              >
-                <img src="/img/logos/cashapp.svg" alt="Cash App" className={styles.brandLogoSquare} />
-                <span className={styles.donateHandle}>$haltrescue</span>
-              </a>
-            </li>
-            <li className={styles.checkItem}>
-              <strong>Mail a Check:</strong>
-              <address className={styles.address}>
-                Helping All Little Things<br />
-                PO Box 11<br />
-                Deerfield, NH 03037<br />
-                <em>(payable to Helping All Little Things)</em>
-              </address>
-            </li>
-          </ul>
+          <div className={styles.iconBtnGroup}>
+            <IconBtn
+              label="PayPal"
+              href="https://www.paypal.com/ncp/payment/8SJFNZQVMQ452"
+              logo="/img/logos/paypal.svg"
+              bg="#003087"
+            />
+            <IconBtn
+              label="Venmo"
+              sublabel="@haltrescue"
+              href="https://account.venmo.com/u/haltrescue"
+              logo="/img/logos/venmo.svg"
+              bg="#008CFF"
+            />
+            <IconBtn
+              label="CashApp"
+              sublabel="$haltrescue"
+              href="https://cash.app/$Haltrescue"
+              logo="/img/logos/cashapp.svg"
+              bg="#00D632"
+            />
+          </div>
+          <p className={styles.warning}>
+            ⚠️ Venmo: watch for imposters — we are <strong>@haltrescue</strong>, not haltrescue_
+          </p>
+          <div className={styles.checkBlock}>
+            <strong>Mail a Check:</strong>
+            <address className={styles.address}>
+              Helping All Little Things<br />
+              PO Box 11<br />
+              Deerfield, NH 03037<br />
+              <em>(payable to Helping All Little Things)</em>
+            </address>
+          </div>
         </div>
 
-        {/* Wishlists */}
+        {/* ── Wishlists ── */}
         <div className={styles.card}>
           <h3 className={styles.cardTitle}>Wishlist Donations</h3>
           <p className={styles.cardBody}>
             Shop our wishlists and items ship directly to our animals!
           </p>
-          <div className={styles.wishlistButtons}>
-            <a
+          <div className={styles.iconBtnGroup}>
+            <IconBtn
+              label="Amazon Wishlist"
               href="https://tinyurl.com/HALT-Amazon-Wishlist"
-              className={styles.wishlistBtn}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="HALT Amazon Wishlist"
-            >
-              <img src="/img/logos/amazon.svg" alt="Amazon" className={styles.wishlistLogo} />
-              <span>Wishlist</span>
-            </a>
-            <a
+              logo="/img/logos/amazon.svg"
+              bg="#FF9900"
+            />
+            <IconBtn
+              label="Chewy Wishlist"
               href="https://tinyurl.com/HALT-Chewy-Wishlist"
-              className={styles.wishlistBtn}
+              logo="/img/logos/chewy.svg"
+              bg="#0075C9"
+            />
+          </div>
+          <p className={styles.cardBody} style={{ marginTop: '0.75rem' }}>
+            🥬 You can also donate a{' '}
+            <a
+              href="https://www.instacart.com/store/gift-cards"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="HALT Chewy Wishlist"
+              className={styles.inlineLink}
             >
-              <img src="/img/logos/chewy.svg" alt="Chewy" className={styles.wishlistLogo} />
-              <span>Wishlist</span>
+              gift card for fresh veggies
             </a>
-          </div>
+            {' '}via Instacart!
+          </p>
         </div>
 
-        {/* Donate to vets */}
+        {/* ── Donate to vets ── */}
         <div className={styles.card}>
           <h3 className={styles.cardTitle}>Donate Directly to Our Vets</h3>
           <p className={styles.cardBody}>
