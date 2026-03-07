@@ -15,7 +15,12 @@ import styles from './styles.module.css';
  */
 function ArchivePostCard({post}) {
   const {permalink, title, date, tags, authors, frontMatter, description} = post.metadata;
-  const image = frontMatter?.image ?? getDefaultImageForTags(tags);
+  // frontMatter.image is a relative path (e.g. "./ziggy.jpg") that webpack
+  // would normally resolve, but the archive page gets plain JSON metadata with
+  // no webpack processing. Skip relative paths and use the tag default instead.
+  const rawImage = frontMatter?.image;
+  const isAbsolute = rawImage && !rawImage.startsWith('./') && !rawImage.startsWith('../') && rawImage.startsWith('/');
+  const image = isAbsolute ? rawImage : getDefaultImageForTags(tags);
 
   const dateObj = new Date(date);
   const dateStr = dateObj.toLocaleDateString('en-US', {
