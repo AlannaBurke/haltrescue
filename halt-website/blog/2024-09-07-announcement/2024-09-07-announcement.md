@@ -24,11 +24,4 @@ Thank you for being a part of our journey — we couldn’t do it without you, a
 [Instagram](https://www.instagram.com/helpingalllittlethings/)    
 [Mastodon](https://mstdn.social/@haltrescue)    
 
-
-### Support us with:
-
-[PayPal](https://www.paypal.com/ncp/payment/8SJFNZQVMQ452)    
-[Venmo](https://account.venmo.com/u/haltrescue)    
-[CashApp](https://cash.app/$Haltrescue)    
-[Amazon Wish List](https://bit.ly/halt-piggies)    
-
+<SupportUs />
