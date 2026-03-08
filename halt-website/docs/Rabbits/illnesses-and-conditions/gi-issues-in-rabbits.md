@@ -41,7 +41,9 @@ Preventing GI issues is far easier and safer than treating them. A proactive app
 *   **Stress Reduction:** Provide a calm, safe environment for your rabbit. Minimize sudden changes and loud noises.
 *   **Annual Vet Check-ups:** Regular veterinary visits can help detect potential issues early and ensure your rabbit is in optimal health.
 
-For a quick reference on how to prevent GI stasis and other digestive problems, a downloadable checklist will be created soon.
+:::tip
+**Daily prevention habits:** Ensure unlimited timothy hay is always available. Provide fresh water in a bowl (not just a sipper bottle). Offer a small amount of leafy greens daily. Brush your rabbit regularly to reduce ingested fur. Monitor droppings every day — a sudden decrease or absence is an early warning sign.
+:::
 
 ## Treatment Approaches
 
@@ -63,6 +65,9 @@ For more information on rabbit health and care, consider exploring our articles 
 
 ## References
 
+
 [1] [Health Problems in Rabbits](https://vcahospitals.com/know-your-pet/rabbits-problems) — VCA Animal Hospitals, Unknown
+
 [2] [Disorders and Diseases of Rabbits](https://www.merckvetmanual.com/all-other-pets/rabbits/disorders-and-diseases-of-rabbits) — Merck Veterinary Manual, 2024
+
 [3] [GI Stasis - The Silent Killer](https://rabbit.org/care/gi-stasis/) — House Rabbit Society, Unknown

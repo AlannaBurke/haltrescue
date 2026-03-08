@@ -47,5 +47,6 @@ Caring for a diabetic rat is a significant commitment, but it is a manageable on
 
 ## References
 
+
 [1] Merck Veterinary Manual. (2024). *Diabetes Mellitus in Animals*. [https://www.merckvetmanual.com/endocrine-system/the-pancreas/diabetes-mellitus-in-animals](https://www.merckvetmanual.com/endocrine-system/the-pancreas/diabetes-mellitus-in-animals)
 [2] PMC. (1965). *Spontaneous Diabetes Mellitus in the Rat*. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2032439/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2032439/)

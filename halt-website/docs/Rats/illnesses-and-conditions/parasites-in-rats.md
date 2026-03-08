@@ -102,8 +102,13 @@ Rat lice and mites are species-specific and **cannot infest humans, dogs, or cat
 
 ## References
 
+
 [1] [Ectoparasites — Rat Guide](https://ratguide.com/health/integumentary_skin/dermatologic/ectoparasites.php) — Rat Guide, 2024
+
 [2] [Disorders and Diseases of Rats](https://www.merckvetmanual.com/all-other-pets/rats/disorders-and-diseases-of-rats) — Merck Veterinary Manual
+
 [3] [What to Do If Your Pet Rat Has Lice](https://www.thesprucepets.com/pet-rat-lice-1238521) — The Spruce Pets
+
 [4] [Endoparasites — Rat Guide](https://ratguide.com/health/digestive/endoparasites.php) — Rat Guide, 2024
+
 [5] [Successful therapeutic management of notoedric mange in rats](https://pmc.ncbi.nlm.nih.gov/articles/PMC3909605/) — PMC/NIH, 2012

@@ -43,8 +43,8 @@ While hay is the staple, pellets and fresh greens provide essential vitamins and
 *   **Pellets:** Choose a high-quality, high-fiber timothy-based pellet. Adult rabbits only need a small amount—about **1/8 to 1/4 cup per 5 lbs of body weight daily** [2]. Overfeeding pellets can lead to obesity and soft stools.
 *   **Fresh Greens:** Offer a variety of leafy green vegetables daily. Introduce new greens slowly to avoid upsetting your rabbit's delicate digestive system [2].
 
-:::info
-An infographic illustrating safe and unsafe foods for rabbits will be created to help you provide a healthy, balanced diet.
+:::tip
+**Safe greens for rabbits include:** romaine lettuce, kale, cilantro, parsley, basil, and bok choy. **Avoid:** iceberg lettuce, spinach (in large amounts), and any plant from the onion family. Introduce new greens one at a time and watch for soft stools.
 :::
 
 ## 6. Constant Access to Fresh Water
@@ -67,7 +67,7 @@ Rabbits are intelligent and curious animals that need mental stimulation.
 *   **Tunnels and Hides:** Tunnels and cardboard boxes provide fun places for your rabbit to play and hide, mimicking their natural burrowing instincts.
 
 :::tip
-A downloadable checklist for rabbit-proofing your home will be created to help you create a safe free-roam area for your bunny.
+**Rabbit-proofing basics:** cover or conceal electrical cords, block access to houseplants (many are toxic), protect carpet edges and baseboards, and ensure there are no gaps your rabbit could get stuck in. Supervise free-roam time until you are confident the space is safe.
 :::
 
 ## 9. A Rabbit-Savvy Veterinarian
@@ -76,6 +76,9 @@ Before you even bring your rabbit home, find a veterinarian who is experienced i
 
 ## References
 
+
 [1] [Routine Health Care of Rabbits](https://www.merckvetmanual.com/all-other-pets/rabbits/routine-health-care-of-rabbits) — Merck Veterinary Manual, 2024
+
 [2] [Spotlight: Bunny care basics](https://vcahospitals.com/resources/preventive/bunny-care-basics) — VCA Animal Hospitals, Unknown
+
 [3] [Essential House Rabbit Supplies](https://rabbit.org/care/house-rabbit-supply-list/) — House Rabbit Society, Unknown

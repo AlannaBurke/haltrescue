@@ -44,11 +44,14 @@ A balanced diet is the foundation of good health.
 *   **Spaying/Neutering:** Spaying female rats can significantly reduce the risk of mammary tumors, and neutering males can help with hormonal aggression [2].
 
 :::tip
-A downloadable weekly health checklist for rats will be created to help you monitor your pets’ health and stay on top of their care routine.
+Keep a simple health journal for each rat, noting their weight, eating habits, and any changes in behavior. Early detection of changes — especially weight loss or labored breathing — can make a significant difference in treatment outcomes.
 :::
 
 ## References
 
+
 [1] [Feeding Rodents](https://vcahospitals.com/know-your-pet/feeding-rodents) — VCA Animal Hospitals, 2023
+
 [2] [Routine Health Care of Rats](https://www.merckvetmanual.com/all-other-pets/rats/routine-health-care-of-rats) — Katherine E. Quesenberry, Kenneth R. Boschert, Merck Veterinary Manual, 2024
+
 [3] [Pet Rats in the UK](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats) — RSPCA, 2026

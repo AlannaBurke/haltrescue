@@ -51,6 +51,9 @@ Daily checks are essential, especially during warmer months.
 
 ## References
 
+
 [1] [FLYSTRIKE IN RABBITS – AN OWNER'S GUIDE](https://www.rvc.ac.uk/Media/Default/small-animal/documents/Rabbit_flystrike_2022.pdf) — Royal Veterinary College, Unknown
+
 [2] [Flystrike in Pets - Risk Factors & Prevention](https://www.rspca.org.uk/adviceandwelfare/pets/general/flystrike) — RSPCA, Unknown
+
 [3] [Noninfectious Diseases of Rabbits](https://www.merckvetmanual.com/exotic-and-laboratory-animals/rabbits/noninfectious-diseases-of-rabbits) — Merck Veterinary Manual, 2024

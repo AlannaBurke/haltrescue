@@ -59,5 +59,7 @@ Early diagnosis and consistent management provide the best chance for a good qua
 
 ## References
 
+
 [1] [Management of spontaneous diabetes mellitus in a companion rat (Rattus norvegicus)](https://www.sciencedirect.com/science/article/abs/pii/S1557506323000630) — McCready, J. E., Kornya, M. R., Aymen, J., Dianis, A. E., & Barboza, T., 2023
+
 [2] [Diabetes - Rat Fan Club](http://www.ratfanclub.org/diabetes.html) — Ducommun, D., 1999

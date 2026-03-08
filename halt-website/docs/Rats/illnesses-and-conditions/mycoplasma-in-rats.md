@@ -44,7 +44,7 @@ There is **no cure** for mycoplasmosis; treatment focuses on managing the sympto
 For rats with frequent flare-ups, a veterinarian may recommend a long-term, low-dose antibiotic regimen to help manage the chronic infection [2].
 
 :::tip
-A downloadable checklist for monitoring respiratory health in rats will be created to help you track symptoms and manage your pet's condition effectively.
+**Signs to watch for:** clicking or rattling sounds when breathing, increased respiratory rate, labored breathing, hunched posture, weight loss, and discharge from the eyes or nose. If you notice any of these, contact your exotic vet promptly — early intervention can significantly slow disease progression.
 :::
 
 ## The Reality of Living with Myco
@@ -53,6 +53,9 @@ Because the disease is so widespread, it's a reality that most rat owners will h
 
 ## References
 
+
 [1] [Diseases in Rodents](https://vcahospitals.com/know-your-pet/rodents-diseases) — VCA Animal Hospitals, Unknown Year
+
 [2] [Mice and Rats as Pets](https://www.merckvetmanual.com/exotic-and-laboratory-animals/rodents/mice-and-rats-as-pets) — Merck Veterinary Manual, 2024
+
 [3] [Mycoplasma / Mycoplasmosis](https://ratguide.com/health/bacteria/mycoplasma_mycoplasmosis.php) — RatGuide, 2023

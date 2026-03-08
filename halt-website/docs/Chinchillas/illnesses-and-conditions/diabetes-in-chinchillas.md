@@ -44,6 +44,9 @@ By providing a proper diet and an enriching environment, you can significantly r
 
 ## References
 
+
 [1] [Chinchillas - Exotic and Laboratory Animals](https://www.merckvetmanual.com/exotic-and-laboratory-animals/rodents/chinchillas) — Merck Veterinary Manual, Unknown
+
 [2] [Diabetes in a chinchilla](https://pubmed.ncbi.nlm.nih.gov/7571260/) — PubMed/NCBI, Unknown
+
 [3] [Chinchillas - Heath Conditions](https://vcahospitals.com/know-your-pet/chinchillas-diseases) — VCA Animal Hospitals, Unknown
