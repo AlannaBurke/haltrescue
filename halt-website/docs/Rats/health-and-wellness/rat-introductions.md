@@ -10,18 +10,18 @@ Introducing a new rat to your existing group (or "mischief") is an exciting step
 
 ![An infographic outlining the steps for a safe rat introduction process.](/img/rats/rat-intro-guide.png)
 
-## Step 1: Quarantine (3 Weeks)
+## Step 1: Quarantine (4 Weeks)
 
 **This is the most critical step and should never be skipped.**
 
-*   **Why:** New rats can carry parasites or illnesses that are not immediately apparent. A quarantine period protects your existing rats from potential exposure [1].
-*   **How:** House the new rat(s) in a separate cage in a different room from your current rats. Handle and feed your existing rats first, then wash your hands thoroughly before interacting with the new rat(s) to prevent cross-contamination.
+*   **Why:** New rats can carry parasites or illnesses that are not immediately apparent — including mycoplasma, which may not show symptoms for weeks. A full four-week quarantine period gives you time to catch slow-developing conditions before they spread to your existing rats [1].
+*   **How:** House the new rat(s) in a separate cage in a completely different room from your current rats. Handle and feed your existing rats first, then wash your hands thoroughly before interacting with the new rat(s) to prevent cross-contamination. Do a basic health check on arrival: check for signs of respiratory distress, parasites, wounds, or unusual discharge.
 
 ## Step 2: Scent Swapping
 
 After the quarantine period, you can begin to familiarize the rats with each other's scents.
 
-*   **How:** Swap items between the cages, such as a small piece of bedding or a fabric toy. This allows them to get used to the other's smell in a non-threatening way.
+*   **How:** Swap items between the cages daily — a small piece of bedding, a fabric toy, or a hammock. Daily swaps build up scent familiarity faster and allow them to get used to each other's smell in a completely non-threatening way.
 
 ## Step 3: The First Meeting (Neutral Territory)
 
@@ -29,7 +29,7 @@ The first face-to-face meeting should always take place in a neutral space that 
 
 *   **Where:** A dry bathtub, a small bathroom, or a playpen are good options. The space should be small enough that the rats will interact, but large enough that they can retreat if they feel overwhelmed.
 *   **What to Expect:** Initial interactions may include sniffing, grooming, and some mild chasing or pinning as they establish a social hierarchy. This is normal [2].
-*   **Supervision is Key:** Never leave the rats unattended during these initial meetings. Keep sessions short (10-15 minutes) and end on a positive note.
+*   **Supervision is Key:** Never leave the rats unattended during these initial meetings. Aim for sessions of around 30 minutes and always end on a positive note — separate them before any tension escalates.
 
 ## Step 4: Increasing Time and Space
 
