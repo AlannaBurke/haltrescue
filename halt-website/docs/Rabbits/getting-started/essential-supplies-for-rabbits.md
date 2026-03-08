@@ -43,6 +43,8 @@ While hay is the staple, pellets and fresh greens provide essential vitamins and
 *   **Pellets:** Choose a high-quality, high-fiber timothy-based pellet. Adult rabbits only need a small amount—about **1/8 to 1/4 cup per 5 lbs of body weight daily** [2]. Overfeeding pellets can lead to obesity and soft stools.
 *   **Fresh Greens:** Offer a variety of leafy green vegetables daily. Introduce new greens slowly to avoid upsetting your rabbit's delicate digestive system [2].
 
+![Rabbit Safe and Unsafe Foods infographic showing safe vegetables, fruits, and foods to avoid](/img/rabbits/rabbit-safe-foods.png)
+
 :::tip
 **Safe greens for rabbits include:** romaine lettuce, kale, cilantro, parsley, basil, and bok choy. **Avoid:** iceberg lettuce, spinach (in large amounts), and any plant from the onion family. Introduce new greens one at a time and watch for soft stools.
 :::
