@@ -35,7 +35,23 @@ const config = {
     locales: ['en'],
   },
 
-  // plugins: [
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['en'],
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: false,
+        docsRouteBasePath: '/docs',
+        searchBarPosition: 'right',
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
+  // _old_plugins: [
   //   [
   //     '@docusaurus/plugin-content-docs',
   //     {
