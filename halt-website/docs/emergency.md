@@ -1,7 +1,7 @@
 ---
+sidebar_position: 1
 sidebar_label: 'Emergency Preparedness'
 ---
-
 # Emergency Preparedness
 
 ![Emergency Preparedness Graphic](emergency.png)
