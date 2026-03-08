@@ -13,6 +13,8 @@ Guinea pigs may be small, but they have complex needs—and that includes their 
     <figcaption>A guide to recognizing and preventing common urinary problems in guinea pigs.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-urinary-health.png" />
+
 ## Common Urinary Problems in Guinea Pigs
 
 Several conditions can affect a guinea pig's urinary system. They often have overlapping symptoms, so a veterinary diagnosis is essential.

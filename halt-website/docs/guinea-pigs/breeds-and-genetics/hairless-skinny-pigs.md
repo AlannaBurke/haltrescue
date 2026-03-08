@@ -49,7 +49,7 @@ Their exposed skin requires regular attention to stay healthy.
 Hairless guinea pigs have a faster metabolism than their furry relatives because they burn more calories to stay warm. This has implications for their diet.
 
 *   **Increased Food Intake:** They may eat more food and produce more waste than other guinea pigs. It is crucial to monitor their weight and body condition to ensure they are getting enough calories.
-*   **Dietary Staples:** Their core diet should be the same as any other guinea pig: unlimited high-quality hay, a daily portion of fresh vegetables rich in Vitamin C, and a small amount of timothy-based pellets. See our [Nutrition Information for Guinea Pigs](./nutrition-information) article for a detailed guide.
+*   **Dietary Staples:** Their core diet should be the same as any other guinea pig: unlimited high-quality hay, a daily portion of fresh vegetables rich in Vitamin C, and a small amount of timothy-based pellets. See our [Nutrition Information for Guinea Pigs](../getting-started/nutrition-information) article for a detailed guide.
 
 ### 4. Susceptibility to Infections
 

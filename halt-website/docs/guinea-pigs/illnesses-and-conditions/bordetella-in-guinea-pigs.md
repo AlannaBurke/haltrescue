@@ -21,6 +21,8 @@ Guinea pigs can contract *Bordetella* from other animals, which is a primary rea
     <figcaption>A guide to the warning signs, transmission risks, and prevention of Bordetella.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-bordetella-warning.png" />
+
 ## Signs of a Bordetella Infection
 
 A *Bordetella* infection in guinea pigs often presents as an upper respiratory infection (URI) that can quickly become severe. The signs can include:

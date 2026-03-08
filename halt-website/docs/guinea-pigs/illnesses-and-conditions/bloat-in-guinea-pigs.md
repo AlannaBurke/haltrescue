@@ -55,7 +55,7 @@ While not all cases of bloat can be prevented, you can take steps to minimize th
 *   **Introduce New Foods Slowly:** When introducing new vegetables, do so one at a time and in small amounts.
 *   **Feed Gas-Producing Veggies in Moderation:** Foods like broccoli, cabbage, and cauliflower should be given as occasional treats, not as a daily staple.
 *   **Promote Gut Health:** A diet high in fiber from unlimited hay is the best way to maintain healthy gut motility.
-*   **Monitor for GI Stasis:** Be vigilant for any signs of decreased appetite or fecal output, as this can be a precursor to more serious issues. See our article on [GI Stasis in Guinea Pigs](./gi-stasis) for more information.
+*   **Monitor for GI Stasis:** Be vigilant for any signs of decreased appetite or fecal output, as this can be a precursor to more serious issues. Signs of GI stasis include reduced droppings, loss of appetite, and a hunched posture — contact your exotic vet immediately if you observe these.
 
 Recognizing the gravity of bloat and acting without delay is the most important thing you can do to help your guinea pig in this dire situation.
 

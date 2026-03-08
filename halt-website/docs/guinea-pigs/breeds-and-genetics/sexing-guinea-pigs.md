@@ -21,6 +21,8 @@ The most reliable method for sexing a guinea pig is to examine the shape of thei
     <figcaption>A visual comparison of male and female guinea pig anatomy.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-sexing-guide.png" />
+
 ### Identifying a Female (Sow)
 
 A female guinea pig's genital area is characterized by a "Y-shaped" opening. The top part of the "Y" is the vulva, which is a fleshy, triangular-shaped slit.

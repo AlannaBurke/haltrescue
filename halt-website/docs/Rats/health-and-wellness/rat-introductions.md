@@ -10,6 +10,8 @@ Introducing a new rat to your existing group (or "mischief") is an exciting step
 
 ![An infographic outlining the steps for a safe rat introduction process.](/img/rats/rat-intro-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-intro-guide.png" />
+
 ## Step 1: Quarantine (4 Weeks)
 
 **This is the most critical step and should never be skipped.**

@@ -13,6 +13,8 @@ Guinea pig eyes are large, bright, and positioned on the sides of their head, gi
     <figcaption>Knowing the difference between a normal grooming secretion and a sign of infection is key to guinea pig eye care.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-eye-health.png" />
+
 ## Normal Guinea Pig Eyes
 
 First, it's important to know what's normal. A healthy guinea pig's eyes should be:

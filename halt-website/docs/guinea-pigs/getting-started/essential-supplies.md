@@ -13,6 +13,8 @@ Bringing home a guinea pig (or better yet—a pair!) is an exciting and joyful e
     <figcaption>Having the right setup from the start is key to a guinea pig's long-term health and happiness.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-essential-supplies.png" />
+
 ## 1. Housing: A Safe and Spacious Home
 
 Your guinea pigs will spend a lot of time in their cage, so it needs to be a safe and enriching environment.
@@ -36,7 +38,7 @@ A guinea pig's diet is simple but specific.
 *   **High-Quality Pellets:** Choose a plain, timothy hay-based pellet. Avoid mixes with seeds, nuts, and colored bits. Adult guinea pigs only need about 1/8 cup of pellets per day.
 *   **Vitamin C:** Guinea pigs cannot produce their own Vitamin C, so they must get it from their diet. Many high-quality pellets are fortified with Vitamin C. You can also offer small pieces of bell pepper or a Vitamin C supplement [2].
 
-> For more detailed information, see our article on [Nutrition Information for Guinea Pigs](./nutrition-information.md).
+> For more detailed information, see our article on [Nutrition Information for Guinea Pigs](./nutrition-information).
 
 ## 3. Health and Grooming
 
@@ -47,7 +49,7 @@ Routine home care is part of being a responsible owner.
 *   **Digital Kitchen Scale:** Weigh your guinea pigs weekly. Weight loss is often the first sign of illness.
 *   **Exotic Vet:** Find a veterinarian who is experienced with exotic pets **before** you need one. Have their contact information readily available.
 
-> For more on this, see our guide to [Home Health Care for Your Guinea Pig](./home-health-care.md).
+> For more on this, see our guide to [Home Health Care for Your Guinea Pig](../health-and-wellness/home-health-care).
 
 ## 4. Enrichment: A Happy Pig is a Busy Pig
 

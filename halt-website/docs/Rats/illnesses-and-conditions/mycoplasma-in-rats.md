@@ -10,6 +10,8 @@ If you're a rat owner, you've likely heard the term "myco." *Mycoplasma pulmonis
 
 ![An infographic explaining the symptoms and management of Mycoplasma in rats.](/img/rats/mycoplasma-warning.png)
 
+<InfographicShare imageSrc="/img/rats/mycoplasma-warning.png" />
+
 ## What is Mycoplasma Pulmonis?
 
 *M. pulmonis* is a unique bacterium that lacks a cell wall. This makes it resistant to certain antibiotics (like penicillin) and allows it to live in close contact with the rat's respiratory tissues, making it extremely difficult for the immune system to clear completely [2]. For most rats, it becomes a lifelong, chronic infection.

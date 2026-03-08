@@ -10,6 +10,8 @@ Rats are intelligent, social, and emotionally complex animals. Understanding the
 
 ![An infographic illustrating common rat behaviors and what they mean.](/img/rats/rat-behavior-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-behavior-guide.png" />
+
 ## Common Rat Behaviors and What They Mean
 
 ### Bruxing and Boggling

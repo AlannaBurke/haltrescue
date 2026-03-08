@@ -15,6 +15,8 @@ Understanding the differences, especially in coat type, is key to providing the 
     <figcaption>A look at some of the diverse guinea pig breeds. Image courtesy of Top Wing Pets.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/guinea-pig-breeds-chart.png" />
+
 ## Short-Haired Breeds
 
 These breeds are the most common and are generally easier to care for in terms of grooming.

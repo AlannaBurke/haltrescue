@@ -12,14 +12,16 @@ Dental disease is one of the most common and serious health problems affecting g
 
 Guinea pigs have 20 teeth in total: a pair of upper and lower incisors (front teeth) and four pairs of upper and lower cheek teeth (premolars and molars). All of these teeth are "open-rooted," meaning they never stop growing [1]. This constant growth is managed in a healthy guinea pig by the grinding action of chewing on high-fiber foods, primarily hay. When this natural wearing process is disrupted, the teeth can become overgrown, leading to a cascade of health issues.
 
-<figure>
-    <img src="/img/guinea-pigs/dental-disease-xray.jpg" alt="X-ray of a guinea pig with dental disease"/>
-    <figcaption>X-ray showing elongated tooth roots in a guinea pig with advanced dental disease. Image courtesy of Vet Central.</figcaption>
-</figure>
-
 ## Causes of Dental Disease
 
 Several factors can contribute to the development of dental disease in guinea pigs:
+
+<figure>
+    <img src="/img/guinea-pigs/dental-causes.png" alt="Infographic showing the main causes of dental disease in guinea pigs: inadequate diet, genetics, and Vitamin C deficiency"/>
+    <figcaption>The three most common causes of dental disease in guinea pigs.</figcaption>
+</figure>
+
+<InfographicShare imageSrc="/img/guinea-pigs/dental-causes.png" />
 
 *   **Inadequate Diet:** This is the most common cause. A diet low in fibrous hay and high in pellets or soft foods does not provide enough abrasive material to wear down the teeth properly. Guinea pigs should have unlimited access to high-quality grass hay, such as Timothy or orchard grass [2].
 *   **Genetics:** Some guinea pigs are genetically predisposed to malocclusion (misalignment of the teeth), which can become apparent at a young age.
@@ -31,6 +33,13 @@ Several factors can contribute to the development of dental disease in guinea pi
 
 Guinea pigs are prey animals and will often hide signs of pain or illness until the condition is advanced. Early detection is key, so watch for these subtle signs:
 
+<figure>
+    <img src="/img/guinea-pigs/dental-signs.png" alt="Infographic showing warning signs of dental disease in guinea pigs: weight loss, drooling, food dropping, visible tooth problems, facial swelling, and reduced droppings"/>
+    <figcaption>Six key warning signs that your guinea pig may have dental disease.</figcaption>
+</figure>
+
+<InfographicShare imageSrc="/img/guinea-pigs/dental-signs.png" />
+
 *   **Changes in Eating Habits:** Reluctance to eat, picking at food, or a preference for softer foods.
 *   **Weight Loss:** This is a critical indicator of an underlying health problem.
 *   **Drooling (Slobbers):** Wet fur around the mouth, chin, and chest.
@@ -40,11 +49,6 @@ Guinea pigs are prey animals and will often hide signs of pain or illness until 
 *   **Eye or Nasal Discharge:** Elongated upper tooth roots can press on tear ducts, causing watery eyes.
 *   **Reduced Fecal Output:** A sign of decreased food intake and potential GI stasis.
 *   **Lethargy or Behavioral Changes:** Hiding more than usual, irritability, or a reluctance to move.
-
-<figure>
-    <img src="/img/guinea-pigs/overgrown-molars.jpg" alt="Overgrown molars in a guinea pig"/>
-    <figcaption>A clinical view of overgrown lower molars entrapping the tongue. Image courtesy of Vet Times.</figcaption>
-</figure>
 
 ## Diagnosis and Veterinary Care
 
@@ -66,8 +70,15 @@ Treatment depends on the severity of the disease and is focused on correcting th
 
 While genetic predispositions cannot be changed, you can take several steps to prevent diet-related dental disease and manage the condition:
 
+<figure>
+    <img src="/img/guinea-pigs/dental-prevention.png" alt="Infographic showing prevention and treatment for guinea pig dental disease: unlimited hay, regular vet checks, Vitamin C daily, and weekly weigh-ins"/>
+    <figcaption>Four key steps to prevent dental disease and catch problems early.</figcaption>
+</figure>
+
+<InfographicShare imageSrc="/img/guinea-pigs/dental-prevention.png" />
+
 *   **Provide Unlimited Hay:** The cornerstone of prevention is a diet consisting of at least 80% high-quality grass hay. The constant chewing motion is essential for proper tooth wear.
-*   **Feed a Balanced Diet:** Supplement hay with a small, measured amount of high-quality guinea pig pellets and a daily portion of fresh vegetables rich in Vitamin C. See our [Nutrition Information for Guinea Pigs](./nutrition-information) article for more details.
+*   **Feed a Balanced Diet:** Supplement hay with a small, measured amount of high-quality guinea pig pellets and a daily portion of fresh vegetables rich in Vitamin C. See our [Nutrition Information for Guinea Pigs](../getting-started/nutrition-information) article for more details.
 *   **Regular Health Checks:** Weigh your guinea pig weekly and perform regular home health checks to spot any early signs of illness.
 *   **Routine Veterinary Visits:** Annual check-ups with an exotic vet can help catch dental problems before they become severe.
 

@@ -17,6 +17,8 @@ A healthy guinea pig diet can be visualized as a pyramid, with the most importan
     <figcaption>A visual guide to a balanced guinea pig diet.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-nutrition-pyramid.png" />
+
 ### 1. Unlimited Grass Hay (80% of Diet)
 
 The foundation of every guinea pig's diet is an unlimited supply of high-quality grass hay. This is not just bedding; it is their most critical food source.
@@ -47,7 +49,7 @@ Commercial pellets should be a small supplement to the diet, not the main course
 Treats should be given sparingly.
 
 *   **Healthy Options:** Small pieces of fruit like apple, pear, or a few blueberries make excellent occasional treats.
-*   **Avoid:** Never give your guinea pig sugary commercial treats, yogurt drops, or seed sticks. For a comprehensive list of unsafe foods, see our article on [Dangerous Treats and Toys for Guinea Pigs](./dangerous-treats-and-toys).
+*   **Avoid:** Never give your guinea pig sugary commercial treats, yogurt drops, or seed sticks. For a comprehensive list of unsafe foods, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats-and-toys).
 
 ## The Critical Need for Vitamin C
 

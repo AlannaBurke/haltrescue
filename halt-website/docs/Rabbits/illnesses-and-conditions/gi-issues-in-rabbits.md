@@ -59,6 +59,8 @@ Surgery is typically a last resort and is only considered for true obstructions 
 
 ![An infographic explaining the causes, symptoms, and prevention of GI stasis in rabbits.](/img/rabbits/rabbit-gi-stasis.png)
 
+<InfographicShare imageSrc="/img/rabbits/rabbit-gi-stasis.png" />
+
 ## Further Reading
 
 For more information on rabbit health and care, consider exploring our articles on [Rabbit Dental Health](/docs/rabbit-dental-health) and [Emergency Preparedness for Pet Owners](/docs/emergency-preparedness-for-pet-owners).

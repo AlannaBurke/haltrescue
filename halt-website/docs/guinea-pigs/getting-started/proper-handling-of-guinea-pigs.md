@@ -25,6 +25,8 @@ Once your guinea pig is comfortable with your presence, you can practice picking
     <figcaption>Always support a guinea pig's chest and hindquarters to ensure they feel secure.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-handling-guide.png" />
+
 ### Step-by-Step Guide:
 
 1.  **Approach Calmly:** Approach from the side rather than from above, as a hand swooping down can mimic a predator.
