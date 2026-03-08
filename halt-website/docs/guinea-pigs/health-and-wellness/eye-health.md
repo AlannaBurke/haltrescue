@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Eye Health & Vision'
 sidebar_position: 4
+tags: [guinea pig, eyes, health, hay poke, corneal ulcer, veterinary]
 ---
 
 # Eye Health and Vision Issues in Guinea Pigs

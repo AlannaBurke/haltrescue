@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Bordetella in Guinea Pigs'
 sidebar_position: 1
+tags: [guinea pig, bordetella, respiratory, illness, veterinary, rabbit]
 ---
 
 # Bordetella in Guinea Pigs

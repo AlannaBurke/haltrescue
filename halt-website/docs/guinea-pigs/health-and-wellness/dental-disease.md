@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Dental Disease'
 sidebar_position: 3
+tags: [guinea pig, dental, teeth, health, veterinary, malocclusion]
 ---
 
 # Dental Disease in Guinea Pigs

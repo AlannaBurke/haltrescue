@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Guinea Pig Care'
 sidebar_position: 1
+tags: [guinea pig, care, beginner, getting started]
 ---
 
 # Guinea Pig Care

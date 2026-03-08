@@ -1,13 +1,14 @@
 ---
 sidebar_label: 'Max Factor'
 sidebar_position: 1
+tags: [rabbit, max factor, genetic, disability, special needs, care]
 ---
 
 # Max Factor Rabbits
 
 Max Factor rabbits are a rare and unique type of rabbit affected by a genetic mutation that results in unusual physical characteristics. These rabbits have striking appearances due to differences in their fur and limbs. It’s said that the condition is named after a rabbit named Max who was known to have the condition, but not much is known about the defect or its origin. However, the mutation also affects their health and mobility, creating both challenges and specific care needs. Here’s everything you need to know about Max Factor rabbits, from their characteristics to the ethics of breeding them.
 
-![Max Factor Rabbit](maxfactor.jpg)
+![Max Factor Rabbit](/img/rabbits/maxfactor.jpg)
 
 ## What Are Max Factor Rabbits?
 

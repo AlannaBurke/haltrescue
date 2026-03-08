@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Proper Handling'
 sidebar_position: 4
+tags: [guinea pig, handling, care, beginner, safety]
 ---
 
 # Proper Handling of Guinea Pigs

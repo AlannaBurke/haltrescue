@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Nutrition Information'
 sidebar_position: 2
+tags: [guinea pig, nutrition, diet, vitamin c, hay, vegetables, care]
 ---
 
 # Nutrition Information for Guinea Pigs

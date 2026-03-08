@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Fly Strike (Myiasis)'
 sidebar_position: 6
+tags: [guinea pig, fly strike, myiasis, emergency, parasites, prevention]
 ---
 
 # Fly Strike in Guinea Pigs

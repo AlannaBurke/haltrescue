@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'The Ideal Habitat'
 sidebar_position: 6
+tags: [guinea pig, habitat, housing, cage, care, beginner]
 ---
 
 # The Ideal Guinea Pig Habitat

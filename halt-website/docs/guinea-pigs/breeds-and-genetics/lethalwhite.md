@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Lethal White'
 sidebar_position: 5
+tags: [guinea pig, lethal white, genetics, disability, special needs, care]
 ---
 
 # Understanding Lethal White Guinea Pigs
