@@ -5,7 +5,7 @@ sidebar_position: 8
 
 # Satin Syndrome in Guinea Pigs
 
-## ✅ [Download our checklist here and bring it to your vet!](satin-checklist.pdf) ✅ 
+## ✅ [Download our checklist here and bring it to your vet!](/downloads/satin-checklist.pdf) ✅ 
 
 If you’re a guinea pig owner or enthusiast, it’s crucial to be aware of the health conditions that can affect your furry companions. One such condition is **Satin Syndrome**, a disease that primarily affects satin-coated guinea pigs. While these guinea pigs are prized for their beautiful, glossy fur, they are at higher risk of developing a painful and often debilitating condition that affects their bones and organs.
 
@@ -44,7 +44,7 @@ Compare the following photos of guinea pig hair under a microscope.
 
 Satin Syndrome usually manifests in adulthood, often between 1-2 years of age, but it can sometimes appear earlier or later in life. Unfortunately, by the time symptoms are noticeable, the disease may already be advanced.
 
-Here are the common signs to watch for \- download our detailed printable checklist here: [Satin Syndrome Printable Checklist](satin-checklist.pdf).
+Here are the common signs to watch for \- download our detailed printable checklist here: [Satin Syndrome Printable Checklist](/downloads/satin-checklist.pdf).
 
 1. **Difficulty Moving**: One of the earliest signs of Satin Syndrome is difficulty moving or limping. Your guinea pig may struggle to hop, climb, or move around its enclosure. You may notice them becoming less active, preferring to stay in one spot or lying down more often.  
 2. **Hunched Posture**: A hunched, stiff posture is a telltale sign of discomfort or pain in guinea pigs with Satin Syndrome. This is often due to bone pain, especially in the spine and legs, caused by the weakening of their skeletal structure.  
@@ -53,7 +53,7 @@ Here are the common signs to watch for \- download our detailed printable checkl
 5. **Fragile Bones**: Guinea pigs with Satin Syndrome are more prone to bone fractures, even with minor impacts or normal activities like hopping or running. If your guinea pig seems to be in sudden pain or is unable to move a limb, it could be due to a fracture caused by weakened bones.  
 6. **Tooth Problems**: Because guinea pigs’ teeth grow continuously throughout their lives, any changes in bone structure can affect the alignment of their teeth. Malocclusion (misaligned teeth) may develop, leading to problems with eating, drooling, or weight loss.
 
-If these symptoms sound familiar, please download our extensive checklist: [Satin Syndrome Printable Checklist](satin-checklist.pdf).
+If these symptoms sound familiar, please download our extensive checklist: [Satin Syndrome Printable Checklist](/downloads/satin-checklist.pdf).
 
 ## Diagnosing Satin Syndrome
 
