@@ -24,7 +24,7 @@ Fresh water must be available at all times. A sipper bottle is the most hygienic
 
 Rats are intelligent and curious, requiring plenty of enrichment to prevent boredom and promote natural behaviors. An infographic showing a well-equipped rat cage setup can be found below:
 
-![Well-equipped Rat Cage Setup Infographic](/img/infographics/rat-cage-setup.png)
+![Well-equipped Rat Cage Setup Infographic](/img/rats/rat-habitat-guide.png)
 
 **Toys and Chews:**
 
