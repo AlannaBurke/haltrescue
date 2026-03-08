@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Sexing Guinea Pigs'
 sidebar_position: 3
+tags: [guinea pig, sexing, breeding, care, beginner]
 ---
 
 # Sexing Guinea Pigs

@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Caseous (Cervical) Lymphadenitis'
 sidebar_position: 10
+tags: [guinea pig, cervical lymphadenitis, lumps, illness, veterinary]
 ---
 
 # Caseous/Cervical Lymphadenitis in Guinea Pigs

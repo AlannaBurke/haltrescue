@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Know Your Breeds'
 sidebar_position: 1
+tags: [guinea pig, breeds, genetics, care]
 ---
 
 # Know Your Guinea Pig Breeds

@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Urinary & Bladder Issues'
 sidebar_position: 5
+tags: [guinea pig, urinary, bladder, health, veterinary, stones]
 ---
 
 # Urinary and Bladder Issues in Guinea Pigs

@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Guinea Pig Poop'
 sidebar_position: 1
+tags: [guinea pig, poop, digestion, health, cecotropes, care]
 ---
 
 # Guinea Pig Poop

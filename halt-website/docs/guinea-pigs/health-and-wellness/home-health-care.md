@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Home Health Care'
 sidebar_position: 2
+tags: [guinea pig, home care, health, checklist, grooming, veterinary]
 ---
 
 # Home Health Care for Your Guinea Pig: A Helping All Little Things Guide

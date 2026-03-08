@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Fleas in Guinea Pigs'
 sidebar_position: 5
+tags: [guinea pig, fleas, parasites, treatment, prevention, health]
 ---
 
 # Fleas in Guinea Pigs: Causes, Symptoms, Treatment, and Prevention

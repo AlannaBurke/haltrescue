@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Essential Supplies'
 sidebar_position: 5
+tags: [guinea pig, supplies, care, beginner, housing, nutrition, enrichment]
 ---
 
 # Essential Supplies for Guinea Pigs: A Helping All Little Things Guide

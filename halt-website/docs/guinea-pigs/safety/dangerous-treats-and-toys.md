@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
+tags: [guinea pig, safety, toxic foods, dangerous, treats, toys]
 ---
 
 # Dangerous Treats and Toys for Guinea Pigs
