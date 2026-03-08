@@ -10,7 +10,7 @@ Guinea pigs are hardy little creatures, but they rely on attentive caregivers to
 :::tip Download the Weekly Health Checklist
 Print one for each of your guinea pigs and fill it out every week. Tracking changes over time is the single best way to catch illness early.
 
-**[⬇ Download: Guinea Pig Weekly Health Checklist (PDF)](/downloads/gp-weekly-health-checklist.pdf)**
+**[⬇ Download: Guinea Pig Weekly Health Checklist (PDF)](pathname:///downloads/gp-weekly-health-checklist.pdf)**
 :::
 
 <figure>
