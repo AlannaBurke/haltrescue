@@ -102,8 +102,13 @@ You cannot easily check the molars at home — that requires a veterinary examin
 
 ## References
 
+
 [1] [Malocclusion in Aging Wistar Rats](https://pmc.ncbi.nlm.nih.gov/articles/PMC2824962/) — Dontas, I.A. et al., PMC/NIH, 2010
+
 [2] [Routine Health Care of Rats](https://www.merckvetmanual.com/all-other-pets/rats/routine-health-care-of-rats) — Merck Veterinary Manual
+
 [3] [Oral Disorders of Exotic Rodents](https://pmc.ncbi.nlm.nih.gov/articles/PMC7128658/) — Legendre, L.F.J., PMC/NIH, 2005
+
 [4] [Disorders and Diseases of Rats](https://www.merckvetmanual.com/all-other-pets/rats/disorders-and-diseases-of-rats) — Merck Veterinary Manual
+
 [5] [Anatomy and Disorders of the Oral Cavity of Rat-like Rodents](https://pmc.ncbi.nlm.nih.gov/articles/PMC7110795/) — Mancinelli, E., PMC/NIH, 2016

@@ -44,11 +44,14 @@ While these physical traits are interesting, they are not linked to a rat's pers
 Furthermore, some varieties, like Hairless rats, may have more specific health needs. Always focus on finding a healthy, well-socialized rat, regardless of its appearance.
 
 :::tip
-A downloadable checklist for new rat owners will be created to help you prepare for your new companions.
+When choosing rats, always adopt in pairs or groups — rats are highly social and can suffer from loneliness and depression if kept alone. Variety and appearance are secondary to temperament and health. Look for active, curious rats with bright eyes, clean coats, and no signs of respiratory distress.
 :::
 
 ## References
 
+
 [1] [Description and Physical Characteristics of Rats](https://www.merckvetmanual.com/all-other-pets/rats/description-and-physical-characteristics-of-rats) — Katherine E. Quesenberry, Kenneth R. Boschert, 2024
+
 [2] [Caring for pet mice and rats](https://rspcavic.org/learn/caring-for-your-mice-and-rats/) — RSPCA Victoria, Unknown
+
 [3] [Rat Fan Club](http://www.ratfanclub.org/) — Debbie Ducommun, 2018

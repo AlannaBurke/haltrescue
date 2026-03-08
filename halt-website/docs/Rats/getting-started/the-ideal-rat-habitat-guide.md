@@ -48,6 +48,9 @@ Where you place the cage is also important. Keep it in a temperature-controlled 
 
 ## References
 
+
 [1] [Housing Rodents](https://vcahospitals.com/know-your-pet/rodents-housing) — VCA Animal Hospitals, Unknown
+
 [2] [Providing a Home for a Rat](https://www.merckvetmanual.com/all-other-pets/rats/providing-a-home-for-a-rat) — Merck Veterinary Manual, 2024
+
 [3] [Creating a good home for rats](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats/environment) — RSPCA, Unknown

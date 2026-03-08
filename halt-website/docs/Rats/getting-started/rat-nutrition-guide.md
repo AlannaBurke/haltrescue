@@ -46,7 +46,11 @@ While homemade diets like the "Shunamite Diet" have gained some popularity, they
 
 ## References
 
+
 [1] [Feeding Rodents](https://vcahospitals.com/know-your-pet/feeding-rodents) — VCA Animal Hospitals, Unknown Year
+
 [2] [What should I feed my rats?](https://kb.rspca.org.au/categories/companion-animals/other-pets/rats-and-mice/what-should-i-feed-my-rats) — RSPCA Knowledgebase, 2024
+
 [3] [Nutrition in Rodents and Lagomorphs](https://www.merckvetmanual.com/management-and-nutrition/nutrition-exotic-and-zoo-animals/nutrition-in-rodents-and-lagomorphs) — Merck & Co., Inc., 2026
+
 [4] [Nutritional Physiology and Feeding of Companion Rodents.](https://kb.rspca.org.au/article/nutritional-physiology-and-feeding-of-companion-rodents/) — Parsons JL, Veterinary Clinics of North America – Exotic Animal Practice, 2024

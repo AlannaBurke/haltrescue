@@ -54,6 +54,9 @@ Rats are highly social animals and should **never be housed alone**. They thrive
 
 ## References
 
+
 [1] [Owning Pet Rats](https://vcahospitals.com/know-your-pet/owning-a-pet-rat) — VCA Animal Hospitals, Unknown
+
 [2] [Special Considerations for Rats](https://www.merckvetmanual.com/all-other-pets/rats/special-considerations-for-rats) — Merck Veterinary Manual, Unknown
+
 [3] [Pet Rats Behaviour & Body Language](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats/behaviour) — RSPCA, Unknown

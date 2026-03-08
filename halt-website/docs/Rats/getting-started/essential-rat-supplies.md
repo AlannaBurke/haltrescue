@@ -40,7 +40,7 @@ As agile climbers, rats benefit from ropes, ladders, and branches within their c
 
 ## Health and Hygiene
 
-Regular cleaning of the cage and accessories is crucial to prevent the buildup of ammonia and bacteria. A downloadable checklist for daily, weekly, and monthly cage cleaning will be created to help you maintain a pristine environment for your rats.
+Regular cleaning of the cage and accessories is crucial to prevent the buildup of ammonia and bacteria. Spot-clean the cage daily by removing soiled bedding and uneaten fresh food. Do a full cage clean — wiping down all surfaces with a pet-safe cleaner — at least once a week. Water bottles and food bowls should be washed daily.
 
 ## Cross-referencing Other Articles
 
@@ -48,14 +48,10 @@ For more information on specific aspects of rat care, consider exploring our art
 
 ## References
 
+
 [1] [Rat Care](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats) — RSPCA, Unknown
+
 [2] [Caring for Your Pet Rat](https://www.humanesociety.org/resources/caring-your-pet-rat) — The Humane Society of the United States, Unknown
 
 
-:::info
-A downloadable checklist for essential rat supplies will be created soon to help you prepare for your new pets.
-:::
-
-:::info
-An infographic illustrating an ideal cage setup for rats will be created soon to provide a quick visual guide.
-:::
+![An infographic showing the ideal cage setup for pet rats, including dimensions, bedding, and enrichment items.](/img/rats/rat-habitat-guide.png)

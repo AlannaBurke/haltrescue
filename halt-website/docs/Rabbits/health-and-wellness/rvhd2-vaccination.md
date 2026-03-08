@@ -42,7 +42,7 @@ There is **no specific antiviral treatment or cure** for RHDV2 [3]. While suppor
 Vaccines stimulate the rabbit's immune system to produce antibodies against the virus, providing a strong defense if they are ever exposed. Talk to your rabbit-savvy veterinarian about the appropriate vaccination schedule for your bunny.
 
 :::tip
-A downloadable checklist for biosecurity measures to protect your rabbit from RHDV2 will be created soon.
+**Quick biosecurity checklist:** Keep your rabbit's vaccination up to date annually. Quarantine any new rabbit for at least 14 days. Avoid bringing in hay or greens from areas where wild rabbits have been present. Wash hands before and after handling rabbits from different households.
 :::
 
 ## Beyond Vaccination: Biosecurity Measures
@@ -58,7 +58,11 @@ By combining vaccination with smart biosecurity, you can provide your beloved ra
 
 ## References
 
+
 [1] [Rabbit Hemorrhagic Disease](https://www.aphis.usda.gov/livestock-poultry-disease/rabbit-hemorrhagic) — USDA APHIS, Unknown
+
 [2] [Rabbit hemorrhagic disease](https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/rabbit-hemorrhagic-disease) — AVMA, Unknown
+
 [3] [Rabbit Hemorrhagic Disease Virus (RHDV/RHDV2)](https://sheltermedicine.wisc.edu/library/resources/rabbit-hemorrhagic-disease-virus-rhdv-rhdv2) — Shelter Medicine, University of Wisconsin-Madison, 2023
+
 [4] [Rabbit Hemorrhagic Disease Virus | Cornell Wildlife Health Lab](https://cwhl.vet.cornell.edu/resource/rabbit-hemorrhagic-disease-virus) — Cornell Wildlife Health Lab, Unknown

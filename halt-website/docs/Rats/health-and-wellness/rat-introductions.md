@@ -57,6 +57,9 @@ If you see any signs of true aggression, separate the rats immediately and go ba
 
 ## References
 
+
 [1] [Owning Pet Rats](https://vcahospitals.com/know-your-pet/owning-a-pet-rat) — VCA Animal Hospitals, 2023
+
 [2] [Introduction to Rats](https://www.merckvetmanual.com/all-other-pets/rats/introduction-to-rats) — Merck Veterinary Manual, 2024
+
 [3] [Keeping Pet Rats Together - Introducing Rats](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats/company) — RSPCA, Unknown

@@ -54,7 +54,11 @@ By understanding the signs and acting quickly, you can effectively manage respir
 
 ## References
 
+
 [1] [Diseases in Rodents](https://vcahospitals.com/know-your-pet/rodents-diseases) — VCA Animal Hospitals, Unknown
+
 [2] [Disorders and Diseases of Rats](https://www.merckvetmanual.com/all-other-pets/rats/disorders-and-diseases-of-rats) — Merck Veterinary Manual, Unknown
+
 [3] [Rat Health & Welfare Tips](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats/health) — RSPCA, Unknown
+
 [4] [Respiratory & Heart Disease in Rats](http://www.ratfanclub.org/resp.html) — The Rat Fan Club, 2017

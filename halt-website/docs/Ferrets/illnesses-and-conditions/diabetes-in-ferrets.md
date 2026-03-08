@@ -50,7 +50,11 @@ If you suspect your ferret has any form of pancreatic disease, a prompt veterina
 
 ## References
 
+
 [1] [Hormonal Diseases in Ferrets](https://vcahospitals.com/know-your-pet/hormonal-diseases-in-ferrets) — VCA Animal Hospitals, Unknown
+
 [2] [Hormonal Disorders of Ferrets](https://www.merckvetmanual.com/all-other-pets/ferrets/hormonal-disorders-of-ferrets) — Merck Veterinary Manual, 2024
+
 [3] [Transient diabetes mellitus in a domestic ferret (Mustela putorius furo)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4466827/) — A. Duhamelle, 2015
+
 [4] [Endocrinopathy and Aging in Ferrets](https://pmc.ncbi.nlm.nih.gov/articles/PMC5397995/) — V. Bakthavatchalu, 2016
