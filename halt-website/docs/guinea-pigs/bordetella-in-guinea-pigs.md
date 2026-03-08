@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Bordatella in Guinea Pigs'
+sidebar_label: 'Bordetella in Guinea Pigs'
 sidebar_position: 16
 ---
 
