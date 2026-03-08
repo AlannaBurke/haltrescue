@@ -650,16 +650,16 @@ article header h2 a:hover {
 }
 
 .markdown blockquote {
-  border-left: 4px solid var(--halt-coral);
-  background: var(--halt-coral-light);
+  border-left: 4px solid var(--halt-teal);
+  background: var(--halt-teal-light);
   border-radius: 0 12px 12px 0;
   padding: 1rem 1.5rem;
   color: var(--halt-text-medium);
 }
 
 [data-theme='dark'] .markdown blockquote {
-  background: var(--halt-coral-light);
-  border-left-color: var(--halt-coral);
+  background: var(--halt-teal-light);
+  border-left-color: var(--halt-teal);
 }
 
 /* ============================================================
