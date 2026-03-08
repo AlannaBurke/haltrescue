@@ -114,16 +114,36 @@ h1, h2, h3, h4, h5, h6 {
    NAVBAR
    ============================================================ */
 .navbar {
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.98);
   border-bottom: 2px solid var(--halt-teal-light);
   box-shadow: 0 2px 16px rgba(15, 138, 147, 0.10);
   padding: 0 1.5rem;
 }
 
+/* Frosted glass effect only on desktop — backdrop-filter creates a stacking
+   context that traps the mobile sidebar and breaks the hamburger menu */
+@media screen and (min-width: 997px) {
+  .navbar {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background: rgba(255, 255, 255, 0.95);
+  }
+  [data-theme='dark'] .navbar {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+}
+
+/* Ensure the mobile sidebar and backdrop render above everything */
+.navbar-sidebar {
+  z-index: 9999;
+}
+.navbar-sidebar__backdrop {
+  z-index: 9998;
+}
+
 [data-theme='dark'] .navbar {
-  background: rgba(18, 18, 31, 0.95);
+  background: rgba(18, 18, 31, 0.98);
   border-bottom-color: rgba(45, 212, 223, 0.15);
 }
 
@@ -814,12 +834,21 @@ img[alt=board-pic] {
 .markdown img {
   display: block;
   max-width: min(100%, 720px);   /* reasonable max size — not full-bleed */
+  width: 100%;                   /* fill container on mobile */
   height: auto;
   margin: 1.5rem auto;
   border-radius: 8px;            /* slightly rounded corners */
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
-  outline: 2px solid #d1d5db;   /* light gray 1px border, 2px out */
+  outline: 2px solid #d1d5db;   /* light gray border */
   outline-offset: 2px;
+  box-sizing: border-box;
+}
+
+/* On larger screens, don’t force full width */
+@media screen and (min-width: 997px) {
+  .markdown img {
+    width: auto;
+  }
 }
 
 /* Inline images that appear inside a paragraph (e.g. small icons) */

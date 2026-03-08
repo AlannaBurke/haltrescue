@@ -15,7 +15,7 @@ There are two main types of hairless guinea pigs, the Skinny Pig and the Baldwin
 *   **Baldwin Guinea Pigs:** Baldwins are born with a full coat of fur, which completely falls out over the first few months of their life, leaving them entirely hairless. This trait is due to a different recessive gene than the one that creates Skinny Pigs.
 
 <figure>
-    <img src="./img/skinny-pig.png" alt="A Skinny Pig" />
+    <img src="/img/guinea-pigs/skinny-pig.png" alt="A Skinny Pig" />
     <figcaption>Skinny Pigs have a unique appearance with fuzzy hair on their nose and feet.</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Their exposed skin requires regular attention to stay healthy.
 *   **Bathing:** Like other guinea pigs, they should only be bathed when absolutely necessary. Their skin is sensitive, and over-bathing can strip it of essential oils.
 
 <figure>
-    <img src="./img/hairless-guinea-pig.jpg" alt="A Baldwin guinea pig" />
+    <img src="/img/guinea-pigs/hairless-guinea-pig.jpg" alt="A Baldwin guinea pig" />
     <figcaption>Baldwin guinea pigs are born with fur that falls out, leaving them completely hairless.</figcaption>
 </figure>
 

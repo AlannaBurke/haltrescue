@@ -8,7 +8,7 @@ sidebar_position: 26
 Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can do as a guinea pig owner. It allows you to spot potential problems early, manage routine care, and know when it’s time to call the vet.
 
 <figure>
-    <img src="./img/gp-home-health-kit.png" alt="Infographic showing the essential items for a guinea pig home health kit, including a scale, nail clippers, and recovery food."/>
+    <img src="/img/guinea-pigs/gp-home-health-kit.png" alt="Infographic showing the essential items for a guinea pig home health kit, including a scale, nail clippers, and recovery food."/>
     <figcaption>A well-stocked health kit and a consistent weekly check-up routine are the cornerstones of proactive guinea pig care.</figcaption>
 </figure>
 

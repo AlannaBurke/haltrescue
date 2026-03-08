@@ -15,7 +15,7 @@ Guinea pigs need ample, uninterrupted floor space to run, explore, and exhibit n
 *   **Why Space Matters:** Adequate space helps prevent boredom, reduces the likelihood of squabbles between cage mates, and encourages exercise, which is crucial for preventing obesity and other health problems.
 
 <figure>
-    <img src="./img/gp-habitat-diagram.png" alt="Diagram of an ideal guinea pig habitat"/>
+    <img src="/img/guinea-pigs/gp-habitat-diagram.png" alt="Diagram of an ideal guinea pig habitat"/>
     <figcaption>Key components of a well-designed guinea pig enclosure.</figcaption>
 </figure>
 
