@@ -1,5 +1,9 @@
 {
-    "label": "Guinea Pigs",
-    "position": 4,
-    "collapsed": true
+  "label": "Guinea Pigs",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care guides, health information, and resources for guinea pig owners."
+  }
 }

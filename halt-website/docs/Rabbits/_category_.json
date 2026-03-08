@@ -1,5 +1,9 @@
 {
-    "label": "Rabbits",
-    "position": 5,
-    "collapsed": true
+  "label": "Rabbits",
+  "position": 8,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care guides, health information, and resources for rabbit owners."
+  }
 }
