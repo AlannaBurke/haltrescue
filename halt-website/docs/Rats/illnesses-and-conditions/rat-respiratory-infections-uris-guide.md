@@ -10,6 +10,8 @@ Respiratory illness is one of the most common health issues affecting pet rats. 
 
 ![An infographic detailing the signs, prevention, and treatment of respiratory infections in rats.](/img/rats/rat-uri-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-uri-guide.png" />
+
 ## What is an Upper Respiratory Infection (URI)?
 
 A URI is an infection of the upper airways, including the nose and sinuses. In rats, these are most often caused by a flare-up of the ever-present *Mycoplasma pulmonis* bacteria. If left untreated, a URI can progress into the lower respiratory tract, leading to serious conditions like pneumonia [2].

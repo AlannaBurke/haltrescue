@@ -1,0 +1,73 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  padding: 0.75rem 1rem;
+  margin: 1.25rem 0;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 10px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
+  white-space: nowrap;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.shareBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 20px;
+  background: var(--btn-color, #6B7280);
+  color: #fff !important;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: opacity 0.15s ease, transform 0.1s ease;
+  cursor: pointer;
+  border: none;
+  line-height: 1;
+}
+
+.shareBtn:hover {
+  opacity: 0.88;
+  transform: translateY(-1px);
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+.shareBtn:active {
+  transform: translateY(0);
+  opacity: 0.75;
+}
+
+.shareBtnIcon {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.shareBtnIcon svg {
+  display: block;
+}
+
+.shareBtnLabel {
+  white-space: nowrap;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .wrapper {
+  background: var(--ifm-color-emphasis-100);
+  border-color: var(--ifm-color-emphasis-300);
+}

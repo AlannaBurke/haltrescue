@@ -13,6 +13,8 @@ Fly strike, also known as **myiasis**, is a serious and often fatal condition th
     <figcaption>Fly strike is a preventable but deadly condition that requires immediate veterinary intervention.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-fly-strike-warning.png" />
+
 ## How Does Fly Strike Happen?
 
 Flies, particularly blowflies, are attracted to damp, soiled fur and the scent of urine or feces. They lay their eggs in these areas, and in warm weather, the eggs can hatch into maggots in a matter of hours. The maggots then burrow into the guinea pig's skin, causing severe pain, tissue damage, and infection [1].

@@ -17,6 +17,8 @@ Different grooming tasks need to be performed at different intervals. Here is a 
     <figcaption>A guide to daily, weekly, monthly, and as-needed grooming tasks.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-grooming-guide.png" />
+
 ### Brushing: Coat Care
 
 The frequency of brushing depends entirely on your guinea pig's breed and coat length.

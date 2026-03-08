@@ -10,6 +10,8 @@ Welcome to the colorful world of fancy rats! Through selective breeding, pet rat
 
 ![An infographic showcasing different rat varieties, including colors, coat types, and ear types.](/img/rats/rat-variety-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-variety-guide.png" />
+
 ## Coat Types
 
 The texture of a rat's fur is one of its most defining features.

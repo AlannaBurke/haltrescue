@@ -19,6 +19,8 @@ Print one for each of your guinea pigs and fill it out every week. Tracking chan
     <figcaption>A well-stocked health kit and a consistent weekly check-up routine are the cornerstones of proactive guinea pig care.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-home-health-kit.png" />
+
 ## The Weekly Health Check: A Head-to-Toe Routine
 
 Set aside time once a week to give your guinea pig a gentle, thorough check-up. Make it a positive experience with gentle handling and a few healthy treats.

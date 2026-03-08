@@ -16,6 +16,8 @@ One of the most frightening aspects of RHDV2 is its sudden onset. Many infected 
 
 ![An infographic explaining the key facts about RVHD2 vaccination for rabbits.](/img/rabbits/rvhd2-vaccination.png)
 
+<InfographicShare imageSrc="/img/rabbits/rvhd2-vaccination.png" />
+
 ## Symptoms and Transmission
 
 The incubation period for RHDV2 is typically three to nine days [2]. When symptoms do appear, they can be vague and progress rapidly. They include:

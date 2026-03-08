@@ -20,6 +20,8 @@ Guinea pigs need ample, uninterrupted floor space to run, explore, and exhibit n
     <figcaption>Key components of a well-designed guinea pig enclosure.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-habitat-diagram.png" />
+
 ## Cage Type: C&C Cages are the Gold Standard
 
 C&C (Cubes and Coroplast) cages are widely recommended by guinea pig rescues and experts as the ideal form of housing. They consist of wire storage grids that form the walls and a corrugated plastic (Coroplast) liner that forms the base.
@@ -44,7 +46,7 @@ Every guinea pig habitat should include these key elements:
     *   **Water Bottle:** A sipper bottle is the best way to provide fresh, clean water. Check it daily to ensure it is working correctly and the water is fresh.
 
 4.  **Enrichment:** To keep your guinea pigs mentally stimulated, provide safe toys and items to explore.
-    *   **Safe Toys:** Tunnels, cardboard tubes (with a slit cut lengthwise), and chew toys made from untreated apple wood or willow are great options. For more ideas, see our article on [Dangerous Treats and Toys for Guinea Pigs](./dangerous-treats-and-toys).
+    *   **Safe Toys:** Tunnels, cardboard tubes (with a slit cut lengthwise), and chew toys made from untreated apple wood or willow are great options. For more ideas, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats-and-toys).
 
 ## Location and Temperature
 

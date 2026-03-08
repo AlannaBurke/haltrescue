@@ -10,6 +10,8 @@ A well-designed habitat is crucial for the health, happiness, and safety of your
 
 ![An infographic showing the ideal cage setup for pet rats, including dimensions, bedding, and enrichment items.](/img/rats/rat-habitat-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-habitat-guide.png" />
+
 ## Choosing the Right Cage
 
 The cage is the foundation of your rats' environment. It needs to be spacious, secure, and easy to clean.

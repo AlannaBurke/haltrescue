@@ -10,6 +10,8 @@ Proper nutrition is the cornerstone of your pet rat's health and longevity. As o
 
 ![An infographic detailing the proper diet for a pet rat, including pellets, fresh foods, and items to avoid.](/img/rats/rat-nutrition-guide.png)
 
+<InfographicShare imageSrc="/img/rats/rat-nutrition-guide.png" />
+
 ## The Foundation: High-Quality Lab Blocks
 
 The bulk of your rat's diet (80-90%) should consist of a high-quality, commercially produced rodent chow, often referred to as lab blocks or pellets [1]. These blocks are specially formulated to be nutritionally complete, ensuring your rat gets the right balance of protein, fat, and essential vitamins and minerals.

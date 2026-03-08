@@ -11,6 +11,7 @@ import MDXComponents from '@theme-original/MDXComponents';
 import Caption from '@site/src/components/Caption';
 import SensitiveImage from '@site/src/components/SensitiveImage';
 import SupportUs from '@site/src/components/SupportUs';
+import InfographicShare from '@site/src/components/InfographicShare';
 
 export default {
   // Spread all the original Docusaurus MDX components
@@ -19,4 +20,5 @@ export default {
   Caption,
   SensitiveImage,
   SupportUs,
+  InfographicShare,
 };

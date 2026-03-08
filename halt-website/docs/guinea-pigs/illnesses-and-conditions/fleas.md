@@ -13,6 +13,8 @@ Fleas are common parasites that can affect various pets, including guinea pigs. 
     <figcaption>Knowing which flea treatments are safe is critical, as many common products are toxic to guinea pigs.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-flea-treatment.png" />
+
 ## How Do Guinea Pigs Get Fleas?
 
 Guinea pigs typically get fleas from another household pet that has them. The most common flea found on cats and dogs, *Ctenocephalides felis*, can happily infest a guinea pig [1]. Transmission can also occur from:

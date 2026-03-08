@@ -45,6 +45,8 @@ While hay is the staple, pellets and fresh greens provide essential vitamins and
 
 ![Rabbit Safe and Unsafe Foods infographic showing safe vegetables, fruits, and foods to avoid](/img/rabbits/rabbit-safe-foods.png)
 
+<InfographicShare imageSrc="/img/rabbits/rabbit-safe-foods.png" />
+
 :::tip
 **Safe greens for rabbits include:** romaine lettuce, kale, cilantro, parsley, basil, and bok choy. **Avoid:** iceberg lettuce, spinach (in large amounts), and any plant from the onion family. Introduce new greens one at a time and watch for soft stools.
 :::

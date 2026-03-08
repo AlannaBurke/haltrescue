@@ -17,6 +17,8 @@ Many human foods and even some vegetables are toxic or unhealthy for guinea pigs
     <figcaption>A guide to foods that are toxic or unhealthy for guinea pigs.</figcaption>
 </figure>
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-dangerous-foods.png" />
+
 *   **Meat and Dairy:** As herbivores, guinea pigs cannot digest animal products. This includes all meat, eggs, cheese, and milk.
 *   **Chocolate, Coffee, and Caffeine:** These are highly toxic to most pets, including guinea pigs.
 *   **Onions, Garlic, and Chives:** All members of the allium family are poisonous to guinea pigs.
@@ -28,7 +30,7 @@ Many human foods and even some vegetables are toxic or unhealthy for guinea pigs
 *   **Mushrooms:** Many varieties of mushrooms are toxic.
 *   **Sugary or Processed Foods:** Any food high in sugar, salt, or artificial ingredients (including most human snack foods) is unhealthy and can disrupt their delicate digestive system.
 
-For a complete guide to a healthy diet, see our article on [Nutrition Information for Guinea Pigs](./nutrition-information).
+For a complete guide to a healthy diet, see our article on [Nutrition Information for Guinea Pigs](../getting-started/nutrition-information).
 
 ## Unsafe Toys and Chews
 
