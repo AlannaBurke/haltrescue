@@ -43,8 +43,6 @@ function HomepageHeader() {
           alt="Adorable illustration of a rabbit, guinea pigs, chinchilla, and hamster peeking through flowers"
           className="halt-hero-banner"
           loading="eager"
-          width="820"
-          height="348"
         />
       </div>
     </header>
