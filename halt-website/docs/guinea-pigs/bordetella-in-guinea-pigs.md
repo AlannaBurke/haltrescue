@@ -16,7 +16,7 @@ Guinea pigs can contract *Bordetella* from other animals, which is a primary rea
 *   **From Other Guinea Pigs:** The bacteria can spread quickly between guinea pigs through direct contact or airborne droplets.
 
 <figure>
-    <img src="./img/gp-bordetella-warning.png" alt="Infographic about Bordetella in guinea pigs"/>
+    <img src="/img/guinea-pigs/gp-bordetella-warning.png" alt="Infographic about Bordetella in guinea pigs"/>
     <figcaption>A guide to the warning signs, transmission risks, and prevention of Bordetella.</figcaption>
 </figure>
 

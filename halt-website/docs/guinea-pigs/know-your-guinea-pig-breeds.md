@@ -10,7 +10,7 @@ From the sleek and smooth to the curly and long-haired, guinea pigs come in a wo
 Understanding the differences, especially in coat type, is key to providing the right care for your cavy companion.
 
 <figure>
-    <img src="./img/guinea-pig-breeds-chart.png" alt="Chart of various guinea pig breeds"/>
+    <img src="/img/guinea-pigs/guinea-pig-breeds-chart.png" alt="Chart of various guinea pig breeds"/>
     <figcaption>A look at some of the diverse guinea pig breeds. Image courtesy of Top Wing Pets.</figcaption>
 </figure>
 

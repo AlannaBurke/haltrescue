@@ -12,7 +12,7 @@ Grooming is an essential part of responsible guinea pig care that goes beyond ju
 Different grooming tasks need to be performed at different intervals. Here is a helpful guide to keep your guinea pig clean, comfortable, and healthy.
 
 <figure>
-    <img src="./img/gp-grooming-guide.png" alt="Guinea Pig Grooming Schedule Infographic"/>
+    <img src="/img/guinea-pigs/gp-grooming-guide.png" alt="Guinea Pig Grooming Schedule Infographic"/>
     <figcaption>A guide to daily, weekly, monthly, and as-needed grooming tasks.</figcaption>
 </figure>
 

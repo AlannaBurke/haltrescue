@@ -17,7 +17,7 @@ At its core, every guinea pig coat color is built from two primary pigments:
 A third possibility is a complete lack of pigment, which results in white fur. This isn't caused by a "white" pigment but rather by genes that block the production or expression of eumelanin and phaeomelanin [1].
 
 <figure>
-    <img src="./img/gp-coat-color-genetics.png" alt="Infographic explaining the basics of guinea pig coat color genetics, including pigments, key genes, and common patterns."/>
+    <img src="/img/guinea-pigs/gp-coat-color-genetics.png" alt="Infographic explaining the basics of guinea pig coat color genetics, including pigments, key genes, and common patterns."/>
     <figcaption>A guide to the fundamental genetic components that determine guinea pig coat colors and patterns.</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ This **RnRn** combination results in a condition known as "lethal white syndrome
 *   **Shortened Lifespan:** Most lethal white pups die shortly after birth or must be humanely euthanized.
 
 <figure>
-    <img src="./img/gp-lethal-white-punnett.png" alt="A Punnett square diagram showing the 25% chance of producing a lethal white pup when breeding two roan guinea pigs."/>
+    <img src="/img/guinea-pigs/gp-lethal-white-punnett.png" alt="A Punnett square diagram showing the 25% chance of producing a lethal white pup when breeding two roan guinea pigs."/>
     <figcaption>This Punnett square illustrates the genetic probability of producing a lethal white (RR), a roan carrier (Rr), and a non-roan (rr) from a roan-to-roan breeding.</figcaption>
 </figure>
 

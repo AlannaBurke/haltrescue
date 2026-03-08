@@ -12,7 +12,7 @@ Dental disease is one of the most common and serious health problems affecting g
 Guinea pigs have 20 teeth in total: a pair of upper and lower incisors (front teeth) and four pairs of upper and lower cheek teeth (premolars and molars). All of these teeth are "open-rooted," meaning they never stop growing [1]. This constant growth is managed in a healthy guinea pig by the grinding action of chewing on high-fiber foods, primarily hay. When this natural wearing process is disrupted, the teeth can become overgrown, leading to a cascade of health issues.
 
 <figure>
-    <img src="./img/dental-disease-xray.jpg" alt="X-ray of a guinea pig with dental disease"/>
+    <img src="/img/guinea-pigs/dental-disease-xray.jpg" alt="X-ray of a guinea pig with dental disease"/>
     <figcaption>X-ray showing elongated tooth roots in a guinea pig with advanced dental disease. Image courtesy of Vet Central.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Guinea pigs are prey animals and will often hide signs of pain or illness until 
 *   **Lethargy or Behavioral Changes:** Hiding more than usual, irritability, or a reluctance to move.
 
 <figure>
-    <img src="./img/overgrown-molars.jpg" alt="Overgrown molars in a guinea pig"/>
+    <img src="/img/guinea-pigs/overgrown-molars.jpg" alt="Overgrown molars in a guinea pig"/>
     <figcaption>A clinical view of overgrown lower molars entrapping the tongue. Image courtesy of Vet Times.</figcaption>
 </figure>
 
