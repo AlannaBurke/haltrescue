@@ -1,6 +1,6 @@
 /* ─── Page wrapper ────────────────────────────────────────────────────────── */
-.generatedIndexPage {
-  max-width: 900px;
+.pageWrapper {
+  /* No extra padding — let the inner component handle its own layout */
 }
 
 /* ─── Hero Banner ─────────────────────────────────────────────────────────── */
@@ -9,7 +9,7 @@
   width: 100%;
   border-radius: 20px;
   overflow: hidden;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
   aspect-ratio: 16 / 5;
   background: var(--ifm-color-primary-lightest, #e0f5f6);
@@ -62,9 +62,12 @@
   line-height: 1.5;
 }
 
-/* ─── Card list ───────────────────────────────────────────────────────────── */
-.list {
-  /* inherits DocCardList default styles */
+/* ─── Content wrapper: hide the duplicate h1 and description ─────────────── */
+/* The original component renders its own <h1> and <p> inside <header>.
+   Since we've already rendered them in the hero overlay, we hide the originals.
+   The generated class names use CSS Modules hashing so we target the <header> tag directly. */
+.contentWrapper :global(header) {
+  display: none;
 }
 
 /* ─── Dark mode ───────────────────────────────────────────────────────────── */
