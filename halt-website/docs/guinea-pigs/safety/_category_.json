@@ -1,6 +1,10 @@
 {
-    "label": "Safety",
-    "position": 5,
-    "collapsed": true,
-    "collapsible": true
+  "label": "Safety",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Guinea pig safety guides \u2014 cage safety, toxic plants, and hazard prevention."
+  }
 }

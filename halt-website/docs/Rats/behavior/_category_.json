@@ -1,1 +1,9 @@
-{"label": "Behavior & Social", "position": 5, "collapsed": true}
+{
+  "label": "Behavior & Social",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Understanding rat behavior, socialization, and enrichment."
+  }
+}

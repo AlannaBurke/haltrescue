@@ -1,1 +1,9 @@
-{"label": "Health & Wellness", "position": 2, "collapsed": true}
+{
+  "label": "Health & Wellness",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Health and wellness guides for rabbits, including preventive care and routine vet visits."
+  }
+}

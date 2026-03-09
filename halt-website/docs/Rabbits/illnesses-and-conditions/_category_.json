@@ -1,1 +1,9 @@
-{"label": "Illnesses & Conditions", "position": 3, "collapsed": true}
+{
+  "label": "Illnesses & Conditions",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Information on common illnesses and health conditions in rabbits."
+  }
+}

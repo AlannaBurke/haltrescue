@@ -1,1 +1,9 @@
-{"label": "Safety", "position": 4, "collapsed": true}
+{
+  "label": "Safety",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Rabbit safety guides \u2014 bunny-proofing, toxic plants, and hazard prevention."
+  }
+}

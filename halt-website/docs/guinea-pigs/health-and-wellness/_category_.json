@@ -1,6 +1,10 @@
 {
-    "label": "Health & Wellness",
-    "position": 3,
-    "collapsed": true,
-    "collapsible": true
+  "label": "Health & Wellness",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Health and wellness guides for guinea pigs, including preventive care and routine vet visits."
+  }
 }
