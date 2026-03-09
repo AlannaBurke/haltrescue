@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Grooming Your Guinea Pig'
 sidebar_position: 3
-tags: [guinea pig, grooming, care, nails, skin, coat]
+tags: [guinea pig, grooming, care, nails, skin health, coat]
 ---
 
 # Grooming Your Guinea Pig

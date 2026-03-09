@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Heart Disease and Heart Failure'
 sidebar_position: 1
-tags: [chinchilla, heart disease, illness, veterinary, care]
+tags: [chinchilla, heart disease, illnesses, veterinary, care]
 ---
 
 # Heart Disease and Heart Failure in Chinchillas

@@ -2,7 +2,7 @@
 sidebar_position: 5
 title: Neurologic Issues in Rabbits
 description: A guide to neurological conditions in rabbits — causes, symptoms, diagnosis, treatment, and care for rabbits with neurologic disease.
-tags: [rabbits, neurologic, health, illnesses, head tilt, e-cuniculi]
+tags: [rabbits, neurological, health, illnesses, head tilt, e-cuniculi]
 ---
 
 # Neurologic Issues in Rabbits

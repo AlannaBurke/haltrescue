@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Satin Syndrome'
 sidebar_position: 8
-tags: [guinea pig, satin syndrome, genetic, illness, special needs, care]
+tags: [guinea pig, satin syndrome, genetic, illnesses, special needs, care]
 ---
 
 # Satin Syndrome in Guinea Pigs

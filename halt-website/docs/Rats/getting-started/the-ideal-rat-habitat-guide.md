@@ -1,7 +1,7 @@
 ---
 sidebar_label: The Ideal Rat Habitat
 sidebar_position: 2
-tags: [rat, habitat, cage, care, environment, enrichment, health, bedding, social, housing]
+tags: [rat, habitat, cage, care, environment, enrichment, health, bedding, socialization, housing]
 ---
 
 # Creating the Ideal Habitat for Your Pet Rats

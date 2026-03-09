@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Max Factor'
 sidebar_position: 1
-tags: [rabbit, max factor, genetic, disability, special needs, care]
+tags: [rabbits, max factor, genetic, disability, special needs, care]
 ---
 
 # Max Factor Rabbits

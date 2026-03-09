@@ -1,7 +1,7 @@
 ---
 sidebar_label: Rat Introductions
 sidebar_position: 5
-tags: [rat, introductions, social behavior, care, health, aggression, quarantine, pet care]
+tags: [rat, introductions, socialization, care, health, aggression, quarantine, pet health]
 ---
 
 # A Guide to Safe and Successful Rat Introductions

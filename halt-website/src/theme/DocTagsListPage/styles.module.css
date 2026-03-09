@@ -7,7 +7,7 @@
 
 /* ─── Page Header ─────────────────────────────────────────────────────────── */
 .pageHeader {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
   text-align: center;
 }
 
@@ -24,12 +24,151 @@
   margin: 0;
 }
 
+/* ─── Controls bar (search + sort) ───────────────────────────────────────── */
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.searchWrapper {
+  position: relative;
+  flex: 1 1 220px;
+  min-width: 180px;
+}
+
+.searchIcon {
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.9rem;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.55rem 0.75rem 0.55rem 2.2rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 999px;
+  font-size: 0.95rem;
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.searchInput:focus {
+  border-color: var(--ifm-color-primary);
+}
+
+.sortWrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.sortLabel {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
+  white-space: nowrap;
+}
+
+.sortSelect {
+  padding: 0.5rem 0.75rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.sortSelect:focus {
+  border-color: var(--ifm-color-primary);
+}
+
+/* ─── Filter pills ────────────────────────────────────────────────────────── */
+.filterBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.filterPill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-color);
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.filterPill:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  background: var(--ifm-color-primary-lightest, #e0f5f6);
+}
+
+.filterPillActive {
+  background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.filterPillActive:hover {
+  background: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+  color: #fff;
+}
+
+.filterPillCount {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.3rem;
+  height: 1.3rem;
+  padding: 0 0.3rem;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.12);
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.filterPillActive .filterPillCount {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* ─── Results count ───────────────────────────────────────────────────────── */
+.resultsCount {
+  font-size: 0.88rem;
+  color: var(--ifm-color-emphasis-600);
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
 /* ─── Tags Grid ───────────────────────────────────────────────────────────── */
 .tagsGrid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 1.5rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 /* ─── Tag Card ────────────────────────────────────────────────────────────── */
@@ -121,6 +260,35 @@
   flex-shrink: 0;
 }
 
+/* ─── Empty state ─────────────────────────────────────────────────────────── */
+.emptyState {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.emptyState p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.clearButton {
+  padding: 0.5rem 1.5rem;
+  border-radius: 999px;
+  border: 2px solid var(--ifm-color-primary);
+  background: transparent;
+  color: var(--ifm-color-primary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.clearButton:hover {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
 /* ─── Dark mode ───────────────────────────────────────────────────────────── */
 [data-theme='dark'] .tagCard {
   background: var(--ifm-background-surface-color);
@@ -132,6 +300,20 @@
   color: var(--ifm-color-primary-light);
 }
 
+[data-theme='dark'] .searchInput,
+[data-theme='dark'] .sortSelect {
+  border-color: var(--ifm-color-emphasis-400);
+}
+
+[data-theme='dark'] .filterPill {
+  border-color: var(--ifm-color-emphasis-400);
+  color: var(--ifm-color-emphasis-500);
+}
+
+[data-theme='dark'] .filterPill:hover {
+  background: rgba(15, 138, 147, 0.15);
+}
+
 /* ─── Mobile ──────────────────────────────────────────────────────────────── */
 @media (max-width: 768px) {
   .tagsGrid {
@@ -141,6 +323,15 @@
 
   .pageTitle {
     font-size: 1.75rem;
+  }
+
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .sortWrapper {
+    justify-content: flex-end;
   }
 }
 

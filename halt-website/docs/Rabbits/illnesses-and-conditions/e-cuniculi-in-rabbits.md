@@ -2,7 +2,7 @@
 sidebar_position: 3
 title: E. cuniculi in Rabbits
 description: A comprehensive guide to Encephalitozoon cuniculi in rabbits — transmission, signs, diagnosis, treatment, and prevention of this common neurological parasite.
-tags: [rabbits, e-cuniculi, parasites, neurologic, illnesses]
+tags: [rabbits, e-cuniculi, parasites, neurological, illnesses]
 ---
 
 # E. cuniculi in Rabbits

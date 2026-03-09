@@ -1,7 +1,7 @@
 ---
 sidebar_label: Essential Supplies
 sidebar_position: 2
-tags: [rabbit, care, supplies, housing, nutrition, health, veterinary, grooming, behavior, enrichment, dental care, illness, diet]
+tags: [rabbits, care, supplies, housing, nutrition, health, veterinary, grooming, behavior, enrichment, dental disease, illnesses, diet]
 ---
 
 # Essential Supplies for Your Rabbit Companion

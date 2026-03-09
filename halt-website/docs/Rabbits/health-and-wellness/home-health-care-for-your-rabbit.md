@@ -2,7 +2,7 @@
 title: Home Health Care for Your Rabbit
 sidebar_label: Home Health Care for Your Rabbit
 sidebar_position: 4
-tags: [rabbit, home care, health, grooming, nutrition, dental, digestive, skin, veterinary]
+tags: [rabbits, home care, health, grooming, nutrition, dental, digestive, skin health, veterinary]
 ---
 
 Caring for a rabbit can be a deeply rewarding experience, bringing joy and companionship to your home. These intelligent and social creatures, capable of living up to 12–15 years, thrive with proper care and attention [1]. Understanding their unique needs — from diet to dental health and disease prevention — is crucial for ensuring a long and happy life for your furry friend. This guide walks you through essential aspects of home health care for your rabbit.
