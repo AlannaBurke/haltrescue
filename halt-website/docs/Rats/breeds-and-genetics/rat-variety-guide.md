@@ -1,7 +1,7 @@
 ---
 sidebar_label: Rat Variety Guide
 sidebar_position: 1
-tags: [rat, fancy rat, rat varieties, pet care, small animal, rodent, husbandry, health, behavior, nutrition, housing]
+tags: [rat, fancy rat, rat varieties, pet health, small animal, rodent, husbandry, health, behavior, nutrition, housing]
 ---
 
 # A Guide to Fancy Rat Varieties

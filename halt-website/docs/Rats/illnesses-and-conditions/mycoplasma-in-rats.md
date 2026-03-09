@@ -1,7 +1,7 @@
 ---
 sidebar_label: Mycoplasma
 sidebar_position: 1
-tags: [rat, mycoplasma, respiratory disease, chronic respiratory disease, murine respiratory mycoplasmosis, M. pulmonis, pet health, veterinary, treatment, symptoms, small animal rescue]
+tags: [rat, mycoplasma, respiratory, chronic respiratory disease, murine respiratory mycoplasmosis, M. pulmonis, pet health, veterinary, treatment, symptoms, small animal]
 ---
 
 # Mycoplasma in Rats: An Essential Guide

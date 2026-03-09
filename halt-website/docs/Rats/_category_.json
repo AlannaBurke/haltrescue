@@ -1,5 +1,9 @@
 {
-    "label": "Rats",
-    "position": 6,
-    "collapsed": true
+  "label": "Rats",
+  "position": 9,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care guides, health information, and resources for pet rat owners."
+  }
 }

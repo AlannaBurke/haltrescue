@@ -1,6 +1,6 @@
 ---
 title: GI Issues in Rabbits
-tags: [rabbit, gastrointestinal, GI stasis, diarrhea, bloat, hairball, obstruction, diet, veterinary, emergency]
+tags: [rabbits, gastrointestinal, GI stasis, diarrhea, bloat, hairball, obstruction, diet, veterinary, emergency]
 sidebar_label: GI Issues in Rabbits
 sidebar_position: 5
 ---

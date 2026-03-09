@@ -1,5 +1,9 @@
 {
-    "label": "Ferrets",
-    "position": 3,
-    "collapsed": true
+  "label": "Ferrets",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care guides, health information, and resources for ferret owners."
+  }
 }

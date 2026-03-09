@@ -1,7 +1,7 @@
 ---
 sidebar_label: Fly Strike
 sidebar_position: 1
-tags: [rabbit, flystrike, myiasis, veterinary, pet care, prevention, health, emergency]
+tags: [rabbits, flystrike, myiasis, veterinary, pet health, prevention, health, emergency]
 ---
 
 # Fly Strike (Myiasis) in Rabbits: A Veterinary Emergency

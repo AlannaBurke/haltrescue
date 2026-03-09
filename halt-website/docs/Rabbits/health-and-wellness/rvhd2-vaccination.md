@@ -1,7 +1,7 @@
 ---
 sidebar_label: RVHD2 Vaccination
 sidebar_position: 3
-tags: [rabbit, RVHD2, vaccination, disease, veterinary, pet health, hemorrhagic disease]
+tags: [rabbits, RVHD2, vaccination, disease, veterinary, pet health, hemorrhagic disease]
 ---
 
 # The Importance of Vaccinating Your Rabbit Against RVHD2

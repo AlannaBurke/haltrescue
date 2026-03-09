@@ -1,7 +1,7 @@
 ---
 sidebar_label: Respiratory Infections (URIs)
 sidebar_position: 2
-tags: [rat, respiratory infection, URI, mycoplasma, pneumonia, pet health, veterinary, care guide, prevention, symptoms, treatment]
+tags: [rat, respiratory, URI, mycoplasma, pneumonia, pet health, veterinary, care guide, prevention, symptoms, treatment]
 ---
 
 # A Guide to Respiratory Infections (URIs) in Rats
