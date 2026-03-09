@@ -1,6 +1,10 @@
 {
-    "label": "Breeds & Genetics",
-    "position": 2,
-    "collapsed": true,
-    "collapsible": true
+  "label": "Breeds & Genetics",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Guinea pig breeds, coat types, color genetics, and variety information."
+  }
 }
