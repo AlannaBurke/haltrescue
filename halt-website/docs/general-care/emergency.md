@@ -1,5 +1,4 @@
 ---
-sidebar_position: 1
 sidebar_label: 'Emergency Preparedness'
 sidebar_position: 2
 ---
@@ -45,7 +44,7 @@ sidebar_position: 2
   - __Inspect Your Home__: Before allowing your pets to roam freely, inspect the area for hazards such as broken glass, exposed wires, or standing water.
   - __Behavior Changes__: Pets may be anxious, agitated, or even aggressive after a traumatic event. Provide them with patience and a safe, calm environment as they readjust.
 
-## [>Download our Emergency Preparedness Printable Checklist](/emergencychecklist.pdf)
+## [>Download our Emergency Preparedness Printable Checklist](pathname:///emergencychecklist.pdf)
 
 
 By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster.
