@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in Massachusetts'
+sidebar_position: 2
+---
+
 # Report Pet Store Neglect in Massachusetts
 
 ## **1\. Who investigates animal cruelty in Massachusetts?**

@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in New Hampshire'
+sidebar_position: 3
+---
+
 # Report Pet Store Neglect in New Hampshire
 
 ### **1\. Who to contact & oversight**

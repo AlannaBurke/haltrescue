@@ -1,6 +1,6 @@
 ---
-sidebar_position: 4
 sidebar_label: 'The Importance of Spaying and Neutering Your Pets'
+sidebar_position: 5
 ---
 
 # The Importance of Spaying and Neutering Your Pets

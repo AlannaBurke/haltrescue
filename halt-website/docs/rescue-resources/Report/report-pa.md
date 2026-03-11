@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in Pennsylvania'
+sidebar_position: 6
+---
+
 # Report Pet Store Neglect in Pennsylvania
 
 ## **1\. Oversight & jurisdiction for small animals in Pennsylvania**
