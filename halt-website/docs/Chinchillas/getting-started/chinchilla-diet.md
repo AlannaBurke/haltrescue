@@ -3,6 +3,9 @@ sidebar_label: 'Nutrition and Diet'
 sidebar_position: 1
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Chinchilla Nutrition and Diet
 
 A chinchilla's digestive system is incredibly sensitive and has evolved to process a diet of sparse, high-fiber vegetation. Providing a species-appropriate diet is the single most important thing you can do to ensure your chinchilla lives a long, healthy life. This guide covers the essential components of a healthy chinchilla diet.
@@ -89,3 +92,6 @@ Fresh, clean water must be available at all times. A sipper bottle is the best w
 [7] UK Pet Food. "Chinchilla care & nutrition." [https://www.ukpetfood.org/pet-care-advice/advice-for-small-mammals/chinchilla-care-nutrition.html](https://www.ukpetfood.org/pet-care-advice/advice-for-small-mammals/chinchilla-care-nutrition.html)
 
 [8] Small Pet Select. "Safe Treats for Chinchillas: What is Good, What to Avoid." [https://smallpetselect.com/safe-treats-for-chinchillas/](https://smallpetselect.com/safe-treats-for-chinchillas/)
+
+<VetDisclaimer />
+

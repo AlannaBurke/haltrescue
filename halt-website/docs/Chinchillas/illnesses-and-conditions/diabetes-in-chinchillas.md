@@ -6,6 +6,9 @@ sidebar_position: 2
 tags: [chinchillas, diabetes, health, illnesses, diet]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Diabetes in Chinchillas
 
 Diabetes mellitus is relatively uncommon in chinchillas compared to some other small mammals, but when it does occur it poses significant health challenges. Chinchillas have a physiology that makes them sensitive to high-sugar diets, and dietary mismanagement is considered a primary contributing factor. Early recognition and appropriate management can significantly improve quality of life.
@@ -88,6 +91,9 @@ The best prevention is a species-appropriate diet from the start:
 - Maintain a **healthy body weight** — you should be able to feel but not see the ribs
 
 > For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/chinchilla-diet).
+
+
+<VetDisclaimer />
 
 ## References
 

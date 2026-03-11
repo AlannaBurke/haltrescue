@@ -3,6 +3,9 @@ sidebar_label: 'Home Health Care'
 sidebar_position: 1
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Home Health Care for Your Chinchilla
 
 Chinchillas are masters at hiding illness, a survival instinct inherited from their wild ancestors. This means that by the time a chinchilla shows obvious signs of being sick, they may have been unwell for some time. Performing regular health checks at home is one of the most effective ways to catch potential problems early. This guide will walk you through how to conduct a gentle, thorough health check for your chinchilla.
@@ -97,3 +100,6 @@ If your home health check reveals any of the "Red Flags" listed above, it is imp
 [4] Chinchillas as Pets. "Health Check and Basic First Aid Kit." [https://www.chinchillasaspets.com/health-check-basic-first-aid.html](https://www.chinchillasaspets.com/health-check-basic-first-aid.html)
 
 [5] PDSA. "Chinchilla Health." [https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health)
+
+<VetDisclaimer />
+

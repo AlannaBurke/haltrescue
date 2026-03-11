@@ -4,6 +4,9 @@ sidebar_position: 1
 tags: [rabbits, flystrike, myiasis, veterinary, pet health, prevention, health, emergency]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Fly Strike (Myiasis) in Rabbits: A Veterinary Emergency
 
 Fly strike, also known as myiasis, is a devastating and rapidly progressing condition that is a true veterinary emergency. It occurs when flies, typically blowflies, lay eggs on a rabbit. These eggs hatch into maggots, which then burrow into the rabbit's skin and feed on its flesh. This can lead to shock, severe infection, and death in as little as 24 hours [1].
@@ -50,6 +53,9 @@ Daily checks are essential, especially during warmer months.
 *   **Manage Diet:** A proper high-fiber diet prevents obesity and soft stools, reducing the risk of a soiled rear end.
 *   **Fly Control:** Use fly screens on outdoor hutches and consider using rabbit-safe fly repellents as recommended by your vet.
 *   **Regular Vet Checkups:** Regular exams can help identify and manage underlying issues like dental disease or arthritis before they lead to fly strike.
+
+
+<VetDisclaimer />
 
 ## References
 

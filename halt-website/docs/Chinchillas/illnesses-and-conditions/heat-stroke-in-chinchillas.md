@@ -5,6 +5,9 @@ sidebar_label: Heat Stroke
 tags: [chinchillas, heat stroke, hyperthermia, emergency, health, illnesses]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Heat Stroke in Chinchillas
 
 Chinchillas are native to the cool, arid highlands of the Andes Mountains in South America, where temperatures rarely exceed 60°F (15°C). Their exceptionally dense fur — one of the thickest of any land mammal — provides excellent insulation against cold but makes it extremely difficult for them to dissipate heat. This makes chinchillas **highly vulnerable to heat stroke**, which can be fatal within minutes if not recognized and treated immediately.
@@ -83,6 +86,9 @@ Freeze a ceramic tile or a small water bottle wrapped in a cloth and place it in
 :::
 
 > For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
+
+
+<VetDisclaimer />
 
 ## References
 

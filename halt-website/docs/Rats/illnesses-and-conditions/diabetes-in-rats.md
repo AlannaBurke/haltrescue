@@ -4,6 +4,9 @@ sidebar_position: 8
 tags: [rat, diabetes, endocrine, health, veterinary, care, symptoms, treatment]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Diabetes in Rats
 
 Diabetes Mellitus is a condition in which the body either fails to produce enough insulin or cannot use it effectively, resulting in persistently high blood sugar (hyperglycemia). While not common in pet rats, it does occur — particularly in older or overweight individuals — and requires prompt veterinary attention and a committed management plan. Understanding the signs, how diagnosis works, and what treatment looks like can make a significant difference for an affected rat [1][2].
@@ -68,6 +71,9 @@ Early diagnosis and consistent management provide the best chance of a good qual
 Caring for a diabetic rat is a significant commitment, but it is a manageable one. With close attention to diet, regular veterinary check-ups, and a consistent management plan, your rat can continue to live a happy and fulfilling life. Always work closely with your veterinarian to ensure your rat receives the best possible care.
 
 ---
+
+
+<VetDisclaimer />
 
 ## References
 

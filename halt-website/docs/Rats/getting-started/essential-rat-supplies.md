@@ -5,6 +5,9 @@ sidebar_position: 2
 tags: [rat, getting started, supplies, cage, bedding, nutrition, enrichment, hygiene]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 Bringing pet rats home requires some preparation. Rats are intelligent, social animals with specific needs, and having the right supplies in place before they arrive will make the transition much smoother for both you and your new companions. This guide covers everything you need to set up a safe, comfortable, and enriching home for your rats.
 
 ## Housing: The Right Cage
@@ -60,6 +63,9 @@ Keep a small stock of supplies on hand: extra bedding, a spare water bottle, and
 ## Cross-Referencing Other Articles
 
 For more detail on what to feed your rats, see our [Rat Nutrition Guide](./rat-nutrition-guide). For housing setup specifics, visit [The Ideal Rat Habitat](./the-ideal-rat-habitat-guide).
+
+
+<VetDisclaimer />
 
 ## References
 

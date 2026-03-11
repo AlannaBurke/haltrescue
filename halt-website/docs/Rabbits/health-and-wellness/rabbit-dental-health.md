@@ -3,6 +3,9 @@ sidebar_label: 'Dental Health'
 sidebar_position: 2
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # A Guide to Rabbit Dental Health
 
 Dental health is one of the most critical aspects of a rabbit's overall well-being. Unlike humans, a rabbit's teeth grow continuously throughout their life. A proper diet and regular monitoring are essential to prevent painful and life-threatening dental disease. This guide covers the fundamentals of rabbit dental anatomy, common problems, and preventative care.
@@ -91,3 +94,6 @@ By providing a proper diet and being observant of any changes in your rabbit's b
 [5] PetMD. "How To Care for Rabbit Teeth." [https://www.petmd.com/rabbit/how-care-rabbit-teeth](https://www.petmd.com/rabbit/how-care-rabbit-teeth)
 
 [6] Blue Cross. "Give your chinchilla a health check." [https://www.youtube.com/watch?v=UyFmRsSJn_c](https://www.youtube.com/watch?v=UyFmRsSJn_c)
+
+<VetDisclaimer />
+

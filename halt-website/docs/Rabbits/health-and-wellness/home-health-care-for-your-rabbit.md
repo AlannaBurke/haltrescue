@@ -5,6 +5,9 @@ sidebar_position: 4
 tags: [rabbits, home care, health, grooming, nutrition, dental, digestive, skin health, veterinary]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 Caring for a rabbit can be a deeply rewarding experience, bringing joy and companionship to your home. These intelligent and social creatures, capable of living up to 12–15 years, thrive with proper care and attention [1]. Understanding their unique needs — from diet to dental health and disease prevention — is crucial for ensuring a long and happy life for your furry friend. This guide walks you through essential aspects of home health care for your rabbit.
 
 ## Creating a Safe and Stimulating Environment
@@ -66,6 +69,9 @@ Nail trims are typically needed every 4–8 weeks [3]. For light-colored nails, 
 Recognizing the subtle signs of illness in rabbits is crucial. Any significant change in eating habits, lethargy, unusual behavior, or absence of droppings warrants a prompt visit to a rabbit-savvy veterinarian. Early intervention can make a significant difference in the outcome of many conditions.
 
 For more information on related topics, see our articles on [GI Issues in Rabbits](../illnesses-and-conditions/gi-issues-in-rabbits) and [RVHD2 Vaccination](../illnesses-and-conditions/rvhd2-vaccination).
+
+
+<VetDisclaimer />
 
 ## References
 

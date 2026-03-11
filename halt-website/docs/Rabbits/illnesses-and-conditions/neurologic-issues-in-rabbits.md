@@ -5,6 +5,9 @@ description: A guide to neurological conditions in rabbits — causes, symptoms,
 tags: [rabbits, neurological, health, illnesses, head tilt, e-cuniculi]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Neurologic Issues in Rabbits
 
 Neurological problems in rabbits can be alarming to witness and challenging to manage. Conditions affecting the brain, spinal cord, or peripheral nervous system may present suddenly or develop gradually, and they range from fully treatable to chronic and managed long-term. Understanding the most common causes and what to do when signs appear can make a significant difference in your rabbit's outcome.
@@ -100,6 +103,9 @@ Prognosis varies widely by cause:
 - **Spinal injury** — variable; depends on severity; some rabbits regain function with rest and time
 - **Stroke** — variable; many rabbits improve over weeks with supportive care
 - **Spinal fracture with complete paralysis** — poor prognosis; quality of life assessment required
+
+
+<VetDisclaimer />
 
 ## References
 

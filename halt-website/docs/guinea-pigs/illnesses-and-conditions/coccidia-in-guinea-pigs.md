@@ -5,6 +5,9 @@ sidebar_label: Coccidia
 tags: [guinea pigs, coccidia, parasites, health, illnesses]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Coccidia in Guinea Pigs
 
 **Coccidia** are microscopic, single-celled parasites that can infect the intestinal tract of guinea pigs, causing a condition called **coccidiosis**. While healthy adult guinea pigs may carry coccidia without showing symptoms, young, stressed, or immunocompromised animals can develop serious illness. Understanding how coccidia spreads and how to prevent it is key to keeping your guinea pig healthy.
@@ -81,6 +84,9 @@ Steam cleaning is one of the most effective ways to kill coccidia oocysts in the
 :::
 
 > For more on keeping your guinea pig's environment clean and safe, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
+
+
+<VetDisclaimer />
 
 ## References
 

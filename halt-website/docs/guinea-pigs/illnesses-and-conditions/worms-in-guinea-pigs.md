@@ -5,6 +5,9 @@ description: A guide to intestinal worm infestations in guinea pigs — types, s
 tags: [guinea pigs, worms, parasites, intestinal parasites, health, illnesses]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Worms in Guinea Pigs
 
 Intestinal worms (helminths) are internal parasites that can infect guinea pigs, though they are less common than external parasites like mites and lice. Worm infestations are typically picked up through contaminated food, water, bedding, or contact with infected animals. Early detection and treatment are important to prevent serious health complications.
@@ -96,6 +99,9 @@ Good husbandry is the most effective way to prevent worm infestations:
 - **Prevent access to soil** where wild animal feces may be present
 
 > For a broader overview of parasites affecting guinea pigs, see our [Parasites in Guinea Pigs](./parasites-in-guinea-pigs) article.
+
+
+<VetDisclaimer />
 
 ## References
 

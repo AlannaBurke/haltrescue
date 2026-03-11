@@ -5,6 +5,9 @@ description: A guide to diabetes in pet mice — causes, symptoms, diagnosis, an
 tags: [mice, diabetes, health, illnesses, metabolic]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Diabetes in Pet Mice
 
 Diabetes is a chronic metabolic condition that can affect pet mice, though it is less commonly diagnosed than in some other small animals. Because mice are small and adept at hiding signs of illness, diabetes can go undetected until it has progressed significantly. Understanding the signs and risk factors helps owners seek veterinary care early and manage the condition effectively.
@@ -98,6 +101,9 @@ There is no cure for diabetes in mice, but the condition can be managed to impro
 ## Prognosis
 
 With dietary management and regular monitoring, diabetic mice can maintain a reasonable quality of life. However, because mice have short lifespans (2–3 years), diabetes is often a late-life condition and may progress relatively quickly. Early detection and consistent management give the best outcomes.
+
+
+<VetDisclaimer />
 
 ## References
 
