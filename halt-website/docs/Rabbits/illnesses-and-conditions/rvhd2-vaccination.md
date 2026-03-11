@@ -3,6 +3,9 @@ sidebar_label: 'RVHD2 Vaccination'
 sidebar_position: 1
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Understanding and Preventing RHDV2 in Rabbits
 
 Rabbit Hemorrhagic Disease Virus 2 (RHDV2) is a highly contagious and often fatal virus that affects both domestic and wild rabbits. It is a newer, more aggressive strain of Rabbit Hemorrhagic Disease Virus (RHDV) that has been spreading across North America. Understanding this disease and taking preventative measures, including vaccination, is crucial for every rabbit owner. [1]
@@ -80,3 +83,6 @@ Protecting your rabbit from RHDV2 is a critical part of responsible pet ownershi
 [7] Carolina Veterinary Specialists. "Rabbit Hemorrhagic Disease Virus (RHDV2) Vaccination." [https://www.huntersville.carolinavet.com/site/huntersville-veterinary-blog/2022/02/17/rabbit-hemorrhagic-disease-virus-vaccine-available](https://www.huntersville.carolinavet.com/site/huntersville-veterinary-blog/2022/02/17/rabbit-hemorrhagic-disease-virus-vaccine-available)
 
 [8] Colorado Department of Agriculture. "Rabbit Hemorrhagic Disease Virus (RHDV2)." [https://ag.colorado.gov/animal-health/reportable-diseases/rabbit-hemorrhagic-disease-virus-rhdv2](https://ag.colorado.gov/animal-health/reportable-diseases/rabbit-hemorrhagic-disease-virus-rhdv2)
+
+<VetDisclaimer />
+

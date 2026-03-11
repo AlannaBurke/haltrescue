@@ -4,6 +4,9 @@ sidebar_position: 1
 tags: [rat, fancy rat, rat varieties, pet health, small animal, rodent, husbandry, health, behavior, nutrition, housing]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # A Guide to Fancy Rat Varieties
 
 Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating, it’s crucial to remember that unlike dog breeds, a rat's appearance does not determine its personality, health, or temperament [1]. This guide is designed to help you understand the common terms you might encounter when adopting from a rescue or shelter.
@@ -48,6 +51,9 @@ Furthermore, some varieties, like Hairless rats, may have more specific health n
 :::tip
 When choosing rats, always adopt in pairs or groups — rats are highly social and can suffer from loneliness and depression if kept alone. Variety and appearance are secondary to temperament and health. Look for active, curious rats with bright eyes, clean coats, and no signs of respiratory distress.
 :::
+
+
+<VetDisclaimer />
 
 ## References
 

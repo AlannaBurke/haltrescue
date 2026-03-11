@@ -899,3 +899,13 @@ img[alt=board-pic] {
 [data-theme='dark'] img[alt=board-pic] {
   outline-color: #374151;
 }
+
+/* ============================================================
+   DocCard title — prevent truncation so full titles are visible
+   ============================================================ */
+.cardTitle_rnsV,
+[class*="cardTitle"] {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+}

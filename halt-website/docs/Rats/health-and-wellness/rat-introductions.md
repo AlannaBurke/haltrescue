@@ -4,6 +4,9 @@ sidebar_position: 5
 tags: [rat, introductions, socialization, care, health, aggression, quarantine, pet health]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # A Guide to Safe and Successful Rat Introductions
 
 Introducing a new rat to your existing group (or "mischief") is an exciting step, but it must be handled with care and patience. Rats are territorial and have complex social hierarchies. A proper introduction process is crucial to prevent stress, injury, and to foster a peaceful, bonded colony.
@@ -56,6 +59,9 @@ It's important to distinguish between normal dominance behavior and true aggress
     *   Any bite that draws blood [3]
 
 If you see any signs of true aggression, separate the rats immediately and go back a step in the introduction process. Some introductions can take weeks or even months. Patience is key.
+
+
+<VetDisclaimer />
 
 ## References
 

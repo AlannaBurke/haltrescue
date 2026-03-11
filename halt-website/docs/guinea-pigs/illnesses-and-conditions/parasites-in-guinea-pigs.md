@@ -5,6 +5,9 @@ description: A comprehensive guide to internal and external parasites in guinea 
 tags: [guinea pigs, parasites, mites, lice, worms, health, illnesses]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Parasites in Guinea Pigs
 
 Parasites are one of the most common health concerns for guinea pig owners. Both **external parasites** (those living on the skin and fur) and **internal parasites** (those living inside the body) can cause significant discomfort and health problems if left untreated. Early identification and prompt veterinary care are essential to keeping your guinea pig healthy.
@@ -125,6 +128,9 @@ Preventing parasite infestations involves good husbandry and hygiene practices:
 - **Wash hands** before and after handling guinea pigs, especially if you have other pets
 
 > For more information on specific parasites, see our dedicated articles on [Mites in Guinea Pigs](./mites-in-guinea-pigs), [Lice in Guinea Pigs](./lice-in-guinea-pigs), [Coccidia in Guinea Pigs](./coccidia-in-guinea-pigs), and [Giardia in Guinea Pigs](./giardia-in-guinea-pigs).
+
+
+<VetDisclaimer />
 
 ## References
 

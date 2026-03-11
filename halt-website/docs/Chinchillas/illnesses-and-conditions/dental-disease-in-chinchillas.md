@@ -5,6 +5,9 @@ sidebar_label: Dental Disease
 tags: [chinchillas, dental disease, malocclusion, health, illnesses]
 ---
 
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
+
+
 # Dental Disease in Chinchillas
 
 Dental disease is one of the most common and serious health problems in pet chinchillas. Because their teeth grow continuously throughout their lives, any disruption to normal wear can quickly lead to painful overgrowth, misalignment, and secondary complications. Understanding the causes, warning signs, and management options is essential for every chinchilla owner.
@@ -82,6 +85,9 @@ While genetic malocclusion cannot be prevented, good husbandry significantly red
 - Schedule **annual veterinary check-ups** including a dental examination
 
 > For more information on feeding your chinchilla correctly, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/chinchilla-diet).
+
+
+<VetDisclaimer />
 
 ## References
 
