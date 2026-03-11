@@ -1,5 +1,4 @@
 ---
-sidebar_position: 5
 sidebar_label: 'Help Your Small Pets Beat the Heat'
 sidebar_position: 1
 ---
