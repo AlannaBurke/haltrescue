@@ -4,78 +4,92 @@
  * Adds a hero banner image above the default Docusaurus category index page.
  * Uses @theme-original/DocCategoryGeneratedIndexPage to avoid re-implementing
  * the full component and its internal imports.
+ *
+ * Hero images are mapped by permalink path for precise matching.
  */
 import React from 'react';
 import OriginalDocCategoryGeneratedIndexPage from '@theme-original/DocCategoryGeneratedIndexPage';
 import styles from './styles.module.css';
 
 /**
- * Maps category title keywords → hero images (checked case-insensitively).
- * Longer/more-specific keys are matched first.
+ * Maps permalink path segments → hero images.
+ * Checked against the full permalink (lowercased) using startsWith/includes.
+ * More specific paths are listed first.
  */
-const CATEGORY_IMAGES = {
-  // Top-level animal sections
-  'degus':         '/img/tags/degus.png',
-  'degu':          '/img/tags/degus.png',
-  'guinea pig':    '/img/tags/guineapigs.png',
-  'guinea pigs':   '/img/tags/guineapigs.png',
-  'chinchillas':   '/img/tags/chinchillas.png',
-  'chinchilla':    '/img/tags/chinchillas.png',
-  'hedgehogs':     '/img/tags/hedgehogs.png',
-  'hedgehog':      '/img/tags/hedgehogs.png',
-  'hamsters':      '/img/tags/hamsters.png',
-  'hamster':       '/img/tags/hamsters.png',
-  'rabbits':       '/img/tags/rabbits.png',
-  'rabbit':        '/img/tags/rabbits.png',
-  'ferrets':       '/img/tags/ferrets.png',
-  'ferret':        '/img/tags/ferrets.png',
-  'mice':          '/img/tags/mice.png',
-  'mouse':         '/img/tags/mice.png',
-  'rats':          '/img/tags/rats.png',
-  'rat':           '/img/tags/rats.png',
-  // Sub-section topics
-  'illnesses':     '/img/tags/medical.png',
-  'illness':       '/img/tags/medical.png',
-  'conditions':    '/img/tags/medical.png',
-  'health':        '/img/tags/health.png',
-  'wellness':      '/img/tags/health.png',
-  'getting started': '/img/tags/care.png',
-  'care':          '/img/tags/care.png',
-  'husbandry':     '/img/tags/care.png',
-  'nutrition':     '/img/tags/nutrition.png',
-  'diet':          '/img/tags/nutrition.png',
-  'feeding':       '/img/tags/nutrition.png',
-  'housing':       '/img/tags/housing.png',
-  'habitat':       '/img/tags/housing.png',
-  'enrichment':    '/img/tags/housing.png',
-  'behavior':      '/img/tags/behavior.png',
-  'behaviour':     '/img/tags/behavior.png',
-  'social':        '/img/tags/behavior.png',
-  'genetics':      '/img/tags/genetics.png',
-  'breeds':        '/img/tags/genetics.png',
-  'grooming':      '/img/tags/grooming.png',
-  'safety':        '/img/tags/safety.png',
-  'rescue':        '/img/tags/adoptables.png',
-  'adoption':      '/img/tags/adoptions.png',
-  'parasites':     '/img/tags/parasites.png',
-  'respiratory':   '/img/tags/respiratory.png',
-  'neurological':  '/img/tags/neurological.png',
-  'neurologic':    '/img/tags/neurological.png',
-  'dental':        '/img/tags/dental.png',
-  'general':       '/img/tags/care.png',
-  'resources':     '/img/tags/educational.png',
-};
+const PERMALINK_IMAGE_MAP = [
+  // ── General Care ──────────────────────────────────────────────────────────
+  { match: '/docs/general-care', image: '/img/heroes/general-care/hero.png' },
 
-const FALLBACK_IMAGE = '/img/tags/guineapigs.png';
+  // ── Chinchillas ───────────────────────────────────────────────────────────
+  { match: '/docs/chinchillas/getting-started',        image: '/img/heroes/chinchillas/getting-started.png' },
+  { match: '/docs/chinchillas/health-and-wellness',    image: '/img/heroes/chinchillas/health-wellness.png' },
+  { match: '/docs/chinchillas/illnesses',              image: '/img/heroes/chinchillas/illnesses.png' },
+  { match: '/docs/chinchillas',                        image: '/img/heroes/chinchillas/hero.png' },
 
-function getCategoryImage(title) {
-  if (!title) return FALLBACK_IMAGE;
-  const lower = title.toLowerCase();
-  // Sort keys by length descending so multi-word keys match before single-word ones
-  const sortedKeys = Object.keys(CATEGORY_IMAGES).sort((a, b) => b.length - a.length);
-  for (const key of sortedKeys) {
-    if (lower.includes(key)) {
-      return CATEGORY_IMAGES[key];
+  // ── Ferrets ───────────────────────────────────────────────────────────────
+  { match: '/docs/ferrets/getting-started',            image: '/img/heroes/ferrets/getting-started.png' },
+  { match: '/docs/ferrets/health-and-wellness',        image: '/img/heroes/ferrets/health-wellness.png' },
+  { match: '/docs/ferrets/illnesses',                  image: '/img/heroes/ferrets/illnesses.png' },
+  { match: '/docs/ferrets',                            image: '/img/heroes/ferrets/hero.png' },
+
+  // ── Guinea Pigs ───────────────────────────────────────────────────────────
+  { match: '/docs/guinea-pigs/getting-started',        image: '/img/heroes/guinea-pigs/getting-started.png' },
+  { match: '/docs/guinea-pigs/health-and-wellness',    image: '/img/heroes/guinea-pigs/health-wellness.png' },
+  { match: '/docs/guinea-pigs/illnesses',              image: '/img/heroes/guinea-pigs/illnesses.png' },
+  { match: '/docs/guinea-pigs/breeds',                 image: '/img/heroes/guinea-pigs/breeds.png' },
+  { match: '/docs/guinea-pigs/safety',                 image: '/img/heroes/guinea-pigs/safety.png' },
+  { match: '/docs/guinea-pigs',                        image: '/img/heroes/guinea-pigs/hero.png' },
+
+  // ── Hamsters ──────────────────────────────────────────────────────────────
+  { match: '/docs/hamsters/getting-started',           image: '/img/heroes/hamsters/getting-started.png' },
+  { match: '/docs/hamsters/health-and-wellness',       image: '/img/heroes/hamsters/health-wellness.png' },
+  { match: '/docs/hamsters/illnesses',                 image: '/img/heroes/hamsters/illnesses.png' },
+  { match: '/docs/hamsters',                           image: '/img/heroes/hamsters/hero.png' },
+
+  // ── Hedgehogs ─────────────────────────────────────────────────────────────
+  { match: '/docs/hedgehogs/getting-started',          image: '/img/heroes/hedgehogs/getting-started.png' },
+  { match: '/docs/hedgehogs/health-and-wellness',      image: '/img/heroes/hedgehogs/health-wellness.png' },
+  { match: '/docs/hedgehogs/illnesses',                image: '/img/heroes/hedgehogs/illnesses.png' },
+  { match: '/docs/hedgehogs',                          image: '/img/heroes/hedgehogs/hero.png' },
+
+  // ── Mice ──────────────────────────────────────────────────────────────────
+  { match: '/docs/mice/getting-started',               image: '/img/heroes/mice/getting-started.png' },
+  { match: '/docs/mice/health-and-wellness',           image: '/img/heroes/mice/health-wellness.png' },
+  { match: '/docs/mice/illnesses',                     image: '/img/heroes/mice/illnesses.png' },
+  { match: '/docs/mice',                               image: '/img/heroes/mice/hero.png' },
+
+  // ── Rabbits ───────────────────────────────────────────────────────────────
+  { match: '/docs/rabbits/getting-started',            image: '/img/heroes/rabbits/getting-started.png' },
+  { match: '/docs/rabbits/health-and-wellness',        image: '/img/heroes/rabbits/health-wellness.png' },
+  { match: '/docs/rabbits/illnesses',                  image: '/img/heroes/rabbits/illnesses.png' },
+  { match: '/docs/rabbits',                            image: '/img/heroes/rabbits/hero.png' },
+
+  // ── Rats ──────────────────────────────────────────────────────────────────
+  { match: '/docs/rats/getting-started',               image: '/img/heroes/rats/getting-started.png' },
+  { match: '/docs/rats/health-and-wellness',           image: '/img/heroes/rats/health-wellness.png' },
+  { match: '/docs/rats/illnesses',                     image: '/img/heroes/rats/illnesses.png' },
+  { match: '/docs/rats/breeds',                        image: '/img/heroes/rats/breeds.png' },
+  { match: '/docs/rats/behavior',                      image: '/img/heroes/rats/behavior.png' },
+  { match: '/docs/rats',                               image: '/img/heroes/rats/hero.png' },
+
+  // ── Rescue Resources ──────────────────────────────────────────────────────
+  { match: '/docs/rescue-resources/report',            image: '/img/heroes/report-cruelty/hero.png' },
+  { match: '/docs/rescue-resources/rescue',            image: '/img/heroes/rescue-resources/running-rescue.png' },
+  { match: '/docs/rescue-resources',                   image: '/img/heroes/rescue-resources/hero.png' },
+
+  // ── Chinchillas uppercase path variant ────────────────────────────────────
+  { match: '/docs/chinchillas',                        image: '/img/heroes/chinchillas/hero.png' },
+  { match: '/docs/rabbits',                            image: '/img/heroes/rabbits/hero.png' },
+];
+
+const FALLBACK_IMAGE = '/img/heroes/intro-hero.png';
+
+function getHeroImage(permalink) {
+  if (!permalink) return FALLBACK_IMAGE;
+  const lower = permalink.toLowerCase();
+  for (const entry of PERMALINK_IMAGE_MAP) {
+    if (lower.startsWith(entry.match) || lower.includes(entry.match)) {
+      return entry.image;
     }
   }
   return FALLBACK_IMAGE;
@@ -83,7 +97,7 @@ function getCategoryImage(title) {
 
 export default function DocCategoryGeneratedIndexPage(props) {
   const { categoryGeneratedIndex } = props;
-  const heroImage = getCategoryImage(categoryGeneratedIndex?.title);
+  const heroImage = getHeroImage(categoryGeneratedIndex?.permalink);
 
   return (
     <div className={styles.pageWrapper}>

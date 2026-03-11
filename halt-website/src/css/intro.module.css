@@ -1,0 +1,182 @@
+/* ─── Intro Hero ──────────────────────────────────────────────────────────── */
+.introHero {
+  position: relative;
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  aspect-ratio: 16 / 5;
+  background: var(--ifm-color-primary-lightest, #e0f5f6);
+}
+
+.introHeroImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+  border-radius: 0 !important;
+  outline: none !important;
+  max-width: none !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+}
+
+.introHeroOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.55) 0%,
+    rgba(0, 0, 0, 0.35) 50%,
+    rgba(0, 0, 0, 0.05) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 2.5rem;
+}
+
+.introHeroTitle {
+  color: #fff !important;
+  font-size: 2.5rem !important;
+  font-weight: 800 !important;
+  margin: 0 0 0.5rem !important;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  max-width: 60%;
+}
+
+.introHeroDescription {
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 1.1rem;
+  margin: 0;
+  max-width: 55%;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  line-height: 1.5;
+}
+
+/* ─── Intro Lead Paragraph ────────────────────────────────────────────────── */
+.introLead {
+  font-size: 1.1rem;
+  color: var(--ifm-color-content-secondary);
+  margin-bottom: 2.5rem;
+  line-height: 1.7;
+}
+
+/* ─── Section Card Grid ───────────────────────────────────────────────────── */
+.sectionGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.sectionCard {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  background: var(--ifm-card-background-color, var(--ifm-background-surface-color));
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.sectionCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.sectionCardImage {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 0 !important;
+  outline: none !important;
+  max-width: none !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+}
+
+.sectionCardBody {
+  padding: 1.25rem 1.5rem 1.5rem;
+  flex: 1;
+}
+
+.sectionCardBody h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  color: var(--ifm-heading-color);
+}
+
+.sectionCardBody p {
+  font-size: 0.9rem;
+  color: var(--ifm-color-content-secondary);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ─── Dark mode ───────────────────────────────────────────────────────────── */
+[data-theme='dark'] .introHero {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .sectionCard {
+  border-color: var(--ifm-color-emphasis-300);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+[data-theme='dark'] .sectionCard:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* ─── Mobile ──────────────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .introHero {
+    aspect-ratio: 16 / 7;
+    border-radius: 14px;
+  }
+
+  .introHeroOverlay {
+    padding: 1.25rem 1.5rem;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.1) 0%,
+      rgba(0, 0, 0, 0.6) 100%
+    );
+    justify-content: flex-end;
+  }
+
+  .introHeroTitle {
+    font-size: 1.75rem !important;
+    max-width: 100%;
+  }
+
+  .introHeroDescription {
+    font-size: 0.95rem;
+    max-width: 100%;
+  }
+
+  .sectionGrid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .introHero {
+    aspect-ratio: 4 / 3;
+  }
+
+  .sectionGrid {
+    grid-template-columns: 1fr;
+  }
+}
