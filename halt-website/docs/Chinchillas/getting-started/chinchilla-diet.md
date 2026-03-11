@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Nutrition and Diet'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Chinchilla Nutrition and Diet

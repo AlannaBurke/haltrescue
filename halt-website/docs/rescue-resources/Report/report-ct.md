@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in Connecticut'
+sidebar_position: 1
+---
+
 # Report Pet Store Neglect in Connecticut
 
 ## **1\. Who actually investigates in Connecticut?**

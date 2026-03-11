@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in New Jersey'
+sidebar_position: 4
+---
+
 # Report Pet Store Neglect in New Jersey
 
 ## New Jersey Public Guide

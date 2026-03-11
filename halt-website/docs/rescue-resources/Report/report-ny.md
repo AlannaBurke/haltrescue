@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Report Pet Store Neglect in New York'
+sidebar_position: 5
+---
+
 # Report Pet Store Neglect in New York
 
 ## 1. Oversight & Agencies to Contact
