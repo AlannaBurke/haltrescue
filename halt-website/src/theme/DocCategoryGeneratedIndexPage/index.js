@@ -15,6 +15,8 @@ import styles from './styles.module.css';
  */
 const CATEGORY_IMAGES = {
   // Top-level animal sections
+  'degus':         '/img/tags/degus.png',
+  'degu':          '/img/tags/degus.png',
   'guinea pig':    '/img/tags/guineapigs.png',
   'guinea pigs':   '/img/tags/guineapigs.png',
   'chinchillas':   '/img/tags/chinchillas.png',
