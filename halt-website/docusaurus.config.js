@@ -116,6 +116,7 @@ const config = {
             position: 'left',
             label: 'Resources',
           },
+          { to: '/about', label: 'About', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
         ],
         },

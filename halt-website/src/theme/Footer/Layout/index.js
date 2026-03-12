@@ -72,6 +72,7 @@ export default function FooterLayout({ style, links, logo, copyright }) {
           <div className={styles.brandText}>
             <span className={styles.brandName}>Helping All Little Things</span>
             <span className={styles.brandTagline}>Small animal rescue &amp; education · 501(c)(3) non-profit</span>
+            <span className={styles.brandTagline}>Sanctuary in Deerfield, NH · Fosters in MA, NJ &amp; PA · Transport throughout New England &amp; the Northeast</span>
           </div>
         </div>
 
