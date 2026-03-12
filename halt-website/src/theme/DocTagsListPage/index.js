@@ -17,6 +17,8 @@ import styles from './styles.module.css';
  */
 const DOC_TAG_IMAGES = {
   // Species
+  degu:             '/img/tags/degus.png',
+  degus:            '/img/tags/degus.png',
   rat:              '/img/tags/rats.png',
   rats:             '/img/tags/rats.png',
   ratvarieties:     '/img/tags/rats.png',
@@ -231,7 +233,7 @@ function getTagCategory(tag) {
     .toLowerCase()
     .replace(/[\s\-_\/\.]+/g, '');
 
-  if (['rat', 'rats', 'ratvarieties', 'fancyrat', 'rodent', 'rabbits', 'rvhd2',
+  if (['degu', 'degus', 'rat', 'rats', 'ratvarieties', 'fancyrat', 'rodent', 'rabbits', 'rvhd2',
        'chinchilla', 'chinchillas', 'ferret', 'ferrets', 'guineapig', 'guineapigs',
        'skinnypig', 'hamster', 'hamsters', 'dwarfhamsters', 'hedgehog', 'hedgehogs',
        'mice', 'mouse'].includes(slug)) return 'Species';
