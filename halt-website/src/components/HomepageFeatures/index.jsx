@@ -9,10 +9,10 @@ const FeatureList = [
     iconAlt: 'Illustration of gentle hands cupping a tiny guinea pig surrounded by hearts',
     description: (
       <>
-        Helping All Little Things is a dedicated rescue that focuses on small animals,
-        providing them with love, care, and, in some cases, hospice care for those in need.
-        Based in New Hampshire and operating as a 501(c)(3) nonprofit organization, we're
-        passionate about giving vulnerable animals the attention and medical care they deserve.
+        Helping All Little Things is a dedicated small-animal rescue and sanctuary based in
+        Deerfield, New Hampshire, with foster homes across Massachusetts, New Jersey, and
+        Pennsylvania. We are a 501(c)(3) nonprofit and can transport throughout New England
+        and the Northeast — so distance is rarely a barrier to adoption!
       </>
     ),
     linkHref: 'https://bit.ly/halt-adoption',

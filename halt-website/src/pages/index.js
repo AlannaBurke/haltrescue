@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome | ${siteConfig.title}`}
-      description="Helping All Little Things is a 501(c)(3) nonprofit rescue dedicated to small animals — rabbits, guinea pigs, chinchillas, hamsters, and more — based in New Hampshire.">
+      description="Helping All Little Things is a 501(c)(3) nonprofit small-animal rescue and sanctuary based in Deerfield, NH, with foster homes in MA, NJ, and PA. We transport throughout New England and the Northeast.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
