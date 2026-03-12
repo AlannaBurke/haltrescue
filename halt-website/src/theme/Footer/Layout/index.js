@@ -12,6 +12,7 @@ const SOCIAL_LINKS = [
   { label: 'BlueSky',     href: 'https://bsky.app/profile/haltrescue.bsky.social',               logo: '/img/logos/bluesky.svg',     bg: '#0085FF' },
   { label: 'Mastodon',    href: 'https://mstdn.social/@haltrescue',                              logo: '/img/logos/mastodon.svg',    bg: '#6364FF' },
   { label: 'Newsletter',  href: 'https://subscribepage.io/halt',                                  logo: '/img/logos/newsletter.svg',  bg: '#0f8a93' },
+  { label: 'Discord',     href: 'https://discord.gg/42TdTtcW',                                      logo: '/img/logos/discord.svg',     bg: '#5865F2' },
 ];
 
 // ─── Donate links with logo icons ────────────────────────────────────────────
