@@ -492,7 +492,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer__copyright {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.85);
   font-size: 0.85rem;
   font-weight: 600;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
@@ -942,4 +942,35 @@ img[alt=board-pic] {
   white-space: normal !important;
   overflow: visible !important;
   text-overflow: unset !important;
+}
+
+/* ============================================================
+   ACCESSIBILITY — Contrast fixes (WCAG 2.2 AA)
+   ============================================================ */
+
+/* Visited links: prevent browser default purple from failing contrast */
+a:visited {
+  color: var(--ifm-color-primary-dark, #0d7c84);
+}
+
+[data-theme='dark'] a:visited {
+  color: var(--ifm-color-primary-light, #3cdde8);
+}
+
+/* Breadcrumb links */
+.breadcrumbs__link {
+  color: var(--ifm-color-emphasis-800) !important;
+}
+
+/* Search hint kbd shortcut */
+.searchHint_iIMx,
+[class*="searchHint"] {
+  color: #4a5568 !important;
+  background: var(--ifm-color-emphasis-200) !important;
+}
+
+[data-theme='dark'] .searchHint_iIMx,
+[data-theme='dark'] [class*="searchHint"] {
+  color: #cbd5e0 !important;
+  background: var(--ifm-color-emphasis-300) !important;
 }

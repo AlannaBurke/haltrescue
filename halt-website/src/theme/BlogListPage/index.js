@@ -42,7 +42,7 @@ function BlogListPageContent(props) {
           }}>
             {blogTitle}
           </h1>
-          <p style={{color: 'var(--ifm-color-emphasis-600)', fontSize: '0.95rem', margin: 0}}>
+          <p style={{color: 'var(--ifm-color-emphasis-800)', fontSize: '0.95rem', margin: 0}}>
             Updates, stories, and news from the rescue
           </p>
         </header>

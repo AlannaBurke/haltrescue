@@ -13,7 +13,7 @@
 
 .pageSubtitle {
   font-size: 1.05rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
   margin: 0;
 }
 
@@ -103,7 +103,7 @@
 
 .authorTitle {
   font-size: 0.875rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
   margin: 0 0 0.75rem;
   line-height: 1.4;
 }
