@@ -124,7 +124,7 @@
 
 .cardMeta {
   font-size: 0.78rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
   margin-bottom: 0.45rem;
 }
 
@@ -179,9 +179,13 @@
 .readMore {
   font-size: 0.85rem;
   font-weight: 700;
-  color: var(--ifm-color-primary);
+  color: #0a5c63;
   text-decoration: none;
   white-space: nowrap;
+}
+
+.readMore:visited {
+  color: #0a5c63;
 }
 
 .readMore:hover {
@@ -200,9 +204,13 @@
   padding: 0.15rem 0.55rem;
   border-radius: 999px;
   background: var(--ifm-color-primary-lightest, #e0f5f6);
-  color: var(--ifm-color-primary-darkest, #0a6b73);
+  color: #0a5c63;
   text-decoration: none;
   transition: background 0.2s, color 0.2s;
+}
+
+.cardTag:visited {
+  color: #0a5c63;
 }
 
 .cardTag:hover {

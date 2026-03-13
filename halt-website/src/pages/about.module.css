@@ -88,19 +88,19 @@
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  background: var(--ifm-color-primary-lightest, #f3e8ff);
-  border: 1.5px solid var(--ifm-color-primary-light, #c9a8e0);
+  background: var(--ifm-color-primary-lightest, #e0f5f7);
+  border: 1.5px solid var(--ifm-color-primary, #0f8a93);
   border-radius: 999px;
   padding: 0.35rem 1rem;
   font-size: 0.95rem;
   font-weight: 600;
-  color: var(--ifm-color-primary-darkest, #5a3e6b);
+  color: #0a5c63;
 }
 
 .animalChipMuted {
   background: var(--ifm-background-surface-color, #f8f8f8);
-  border-color: var(--ifm-color-emphasis-300, #ccc);
-  color: var(--ifm-font-color-secondary, #666);
+  border-color: var(--ifm-color-emphasis-400, #aaa);
+  color: #4a5568;
 }
 
 .animalBadge {
@@ -147,7 +147,7 @@
 
 .animalNote {
   font-size: 0.9rem;
-  color: var(--ifm-font-color-secondary, #666);
+  color: #4a5568;
   margin-top: 1rem;
   font-style: italic;
 }

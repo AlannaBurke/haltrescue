@@ -20,7 +20,7 @@
 
 .pageSubtitle {
   font-size: 1.05rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
   margin: 0;
 }
 
@@ -158,7 +158,7 @@
 /* ─── Results count ───────────────────────────────────────────────────────── */
 .resultsCount {
   font-size: 0.88rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
   margin-bottom: 1rem;
   font-style: italic;
 }
@@ -264,7 +264,7 @@
 .emptyState {
   text-align: center;
   padding: 3rem 1rem;
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-emphasis-800);
 }
 
 .emptyState p {
