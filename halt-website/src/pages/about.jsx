@@ -9,15 +9,37 @@ const SERVICE_AREAS = [
   { state: 'Pennsylvania', role: 'Foster Network', detail: 'Foster homes in PA supporting our rescue mission and connecting animals with families.', emoji: '🐾' },
 ];
 
-const ANIMALS = [
-  { name: 'Rabbits', emoji: '🐰' },
-  { name: 'Guinea Pigs', emoji: '🐹' },
-  { name: 'Chinchillas', emoji: '🐭' },
-  { name: 'Hamsters', emoji: '🐹' },
-  { name: 'Rats', emoji: '🐀' },
-  { name: 'Mice', emoji: '🐁' },
-  { name: 'Hedgehogs', emoji: '🦔' },
-  { name: 'Ferrets', emoji: '🦦' },
+const TEAM = [
+  {
+    name: 'Danni Challender',
+    role: 'President',
+    photo: '/img/team/danni.jpg',
+    bio: 'Danni started Helping All Little Things in August of 2010 when her best friend\'s rescue was overwhelmed with guinea pig surrenders. (Fun fact: Danni was terrified of guinea pigs as a child!) She currently runs the sanctuary from her home in New Hampshire, housing senior, hospice, and special needs small animals and managing our foster team.',
+  },
+  {
+    name: 'Ericka Chadbourne',
+    role: 'Vice President',
+    photo: '/img/team/ericka.jpg',
+    bio: 'Ericka has been involved in animal rescue since 2000. She started rescuing small animals about 14 years ago when she became heavily involved in HALT. She heads up our arts and crafts division, runs auctions, and focuses on fundraising to cover medical care for the animals in our care.',
+  },
+  {
+    name: 'Alanna Burke',
+    role: 'Secretary',
+    photo: '/img/team/alanna.jpg',
+    bio: 'Alanna has always been involved in rescue, mostly working with cats, but became a part of HALT in 2017 when she adopted rats and then guinea pigs. She handles all things technical and web-related for the rescue, as well as most of the graphics.',
+  },
+  {
+    name: 'Lynne Blecher',
+    role: 'Treasurer',
+    photo: '/img/team/lynne.jpg',
+    bio: 'Lynne is a passionate animal advocate who has fostered and adopted unwanted pets since she was a teenager — from reptiles and birds to guinea pigs, mice, rats, dogs, and cats. She is currently a member of Bucks County Aquarium Society and supports the CARES program for endangered fish species.',
+  },
+  {
+    name: 'Jen Dupee',
+    role: 'Board Member',
+    photo: '/img/team/jen.jpg',
+    bio: 'Jen has been involved in animal rescue for a number of years, starting with wildlife rehabilitation at age 16 before moving into domestic animal rescue in 2017. Her primary focus is New Jersey-based surrenders and sanctuary cases. She shares her home with cats, dogs, rabbits, guinea pigs, and a variety of other smaller exotics.',
+  },
 ];
 
 const FAQS = [
@@ -27,7 +49,7 @@ const FAQS = [
   },
   {
     q: 'Do you take owner surrenders?',
-    a: 'Yes. We understand that life circumstances change. Please fill out our surrender inquiry form and we\'ll do our best to help. We never judge — we just want what\'s best for the animal.',
+    a: 'Yes, for most species. Please note that we are currently not accepting rabbit or rat surrenders due to capacity — we are overwhelmed with both at this time. For all other animals, please fill out our surrender inquiry form and we\'ll do our best to help. We never judge — we just want what\'s best for the animal.',
   },
   {
     q: 'Do you take in animals from other rescues or shelters?',
@@ -51,7 +73,7 @@ export default function About() {
   return (
     <Layout
       title="About Us | Helping All Little Things"
-      description="Learn about Helping All Little Things — a 501(c)(3) small-animal rescue and sanctuary based in Deerfield, NH, with foster homes in MA, NJ, and PA. We rescue rabbits, guinea pigs, chinchillas, hamsters, rats, mice, hedgehogs, and ferrets."
+      description="Learn about Helping All Little Things — a 501(c)(3) small-animal rescue and sanctuary based in Deerfield, NH, with foster homes in MA, NJ, and PA. We specialize in guinea pigs, rats, hamsters, gerbils, and mice, with experience in rabbits and other small animals."
     >
       {/* Hero */}
       <div className={styles.hero}>
@@ -75,8 +97,8 @@ export default function About() {
           <h2 className={styles.sectionTitle}>Our Mission</h2>
           <p className={styles.lead}>
             <strong>Helping All Little Things (HALT)</strong> is a 501(c)(3) nonprofit rescue and sanctuary
-            dedicated to the small animals that are so often overlooked — rabbits, guinea pigs,
-            chinchillas, hamsters, rats, mice, hedgehogs, and ferrets.
+            dedicated to the small animals that are so often overlooked — with a special focus on animals
+            with unique or complex medical needs.
           </p>
           <p>
             We rescue animals from shelters, owner surrenders, cruelty cases, and hoarding situations.
@@ -95,14 +117,55 @@ export default function About() {
         {/* Animals we help */}
         <section className={styles.section}>
           <h2 className={styles.sectionTitle}>Animals We Help</h2>
+          <p>
+            While we won't turn away a critter in need, our expertise and primary focus is on animals
+            with <strong>unique or complex medical needs</strong>. Here's where our experience runs deepest:
+          </p>
+
+          <h3 className={styles.animalSubhead}>Our Specialties</h3>
           <div className={styles.animalGrid}>
-            {ANIMALS.map(({ name, emoji }) => (
-              <div key={name} className={styles.animalChip}>
-                <span className={styles.animalEmoji}>{emoji}</span>
-                <span>{name}</span>
-              </div>
-            ))}
+            <div className={styles.animalChip}>
+              <span className={styles.animalEmoji}>🐹</span>
+              <span>Guinea Pigs</span>
+              <span className={styles.animalBadge}>Primary Focus</span>
+            </div>
+            <div className={styles.animalChip}>
+              <span className={styles.animalEmoji}>🐀</span>
+              <span>Rats</span>
+            </div>
+            <div className={styles.animalChip}>
+              <span className={styles.animalEmoji}>🐹</span>
+              <span>Hamsters</span>
+            </div>
+            <div className={styles.animalChip}>
+              <span className={styles.animalEmoji}>🐭</span>
+              <span>Gerbils</span>
+            </div>
+            <div className={styles.animalChip}>
+              <span className={styles.animalEmoji}>🐁</span>
+              <span>Mice</span>
+            </div>
           </div>
+
+          <h3 className={styles.animalSubhead}>Also Experienced With</h3>
+          <div className={styles.animalGrid}>
+            <div className={`${styles.animalChip} ${styles.animalChipMuted}`}>
+              <span className={styles.animalEmoji}>🐰</span>
+              <span>Rabbits</span>
+            </div>
+          </div>
+
+          <div className={styles.surrenderNotice}>
+            <span className={styles.surrenderIcon}>⚠️</span>
+            <div>
+              <strong>Surrender notice:</strong> We are currently <strong>not accepting rabbit or rat surrenders</strong> due to capacity. We are at capacity for both species at this time. Please check back or reach out to inquire about future availability.
+            </div>
+          </div>
+
+          <p className={styles.animalNote}>
+            We occasionally encounter chinchillas and other small exotics, and we will always do our best
+            to help any animal in need — but our deepest expertise lies with the species above.
+          </p>
         </section>
 
         {/* Where we are */}
@@ -157,6 +220,28 @@ export default function About() {
               <h3 className={styles.pillarTitle}>Education &amp; Resources</h3>
               <p>Our free resource library helps current and prospective pet owners understand the unique needs of small animals — from diet and habitat to illness recognition and emergency care.</p>
             </div>
+          </div>
+        </section>
+
+        {/* Meet the Team */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>Meet the Team</h2>
+          <p>
+            HALT is run entirely by volunteers who are passionate about small animals. Meet our Board of Directors:
+          </p>
+          <div className={styles.teamGrid}>
+            {TEAM.map(({ name, role, photo, bio }) => (
+              <div key={name} className={styles.teamCard}>
+                <div className={styles.teamPhotoWrap}>
+                  <img src={photo} alt={`${name}, ${role} of HALT`} className={styles.teamPhoto} />
+                </div>
+                <div className={styles.teamInfo}>
+                  <span className={styles.teamRole}>{role}</span>
+                  <h3 className={styles.teamName}>{name}</h3>
+                  <p className={styles.teamBio}>{bio}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </section>
 
