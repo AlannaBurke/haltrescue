@@ -64,3 +64,13 @@ http://guineapigmarket.com and various Etsy sites. https://guineadad.com/ also m
 ### What about toys?
 
 Guinea pigs are not much for playing with toys, but do enjoy paper towel rolls stuffed with hay, clean paper bags with hay inside, empty oatmeal containers, old socks filled with bedding, apple tree branches and children’s wooden blocks. For baby piggies, be sure to cut paper towel rolls lengthwise to keep them from getting stuck. Also make sure that apple tree branches come from a pesticide-free yard.
+
+---
+
+## Quick Reference: Guinea Pig Care Essentials
+
+The infographic below summarizes the key care essentials — diet, cage sizing, bedding, and important reminders — in one handy reference.
+
+![Guinea Pig Care Essentials infographic covering food and diet, cage sizing, bedding, and important reminders](/img/guinea-pigs/gp-care-essentials.png)
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-care-essentials.png" />

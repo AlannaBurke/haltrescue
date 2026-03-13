@@ -21,3 +21,10 @@ It's getting warmer - here are some tips to help your small pets stay cool and c
  - Use cooling pads (with supervision)
  - Pet-safe gel pads or freezer packs can help — just make sure they can’t chew them.
  - Keeping the lights off may make it feel cooler and encourage your pets to rest.
+---
+
+## Quick Reference: Keep Your Small Pets Cool
+
+![Keep Your Small Pets Cool infographic with 8 tips for summer heat safety and signs of heatstroke](/img/general-care/beat-the-heat.png)
+
+<InfographicShare imageSrc="/img/general-care/beat-the-heat.png" />
