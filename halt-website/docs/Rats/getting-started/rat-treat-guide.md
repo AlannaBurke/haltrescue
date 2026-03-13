@@ -1,150 +1,150 @@
 ---
 sidebar_label: Rat Treat Guide
 sidebar_position: 4
-tags: [rat, treats, food, nutrition, diet, feeding, safety, care, health, small animal, exotic pet]
+tags: [rat, nutrition, treats, diet, feeding, care, health, safe foods, unsafe foods]
 ---
 
-# Rat Treat Guide: Safe & Unsafe Foods
+# Rat Treat Guide
 
-This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or high-dose studies. If you’re unsure or worried about something your rat ate, reach out to your vet.
+This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or high-dose studies. If you're unsure or worried about something your rat ate, reach out to your vet.
 
-For a quick, printable reference, you can download and print our Rat Treat Quick Reference card:
+<figure>
+  <img src="/img/rats/rat-treat-guide.png" alt="Infographic showing safe, unsafe, cook-first, and limited-amount foods for rats" />
+  <figcaption>Quick reference: what rats can and can't eat.</figcaption>
+</figure>
+<InfographicShare imageSrc="/img/rats/rat-treat-guide.png" />
 
-[![Printable Rat Treat Quick Reference Card](/img/rats/rat-food-list-printable.png)](/img/rats/rat-food-list-printable.png)
+## Safe Foods
 
-<InfographicShare imageSrc="/img/rats/rat-food-list-printable.png" />
+The following foods are generally safe to offer as treats or dietary supplements for rats:
 
----
-
-## ✓ Safe Foods for Rats
-
-These foods are generally safe to offer as treats in moderation. They should supplement a primary diet of high-quality lab blocks.
-
-![A grid of cute kawaii-style icons showing safe foods for rats, including apples, bananas, broccoli, carrots, and more.](/img/rats/food-icons/safe-foods-grid.png)
-
-*   Apples (without seeds)
-*   Apricots (without the pit!)
-*   Arugula
-*   Asparagus
-*   Baby food
-*   Bamboo (Food grade)
-*   Bell Peppers
-*   Banana
-*   Berries
-*   Boiled eggs
-*   Bok choy
-*   Bones (chicken, pork, beef — monitor for choking)
-*   Bread / crackers
-*   Broccoli
-*   Carrot
-*   Cauliflower
-*   Celery
-*   Cherries (No pitt)
-*   Chicken
-*   Coconut
-*   Cranberries
-*   Crickets (not wild)
-*   Cucumber
-*   Currants
-*   Egg
-*   Figs
-*   Grapes (purple grapes may help prevent cancer)
-*   Green beans
-*   Kale
-*   Kiwi
-*   Lean meats (chicken, turkey, lean cuts of pork and beef)
-*   Lettuce
-*   Mealworms (Not wild)
-*   Melons (with seeds removed)
-*   Nectarines (without the pit)
-*   Oatmeal
-*   Oats
-*   Pasta (cooked or dry)
-*   Peaches (without the pit)
-*   Pears (without seeds)
-*   Peas
-*   Pineapple
-*   Pomegranate
-*   Popped Corn (plain)
-*   Pumpkin
-*   Rice
-*   Rolled oats
-*   Soy products
-*   Spinach
-*   Sunflower seeds
-*   Tomatoes
-*   Wheat cereals
-*   Zucchini
+| Food | Notes |
+|---|---|
+| Apples | Remove seeds |
+| Apricots | Remove the pit |
+| Arugula | |
+| Asparagus | |
+| Baby food | Plain, unsweetened varieties |
+| Bamboo | Food grade only |
+| Banana | Fresh only; see limited amounts for details |
+| Bell peppers | |
+| Berries | Strawberries, blueberries, raspberries, etc. |
+| Boiled or scrambled eggs | |
+| Bok choy | |
+| Bones | Chicken, pork, or beef — monitor for choking |
+| Bread / crackers | Plain, in small amounts |
+| Broccoli | |
+| Carrot | |
+| Cauliflower | |
+| Celery | |
+| Cherries | Remove the pit |
+| Chicken | Cooked, plain |
+| Coconut | |
+| Cranberries | |
+| Crickets | Not wild-caught |
+| Cucumber | |
+| Currants | |
+| Figs | |
+| Grapes | Purple grapes may have cancer-preventive properties |
+| Green beans | |
+| Kale | |
+| Kiwi | |
+| Lean meats | Chicken, turkey, lean cuts of pork and beef |
+| Lettuce | |
+| Mealworms | Not wild-caught |
+| Melons | Remove seeds |
+| Nectarines | Remove the pit |
+| Oatmeal / oats | |
+| Pasta | Cooked or dry |
+| Peaches | Remove the pit |
+| Pears | Remove seeds |
+| Peas | |
+| Pineapple | |
+| Pomegranate | |
+| Popcorn | Plain, no butter or salt |
+| Pumpkin | |
+| Rice | |
+| Rolled oats | |
+| Soy products | |
+| Spinach | |
+| Sunflower seeds | See limited amounts |
+| Tomatoes | Ripe only; avoid leaves and unripe fruit |
+| Wheat cereals | Plain, low-sugar |
+| Zucchini | |
 
 ---
 
-## ✗ Unsafe Foods: Never Feed
+## Unsafe Foods
 
-These foods are toxic, dangerous, or otherwise unsuitable for rats and should be avoided completely.
+The following should **never** be fed to rats:
 
-![A grid of cute kawaii-style icons showing unsafe foods for rats, including avocado, blue cheese, citrus, and green potatoes.](/img/rats/food-icons/unsafe-foods-grid.png)
+- Alcohol
+- Alfalfa / hay (not appropriate as a food source for rats)
+- Artificial sweeteners
+- Avocado
+- Blue cheese
+- Carbonated drinks
+- Citrus peels
+- Dried corn
+- Edible moldy foods
+- Green bananas
+- Green potatoes / potato eyes
+- Spoiled food
+- Licorice
+- Mango
+- Peanut butter (choking hazard due to sticky texture)
+- Poppy seeds
+- Rhubarb
+- Tomato leaves
+- Unripe tomatoes
 
-*   Alcohol
-*   Alfalfa / hay
-*   Artificial sweeteners
-*   Avocado
-*   Blue cheese
-*   Carbonated drinks
-*   Citrus (Okay for females in moderation)
-*   Citrus peels
-*   Dried corn
-*   Edible moldy foods
-*   Green bananas
-*   Green potatoes / potato eyes
-*   Gone bad food
-*   Licorice
-*   Mango
-*   Oranges (Okay for females in moderation)
-*   Peanut butter (due to texture)
-*   Poppy seeds
-*   Rhubarb
-*   Tomato leaves
-*   Unripe tomatoes
-
----
-
-## ⚠ Foods to Offer in Limited Amounts
-
-These foods are not toxic but should be given sparingly due to high fat, sugar, or other content that can be unhealthy in large quantities.
-
-![A grid of cute kawaii-style icons showing foods to offer rats in limited amounts, such as nuts, cheese, dark chocolate, and seeds.](/img/rats/food-icons/limited-foods-grid.png)
-
-*   Nuts (Almonds, cashews, peanuts, walnuts, ect)
-*   Bananas (fresh, non-moldy)
-*   Beets and other high-oxalate or high-nitrate veggies
-*   Bones (monitor and remove when done)
-*   Cheese (rats become less lactose-tolerant with age)
-*   Dark chocolate
-*   Dried Fruits
-*   Fatty foods
-*   Fish
-*   Significant amounts of garlic
-*   Heavily salted or seasoned foods
-*   Salty meats (ie Ham)
-*   Seeds (sunflower seeds, pumpkin seeds, ect)
-*   Shellfish
-*   Sugar
-*   Yogurt & other dairy products
+:::note Citrus
+Plain citrus fruit (oranges, clementines, etc.) is unsafe for **male** rats due to a compound called d-limonene, which can cause kidney damage. It is generally considered safe for **females** in small amounts.
+:::
 
 ---
 
-## ♨ Foods to Only Offer Cooked
+## Cook First
 
-These foods should be cooked before offering to your rats to neutralize harmful compounds or make them digestible.
+These foods should only be offered **cooked** — raw versions can cause digestive upset or contain compounds that are harmful before cooking:
 
-*   Beans
-*   Brussels sprouts
-*   Cabbage
-*   Edamame
-*   Lentils
-*   Mushrooms
-*   Onions (toasted is okay)
-*   Potatoes
-*   Squash
-*   Sweet potatoes
-*   Tofu
+- Beans
+- Brussels sprouts
+- Cabbage
+- Edamame
+- Lentils
+- Mushrooms
+- Onions (toasted or lightly cooked is acceptable)
+- Potatoes
+- Squash
+- Sweet potatoes
+- Tofu
+
+---
+
+## Limited Amounts
+
+These foods are not toxic but should only be given occasionally and in small quantities:
+
+- **Nuts** — almonds, cashews, peanuts, walnuts (high fat)
+- **Bananas** — fresh only; high sugar
+- **Beets and high-oxalate or high-nitrate vegetables**
+- **Bones** — monitor and remove when your rat is done
+- **Cheese** — rats become less lactose-tolerant with age
+- **Dark chocolate** — small amounts only; never milk or white chocolate
+- **Dried fruits** — high sugar concentration
+- **Fatty foods**
+- **Fish**
+- **Garlic** — small amounts only
+- **Heavily salted or seasoned foods**
+- **Salty meats** (e.g., ham)
+- **Seeds** — sunflower, pumpkin, etc. (high fat)
+- **Shellfish**
+- **Sugar**
+- **Yogurt and other dairy products**
+
+---
+
+:::tip When in doubt
+If you're unsure whether a specific food is safe, err on the side of caution and check with a vet experienced with small mammals before offering it. When something new is introduced, offer a small amount first and monitor for any digestive changes.
+:::
