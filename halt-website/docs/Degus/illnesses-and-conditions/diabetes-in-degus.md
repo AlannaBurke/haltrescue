@@ -1,60 +1,97 @@
 ---
-sidebar_label: Diabetes in Degus
+title: Diabetes in Degus
+description: Learn about the causes, symptoms, diagnosis, and management of diabetes mellitus in degus — one of the most diabetes-prone small mammals kept as pets.
+sidebar_label: Diabetes
 sidebar_position: 1
-tags: [degu, diabetes, metabolic, health, care, small animal, exotic pet]
+tags: [degus, diabetes, health, illnesses, diet]
 ---
 
 # Diabetes in Degus
 
-Diabetes in degus is a significant health concern, as these small rodents are naturally prone to developing the condition, particularly when fed an improper diet. Unlike many other small pets, degus have a unique sensitivity to sugar, and their bodies cannot process it effectively. Understanding the causes, symptoms, prevention, and management of diabetes is crucial for any degu owner.
+Diabetes mellitus is one of the most significant health concerns for pet degus. Unlike many other small mammals, degus have a **structural difference in their insulin** that makes them exceptionally sensitive to dietary sugar — even small amounts can cause dangerous blood glucose spikes. Understanding this vulnerability is essential for every degu owner.
 
-![An infographic showing the signs, diagnosis, and management of diabetes in degus.](/img/degus/degu-diabetes-guide.png)
+## Why Degus Are Uniquely Vulnerable
 
-<InfographicShare imageSrc="/img/degus/degu-diabetes-guide.png" />
+**Diabetes mellitus** is a metabolic condition in which the body cannot effectively regulate blood glucose levels. In most mammals, insulin acts quickly to bring blood sugar back to normal after a meal. In degus, insulin and glucagon — the hormones that regulate blood sugar — have a different molecular structure than in other mammals, meaning they work more slowly and less efficiently.[^1]
 
-## Understanding Diabetes in Degus
+In the wild, degus are native to the arid scrublands and mountains of Chile, where their natural diet consists almost entirely of dry grasses, roots, bark, cactus, and seeds — foods that are very low in sugar and high in fibre. Their bodies simply did not evolve to handle the sugar loads that are common in many commercial small animal foods and treats.[^2]
 
-Degus are naturally adapted to a diet that is high in fiber and very low in sugar. In their native environment in Chile, they consume rough grasses, bark, and seeds. When kept as pets and fed diets containing fruits, sugary vegetables (like carrots or corn), or commercial treats with added sugars, their systems are quickly overwhelmed. This leads to hyperglycemia (high blood sugar) and, eventually, diabetes mellitus.
+<figure>
+  <img src="/img/degus/diabetes-in-degus.png" alt="Infographic showing why degus are vulnerable to diabetes, signs of the condition, what to feed, and what to avoid" />
+  <figcaption>Diabetes in degus: vulnerability, warning signs, diet guidance, and management.</figcaption>
+</figure>
 
-## Signs and Symptoms of Diabetes
+<InfographicShare imageSrc="/img/degus/diabetes-in-degus.png" />
 
-If you are concerned your degu may have diabetes, watch for these common signs:
+## Causes and Risk Factors
 
-*   **Cataracts:** One of the most common and definitive signs of diabetes in degus is the rapid formation of cataracts. The lens of the eye becomes cloudy or white, often leading to blindness. This can sometimes be the very first symptom an owner notices.
-*   **Increased Thirst and Urination (Polydipsia and Polyuria):** A diabetic degu will often drink excessive amounts of water and urinate more frequently. You may notice a wet or sticky cage substrate.
-*   **Weight Loss:** Despite a normal or even increased appetite, a diabetic degu may lose weight. This occurs because the body cannot properly use glucose for energy, so it begins to break down muscle and fat.
-*   **Lethargy and Weakness:** A decrease in energy levels and general lethargy can indicate that the degu is struggling to maintain normal glucose levels.
-*   **Poor Coat Condition:** A diabetic degu’s fur may become dull, greasy, or rough due to poor overall health.
-*   **Sweet-Smelling Urine:** In some cases, the urine may have a distinct, sweet smell, which can indicate that glucose is present.
+**Inappropriate diet** is the most significant and modifiable risk factor. Diets containing fruit, molasses, raisins, sugary treats, or commercial mixes with added sugar cause repeated blood glucose spikes that the degu's insulin system cannot adequately manage. Over time, this leads to chronically elevated blood glucose and eventually diabetes.[^2]
 
-## Diagnosis of Diabetes in Degus
+**Commercial feeds** are a common hidden source of sugar. Many hamster, gerbil, and rabbit foods contain molasses or other sweeteners and are completely unsuitable for degus. Even some products marketed for degus may contain inappropriate ingredients — always check labels carefully.[^3]
 
-Diagnosing diabetes in degus requires veterinary testing. If you suspect diabetes, a veterinarian may perform the following tests:
+**Obesity** compounds the risk. Excess body fat contributes to insulin resistance, and overweight degus are at substantially higher risk of developing diabetes. Obesity in degus is most often caused by high-calorie diets and insufficient exercise.
 
-1.  **Blood Glucose Testing:** Blood glucose levels that are consistently elevated can indicate diabetes. However, stress can temporarily elevate glucose in degus, so multiple tests may be required to confirm a diagnosis.
-2.  **Urinalysis:** Testing for glucose and ketones in the urine can also help confirm diabetes. Glucose in the urine is a reliable indicator that blood sugar levels are elevated.
-3.  **Physical Examination:** During a physical exam, a vet can check for secondary symptoms of diabetes, such as cataracts, weight loss, or dehydration.
+**Genetic predisposition** is also a factor. Degus are so prone to diabetes that they are actually used as a research model for studying the condition in humans.[^1]
 
-## Managing and Treating Diabetes in Degus
+## Symptoms
 
-There is no cure for diabetes, but careful management can help a diabetic degu maintain a good quality of life. Treatment focuses on strict dietary control, weight management, and supportive care.
+Diabetes in degus can develop gradually. Watch for:
 
-1.  **Dietary Adjustments:** This is the most critical part of management.
-    *   **High-Fiber, Zero-Sugar Diet:** A degu’s diet should consist almost entirely of high-quality hay (like timothy or meadow hay) and a specially formulated degu-specific pellet mix. All sugary treats must be eliminated.
-    *   **Eliminate All Sugars:** Avoid all fruits, sugary vegetables (e.g., carrots, corn, peas), and commercial treats that contain sugar, molasses, or fruit. Even small amounts can be dangerous.
-2.  **Weight Management:** Maintaining a healthy weight is crucial. Obesity can worsen diabetes, so it’s essential to prevent weight gain through a proper diet and exercise.
-3.  **Hydration:** Diabetic degus often urinate more frequently, which can lead to dehydration. It’s essential to ensure they always have access to fresh, clean water.
-4.  **Exercise and Enrichment:** Provide ample space for activity, a solid-surface exercise wheel, tunnels, and toys to encourage movement. Regular exercise helps with blood sugar regulation.
-5.  **Regular Veterinary Check-Ups:** Routine visits to a veterinarian experienced with exotic pets are critical for monitoring the degu’s blood glucose levels, weight, and overall health.
+- **Polydipsia** — excessive thirst; noticeably increased water consumption
+- **Polyuria** — frequent or increased urination; wet or soiled bedding
+- **Weight loss** despite a normal or increased appetite
+- **Lethargy** and reduced activity levels
+- **Cataracts** — cloudiness of one or both eyes; this is a hallmark sign of diabetes in degus and can develop relatively quickly
+- **Loss of appetite** in more advanced cases
+- **Unkempt coat** or reduced grooming
 
-## Preventing Diabetes in Degus
+:::warning
+Cataracts in a degu — especially alongside increased thirst and urination — are a strong indicator of diabetes. Seek veterinary attention promptly. In some cases, cataracts may partially resolve if blood sugar is brought under control early.
+:::
 
-Prevention is the best approach for diabetes in degus.
+## Diagnosis
 
-*   **Provide a Proper Diet:** From the day you bring your degu home, provide a diet that is high in fiber and completely free of sugar. This is the single most important factor in preventing diabetes.
-*   **Avoid All Sugary Treats:** Never feed your degu fruit, raisins, or other sugary snacks. Read the ingredients on any commercial pellet mix to ensure it does not contain added sugars, molasses, or fruit.
-*   **Promote a Healthy Weight:** Prevent obesity by providing a proper diet and encouraging exercise.
+Diagnosis is made by a veterinarian experienced with exotic small mammals through:
 
-### Conclusion
+- **Blood glucose measurement** — a fasting blood glucose above the normal range is suggestive of diabetes
+- **Urinalysis** — the presence of glucose in the urine (glucosuria) is a key indicator
+- **Complete blood panel** to assess overall health and rule out other conditions
 
-Diabetes in degus is a serious but manageable condition. With a strict, species-appropriate diet and a healthy lifestyle, a diabetic degu can still live a happy and comfortable life. Prevention, however, remains the best medicine.
+Note that stress can temporarily elevate blood glucose in degus, so a single elevated reading must be interpreted alongside the full clinical picture.[^1]
+
+## Management
+
+There is no cure for diabetes in degus, but the condition can often be managed with dietary changes and veterinary support:
+
+| Intervention | Details |
+|---|---|
+| **Diet correction** | Eliminate all sugary foods, fruit, molasses, and inappropriate commercial feeds immediately |
+| **Hay-based diet** | Ensure unlimited grass hay (timothy, meadow) forms the bulk of the diet |
+| **Appropriate pellets** | Limit to a small daily portion of plain, sugar-free degu-specific pellets |
+| **Weight management** | Encourage exercise; provide a large enclosure with a solid-surface wheel |
+| **Monitoring** | Regular vet check-ups with blood glucose monitoring |
+| **Insulin therapy** | Possible in some cases, but insulin injections are very stressful for degus and may not be effective due to their atypical insulin structure[^1] |
+
+:::tip
+Dietary management is the most impactful treatment for diabetic degus. Switching to a hay-based diet can be challenging if a degu has been accustomed to sugary foods — transition gradually over 2–3 weeks, reducing treats slowly while increasing hay availability. Never withhold food abruptly.
+:::
+
+## Prevention
+
+The best prevention is a species-appropriate diet from the very beginning:
+
+- Feed **unlimited grass hay** (timothy or meadow) as the dietary foundation
+- Offer a small daily portion of plain, **sugar-free degu pellets** — check the ingredient list for molasses, fructose, or any sweeteners
+- **Never feed** fruit, raisins, molasses, sugary treats, rabbit food, hamster food, or gerbil food
+- Provide a large enclosure with a **solid-surface exercise wheel** to encourage activity
+- Maintain a **healthy body weight** — you should be able to feel but not see the ribs
+
+> Degus can enjoy a variety of safe vegetables and herbs in moderation. See our guide on [Degu Diet and Nutrition](#) for a full list of safe and unsafe foods.
+
+## References
+
+[^1]: Agrobs GmbH. Diabetes mellitus — a common metabolic disorder in degus. Available at: [https://www.agrobs.de/en/know-how-advice/topics/diabetes-mellitus-a-common-metabolic-disorder-in-degus-347/](https://www.agrobs.de/en/know-how-advice/topics/diabetes-mellitus-a-common-metabolic-disorder-in-degus-347/)
+
+[^2]: Long CV. Role of Sugar in the Degu's Diet. Degutopia, 2009. Available at: [http://www.degutopia.co.uk/degusugar.htm](http://www.degutopia.co.uk/degusugar.htm)
+
+[^3]: ExoticDirect. Degu food advice — what should and shouldn't your degu be eating? Available at: [https://exoticdirect.co.uk/news/degu-food-advice-what-your-degu-should-be-eating-not-eating-diabetes-and-other-advice/](https://exoticdirect.co.uk/news/degu-food-advice-what-your-degu-should-be-eating-not-eating-diabetes-and-other-advice/)

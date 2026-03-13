@@ -1,7 +1,7 @@
 {
   "label": "Illnesses & Conditions",
   "position": 1,
-  "collapsed": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "Information on common illnesses and health conditions in degus."
