@@ -206,23 +206,31 @@ export default function About() {
           <h2 className={styles.sectionTitle}>What We Do</h2>
           <div className={styles.pillarsGrid}>
             <div className={styles.pillarCard}>
-              <div className={styles.pillarIcon}>🏥</div>
-              <h3 className={styles.pillarTitle}>Rescue &amp; Rehabilitation</h3>
+              <div className={styles.pillarHeader}>
+                <span className={styles.pillarIcon}>🏥</span>
+                <h3 className={styles.pillarTitle}>Rescue &amp; Rehabilitation</h3>
+              </div>
               <p>We take in animals from shelters, owner surrenders, cruelty cases, and hoarding situations. Every animal receives a full veterinary intake, any needed treatment, and time to decompress before being placed for adoption.</p>
             </div>
             <div className={styles.pillarCard}>
-              <div className={styles.pillarIcon}>🏡</div>
-              <h3 className={styles.pillarTitle}>Foster &amp; Adoption</h3>
+              <div className={styles.pillarHeader}>
+                <span className={styles.pillarIcon}>🏡</span>
+                <h3 className={styles.pillarTitle}>Foster &amp; Adoption</h3>
+              </div>
               <p>Our foster network gives animals a real home environment while they wait for their forever family. We carefully match animals with adopters to ensure the best possible outcome for both.</p>
             </div>
             <div className={styles.pillarCard}>
-              <div className={styles.pillarIcon}>💊</div>
-              <h3 className={styles.pillarTitle}>Sanctuary &amp; Special Needs Care</h3>
+              <div className={styles.pillarHeader}>
+                <span className={styles.pillarIcon}>💊</span>
+                <h3 className={styles.pillarTitle}>Sanctuary &amp; Special Needs Care</h3>
+              </div>
               <p>Animals with terminal or chronic conditions deserve love too. We provide full sanctuary care — a permanent, loving home with palliative and medical support — for animals who need it most.</p>
             </div>
             <div className={styles.pillarCard}>
-              <div className={styles.pillarIcon}>📚</div>
-              <h3 className={styles.pillarTitle}>Education &amp; Resources</h3>
+              <div className={styles.pillarHeader}>
+                <span className={styles.pillarIcon}>📚</span>
+                <h3 className={styles.pillarTitle}>Education &amp; Resources</h3>
+              </div>
               <p>Our free resource library helps current and prospective pet owners understand the unique needs of small animals — from diet and habitat to illness recognition and emergency care.</p>
             </div>
           </div>
