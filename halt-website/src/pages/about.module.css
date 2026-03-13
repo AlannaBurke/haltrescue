@@ -295,6 +295,63 @@
   margin: 0;
 }
 
+/* ── Contact section ────────────────────────────── */
+.contactGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+.contactCard {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: var(--ifm-card-background-color, #fff);
+  border: 1.5px solid var(--ifm-color-primary-light, #c9a8e0);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+
+.contactCard:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  text-decoration: none !important;
+}
+
+.contactIcon {
+  font-size: 1.75rem;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.contactLabel {
+  display: block;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary-darkest, #5a3e6b);
+  margin-bottom: 0.15rem;
+}
+
+.contactDetail {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--ifm-color-primary, #9b59b6);
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.contactNote {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--ifm-font-color-secondary, #666);
+  line-height: 1.45;
+}
+
 /* ── FAQ ─────────────────────────────────────────── */
 .faqList {
   display: flex;

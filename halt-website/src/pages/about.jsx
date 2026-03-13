@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import styles from './about.module.css';
 
 const SERVICE_AREAS = [
-  { state: 'New Hampshire', role: 'Sanctuary & Headquarters', detail: 'Deerfield, NH — our main sanctuary where animals receive care, medical treatment, and hospice support.', emoji: '🏡' },
+  { state: 'New Hampshire', role: 'Sanctuary & Headquarters', detail: 'Deerfield, NH — our main sanctuary where animals receive care, medical treatment, and long-term sanctuary care.', emoji: '🏡' },
   { state: 'Massachusetts', role: 'Foster Network', detail: 'Active foster homes throughout MA providing loving temporary care for animals awaiting adoption.', emoji: '🐾' },
   { state: 'New Jersey', role: 'Foster Network', detail: 'Foster homes in NJ caring for animals and facilitating local adoptions.', emoji: '🐾' },
   { state: 'Pennsylvania', role: 'Foster Network', detail: 'Foster homes in PA supporting our rescue mission and connecting animals with families.', emoji: '🐾' },
@@ -14,7 +14,7 @@ const TEAM = [
     name: 'Danni Challender',
     role: 'President',
     photo: '/img/team/danni.jpg',
-    bio: 'Danni started Helping All Little Things in August of 2010 when her best friend\'s rescue was overwhelmed with guinea pig surrenders. (Fun fact: Danni was terrified of guinea pigs as a child!) She currently runs the sanctuary from her home in New Hampshire, housing senior, hospice, and special needs small animals and managing our foster team.',
+    bio: 'Danni started Helping All Little Things in August of 2010 when her best friend\'s rescue was overwhelmed with guinea pig surrenders. (Fun fact: Danni was terrified of guinea pigs as a child!) She currently runs the sanctuary from her home in New Hampshire, housing senior, sanctuary, and special needs small animals and managing our foster team.',
   },
   {
     name: 'Ericka Chadbourne',
@@ -56,12 +56,16 @@ const FAQS = [
     a: 'Yes, we regularly partner with shelters and other rescues to take in animals who need specialized small-animal care or who have been overlooked.',
   },
   {
-    q: 'What does "hospice care" mean for you?',
-    a: 'Some animals come to us with terminal or chronic conditions. We believe every animal deserves to live out their days with dignity, comfort, and love — even if that time is short. Our hospice animals receive full medical support and a forever home with us.',
+    q: 'What does "sanctuary care" mean for you?',
+    a: 'Some animals come to us with terminal or chronic conditions — animals who need a permanent, loving home rather than a temporary foster placement. We call this sanctuary care. We believe every animal deserves to live out their days with dignity, comfort, and love, even if that time is short. Our sanctuary animals receive full medical and palliative support and a forever home with us.',
+  },
+  {
+    q: 'Is sanctuary care the same as hospice care?',
+    a: 'Essentially, yes — though we prefer the term sanctuary care. Hospice and palliative care principles guide how we manage pain, comfort, and quality of life for animals with serious or terminal conditions. We just think “sanctuary” better reflects the warmth and permanence of what these animals receive.',
   },
   {
     q: 'Are you a 501(c)(3)?',
-    a: 'Yes! Helping All Little Things is a federally recognized 501(c)(3) nonprofit organization. All donations are tax-deductible to the extent permitted by law.',
+    a: 'Yes! Helping All Little Things is a federally recognized 501(c)(3) nonprofit organization. All donations are tax-deductible to the extent permitted by law. If you need our EIN for donation records or employer matching programs, please reach out and we\'ll be happy to provide it.',
   },
   {
     q: 'How is the rescue funded?',
@@ -104,7 +108,7 @@ export default function About() {
             We rescue animals from shelters, owner surrenders, cruelty cases, and hoarding situations.
             We provide them with expert veterinary care, a safe and loving environment, and — whenever
             possible — a permanent adoptive home. For animals with terminal or chronic conditions, we
-            offer compassionate hospice care so that every animal can live out their days with dignity
+            offer compassionate sanctuary care so that every animal can live out their days with dignity
             and love.
           </p>
           <p>
@@ -174,7 +178,7 @@ export default function About() {
           <h2 className={styles.sectionTitle}>Where We Are</h2>
           <p>
             Our sanctuary is headquartered in <strong>Deerfield, New Hampshire</strong>, where our
-            animals receive hands-on care, medical treatment, and hospice support. We also have an
+            animals receive hands-on care, medical treatment, and long-term sanctuary care. We also have an
             active network of foster homes across <strong>Massachusetts</strong>,{' '}
             <strong>New Jersey</strong>, and <strong>Pennsylvania</strong>.
           </p>
@@ -213,8 +217,8 @@ export default function About() {
             </div>
             <div className={styles.pillarCard}>
               <div className={styles.pillarIcon}>💊</div>
-              <h3 className={styles.pillarTitle}>Hospice &amp; Special Needs Care</h3>
-              <p>Animals with terminal or chronic conditions deserve love too. We provide full hospice care and are experienced in managing complex medical needs in small animals.</p>
+              <h3 className={styles.pillarTitle}>Sanctuary &amp; Special Needs Care</h3>
+              <p>Animals with terminal or chronic conditions deserve love too. We provide full sanctuary care — a permanent, loving home with palliative and medical support — for animals who need it most.</p>
             </div>
             <div className={styles.pillarCard}>
               <div className={styles.pillarIcon}>📚</div>
@@ -256,6 +260,33 @@ export default function About() {
                 <p className={styles.faqA}>{a}</p>
               </div>
             ))}
+          </div>
+        </section>
+
+        {/* Contact */}
+        <section className={styles.section}>
+          <h2 className={styles.sectionTitle}>Get in Touch</h2>
+          <p>
+            Have a question about adoption, surrendering an animal, sanctuary care, or anything else?
+            We'd love to hear from you. The best ways to reach us are:
+          </p>
+          <div className={styles.contactGrid}>
+            <a href="https://www.facebook.com/HALTRescue/" className={styles.contactCard} target="_blank" rel="noopener noreferrer">
+              <span className={styles.contactIcon}>📘</span>
+              <div>
+                <strong className={styles.contactLabel}>Facebook</strong>
+                <span className={styles.contactDetail}>facebook.com/HALTRescue</span>
+                <span className={styles.contactNote}>Message us on Facebook — we check it regularly!</span>
+              </div>
+            </a>
+            <a href="mailto:info@helpingalllittlethings.org" className={styles.contactCard}>
+              <span className={styles.contactIcon}>✉️</span>
+              <div>
+                <strong className={styles.contactLabel}>Email</strong>
+                <span className={styles.contactDetail}>info@helpingalllittlethings.org</span>
+                <span className={styles.contactNote}>For detailed inquiries, documentation, or EIN requests.</span>
+              </div>
+            </a>
           </div>
         </section>
 
