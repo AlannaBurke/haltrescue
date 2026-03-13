@@ -153,6 +153,10 @@ export default function About() {
               <span className={styles.animalEmoji}>🐰</span>
               <span>Rabbits</span>
             </div>
+            <div className={`${styles.animalChip} ${styles.animalChipMuted}`}>
+              <span className={styles.animalEmoji}>🐭</span>
+              <span>Chinchillas</span>
+            </div>
           </div>
 
           <div className={styles.surrenderNotice}>
@@ -162,10 +166,7 @@ export default function About() {
             </div>
           </div>
 
-          <p className={styles.animalNote}>
-            We occasionally encounter chinchillas and other small exotics, and we will always do our best
-            to help any animal in need — but our deepest expertise lies with the species above.
-          </p>
+
         </section>
 
         {/* Where we are */}
