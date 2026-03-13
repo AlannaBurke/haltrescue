@@ -1,81 +1,81 @@
 news:
-  label: news
+  label: News
   permalink: /news
-  description: News
+  description: News and announcements
 
 adoptions:
-  label: adoptions
+  label: Adoptions
   permalink: /adoptions
-  description: adoptions
+  description: Adoption updates
 
 adoptables:
-  label: adoptables
+  label: Adoptables
   permalink: /adoptables
-  description: adoptables
+  description: Animals available for adoption
 
 fundraiser:
-  label: fundraiser
+  label: Fundraiser
   permalink: /fundraiser
-  description: fundraiser
+  description: Fundraisers and campaigns
 
 educational:
-  label: educational
+  label: Educational
   permalink: /educational
-  description: educational
+  description: Educational content
 
 humans:
-  label: humans
+  label: Humans
   permalink: /humans
-  description: humans
+  description: Posts about our volunteers and team
 
 satin:
-  label: satin
+  label: Satin Syndrome
   permalink: /satin
-  description: satin syndrome
+  description: Satin syndrome in guinea pigs
 
 lethalwhite:
-  label: lethalwhite
+  label: Lethal White
   permalink: /lethalwhite
-  description: Lethal White Guinea Pigs
+  description: Lethal White guinea pigs
 
 medical:
-  label: medical
+  label: Medical
   permalink: /medical
-  description: medical
+  description: Medical updates and health topics
 
 dental:
-  label: dental
+  label: Dental
   permalink: /dental
-  description: dental
+  description: Dental health topics
 
 rainbowbridge:
-  label: rainbow bridge
+  label: Rainbow Bridge
   permalink: /rainbowbridge
   description: Remembering the pets who have crossed the rainbow bridge.
 
 sanctuary:
-  label: sanctuary
+  label: Sanctuary
   permalink: /sanctuary
-  description: sanctuary
+  description: Sanctuary life and updates
 
 guineapigs:
-  label: guineapigs
+  label: Guinea Pigs
   permalink: /guineapigs
-  description: guinea pigs
+  description: Guinea pig updates and stories
 
 chinchillas:
-  label: chinchillas
+  label: Chinchillas
   permalink: /chinchillas
-  description: chinchillas
+  description: Chinchilla updates and stories
 
 mice:
-  label: mice
+  label: Mice
   permalink: /mice
-  description: mice
+  description: Mouse updates and stories
 
 hamsters:
-  label: hamsters
+  label: Hamsters
   permalink: /hamsters
-  description: hamsters
+  description: Hamster updates and stories
 
 
