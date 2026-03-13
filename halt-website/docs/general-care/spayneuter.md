@@ -124,3 +124,11 @@ Since small animals have unique needs and are more sensitive to anesthesia and s
 ## The Bottom Line
 
 Spaying and neutering small pets like guinea pigs, rabbits, and rats offer numerous benefits, from disease prevention to calmer behavior and better compatibility with companions. Making this choice means supporting your pet’s health, longevity, and quality of life. If you’re considering spaying or neutering, reach out to a knowledgeable vet to discuss the best options for your furry friend. It’s a small step that can lead to a happier, healthier life for your beloved pet.
+
+---
+
+## Quick Reference: Why Spay & Neuter Your Small Pets
+
+![Why Spay and Neuter Your Small Pets infographic covering health benefits, behavioral benefits, population crisis, and pregnancy risks in guinea pigs](/img/general-care/spay-neuter.png)
+
+<InfographicShare imageSrc="/img/general-care/spay-neuter.png" />

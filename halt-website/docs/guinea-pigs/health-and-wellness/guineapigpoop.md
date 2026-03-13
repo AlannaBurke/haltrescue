@@ -58,3 +58,13 @@ If you see any blood in your guinea pig's poop, take them to the vet immediately
 This excellent chart from GuineaDad gives an overview of the types of guinea pig poop. 
 
 ![Guinea Pig Poop Chart](/img/guinea-pigs/gppoop.jpg)
+
+---
+
+## Quick Reference: Guinea Pig Poop Guide
+
+The infographic below provides a visual overview of the different types of guinea pig droppings and what they mean for your pig's health.
+
+![Guinea Pig Poop Guide infographic showing normal, monitor, and urgent dropping types](/img/guinea-pigs/gp-poop-guide.png)
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-poop-guide.png" />
