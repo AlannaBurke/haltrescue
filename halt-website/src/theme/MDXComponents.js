@@ -12,6 +12,7 @@ import Caption from '@site/src/components/Caption';
 import SensitiveImage from '@site/src/components/SensitiveImage';
 import SupportUs from '@site/src/components/SupportUs';
 import InfographicShare from '@site/src/components/InfographicShare';
+import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 export default {
   // Spread all the original Docusaurus MDX components
@@ -21,4 +22,5 @@ export default {
   SensitiveImage,
   SupportUs,
   InfographicShare,
+  VetDisclaimer,
 };
