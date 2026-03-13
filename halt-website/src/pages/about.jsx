@@ -49,7 +49,7 @@ const FAQS = [
   },
   {
     q: 'Do you take owner surrenders?',
-    a: 'Yes, for most species. Please note that we are currently not accepting rabbit or rat surrenders due to capacity — we are overwhelmed with both at this time. For all other animals, please fill out our surrender inquiry form and we\'ll do our best to help. We never judge — we just want what\'s best for the animal.',
+    a: <span>Yes, for most species. Please note that we are currently <strong>not accepting rabbit or rat surrenders</strong> due to capacity — we are overwhelmed with both at this time. For all other animals, please fill out our <a href="https://bit.ly/halt-surrender">surrender inquiry form</a> and we'll do our best to help. We never judge — we just want what's best for the animal.</span>,
   },
   {
     q: 'Do you take in animals from other rescues or shelters?',
