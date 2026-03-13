@@ -5,7 +5,6 @@ description: A guide to neurological conditions in rabbits — causes, symptoms,
 tags: [rabbits, neurological, health, illnesses, head tilt, e-cuniculi]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Neurologic Issues in Rabbits
@@ -105,7 +104,6 @@ Prognosis varies widely by cause:
 - **Spinal fracture with complete paralysis** — poor prognosis; quality of life assessment required
 
 
-<VetDisclaimer />
 
 ## References
 

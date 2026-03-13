@@ -5,7 +5,6 @@ sidebar_label: Diabetes
 tags: [guinea pigs, diabetes, health, illnesses, nutrition]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Guinea Pigs
@@ -92,7 +91,6 @@ Weighing your guinea pig weekly is one of the best ways to monitor their health.
 > For more on what guinea pigs should and shouldn't eat, see our [Nutrition Information](/docs/guinea-pigs/getting-started/nutrition-information) guide.
 
 
-<VetDisclaimer />
 
 ## References
 

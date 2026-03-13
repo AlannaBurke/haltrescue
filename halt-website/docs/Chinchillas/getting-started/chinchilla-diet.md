@@ -3,7 +3,6 @@ sidebar_label: 'Nutrition and Diet'
 sidebar_position: 1
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Chinchilla Nutrition and Diet
@@ -93,5 +92,4 @@ Fresh, clean water must be available at all times. A sipper bottle is the best w
 
 [8] Small Pet Select. "Safe Treats for Chinchillas: What is Good, What to Avoid." [https://smallpetselect.com/safe-treats-for-chinchillas/](https://smallpetselect.com/safe-treats-for-chinchillas/)
 
-<VetDisclaimer />
 

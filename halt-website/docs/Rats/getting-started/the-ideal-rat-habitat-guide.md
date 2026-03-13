@@ -4,7 +4,6 @@ sidebar_position: 2
 tags: [rat, habitat, cage, care, environment, enrichment, health, bedding, socialization, housing]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Creating the Ideal Habitat for Your Pet Rats
@@ -52,7 +51,6 @@ Boredom can lead to stress and behavioral problems. A constantly changing and st
 Where you place the cage is also important. Keep it in a temperature-controlled room, away from direct sunlight, drafts, and loud noises. Rats are sensitive to high temperatures and can suffer from heatstroke at temperatures above 80°F (27°C) [2].
 
 
-<VetDisclaimer />
 
 ## References
 

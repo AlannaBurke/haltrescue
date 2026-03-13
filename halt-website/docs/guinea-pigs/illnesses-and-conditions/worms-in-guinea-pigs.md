@@ -5,7 +5,6 @@ description: A guide to intestinal worm infestations in guinea pigs — types, s
 tags: [guinea pigs, worms, parasites, intestinal parasites, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Worms in Guinea Pigs
@@ -101,7 +100,6 @@ Good husbandry is the most effective way to prevent worm infestations:
 > For a broader overview of parasites affecting guinea pigs, see our [Parasites in Guinea Pigs](./parasites-in-guinea-pigs) article.
 
 
-<VetDisclaimer />
 
 ## References
 

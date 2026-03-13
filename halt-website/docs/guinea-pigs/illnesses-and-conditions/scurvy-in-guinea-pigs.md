@@ -5,7 +5,6 @@ description: Everything you need to know about scurvy in guinea pigs — causes,
 tags: [guinea pigs, scurvy, vitamin c, nutrition, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Scurvy (Vitamin C Deficiency) in Guinea Pigs
@@ -107,7 +106,6 @@ Prevention is straightforward and critical:
 > For more information on feeding your guinea pig, see our [Nutrition Information](../getting-started/nutrition-information) guide.
 
 
-<VetDisclaimer />
 
 ## References
 

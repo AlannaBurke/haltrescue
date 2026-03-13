@@ -5,7 +5,6 @@ sidebar_label: Bumblefoot (Pododermatitis)
 tags: [guinea pigs, bumblefoot, pododermatitis, health, illnesses, housing]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Bumblefoot in Guinea Pigs
@@ -101,7 +100,6 @@ Fleece liners are one of the best flooring options for guinea pigs. They are sof
 > For more on setting up a safe guinea pig enclosure, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
 
 
-<VetDisclaimer />
 
 ## References
 

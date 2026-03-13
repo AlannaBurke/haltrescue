@@ -4,7 +4,6 @@ sidebar_position: 8
 tags: [rat, diabetes, endocrine, health, veterinary, care, symptoms, treatment]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Rats
@@ -73,7 +72,6 @@ Caring for a diabetic rat is a significant commitment, but it is a manageable on
 ---
 
 
-<VetDisclaimer />
 
 ## References
 

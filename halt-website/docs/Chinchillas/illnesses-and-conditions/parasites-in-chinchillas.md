@@ -5,7 +5,6 @@ sidebar_label: Parasites
 tags: [chinchillas, parasites, mites, giardia, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Parasites in Chinchillas
@@ -96,7 +95,6 @@ Environmental treatment is also essential for external parasites — the enclosu
 > For more on keeping your chinchilla healthy, see our article on [Home Health Care for Your Chinchilla](/docs/Chinchillas/health-and-wellness/home-health-care).
 
 
-<VetDisclaimer />
 
 ## References
 

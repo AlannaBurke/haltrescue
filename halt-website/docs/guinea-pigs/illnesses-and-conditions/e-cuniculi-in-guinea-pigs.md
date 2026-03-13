@@ -5,7 +5,6 @@ sidebar_label: E. cuniculi
 tags: [guinea pigs, e. cuniculi, parasites, neurological, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # E. cuniculi in Guinea Pigs
@@ -91,7 +90,6 @@ If you keep both guinea pigs and rabbits, always handle and clean their enclosur
 > For more on introducing new guinea pigs safely, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
 
 
-<VetDisclaimer />
 
 ## References
 

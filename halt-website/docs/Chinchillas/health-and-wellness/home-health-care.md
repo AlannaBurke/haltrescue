@@ -3,7 +3,6 @@ sidebar_label: 'Home Health Care'
 sidebar_position: 1
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Home Health Care for Your Chinchilla
@@ -101,5 +100,4 @@ If your home health check reveals any of the "Red Flags" listed above, it is imp
 
 [5] PDSA. "Chinchilla Health." [https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health)
 
-<VetDisclaimer />
 

@@ -5,7 +5,6 @@ description: A comprehensive overview of common internal and external parasites 
 tags: [rabbits, parasites, mites, fleas, worms, e-cuniculi, coccidia, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Parasites in Rabbits
@@ -79,7 +78,6 @@ Treatment is specific to the parasite and may include topical medications (selam
 - **Environmental Control**: Source hay from reputable suppliers and prevent contact with wild rabbits.
 
 
-<VetDisclaimer />
 
 ## References
 

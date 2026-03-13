@@ -4,7 +4,6 @@ sidebar_position: 3
 tags: [rabbits, RVHD2, vaccination, disease, veterinary, pet health, hemorrhagic disease]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # The Importance of Vaccinating Your Rabbit Against RVHD2
@@ -62,7 +61,6 @@ While vaccination is the cornerstone of prevention, good biosecurity practices c
 By combining vaccination with smart biosecurity, you can provide your beloved rabbit with the best possible protection against RHDV2.
 
 
-<VetDisclaimer />
 
 ## References
 

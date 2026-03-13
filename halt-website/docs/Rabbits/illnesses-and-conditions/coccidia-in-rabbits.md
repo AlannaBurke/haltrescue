@@ -5,7 +5,6 @@ description: A comprehensive guide to coccidiosis in rabbits — causes, symptom
 tags: [rabbits, coccidia, parasites, illnesses, digestive health]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Coccidia in Rabbits
@@ -90,7 +89,6 @@ Treatment duration is typically 5–10 days depending on the medication used and
 - **Regular fecal testing** — annual fecal checks help identify subclinical infections before they become clinical
 
 
-<VetDisclaimer />
 
 ## References
 

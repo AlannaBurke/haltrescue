@@ -4,7 +4,6 @@ sidebar_position: 5
 tags: [rat, introductions, socialization, care, health, aggression, quarantine, pet health]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # A Guide to Safe and Successful Rat Introductions
@@ -61,7 +60,6 @@ It's important to distinguish between normal dominance behavior and true aggress
 If you see any signs of true aggression, separate the rats immediately and go back a step in the introduction process. Some introductions can take weeks or even months. Patience is key.
 
 
-<VetDisclaimer />
 
 ## References
 

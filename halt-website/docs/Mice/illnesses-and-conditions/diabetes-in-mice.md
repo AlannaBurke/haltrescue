@@ -5,7 +5,6 @@ description: A guide to diabetes in pet mice — causes, symptoms, diagnosis, an
 tags: [mice, diabetes, health, illnesses, metabolic]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Pet Mice
@@ -103,7 +102,6 @@ There is no cure for diabetes in mice, but the condition can be managed to impro
 With dietary management and regular monitoring, diabetic mice can maintain a reasonable quality of life. However, because mice have short lifespans (2–3 years), diabetes is often a late-life condition and may progress relatively quickly. Early detection and consistent management give the best outcomes.
 
 
-<VetDisclaimer />
 
 ## References
 

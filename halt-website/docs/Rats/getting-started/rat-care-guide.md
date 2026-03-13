@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [rat, rodent, pet health, veterinary, nutrition, health, behavior, housing]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # A Comprehensive Guide to Rat Care
@@ -51,7 +50,6 @@ Keep a simple health journal for each rat, noting their weight, eating habits, a
 :::
 
 
-<VetDisclaimer />
 
 ## References
 

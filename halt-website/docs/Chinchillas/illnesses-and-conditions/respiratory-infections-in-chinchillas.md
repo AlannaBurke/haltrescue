@@ -5,7 +5,6 @@ sidebar_label: Respiratory Infections
 tags: [chinchillas, respiratory, pneumonia, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Respiratory Infections in Chinchillas
@@ -93,7 +92,6 @@ If you notice your chinchilla sneezing more than usual after a dust bath, try sw
 > For more on setting up a healthy chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
 
 
-<VetDisclaimer />
 
 ## References
 

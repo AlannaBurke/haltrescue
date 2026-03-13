@@ -5,7 +5,6 @@ description: A guide to ear infections in rabbits — types, causes, symptoms, d
 tags: [rabbits, ear infections, health, illnesses, otitis]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Ear Infections in Rabbits
@@ -89,7 +88,6 @@ Treatment courses for middle and inner ear infections are often prolonged (4–8
 > For more information on neurological signs that can accompany inner ear infections, see our article on [Neurologic Issues in Rabbits](./neurologic-issues-in-rabbits).
 
 
-<VetDisclaimer />
 
 ## References
 
