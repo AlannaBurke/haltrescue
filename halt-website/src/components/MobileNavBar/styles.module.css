@@ -1,0 +1,85 @@
+/* ============================================================
+   MOBILE BOTTOM TAB BAR
+   Only shown on mobile (≤996px). Hidden on desktop.
+   ============================================================ */
+
+.mobileNav {
+  display: none; /* hidden by default; shown via media query */
+}
+
+@media screen and (max-width: 996px) {
+  .mobileNav {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9990;
+    background: rgba(255, 255, 255, 0.97);
+    border-top: 2px solid var(--halt-teal-light);
+    box-shadow: 0 -4px 20px rgba(15, 138, 147, 0.12);
+    padding: 0.5rem 0.5rem calc(0.5rem + env(safe-area-inset-bottom));
+    gap: 0.25rem;
+    justify-content: space-around;
+    align-items: stretch;
+  }
+
+  [data-theme='dark'] .mobileNav {
+    background: rgba(18, 18, 31, 0.97);
+    border-top-color: rgba(45, 212, 223, 0.2);
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+  }
+
+  .navItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    gap: 0.2rem;
+    padding: 0.4rem 0.5rem;
+    border-radius: 14px;
+    text-decoration: none !important;
+    color: var(--halt-text-medium);
+    font-weight: 700;
+    font-size: 0.72rem;
+    letter-spacing: 0.01em;
+    transition: background 0.18s ease, color 0.18s ease, transform 0.18s ease;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .navItem:hover {
+    background: var(--halt-teal-light);
+    color: var(--halt-teal-dark);
+    text-decoration: none !important;
+    transform: translateY(-2px);
+  }
+
+  [data-theme='dark'] .navItem {
+    color: var(--halt-text-medium);
+  }
+
+  [data-theme='dark'] .navItem:hover {
+    background: rgba(45, 212, 223, 0.12);
+    color: var(--halt-teal);
+  }
+
+  .navItemActive {
+    background: var(--halt-teal-light);
+    color: var(--halt-teal-dark) !important;
+  }
+
+  [data-theme='dark'] .navItemActive {
+    background: rgba(45, 212, 223, 0.18);
+    color: var(--halt-teal) !important;
+  }
+
+  .navIcon {
+    font-size: 1.35rem;
+    line-height: 1;
+  }
+
+  .navLabel {
+    line-height: 1;
+  }
+}

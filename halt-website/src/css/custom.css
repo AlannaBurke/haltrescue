@@ -775,6 +775,22 @@ img[alt=board-pic] {
 /* ============================================================
    MOBILE RESPONSIVE OVERRIDES
    ============================================================ */
+/* ============================================================
+   MOBILE NAV BAR — body padding so content clears the tab bar
+   ============================================================ */
+@media screen and (max-width: 996px) {
+  /* Push page content above the fixed bottom tab bar */
+  .main-wrapper {
+    padding-bottom: 80px;
+  }
+
+  /* Fix search bar overlap: hide the search from the navbar on mobile
+     (users can use the search icon in the tab bar or the docs sidebar) */
+  .navbar__search {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 996px) {
   .hero--primary {
     padding: 3rem 1.5rem 6rem;
