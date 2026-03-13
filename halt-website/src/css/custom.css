@@ -542,6 +542,24 @@ h1, h2, h3, h4, h5, h6 {
   max-width: var(--ifm-col-width);
 }
 
+/* Mobile: let blog columns go full-width */
+@media screen and (max-width: 996px) {
+  .blog-list-page .col--7,
+  .blog-list-page .col--3,
+  .blog-post-page .col--7,
+  .blog-post-page .col--3 {
+    --ifm-col-width: 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .blog-list-page .container,
+  .blog-post-page .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
 article header h2 a,
 article header h1 {
   font-weight: 800;
