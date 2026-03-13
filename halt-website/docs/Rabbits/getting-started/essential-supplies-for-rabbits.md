@@ -4,7 +4,6 @@ sidebar_position: 2
 tags: [rabbits, care, supplies, housing, nutrition, health, veterinary, grooming, behavior, enrichment, dental disease, illnesses, diet]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Essential Supplies for Your Rabbit Companion
@@ -82,7 +81,6 @@ Rabbits are intelligent and curious animals that need mental stimulation.
 Before you even bring your rabbit home, find a veterinarian who is experienced in treating exotic pets. Rabbits have unique health needs, and a rabbit-savvy vet is an essential partner in your rabbit's care. Annual health checkups are crucial for early detection of potential problems [2].
 
 
-<VetDisclaimer />
 
 ## References
 

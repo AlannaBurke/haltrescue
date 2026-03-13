@@ -5,7 +5,6 @@ sidebar_label: GI Issues in Rabbits
 sidebar_position: 5
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Understanding Gastrointestinal Issues in Rabbits
@@ -69,7 +68,6 @@ Surgery is typically a last resort and is only considered for true obstructions 
 For more information on rabbit health and care, consider exploring our articles on [Rabbit Dental Health](/docs/Rabbits/health-and-wellness/rabbit-dental-health) and [Emergency Preparedness for Pet Owners](/docs/general-care/emergency).
 
 
-<VetDisclaimer />
 
 ## References
 

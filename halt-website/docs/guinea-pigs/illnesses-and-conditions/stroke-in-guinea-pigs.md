@@ -5,7 +5,6 @@ description: Understanding strokes in guinea pigs — causes, symptoms, emergenc
 tags: [guinea pigs, stroke, neurological, health, illnesses, emergency]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Stroke in Guinea Pigs
@@ -98,7 +97,6 @@ Recovery from a stroke varies widely depending on severity and the area of the b
 Many guinea pigs with mild strokes can go on to live comfortable lives with some adaptations to their environment (lower enclosure sides, soft bedding, easy access to food and water).
 
 
-<VetDisclaimer />
 
 ## References
 

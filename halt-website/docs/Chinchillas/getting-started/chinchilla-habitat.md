@@ -3,7 +3,6 @@ sidebar_label: 'The Ideal Habitat'
 sidebar_position: 2
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # The Ideal Chinchilla Habitat
@@ -78,5 +77,4 @@ Where you place the cage is just as important as the cage itself.
 
 [7] PetSmart. "Chinchilla Care Guide." [https://www.petsmart.com/learning-center/small-pet-care/chinchilla-care-guide](https://www.petsmart.com/learning-center/small-pet-care/chinchilla-care-guide)
 
-<VetDisclaimer />
 

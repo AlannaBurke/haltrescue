@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [rat, fancy rat, rat varieties, pet health, small animal, rodent, husbandry, health, behavior, nutrition, housing]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # A Guide to Fancy Rat Varieties
@@ -53,7 +52,6 @@ When choosing rats, always adopt in pairs or groups — rats are highly social a
 :::
 
 
-<VetDisclaimer />
 
 ## References
 

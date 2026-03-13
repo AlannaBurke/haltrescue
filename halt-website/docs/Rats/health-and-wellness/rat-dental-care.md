@@ -4,7 +4,6 @@ sidebar_position: 2
 tags: [rat, dental, teeth, malocclusion, health, veterinary, care, prevention]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Rat Dental Care Guide
@@ -104,7 +103,6 @@ Make a habit of briefly checking your rat's front teeth during your weekly healt
 You cannot easily check the molars at home — that requires a veterinary examination with appropriate lighting and tools.
 
 
-<VetDisclaimer />
 
 ## References
 

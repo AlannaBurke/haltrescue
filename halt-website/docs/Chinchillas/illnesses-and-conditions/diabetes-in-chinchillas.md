@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [chinchillas, diabetes, health, illnesses, diet]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Chinchillas
@@ -93,7 +92,6 @@ The best prevention is a species-appropriate diet from the start:
 > For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/chinchilla-diet).
 
 
-<VetDisclaimer />
 
 ## References
 

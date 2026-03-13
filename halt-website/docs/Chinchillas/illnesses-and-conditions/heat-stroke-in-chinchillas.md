@@ -5,7 +5,6 @@ sidebar_label: Heat Stroke
 tags: [chinchillas, heat stroke, hyperthermia, emergency, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Heat Stroke in Chinchillas
@@ -88,7 +87,6 @@ Freeze a ceramic tile or a small water bottle wrapped in a cloth and place it in
 > For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
 
 
-<VetDisclaimer />
 
 ## References
 

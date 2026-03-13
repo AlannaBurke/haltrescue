@@ -3,7 +3,6 @@ sidebar_label: 'Dental Health'
 sidebar_position: 2
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # A Guide to Rabbit Dental Health
@@ -95,5 +94,4 @@ By providing a proper diet and being observant of any changes in your rabbit's b
 
 [6] Blue Cross. "Give your chinchilla a health check." [https://www.youtube.com/watch?v=UyFmRsSJn_c](https://www.youtube.com/watch?v=UyFmRsSJn_c)
 
-<VetDisclaimer />
 

@@ -3,7 +3,6 @@ sidebar_label: 'RVHD2 Vaccination'
 sidebar_position: 1
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Understanding and Preventing RHDV2 in Rabbits
@@ -84,5 +83,4 @@ Protecting your rabbit from RHDV2 is a critical part of responsible pet ownershi
 
 [8] Colorado Department of Agriculture. "Rabbit Hemorrhagic Disease Virus (RHDV2)." [https://ag.colorado.gov/animal-health/reportable-diseases/rabbit-hemorrhagic-disease-virus-rhdv2](https://ag.colorado.gov/animal-health/reportable-diseases/rabbit-hemorrhagic-disease-virus-rhdv2)
 
-<VetDisclaimer />
 

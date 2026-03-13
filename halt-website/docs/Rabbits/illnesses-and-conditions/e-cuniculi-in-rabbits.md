@@ -5,7 +5,6 @@ description: A comprehensive guide to Encephalitozoon cuniculi in rabbits — tr
 tags: [rabbits, e-cuniculi, parasites, neurological, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # E. cuniculi in Rabbits
@@ -93,7 +92,6 @@ Many rabbits with head tilt improve significantly with treatment, though some de
 - **Prophylactic fenbendazole** — some vets recommend a 28-day course for newly acquired rabbits or after known exposure
 
 
-<VetDisclaimer />
 
 ## References
 

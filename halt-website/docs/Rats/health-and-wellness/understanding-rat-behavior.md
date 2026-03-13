@@ -4,7 +4,6 @@ sidebar_position: 4
 tags: [rat, behavior, care, pets, socialization, training, health, enrichment]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Understanding Rat Behavior: A Guide for Owners
@@ -58,7 +57,6 @@ If you notice any of these signs, it's important to consult with a veterinarian 
 Rats are highly social animals and should **never be housed alone**. They thrive in the company of other rats, and much of their natural behavior is tied to social interaction. A lone rat is a bored and stressed rat, which can lead to behavioral problems and a compromised immune system [2]. Always keep rats in pairs or small, same-sex groups.
 
 
-<VetDisclaimer />
 
 ## References
 

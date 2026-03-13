@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [chinchilla, heart disease, illnesses, veterinary, care]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Heart Disease and Heart Failure in Chinchillas
@@ -69,7 +68,6 @@ While some cases of heart disease may be genetic and unavoidable, there are seve
 5. **Watch for signs of illness**: Since chinchillas are good at hiding illness, it’s important to pay attention to even subtle changes in behavior or health.
 
 
-<VetDisclaimer />
 
 ## Conclusion
 

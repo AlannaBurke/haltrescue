@@ -5,7 +5,6 @@ sidebar_label: Ear Infections
 tags: [guinea pigs, ear infections, otitis, head tilt, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Ear Infections in Guinea Pigs
@@ -102,7 +101,6 @@ Make ear checks part of your weekly health routine. Gently fold back the ear fla
 > For more on neurological symptoms in guinea pigs, see our article on [Neurologic Diseases in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/neurologic-diseases-in-guinea-pigs).
 
 
-<VetDisclaimer />
 
 ## References
 

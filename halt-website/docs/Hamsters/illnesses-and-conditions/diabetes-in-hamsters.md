@@ -5,7 +5,6 @@ description: A comprehensive guide to diabetes in hamsters — which breeds are 
 tags: [hamsters, diabetes, health, illnesses, dwarf hamsters]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Pet Hamsters
@@ -112,7 +111,6 @@ In some cases, a veterinarian may recommend:
 With dietary management, many diabetic hamsters can live relatively normal lives. However, diabetes is a progressive condition, and complications (cataracts, kidney disease, infections) are common over time. Regular veterinary monitoring helps catch complications early.
 
 
-<VetDisclaimer />
 
 ## References
 

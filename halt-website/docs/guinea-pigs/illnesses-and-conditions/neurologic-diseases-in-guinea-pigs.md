@@ -5,7 +5,6 @@ sidebar_label: Neurologic Diseases
 tags: [guinea pigs, neurological, head tilt, seizures, e. cuniculi, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Neurologic Diseases in Guinea Pigs
@@ -110,7 +109,6 @@ A guinea pig with a persistent head tilt can still live a happy, comfortable lif
 :::
 
 
-<VetDisclaimer />
 
 ## References
 

@@ -5,7 +5,6 @@ description: A comprehensive guide to diabetes in rabbits — causes, symptoms, 
 tags: [rabbits, diabetes, health, illnesses, metabolic]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Diabetes in Pet Rabbits
@@ -101,7 +100,6 @@ Dietary management is the cornerstone of treatment:
 With appropriate dietary management and veterinary monitoring, many rabbits with diabetes can maintain a good quality of life. The prognosis is best when the condition is caught early and dietary changes are made promptly.
 
 
-<VetDisclaimer />
 
 ## References
 

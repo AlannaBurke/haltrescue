@@ -4,7 +4,6 @@ sidebar_position: 3
 tags: [rat, parasites, mites, lice, health, veterinary, treatment, prevention]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Parasites in Pet Rats
@@ -104,7 +103,6 @@ Rat lice and mites are species-specific and **cannot infest humans, dogs, or cat
 | Ticks | Manual removal + vet consultation | Do not use dog/cat tick products |
 
 
-<VetDisclaimer />
 
 ## References
 

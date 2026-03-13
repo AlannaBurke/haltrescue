@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [rabbits, flystrike, myiasis, veterinary, pet health, prevention, health, emergency]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Fly Strike (Myiasis) in Rabbits: A Veterinary Emergency
@@ -55,7 +54,6 @@ Daily checks are essential, especially during warmer months.
 *   **Regular Vet Checkups:** Regular exams can help identify and manage underlying issues like dental disease or arthritis before they lead to fly strike.
 
 
-<VetDisclaimer />
 
 ## References
 

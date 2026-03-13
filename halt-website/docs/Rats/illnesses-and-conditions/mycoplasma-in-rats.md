@@ -4,7 +4,6 @@ sidebar_position: 1
 tags: [rat, mycoplasma, respiratory, chronic respiratory disease, murine respiratory mycoplasmosis, M. pulmonis, pet health, veterinary, treatment, symptoms, small animal]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Mycoplasma in Rats: An Essential Guide
@@ -57,7 +56,6 @@ For rats with frequent flare-ups, a veterinarian may recommend a long-term, low-
 Because the disease is so widespread, it's a reality that most rat owners will have to manage. Rats with well-managed CRD can still live happy lives, but their lifespan may be shortened [1]. Proactive care, a clean environment, a high-quality diet, and a strong relationship with a rat-savvy vet are your best tools for giving your myco-positive rats the best quality of life possible.
 
 
-<VetDisclaimer />
 
 ## References
 

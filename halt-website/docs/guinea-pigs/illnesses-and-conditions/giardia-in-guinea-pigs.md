@@ -5,7 +5,6 @@ sidebar_label: Giardia
 tags: [guinea pigs, giardia, parasites, diarrhea, health, illnesses]
 ---
 
-import VetDisclaimer from '@site/src/components/VetDisclaimer';
 
 
 # Giardia in Guinea Pigs
@@ -88,7 +87,6 @@ All guinea pigs in the same household should be evaluated and treated simultaneo
 > For more on preventing parasites, see our article on [Mites in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/mites-in-guinea-pigs).
 
 
-<VetDisclaimer />
 
 ## References
 
