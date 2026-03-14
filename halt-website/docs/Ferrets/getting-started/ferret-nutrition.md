@@ -3,15 +3,14 @@ sidebar_position: 3
 title: Nutrition
 ---
 
-import InfographicShare from '@site/src/components/InfographicShare';
 
 # Ferret Nutrition
 
 Understanding a ferret's diet is simple: they are **obligate carnivores**. This means their bodies are designed to digest and thrive on animal-based protein and fat exclusively. They cannot digest fiber, and carbohydrates (including sugars and grains) can lead to serious health problems.
 
 <InfographicShare
-  imgURL="/img/ferrets/ferret-nutrition-guide.png"
-  altText="An infographic detailing the proper diet for ferrets, including staple foods, safe treats, foods to avoid, and feeding tips."
+  imageSrc="/img/ferrets/ferret-nutrition-guide.png"
+  alt="An infographic detailing the proper diet for ferrets, including staple foods, safe treats, foods to avoid, and feeding tips."
   title="Ferret Nutrition Guide Infographic"
 />
 

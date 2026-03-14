@@ -2,14 +2,14 @@ import React, { useState, useCallback } from 'react';
 import styles from './styles.module.css';
 
 /**
- * InfographicShare — a row of social sharing buttons for infographics.
+ * InfographicShare — displays an infographic image with social sharing buttons below it.
  *
  * Props:
- *   imageSrc  — absolute path to the infographic image (e.g. "/img/guinea-pigs/dental-causes.png")
- *               Used as the Pinterest media URL. Falls back to the page's OG image.
- *   title     — optional custom share title. Defaults to the page <title>.
+ *   imageSrc / src / imgURL  — path to the infographic image (e.g. "/img/guinea-pigs/dental-causes.png")
+ *   alt / altText            — alt text for the image
+ *   title                    — optional custom share title. Defaults to the page <title>.
  *
- * Usage in .mdx files (no import needed — globally registered):
+ * Usage in .md/.mdx files (no import needed — globally registered):
  *
  *   <InfographicShare imageSrc="/img/guinea-pigs/dental-causes.png" />
  */
@@ -49,13 +49,18 @@ function ShareButton({ href, label, icon, color, onClick }) {
   );
 }
 
-export default function InfographicShare({ imageSrc, title: customTitle }) {
+export default function InfographicShare({ imageSrc, src, imgURL, alt, altText, title: customTitle }) {
   const [copied, setCopied] = useState(false);
+
+  // Accept imageSrc, src, or imgURL as the image path prop
+  const resolvedSrc = imageSrc || src || imgURL || '';
+  // Accept alt or altText as the alt text prop
+  const resolvedAlt = alt || altText || 'Infographic from Helping All Little Things';
 
   // Build share URLs client-side so we always get the current page URL
   const pageUrl = typeof window !== 'undefined' ? window.location.href : SITE_URL;
   const pageTitle = customTitle || (typeof document !== 'undefined' ? document.title : 'Helping All Little Things');
-  const imageUrl = getAbsoluteImageUrl(imageSrc);
+  const imageUrl = getAbsoluteImageUrl(resolvedSrc);
 
   const pinterestUrl = `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(imageUrl)}&description=${encodeURIComponent(pageTitle)}`;
   const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}`;
@@ -83,40 +88,50 @@ export default function InfographicShare({ imageSrc, title: customTitle }) {
   };
 
   return (
-    <div className={styles.wrapper} aria-label="Share this infographic">
-      <span className={styles.label}>Share this infographic:</span>
-      <div className={styles.buttons}>
-        <ShareButton
-          href={pinterestUrl}
-          label="Pinterest"
-          icon={icons.pinterest}
-          color="#E60023"
+    <div className={styles.infographicBlock}>
+      {resolvedSrc && (
+        <img
+          src={resolvedSrc}
+          alt={resolvedAlt}
+          className={styles.infographicImage}
+          loading="lazy"
         />
-        <ShareButton
-          href={facebookUrl}
-          label="Facebook"
-          icon={icons.facebook}
-          color="#1877F2"
-        />
-        <ShareButton
-          href={blueskyUrl}
-          label="Bluesky"
-          icon={icons.bluesky}
-          color="#0085FF"
-        />
-        <ShareButton
-          href={redditUrl}
-          label="Reddit"
-          icon={icons.reddit}
-          color="#FF4500"
-        />
-        <ShareButton
-          href="#"
-          label={copied ? 'Copied!' : 'Copy Link'}
-          icon={copied ? icons.check : icons.copy}
-          color={copied ? '#00A878' : '#6B7280'}
-          onClick={handleCopyLink}
-        />
+      )}
+      <div className={styles.wrapper} aria-label="Share this infographic">
+        <span className={styles.label}>Share this infographic:</span>
+        <div className={styles.buttons}>
+          <ShareButton
+            href={pinterestUrl}
+            label="Pinterest"
+            icon={icons.pinterest}
+            color="#E60023"
+          />
+          <ShareButton
+            href={facebookUrl}
+            label="Facebook"
+            icon={icons.facebook}
+            color="#1877F2"
+          />
+          <ShareButton
+            href={blueskyUrl}
+            label="Bluesky"
+            icon={icons.bluesky}
+            color="#0085FF"
+          />
+          <ShareButton
+            href={redditUrl}
+            label="Reddit"
+            icon={icons.reddit}
+            color="#FF4500"
+          />
+          <ShareButton
+            href="#"
+            label={copied ? 'Copied!' : 'Copy Link'}
+            icon={copied ? icons.check : icons.copy}
+            color={copied ? '#00A878' : '#6B7280'}
+            onClick={handleCopyLink}
+          />
+        </div>
       </div>
     </div>
   );

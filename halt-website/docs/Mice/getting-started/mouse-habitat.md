@@ -3,15 +3,14 @@ sidebar_position: 4
 title: Habitat
 ---
 
-import InfographicShare from '@site/src/components/InfographicShare';
 
 # Mouse Habitat
 
 Mice are active, curious, and love to climb and explore. Their habitat should be designed to accommodate these natural behaviors, providing plenty of space and enrichment to keep them happy and healthy.
 
 <InfographicShare
-  imgURL="/img/mice/mouse-habitat-guide.png"
-  altText="An infographic showing the ideal habitat setup for mice, including enclosure type, bedding, enrichment items, and environmental conditions."
+  imageSrc="/img/mice/mouse-habitat-guide.png"
+  alt="An infographic showing the ideal habitat setup for mice, including enclosure type, bedding, enrichment items, and environmental conditions."
   title="Mouse Habitat Guide Infographic"
 />
 

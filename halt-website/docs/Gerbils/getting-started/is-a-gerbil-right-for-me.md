@@ -3,7 +3,6 @@ sidebar_position: 1
 title: Is a Gerbil Right for You?
 ---
 
-import InfographicShare from '@site/src/components/InfographicShare';
 
 # Is a Gerbil Right for You?
 
@@ -12,8 +11,8 @@ Gerbils are curious, active, and social animals that can make wonderful pets for
 This guide will help you decide if gerbils are a good match for your lifestyle and commitment level.
 
 <InfographicShare
-  imgURL="/img/gerbils/is-a-gerbil-right-for-me.png"
-  altText="An infographic summarizing the key considerations for gerbil ownership, including lifespan, social needs, cost, habitat requirements, and suitability for different families."
+  imageSrc="/img/gerbils/is-a-gerbil-right-for-me.png"
+  alt="An infographic summarizing the key considerations for gerbil ownership, including lifespan, social needs, cost, habitat requirements, and suitability for different families."
   title="Is a Gerbil Right for You? Infographic"
 />
 

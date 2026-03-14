@@ -1,13 +1,33 @@
+/* Outer block that wraps image + share bar */
+.infographicBlock {
+  margin: 1.5rem 0;
+}
+
+/* The infographic image itself */
+.infographicImage {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  margin: 0 auto 0;
+}
+
+/* Share bar */
 .wrapper {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem 0.75rem;
   padding: 0.75rem 1rem;
-  margin: 1.25rem 0;
+  margin: 0;
   background: var(--ifm-color-emphasis-100);
-  border-radius: 10px;
+  border-radius: 0 0 10px 10px;
   border: 1px solid var(--ifm-color-emphasis-200);
+  border-top: none;
+  max-width: 520px;
+  margin: 0 auto 1.25rem;
 }
 
 .label {
