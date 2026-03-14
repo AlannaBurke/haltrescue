@@ -2,6 +2,7 @@
 sidebar_label: Rat Sexing Guide
 sidebar_position: 6
 tags: [rat, sexing, male, female, breeding, pregnancy prevention, care, pups, newborn, juvenile]
+description: "Correctly sexing rats is essential to prevent accidental litters and ensure proper housing. Rats can reproduce very young, and misidentification is one of the most common causes of surprise..."
 ---
 
 # Rat Sexing Guide: How to Identify Male and Female Rats at Different Ages

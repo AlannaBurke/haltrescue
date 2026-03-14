@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'How to Rehome a Pet'
 sidebar_position: 4
+description: "We all hope to keep our pets forever, but sometimes life happens and unfortunately, we have to find a new home for our pets. Here is some advice for safely rehoming your pets."
 ---
 
 # How to Rehome a Pet

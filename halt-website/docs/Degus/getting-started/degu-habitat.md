@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Habitat
+description: "Degus are active, agile, and curious animals that need a large and stimulating environment to thrive. Their habitat must be chew-proof and designed to accommodate their love of climbing, running, and..."
 ---
 
 

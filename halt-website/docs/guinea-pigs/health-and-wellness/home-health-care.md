@@ -2,6 +2,7 @@
 sidebar_label: 'Home Health Care'
 sidebar_position: 2
 tags: [guinea pig, home care, health, checklist, grooming, veterinary]
+description: "Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can..."
 ---
 
 # Home Health Care for Your Guinea Pig: A Helping All Little Things Guide

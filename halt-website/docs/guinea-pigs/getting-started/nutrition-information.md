@@ -2,6 +2,7 @@
 sidebar_label: 'Nutrition Information'
 sidebar_position: 2
 tags: [guinea pig, nutrition, diet, vitamin c, hay, vegetables, care]
+description: "A balanced and appropriate diet is the single most important factor in maintaining the health and well-being of your guinea pig. Unlike many other small pets, guinea pigs have specific and unique..."
 ---
 
 # Nutrition Information for Guinea Pigs

@@ -2,6 +2,7 @@
 sidebar_label: Mycoplasma
 sidebar_position: 1
 tags: [rat, mycoplasma, respiratory, chronic respiratory disease, murine respiratory mycoplasmosis, M. pulmonis, pet health, veterinary, treatment, symptoms, small animal]
+description: "If you're a rat owner, you've likely heard the term 'myco.' Mycoplasma pulmonis is a species of bacteria that is the primary cause of chronic respiratory disease (CRD) in pet rats. It's a pervasive..."
 ---
 
 

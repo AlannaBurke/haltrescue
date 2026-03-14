@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Nutrition
+description: "A balanced diet is essential for a gerbil's health and longevity. Unlike some other small pets, gerbils are prone to obesity and selective eating, so it's important to provide a diet that is both..."
 ---
 
 

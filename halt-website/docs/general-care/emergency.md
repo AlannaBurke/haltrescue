@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Emergency Preparedness'
 sidebar_position: 2
+description: "By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster."
 ---
 # Emergency Preparedness
 

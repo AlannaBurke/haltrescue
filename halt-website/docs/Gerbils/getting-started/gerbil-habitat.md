@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Habitat
+description: "Creating the right environment is one of the most important things you can do for your gerbils. As natural burrowers, their habitat needs to accommodate their instinct to dig. A proper setup will..."
 ---
 
 

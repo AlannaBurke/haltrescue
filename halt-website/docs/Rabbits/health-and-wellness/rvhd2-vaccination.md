@@ -2,6 +2,7 @@
 sidebar_label: RVHD2 Vaccination
 sidebar_position: 3
 tags: [rabbits, RVHD2, vaccination, disease, veterinary, pet health, hemorrhagic disease]
+description: "As a responsible rabbit owner, safeguarding your companion from preventable diseases is a top priority. One of the most serious threats to domestic rabbits today is Rabbit Hemorrhagic Disease Virus 2..."
 ---
 
 

@@ -2,6 +2,7 @@
 sidebar_label: 'The Ideal Habitat'
 sidebar_position: 6
 tags: [guinea pig, habitat, housing, cage, care, beginner]
+description: "Creating a safe, spacious, and enriching environment is one of the most important responsibilities of a guinea pig owner. The right habitat directly impacts their physical health and mental..."
 ---
 
 # The Ideal Guinea Pig Habitat

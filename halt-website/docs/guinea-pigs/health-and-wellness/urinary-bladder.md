@@ -2,6 +2,7 @@
 sidebar_label: 'Urinary & Bladder Issues'
 sidebar_position: 5
 tags: [guinea pig, urinary, bladder, health, veterinary, stones]
+description: "Guinea pigs may be small, but they have complex needs—and that includes their urinary health. Bladder and urinary tract issues are common in guinea pigs and can range from mild to life-threatening...."
 ---
 
 # Urinary and Bladder Issues in Guinea Pigs
