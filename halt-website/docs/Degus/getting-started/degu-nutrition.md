@@ -3,15 +3,14 @@ sidebar_position: 3
 title: Nutrition
 ---
 
-import InfographicShare from '@site/src/components/InfographicShare';
 
 # Degu Nutrition
 
 Proper nutrition is the most critical aspect of degu care. Degus have a unique sensitivity to sugar and are highly prone to developing diabetes if fed an improper diet. Their digestive system is designed for a high-fiber, low-sugar diet.
 
 <InfographicShare
-  imgURL="/img/degus/degu-nutrition-guide.png"
-  altText="An infographic detailing the proper diet for degus, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
+  imageSrc="/img/degus/degu-nutrition-guide.png"
+  alt="An infographic detailing the proper diet for degus, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
   title="Degu Nutrition Guide Infographic"
 />
 

@@ -3,15 +3,14 @@ sidebar_position: 3
 title: Nutrition
 ---
 
-import InfographicShare from '@site/src/components/InfographicShare';
 
 # Mouse Nutrition
 
 A proper diet is crucial for the health and well-being of pet mice. As omnivores, they require a balanced mix of grains, seeds, and protein. Providing the right food will help prevent obesity and ensure they get all the necessary nutrients.
 
 <InfographicShare
-  imgURL="/img/mice/mouse-nutrition-guide.png"
-  altText="An infographic detailing the proper diet for mice, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
+  imageSrc="/img/mice/mouse-nutrition-guide.png"
+  alt="An infographic detailing the proper diet for mice, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
   title="Mouse Nutrition Guide Infographic"
 />
 
