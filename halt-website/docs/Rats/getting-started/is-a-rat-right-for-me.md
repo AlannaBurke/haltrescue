@@ -2,6 +2,7 @@
 sidebar_label: 'Is a Rat Right for Me?'
 sidebar_position: 0
 tags: [rat, getting started, family pets, care commitment, cost]
+description: "Rats are among the most intelligent, affectionate, and interactive small pets you can keep. They learn their names, come when called, enjoy being held and carried, and form genuine bonds with their..."
 ---
 
 # Is a Rat Right for Me and My Family?

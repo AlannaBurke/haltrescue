@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Nutrition
+description: "A proper diet is crucial for the health and well-being of pet mice. As omnivores, they require a balanced mix of grains, seeds, and protein. Providing the right food will help prevent obesity and..."
 ---
 
 

@@ -2,6 +2,7 @@
 sidebar_label: Rat Introductions
 sidebar_position: 5
 tags: [rat, introductions, socialization, care, health, aggression, quarantine, pet health]
+description: "Introducing a new rat to your existing group (or 'mischief') is an exciting step, but it must be handled with care and patience. Rats are territorial and have complex social hierarchies. A proper..."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Habitat
+description: "Creating a safe, warm, and stimulating habitat is the most important part of hedgehog ownership. Their enclosure is their entire world, and it must be set up to meet their unique needs, especially..."
 ---
 
 

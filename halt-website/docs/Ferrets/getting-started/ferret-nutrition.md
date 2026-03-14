@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Nutrition
+description: "Understanding a ferret's diet is simple: they are obligate carnivores. This means their bodies are designed to digest and thrive on animal-based protein and fat exclusively. They cannot digest fiber,..."
 ---
 
 

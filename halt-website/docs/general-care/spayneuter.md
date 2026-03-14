@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'The Importance of Spaying and Neutering Your Pets'
 sidebar_position: 5
+description: "Animal shelters today are full of not only cats and dogs, but small animals like guinea pigs, rabbits, rats, and mice. While “oops” litters seem common among pet owners, it’s vital to understand that..."
 ---
 
 # The Importance of Spaying and Neutering Your Pets

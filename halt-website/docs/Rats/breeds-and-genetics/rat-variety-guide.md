@@ -2,6 +2,7 @@
 sidebar_label: Rat Variety Guide
 sidebar_position: 1
 tags: [rat, fancy rat, rat varieties, pet health, small animal, rodent, husbandry, health, behavior, nutrition, housing]
+description: "Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating,..."
 ---
 
 
