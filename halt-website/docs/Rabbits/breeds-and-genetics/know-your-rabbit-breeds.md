@@ -5,12 +5,14 @@ sidebar_position: 1
 description: A guide to popular pet rabbit breeds recognized by the American Rabbit Breeders Association, including size, temperament, and care considerations.
 ---
 
+
+# Know Your Rabbit Breeds
+
 <figure>
   <img src="/img/rabbits/rabbit-breeds-chart.png" alt="Popular Rabbit Breeds" />
   <figcaption>Popular rabbit breeds kept as pets</figcaption>
 </figure>
 
-# Know Your Rabbit Breeds
 
 The [American Rabbit Breeders Association (ARBA)](https://www.arba.net/) officially recognizes 50 rabbit breeds, ranging from tiny 2-pound Netherland Dwarfs to massive 20-pound Flemish Giants. Each breed has distinct physical traits, temperament tendencies, and care requirements. Understanding breed differences helps you choose the right rabbit for your household and anticipate their specific needs.
 

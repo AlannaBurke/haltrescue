@@ -6,13 +6,15 @@ sidebar_position: 1
 tags: [mice, breeds, varieties, colors, coat types]
 ---
 
+
+
+# Know Your Mouse Breeds
+
 <figure>
   <img src="/img/mice/mouse-color-guide.png" alt="Fancy Mouse Colors & Coat Types" />
   <figcaption>Common fancy mouse colors and coat types</figcaption>
 </figure>
 
-
-# Know Your Mouse Breeds
 
 Unlike dogs or cats, fancy mice do not have distinct "breeds." All pet mice are the same species — the domesticated house mouse (*Mus musculus*). Instead, they are classified by **variety**, which refers to their coat type, color, and markings. The American Fancy Rat and Mouse Association (AFRMA) is the primary organization that establishes and maintains the official standards for fancy mouse varieties in the United States. [1]
 
