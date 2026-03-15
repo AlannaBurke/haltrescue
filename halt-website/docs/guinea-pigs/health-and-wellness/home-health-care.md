@@ -15,11 +15,6 @@ Print one for each of your guinea pigs and fill it out every week. Tracking chan
 **[⬇ Download: Guinea Pig Weekly Health Checklist (PDF)](pathname:///downloads/gp-weekly-health-checklist.pdf)**
 :::
 
-<figure>
-    <img src="/img/guinea-pigs/gp-home-health-kit.png" alt="Infographic showing the essential items for a guinea pig home health kit, including a scale, nail clippers, and recovery food."/>
-    <figcaption>A well-stocked health kit and a consistent weekly check-up routine are the cornerstones of proactive guinea pig care.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-home-health-kit.png" />
 
 ## The Weekly Health Check: A Head-to-Toe Routine

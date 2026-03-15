@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Nutrition and Diet'
+sidebar_label: 'Nutrition'
 sidebar_position: 1
 ---
 

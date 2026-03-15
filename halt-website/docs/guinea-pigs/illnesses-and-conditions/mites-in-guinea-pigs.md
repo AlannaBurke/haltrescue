@@ -25,11 +25,6 @@ This is the most dangerous mite species affecting guinea pigs. *Trixacarus cavia
 
 *Chirodiscoides caviae* is a fur mite that lives on the hair shafts rather than burrowing into the skin. It is generally less harmful than *Trixacarus* and may cause mild to no symptoms, though heavy infestations can cause irritation and hair loss.
 
-<figure>
-  <img src="/img/guinea-pigs/gp-mites.png" alt="Infographic showing types of mites, symptoms, and treatment in guinea pigs" />
-  <figcaption>Mites in guinea pigs: types, symptoms, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-mites.png" />
 
 ## Symptoms

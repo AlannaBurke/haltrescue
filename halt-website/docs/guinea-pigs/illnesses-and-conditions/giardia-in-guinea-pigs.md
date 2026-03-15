@@ -29,11 +29,6 @@ Giardia cysts are extremely resistant to standard disinfectants. Quaternary ammo
 - **Shared equipment** — food bowls, water bottles, and accessories shared between animals without proper disinfection
 - **Introducing new animals** without quarantine
 
-<figure>
-  <img src="/img/guinea-pigs/gp-giardia.png" alt="Infographic showing what Giardia is, symptoms, and treatment in guinea pigs" />
-  <figcaption>Giardia in guinea pigs: what it is, symptoms, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-giardia.png" />
 
 ## Symptoms

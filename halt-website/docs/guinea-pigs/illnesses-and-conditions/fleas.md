@@ -9,11 +9,6 @@ description: "Fleas are common parasites that can affect various pets, including
 
 Fleas are common parasites that can affect various pets, including guinea pigs. While these small, wingless insects are more frequently associated with cats and dogs, a flea infestation can cause significant discomfort and health issues for a guinea pig. Understanding how to safely treat and prevent fleas is crucial for your pet's well-being.
 
-<figure>
-    <img src="/img/guinea-pigs/gp-flea-treatment.png" alt="Infographic showing safe and unsafe flea treatments for guinea pigs, along with signs of fleas and environmental control tips."/>
-    <figcaption>Knowing which flea treatments are safe is critical, as many common products are toxic to guinea pigs.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-flea-treatment.png" />
 
 ## How Do Guinea Pigs Get Fleas?

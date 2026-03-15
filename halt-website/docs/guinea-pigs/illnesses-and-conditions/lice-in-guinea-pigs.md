@@ -31,11 +31,6 @@ Lice spread through **direct contact** between guinea pigs. They cannot jump or 
 - **Contaminated bedding, accessories, or equipment** shared between animals
 - **Weakened immune system** — lice infestations are often heavier in older, ill, or immunocompromised guinea pigs
 
-<figure>
-  <img src="/img/guinea-pigs/gp-lice.png" alt="Infographic showing causes, symptoms, and treatment of lice in guinea pigs" />
-  <figcaption>Lice in guinea pigs: causes, symptoms, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-lice.png" />
 
 ## Symptoms

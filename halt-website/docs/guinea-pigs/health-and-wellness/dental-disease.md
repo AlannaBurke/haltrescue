@@ -17,11 +17,6 @@ Guinea pigs have 20 teeth in total: a pair of upper and lower incisors (front te
 
 Several factors can contribute to the development of dental disease in guinea pigs:
 
-<figure>
-    <img src="/img/guinea-pigs/dental-causes.png" alt="Infographic showing the main causes of dental disease in guinea pigs: inadequate diet, genetics, and Vitamin C deficiency"/>
-    <figcaption>The three most common causes of dental disease in guinea pigs.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/dental-causes.png" />
 
 *   **Inadequate Diet:** This is the most common cause. A diet low in fibrous hay and high in pellets or soft foods does not provide enough abrasive material to wear down the teeth properly. Guinea pigs should have unlimited access to high-quality grass hay, such as Timothy or orchard grass [2].
@@ -33,11 +28,6 @@ Several factors can contribute to the development of dental disease in guinea pi
 ## Recognizing the Signs of Dental Disease
 
 Guinea pigs are prey animals and will often hide signs of pain or illness until the condition is advanced. Early detection is key, so watch for these subtle signs:
-
-<figure>
-    <img src="/img/guinea-pigs/dental-signs.png" alt="Infographic showing warning signs of dental disease in guinea pigs: weight loss, drooling, food dropping, visible tooth problems, facial swelling, and reduced droppings"/>
-    <figcaption>Six key warning signs that your guinea pig may have dental disease.</figcaption>
-</figure>
 
 <InfographicShare imageSrc="/img/guinea-pigs/dental-signs.png" />
 
@@ -70,11 +60,6 @@ Treatment depends on the severity of the disease and is focused on correcting th
 ## Prevention and Management
 
 While genetic predispositions cannot be changed, you can take several steps to prevent diet-related dental disease and manage the condition:
-
-<figure>
-    <img src="/img/guinea-pigs/dental-prevention.png" alt="Infographic showing prevention and treatment for guinea pig dental disease: unlimited hay, regular vet checks, Vitamin C daily, and weekly weigh-ins"/>
-    <figcaption>Four key steps to prevent dental disease and catch problems early.</figcaption>
-</figure>
 
 <InfographicShare imageSrc="/img/guinea-pigs/dental-prevention.png" />
 

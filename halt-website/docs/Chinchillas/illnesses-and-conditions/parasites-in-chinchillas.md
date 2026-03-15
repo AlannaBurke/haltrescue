@@ -33,11 +33,6 @@ Internal parasites live within the gastrointestinal tract or other organs.
 
 **Intestinal worms** (roundworms, tapeworms) are rare in chinchillas but can occur, particularly in animals with outdoor access or exposure to contaminated environments.
 
-<figure>
-  <img src="/img/chinchillas/chinchilla-parasites.png" alt="Infographic showing types of parasites in chinchillas, warning signs, and prevention" />
-  <figcaption>Parasites in chinchillas: types, warning signs, and prevention strategies.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/chinchillas/chinchilla-parasites.png" />
 
 ## Warning Signs

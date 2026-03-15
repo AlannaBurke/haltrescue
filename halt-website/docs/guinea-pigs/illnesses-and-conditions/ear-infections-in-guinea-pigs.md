@@ -33,11 +33,6 @@ The most common causes of ear infections in guinea pigs include:
 - **Foreign material** — bedding particles or debris in the ear canal
 - **Spread from respiratory infection** — bacteria can travel from the upper respiratory tract to the middle ear via the Eustachian tube
 
-<figure>
-  <img src="/img/guinea-pigs/gp-ear-infection.png" alt="Infographic showing causes, warning signs, and treatment of ear infections in guinea pigs" />
-  <figcaption>Ear infections in guinea pigs: causes, warning signs, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-ear-infection.png" />
 
 ## Warning Signs

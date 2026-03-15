@@ -26,11 +26,6 @@ In a healthy guinea pig, the pancreas produces **insulin**, a hormone that allow
 - **Age** — older guinea pigs are at higher risk
 - **Chronic stress** — can affect hormonal balance and glucose regulation
 
-<figure>
-  <img src="/img/guinea-pigs/gp-diabetes.png" alt="Infographic showing causes, symptoms, and management of diabetes in guinea pigs" />
-  <figcaption>Diabetes in guinea pigs: causes, symptoms, and management.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-diabetes.png" />
 
 ## Symptoms
