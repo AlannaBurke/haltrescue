@@ -11,11 +11,6 @@ tags: [rabbits, neurological, health, illnesses, head tilt, e-cuniculi]
 
 Neurological problems in rabbits can be alarming to witness and challenging to manage. Conditions affecting the brain, spinal cord, or peripheral nervous system may present suddenly or develop gradually, and they range from fully treatable to chronic and managed long-term. Understanding the most common causes and what to do when signs appear can make a significant difference in your rabbit's outcome.
 
-<figure>
-  <img src="/img/rabbits/rabbit-neurologic.png" alt="Neurologic issues in rabbits infographic" />
-  <figcaption>Neurologic issues in rabbits: causes, signs, diagnosis, and treatment</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/rabbits/rabbit-neurologic.png" />
 
 ## Common Causes

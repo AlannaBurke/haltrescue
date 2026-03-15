@@ -11,11 +11,6 @@ tags: [rabbits, parasites, mites, fleas, worms, e-cuniculi, coccidia, health, il
 
 Parasites are a common concern for rabbit owners, ranging from external pests that cause skin irritation to internal organisms that can lead to severe systemic disease. Understanding the types of parasites that can affect your rabbit, along with the signs of an infestation, is key to prevention and effective treatment. This guide provides a general overview; for more detailed information, please see the linked articles.
 
-<figure>
-  <img src="/img/rabbits/rabbit-parasites.png" alt="Common parasites in rabbits infographic" />
-  <figcaption>An overview of common internal and external parasites affecting pet rabbits.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/rabbits/rabbit-parasites.png" />
 
 ## External Parasites (Ectoparasites)

@@ -11,11 +11,6 @@ tags: [hamsters, diabetes, health, illnesses, dwarf hamsters]
 
 Diabetes is one of the more common health conditions seen in certain hamster breeds, particularly **dwarf hamsters**. Like diabetes in humans, it is a chronic metabolic disorder affecting how the body processes sugar. With early detection and proper management, diabetic hamsters can live comfortable, good-quality lives.
 
-<figure>
-  <img src="/img/hamsters/hamster-diabetes.png" alt="Diabetes in hamsters infographic" />
-  <figcaption>Diabetes in pet hamsters: signs, causes, and management</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/hamsters/hamster-diabetes.png" />
 
 ## What Is Diabetes in Hamsters?

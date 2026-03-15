@@ -13,11 +13,6 @@ As a loving guinea pig owner, it’s natural to want to spoil your pet with tast
 
 Many human foods and even some vegetables are toxic or unhealthy for guinea pigs. Always err on the side of caution: if you are not sure if a food is safe, do not feed it. Here is a list of foods you should **never** give your guinea pig:
 
-<figure>
-    <img src="/img/guinea-pigs/gp-dangerous-foods.png" alt="Infographic of dangerous foods for guinea pigs"/>
-    <figcaption>A guide to foods that are toxic or unhealthy for guinea pigs.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-dangerous-foods.png" />
 
 *   **Meat and Dairy:** As herbivores, guinea pigs cannot digest animal products. This includes all meat, eggs, cheese, and milk.

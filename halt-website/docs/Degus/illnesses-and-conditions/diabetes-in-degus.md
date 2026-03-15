@@ -16,11 +16,6 @@ Diabetes mellitus is one of the most significant health concerns for pet degus. 
 
 In the wild, degus are native to the arid scrublands and mountains of Chile, where their natural diet consists almost entirely of dry grasses, roots, bark, cactus, and seeds — foods that are very low in sugar and high in fibre. Their bodies simply did not evolve to handle the sugar loads that are common in many commercial small animal foods and treats.[^2]
 
-<figure>
-  <img src="/img/degus/diabetes-in-degus.png" alt="Infographic showing why degus are vulnerable to diabetes, signs of the condition, what to feed, and what to avoid" />
-  <figcaption>Diabetes in degus: vulnerability, warning signs, diet guidance, and management.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/degus/diabetes-in-degus.png" />
 
 ## Causes and Risk Factors

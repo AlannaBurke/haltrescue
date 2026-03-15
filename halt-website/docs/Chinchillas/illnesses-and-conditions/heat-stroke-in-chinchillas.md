@@ -37,11 +37,6 @@ Heat stroke in chinchillas can progress from mild distress to collapse within mi
 | **Moderate** | Red or hot ears, lying flat, lethargy, glazed eyes |
 | **Severe** | Seizures, loss of consciousness, unresponsiveness |
 
-<figure>
-  <img src="/img/chinchillas/chinchilla-heat-stroke.png" alt="Infographic showing heat stroke danger zones, warning signs, and emergency response for chinchillas" />
-  <figcaption>Heat stroke in chinchillas: danger zones, warning signs, and emergency response.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/chinchillas/chinchilla-heat-stroke.png" />
 
 ## Emergency First Aid

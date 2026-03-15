@@ -17,11 +17,6 @@ Guinea pigs can contract *Bordetella* from other animals, which is a primary rea
 *   **From Dogs:** Dogs with kennel cough can easily transmit the bacteria to guinea pigs through respiratory droplets.
 *   **From Other Guinea Pigs:** The bacteria can spread quickly between guinea pigs through direct contact or airborne droplets.
 
-<figure>
-    <img src="/img/guinea-pigs/gp-bordetella-warning.png" alt="Infographic about Bordetella in guinea pigs"/>
-    <figcaption>A guide to the warning signs, transmission risks, and prevention of Bordetella.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-bordetella-warning.png" />
 
 ## Signs of a Bordetella Infection

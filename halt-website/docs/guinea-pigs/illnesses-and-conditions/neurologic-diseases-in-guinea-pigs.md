@@ -45,11 +45,6 @@ Head injuries from falls or being dropped can cause neurological symptoms. The s
 
 Brain tumors are uncommon in guinea pigs but can cause progressive neurological signs. Diagnosis typically requires advanced imaging (MRI or CT). Treatment options are limited.
 
-<figure>
-  <img src="/img/guinea-pigs/gp-neurologic-diseases.png" alt="Infographic showing common causes, symptoms, and what to do for neurologic diseases in guinea pigs" />
-  <figcaption>Neurologic diseases in guinea pigs: common causes, symptoms, and what to do.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-neurologic-diseases.png" />
 
 ## Symptoms

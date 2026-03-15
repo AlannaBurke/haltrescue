@@ -11,10 +11,6 @@ Correctly sexing rats is essential to prevent accidental litters and ensure prop
 
 This guide explains how to identify male and female rats from birth through adulthood, what changes with age, and common mistakes to avoid.
 
-<figure>
-  <img src="/img/rats/rat-sexing-guide.png" alt="Infographic showing how to identify male and female rats at different ages" />
-  <figcaption>How to sex rats at every life stage.</figcaption>
-</figure>
 <InfographicShare imageSrc="/img/rats/rat-sexing-guide.png" />
 
 ---

@@ -11,11 +11,6 @@ tags: [rabbits, e-cuniculi, parasites, neurological, illnesses]
 
 *Encephalitozoon cuniculi* (commonly abbreviated as **E. cuniculi**) is a microscopic obligate intracellular parasite that affects a significant proportion of pet rabbits worldwide. It is one of the most common causes of neurological signs in domestic rabbits and can also cause kidney disease and eye problems. Understanding E. cuniculi is essential for every rabbit owner.
 
-<figure>
-  <img src="/img/rabbits/rabbit-ecuniculi.png" alt="E. cuniculi in rabbits infographic" />
-  <figcaption>E. cuniculi in rabbits: what it is, signs, diagnosis, treatment, and prevention</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/rabbits/rabbit-ecuniculi.png" />
 
 ## What Is E. cuniculi?

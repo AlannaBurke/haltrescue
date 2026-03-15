@@ -40,11 +40,6 @@ E. cuniculi can remain dormant for extended periods before symptoms appear. When
 - **Uveitis** — inflammation inside the eye
 - **Blindness** — in advanced cases
 
-<figure>
-  <img src="/img/guinea-pigs/gp-ecuniculi.png" alt="Infographic showing what E. cuniculi is, its symptoms, and treatment in guinea pigs" />
-  <figcaption>E. cuniculi in guinea pigs: what it is, symptoms, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-ecuniculi.png" />
 
 :::warning

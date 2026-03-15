@@ -31,11 +31,6 @@ The most significant risk factors for bumblefoot in guinea pigs are:
 
 **Rough or abrasive surfaces** — including some types of carpet — can cause friction injuries to the feet.
 
-<figure>
-  <img src="/img/guinea-pigs/gp-bumblefoot.png" alt="Infographic showing causes, warning signs, and treatment of bumblefoot in guinea pigs" />
-  <figcaption>Bumblefoot in guinea pigs: causes, warning signs, and treatment.</figcaption>
-</figure>
-
 <InfographicShare imageSrc="/img/guinea-pigs/gp-bumblefoot.png" />
 
 ## Warning Signs
