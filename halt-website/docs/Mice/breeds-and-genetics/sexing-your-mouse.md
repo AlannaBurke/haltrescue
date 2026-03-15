@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [mice, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/mice/mouse-sexing-guide.png" alt="Sexing Your Mouse" />
-  <figcaption>How to determine the sex of your mouse</figcaption>
-</figure>
-
 
 # Sexing Your Pet Mouse
 
@@ -31,7 +26,7 @@ In adult mice, the differences between males and females are quite distinct.
 | **Testicles** | Present and usually visible | Absent |
 | **Nipples** | Absent | Present (5 pairs) |
 
-<InfographicShare imageSrc="/img/mice/sexing-mice.png" />
+<InfographicShare imageSrc="/img/mice/mouse-sexing-guide.png" />
 
 ## How to Sex Baby Mice (Pups)
 

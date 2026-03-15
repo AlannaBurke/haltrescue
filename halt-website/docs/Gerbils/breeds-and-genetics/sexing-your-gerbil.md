@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [gerbils, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/gerbils/gerbil-sexing-guide.png" alt="Sexing Your Gerbil" />
-  <figcaption>How to determine the sex of your gerbil</figcaption>
-</figure>
-
 
 # Sexing Your Pet Gerbil
 
@@ -29,7 +24,7 @@ The most reliable way to sex a gerbil is to measure the space between the anus a
 | **Testicles (adults)** | Visible as a prominent bulge under the tail | Absent |
 | **Nipples** | Absent | 8 small dots visible on the belly |
 
-<InfographicShare imageSrc="/img/gerbils/sexing-gerbils.png" />
+<InfographicShare imageSrc="/img/gerbils/gerbil-sexing-guide.png" />
 
 ## Easier Identification in Adults
 

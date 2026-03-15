@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [hamsters, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/hamsters/hamster-sexing-guide.png" alt="Sexing Your Hamster" />
-  <figcaption>How to determine the sex of your hamster</figcaption>
-</figure>
-
 
 # Sexing Your Pet Hamster
 
@@ -32,7 +27,7 @@ To check your hamster, hold them gently but securely on their back in the palm o
 | **Nipples** | Absent | Present and visible |
 | **Scent Glands (Dwarfs)** | Prominent, on the belly | Less prominent |
 
-<InfographicShare imageSrc="/img/hamsters/sexing-hamsters.png" />
+<InfographicShare imageSrc="/img/hamsters/hamster-sexing-guide.png" />
 
 ## Differences in Hamster Species
 

@@ -5,12 +5,14 @@ sidebar_position: 1
 description: A guide to ferret coat colors, patterns, and markings recognized by the American Ferret Association.
 ---
 
+
+# Know Your Ferret Colors & Patterns
+
 <figure>
   <img src="/img/ferrets/ferret-color-guide.png" alt="Ferret Color & Pattern Guide" />
   <figcaption>Common ferret colors and patterns</figcaption>
 </figure>
 
-# Know Your Ferret Colors & Patterns
 
 Unlike dogs or cats, ferrets are not divided into distinct "breeds" — all domestic ferrets (*Mustela putorius furo*) belong to a single domesticated species. What varies dramatically is their **coat color and pattern**, which are recognized and classified by the [American Ferret Association (AFA)](https://www.ferret.org/read-about-ferrets/ferret-colors-and-patterns/). Understanding these distinctions helps you identify your ferret and appreciate the genetic diversity within the species.
 

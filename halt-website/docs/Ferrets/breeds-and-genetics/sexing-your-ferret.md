@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [ferrets, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/ferrets/ferret-sexing-guide.png" alt="Sexing Your Ferret" />
-  <figcaption>How to determine the sex of your ferret</figcaption>
-</figure>
-
 
 # Sexing Your Pet Ferret
 
@@ -30,7 +25,7 @@ belly-button-like opening on her abdomen. [2]
 | **"Belly Button"** | **Present** (this is the penis) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly below the anus |
 
-<InfographicShare imageSrc="/img/ferrets/sexing-ferrets.png" />
+<InfographicShare imageSrc="/img/ferrets/ferret-sexing-guide.png" />
 
 ## Other, Less Reliable Differences
 

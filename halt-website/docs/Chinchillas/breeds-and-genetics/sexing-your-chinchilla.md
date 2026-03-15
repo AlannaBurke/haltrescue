@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [chinchillas, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/chinchillas/chinchilla-sexing-guide.png" alt="Sexing Your Chinchilla" />
-  <figcaption>How to determine the sex of your chinchilla</figcaption>
-</figure>
-
 
 # Sexing Your Pet Chinchilla
 
@@ -31,7 +26,7 @@ To examine your chinchilla, hold them securely or have them stand on a flat surf
 | **Openings** | Two separate openings | Appear as one continuous feature |
 | **Vaginal Slit** | Absent | Present in the urethral cone |
 
-<InfographicShare imageSrc="/img/chinchillas/sexing-chinchillas.png" />
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-sexing-guide.png" />
 
 ### Simple Rule: "If there's a gap, it's a chap!"
 

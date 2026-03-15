@@ -6,11 +6,6 @@ sidebar_position: 2
 tags: [rabbits, sexing, gender, male, female, breeding]
 ---
 
-<figure>
-  <img src="/img/rabbits/rabbit-sexing-guide.png" alt="Sexing Your Rabbit" />
-  <figcaption>How to determine the sex of your rabbit</figcaption>
-</figure>
-
 
 # Sexing Your Pet Rabbit
 
@@ -35,7 +30,7 @@ Apply gentle pressure on either side of the genital opening. This will help to e
 | **Protrusion** | Penis protrudes with pressure | No protrusion |
 | **Testicles** | Usually visible in adults | Absent |
 
-<InfographicShare imageSrc="/img/rabbits/sexing-rabbits.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-sexing-guide.png" />
 
 ## Tips for Accurate Sexing
 
