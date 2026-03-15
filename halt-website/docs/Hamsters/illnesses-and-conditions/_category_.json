@@ -3,6 +3,8 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in hamsters."
+    "description": "Information on common illnesses and health conditions in hamsters.",
+    "slug": "/hamsters/illnesses-and-conditions",
+    "image": "/img/heroes/hamsters/hero.png"
   }
 }

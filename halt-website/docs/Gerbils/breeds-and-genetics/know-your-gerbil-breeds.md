@@ -6,6 +6,12 @@ sidebar_position: 1
 tags: [gerbils, breeds, varieties, colors, species]
 ---
 
+<figure>
+  <img src="/img/gerbils/gerbil-color-guide.png" alt="Gerbil Color Guide" />
+  <figcaption>Common gerbil colors and coat types</figcaption>
+</figure>
+
+
 # Know Your Gerbil Breeds
 
 While there are over 100 species of gerbils found in the wild, only two are commonly kept as pets. Understanding the difference between these two species, and the wide variety of colors available within the most popular species, will help you make an informed choice when adopting.

@@ -4,6 +4,8 @@
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Health and wellness guides for chinchillas, including preventive care and routine vet visits."
+    "description": "Health and wellness guides for chinchillas, including preventive care and routine vet visits.",
+    "slug": "/chinchillas/health-and-wellness",
+    "image": "/img/heroes/chinchillas/hero.png"
   }
 }

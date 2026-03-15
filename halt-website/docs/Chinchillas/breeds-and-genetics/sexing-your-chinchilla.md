@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [chinchillas, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/chinchillas/chinchilla-sexing-guide.png" alt="Sexing Your Chinchilla" />
+  <figcaption>How to determine the sex of your chinchilla</figcaption>
+</figure>
+
+
 # Sexing Your Pet Chinchilla
 
 Correctly identifying the sex of your chinchilla is one of the most important first steps as a new owner. It's crucial for preventing accidental litters and for understanding their social dynamics. While it can seem confusing, there is one clear indicator to look for.

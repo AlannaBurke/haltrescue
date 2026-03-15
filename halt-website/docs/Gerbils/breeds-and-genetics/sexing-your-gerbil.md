@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [gerbils, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/gerbils/gerbil-sexing-guide.png" alt="Sexing Your Gerbil" />
+  <figcaption>How to determine the sex of your gerbil</figcaption>
+</figure>
+
+
 # Sexing Your Pet Gerbil
 
 Correctly identifying the sex of your gerbils is essential, as keeping mixed-sex pairs will quickly result in litters. Fortunately, gerbils are one of the easier small animals to sex, especially once they are adults.

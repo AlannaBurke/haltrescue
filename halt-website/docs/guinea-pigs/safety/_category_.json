@@ -5,6 +5,8 @@
   "collapsible": true,
   "link": {
     "type": "generated-index",
-    "description": "Guinea pig safety guides \u2014 cage safety, toxic plants, and hazard prevention."
+    "description": "Guinea pig safety guides \u2014 cage safety, toxic plants, and hazard prevention.",
+    "slug": "/guinea-pigs/safety",
+    "image": "/img/heroes/guinea-pigs/hero.png"
   }
 }

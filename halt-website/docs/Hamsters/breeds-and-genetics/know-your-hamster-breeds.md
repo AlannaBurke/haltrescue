@@ -6,6 +6,12 @@ sidebar_position: 1
 tags: [hamsters, breeds, species, Syrian, dwarf, care]
 ---
 
+<figure>
+  <img src="/img/hamsters/hamster-breeds-chart.png" alt="Hamster Breeds Chart" />
+  <figcaption>Common hamster breeds</figcaption>
+</figure>
+
+
 # Know Your Hamster Breeds
 
 There are over 25 species of hamsters in the world, but only five are commonly kept as pets. Understanding the key differences between these species is crucial, as their care requirements, social needs, and temperaments vary significantly.

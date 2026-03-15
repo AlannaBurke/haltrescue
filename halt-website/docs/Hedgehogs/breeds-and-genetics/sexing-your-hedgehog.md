@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [hedgehogs, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/hedgehogs/hedgehog-sexing-guide.png" alt="Sexing Your Hedgehog" />
+  <figcaption>How to determine the sex of your hedgehog</figcaption>
+</figure>
+
+
 # Sexing Your Pet Hedgehog
 
 Correctly identifying the sex of your hedgehog is a simple process once you know the key difference to look for. Unlike many other small mammals, the distinction is not subtle.

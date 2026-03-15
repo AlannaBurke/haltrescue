@@ -5,6 +5,8 @@
   "collapsible": true,
   "link": {
     "type": "generated-index",
-    "description": "Getting started guides for new hedgehog owners \u2014 housing, diet, and what to expect."
+    "description": "Getting started guides for new hedgehog owners \u2014 housing, diet, and what to expect.",
+    "slug": "/hedgehogs/getting-started",
+    "image": "/img/heroes/hedgehogs/hero.png"
   }
 }

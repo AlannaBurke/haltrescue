@@ -4,6 +4,8 @@
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in hedgehogs."
+    "description": "Information on common illnesses and health conditions in hedgehogs.",
+    "slug": "/hedgehogs/illnesses-and-conditions",
+    "image": "/img/heroes/hedgehogs/hero.png"
   }
 }

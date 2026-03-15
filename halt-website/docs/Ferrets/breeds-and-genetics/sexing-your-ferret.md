@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [ferrets, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/ferrets/ferret-sexing-guide.png" alt="Sexing Your Ferret" />
+  <figcaption>How to determine the sex of your ferret</figcaption>
+</figure>
+
+
 # Sexing Your Pet Ferret
 
 Correctly identifying the sex of your ferret is a straightforward process once you know where to look. It's an important step for any new owner, especially since nearly all pet ferrets in the United States are spayed or neutered before they are sold.
