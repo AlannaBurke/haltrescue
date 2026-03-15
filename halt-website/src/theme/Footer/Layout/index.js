@@ -22,6 +22,7 @@ const DONATE_LINKS = [
   { label: 'CashApp',         href: 'https://cash.app/$Haltrescue',                                                       logo: '/img/logos/cashapp.svg',  bg: '#00D632' },
   { label: 'Amazon Wish List',href: 'https://bit.ly/halt-piggies',                                                        logo: '/img/logos/amazon.svg',   bg: '#FF9900' },
   { label: 'Chewy Wish List', href: 'https://www.chewy.com/g/helping-all-little-things_b129784992',                      logo: '/img/logos/chewy.svg',    bg: '#0075C9' },
+  { label: 'Patreon',         href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',                                   logo: '/img/logos/patreon.svg',  bg: '#FF424D' },
 ];
 
 // ─── Rescue links ─────────────────────────────────────────────────────────────

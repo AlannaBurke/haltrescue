@@ -4,6 +4,8 @@
   "collapsed": false,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in degus."
+    "description": "Information on common illnesses and health conditions in degus.",
+    "slug": "/degus/illnesses-and-conditions",
+    "image": "/img/heroes/degus/hero.png"
   }
 }

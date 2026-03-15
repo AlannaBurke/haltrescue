@@ -6,6 +6,12 @@ sidebar_position: 1
 tags: [chinchillas, breeds, colors, mutations, species]
 ---
 
+<figure>
+  <img src="/img/chinchillas/chinchilla-breeds-chart.png" alt="Chinchilla Color & Mutation Chart" />
+  <figcaption>Common chinchilla colors and mutations</figcaption>
+</figure>
+
+
 # Know Your Chinchilla Breeds
 
 Unlike many other small pets, chinchillas do not have distinct "breeds" in the traditional sense. There is essentially one species of chinchilla kept as a pet, but within that species, there is a stunning array of color mutations and coat types that have been developed through selective breeding.

@@ -4,6 +4,8 @@
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in rabbits."
+    "description": "Information on common illnesses and health conditions in rabbits.",
+    "slug": "/rabbits/illnesses-and-conditions",
+    "image": "/img/heroes/rabbits/hero.png"
   }
 }

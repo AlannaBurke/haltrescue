@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [mice, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/mice/mouse-sexing-guide.png" alt="Sexing Your Mouse" />
+  <figcaption>How to determine the sex of your mouse</figcaption>
+</figure>
+
+
 # Sexing Your Pet Mouse
 
 Accurately determining the sex of your mice is crucial for preventing unwanted litters and managing social groups appropriately. While it can seem daunting at first, especially with young mice, learning to identify key anatomical differences makes the process straightforward.

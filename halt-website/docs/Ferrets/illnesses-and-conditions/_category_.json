@@ -5,6 +5,8 @@
   "collapsible": true,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in ferrets."
+    "description": "Information on common illnesses and health conditions in ferrets.",
+    "slug": "/ferrets/illnesses-and-conditions",
+    "image": "/img/heroes/ferrets/hero.png"
   }
 }

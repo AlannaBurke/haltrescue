@@ -4,6 +4,8 @@
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in pet rats."
+    "description": "Information on common illnesses and health conditions in pet rats.",
+    "slug": "/rats/illnesses-and-conditions",
+    "image": "/img/heroes/rats/hero.png"
   }
 }

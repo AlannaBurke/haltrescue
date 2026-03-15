@@ -4,6 +4,8 @@
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Information on common illnesses and health conditions in mice."
+    "description": "Information on common illnesses and health conditions in mice.",
+    "slug": "/mice/illnesses-and-conditions",
+    "image": "/img/heroes/mice/hero.png"
   }
 }

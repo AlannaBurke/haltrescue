@@ -5,6 +5,8 @@
   "collapsible": true,
   "link": {
     "type": "generated-index",
-    "description": "Health and wellness guides for guinea pigs, including preventive care and routine vet visits."
+    "description": "Health and wellness guides for guinea pigs, including preventive care and routine vet visits.",
+    "slug": "/guinea-pigs/health-and-wellness",
+    "image": "/img/heroes/guinea-pigs/hero.png"
   }
 }

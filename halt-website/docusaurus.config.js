@@ -26,6 +26,7 @@ const config = {
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  onBrokenAnchors: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -204,6 +205,10 @@ const config = {
               {
                 label: 'Gift Card for Veggies',
                 href: 'https://giftcards.shopmarketbasket.com/products/mb-gift-card-fresh-produce',
+              },
+              {
+                label: 'Patreon',
+                href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',
               },
             ],
           },

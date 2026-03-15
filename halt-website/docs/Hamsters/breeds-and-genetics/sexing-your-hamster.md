@@ -6,6 +6,12 @@ sidebar_position: 2
 tags: [hamsters, sexing, gender, male, female, breeding]
 ---
 
+<figure>
+  <img src="/img/hamsters/hamster-sexing-guide.png" alt="Sexing Your Hamster" />
+  <figcaption>How to determine the sex of your hamster</figcaption>
+</figure>
+
+
 # Sexing Your Pet Hamster
 
 Correctly identifying the sex of your hamster is essential, especially since they are solitary animals and housing them together can lead to fighting and unwanted pregnancies. While it can be tricky with very young hamsters, there are several distinct anatomical clues to look for.
