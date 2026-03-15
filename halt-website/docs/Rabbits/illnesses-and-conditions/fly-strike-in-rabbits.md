@@ -1,6 +1,6 @@
 ---
 sidebar_label: Fly Strike
-sidebar_position: 1
+sidebar_position: 5
 tags: [rabbits, flystrike, myiasis, veterinary, pet health, prevention, health, emergency]
 description: "Fly strike, also known as myiasis, is a devastating and rapidly progressing condition that is a true veterinary emergency. It occurs when flies, typically blowflies, lay eggs on a rabbit. These eggs..."
 ---
@@ -12,8 +12,6 @@ description: "Fly strike, also known as myiasis, is a devastating and rapidly pr
 Fly strike, also known as myiasis, is a devastating and rapidly progressing condition that is a true veterinary emergency. It occurs when flies, typically blowflies, lay eggs on a rabbit. These eggs hatch into maggots, which then burrow into the rabbit's skin and feed on its flesh. This can lead to shock, severe infection, and death in as little as 24 hours [1].
 
 **If you see maggots on your rabbit, contact a veterinarian immediately.**
-
-![An infographic detailing the causes, symptoms, and prevention of fly strike in rabbits.](/img/rabbits/rabbit-flystrike.png)
 
 <InfographicShare imageSrc="/img/rabbits/rabbit-flystrike.png" />
 

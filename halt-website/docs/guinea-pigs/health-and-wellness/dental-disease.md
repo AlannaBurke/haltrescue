@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Dental Disease'
-sidebar_position: 3
+sidebar_position: 1
 tags: [guinea pig, dental, teeth, health, veterinary, malocclusion]
 description: "Dental disease is one of the most common and serious health problems affecting guinea pigs. Unlike humans, a guinea pig's teeth grow continuously throughout their life. This continuous growth can..."
 ---

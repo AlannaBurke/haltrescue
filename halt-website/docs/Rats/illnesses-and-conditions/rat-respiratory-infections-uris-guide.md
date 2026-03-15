@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Infections (URIs)
-sidebar_position: 2
+sidebar_position: 4
 tags: [rat, respiratory, URI, mycoplasma, pneumonia, pet health, veterinary, care guide, prevention, symptoms, treatment]
 description: "Respiratory illness is one of the most common health issues affecting pet rats. Nearly all domestic rats are carriers of Mycoplasma pulmonis, the primary bacterium responsible for these infections..."
 ---
@@ -10,8 +10,6 @@ description: "Respiratory illness is one of the most common health issues affect
 # A Guide to Respiratory Infections (URIs) in Rats
 
 Respiratory illness is one of the most common health issues affecting pet rats. Nearly all domestic rats are carriers of *Mycoplasma pulmonis*, the primary bacterium responsible for these infections [1]. While this sounds alarming, understanding the signs, seeking prompt veterinary care, and providing a healthy environment can make all the difference in managing this condition.
-
-![An infographic detailing the signs, prevention, and treatment of respiratory infections in rats.](/img/rats/rat-uri-guide.png)
 
 <InfographicShare imageSrc="/img/rats/rat-uri-guide.png" />
 

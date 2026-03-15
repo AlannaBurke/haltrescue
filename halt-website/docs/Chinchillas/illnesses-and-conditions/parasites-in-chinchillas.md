@@ -1,4 +1,5 @@
 ---
+sidebar_position: 5
 title: Parasites in Chinchillas
 description: Learn about external and internal parasites that can affect chinchillas, including mites, fleas, giardia, and how to prevent and treat infestations.
 sidebar_label: Parasites

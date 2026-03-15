@@ -1,7 +1,7 @@
 ---
 title: Essential Rat Supplies
 sidebar_label: Essential Rat Supplies
-sidebar_position: 2
+sidebar_position: 1
 tags: [rat, getting started, supplies, cage, bedding, nutrition, enrichment, hygiene]
 ---
 

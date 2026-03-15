@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Clubbed Feet & Deformities'
-sidebar_position: 3
+sidebar_position: 5
 tags: [guinea pig, clubbed feet, congenital, disability, special needs, care]
 ---
 

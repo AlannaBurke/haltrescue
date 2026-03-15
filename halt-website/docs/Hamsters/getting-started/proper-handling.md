@@ -2,7 +2,7 @@
 title: Proper Handling of Pet Hamsters
 description: A step-by-step guide to taming and safely handling your pet hamster, building a bond of trust through patience and positive reinforcement.
 sidebar_label: Proper Handling
-sidebar_position: 6
+sidebar_position: 7
 tags: [hamsters, handling, taming, bonding, care]
 ---
 

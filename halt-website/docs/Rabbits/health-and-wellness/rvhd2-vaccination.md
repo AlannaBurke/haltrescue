@@ -17,8 +17,6 @@ RHDV2 is a calicivirus that causes a deadly disease in both wild and domestic ra
 
 One of the most frightening aspects of RHDV2 is its sudden onset. Many infected rabbits die suddenly without showing any prior signs of illness [2].
 
-![An infographic explaining the key facts about RVHD2 vaccination for rabbits.](/img/rabbits/rvhd2-vaccination.png)
-
 <InfographicShare imageSrc="/img/rabbits/rvhd2-vaccination.png" />
 
 ## Symptoms and Transmission

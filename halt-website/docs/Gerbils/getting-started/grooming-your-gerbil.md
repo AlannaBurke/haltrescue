@@ -2,7 +2,7 @@
 title: Grooming Your Pet Gerbil
 description: A guide to the minimal grooming needs of pet gerbils, including the role of sand baths, brushing, and nail care.
 sidebar_label: Grooming
-sidebar_position: 5
+sidebar_position: 3
 tags: [gerbils, grooming, sand bath, fur, care]
 ---
 

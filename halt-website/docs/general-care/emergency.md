@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Emergency Preparedness'
-sidebar_position: 2
+sidebar_position: 1
 description: "By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster."
 ---
 # Emergency Preparedness
@@ -53,7 +53,5 @@ By preparing in advance and ensuring that your pets are part of your emergency p
 ---
 
 ## Quick Reference: Emergency Preparedness Infographic
-
-![Emergency Preparedness for Small Pets infographic covering emergency kit, evacuation plan, and special notes for small animals](/img/general-care/emergency-preparedness.png)
 
 <InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />

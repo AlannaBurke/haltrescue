@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Rabbit Right for Me?'
-sidebar_position: 1
+sidebar_position: 5
 tags: [rabbit, getting started, family pets, care commitment, cost]
 description: "Rabbits are among the most popular pets in the United States — and among the most frequently surrendered. The gap between expectation and reality is wide: many families bring home a rabbit imagining..."
 ---

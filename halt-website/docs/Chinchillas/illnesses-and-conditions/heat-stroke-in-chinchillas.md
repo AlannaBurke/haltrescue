@@ -1,4 +1,5 @@
 ---
+sidebar_position: 4
 title: Heat Stroke in Chinchillas
 description: Learn how to recognize, prevent, and respond to heat stroke in chinchillas, including emergency first aid and safe temperature ranges.
 sidebar_label: Heat Stroke

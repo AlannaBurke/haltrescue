@@ -2,7 +2,7 @@
 title: Essential Supplies for Pet Degus
 description: A comprehensive checklist of all the essential supplies needed to provide a safe, enriching, and healthy environment for your pet degus.
 sidebar_label: Essential Supplies
-sidebar_position: 4
+sidebar_position: 2
 tags: [degus, supplies, checklist, shopping, getting started]
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Guinea Pig Poop'
-sidebar_position: 1
+sidebar_position: 3
 tags: [guinea pig, poop, digestion, health, cecotropes, care]
 description: "Guinea pigs have sensitive digestive systems, and looking at their poop is the best way to quickly determine how your guinea pig's system is functioning. It's also one of the reasons why it's so..."
 ---
@@ -61,7 +61,5 @@ If you see any blood in your guinea pig's poop, take them to the vet immediately
 ## Quick Reference: Guinea Pig Poop Guide
 
 The infographic below provides a visual overview of the different types of guinea pig droppings and what they mean for your pig's health.
-
-![Guinea Pig Poop Guide infographic showing normal, monitor, and urgent dropping types](/img/guinea-pigs/gp-poop-guide.png)
 
 <InfographicShare imageSrc="/img/guinea-pigs/gp-poop-guide.png" />

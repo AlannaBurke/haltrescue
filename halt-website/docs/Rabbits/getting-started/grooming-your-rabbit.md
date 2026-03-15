@@ -2,7 +2,7 @@
 title: Grooming Your Pet Rabbit
 description: A guide to the essential grooming needs of a pet rabbit, including brushing, nail trimming, and cleaning scent glands.
 sidebar_label: Grooming
-sidebar_position: 5
+sidebar_position: 3
 tags: [rabbits, grooming, brushing, nail trimming, care]
 ---
 

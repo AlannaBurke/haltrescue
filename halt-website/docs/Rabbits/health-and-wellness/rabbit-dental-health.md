@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Dental Health'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 

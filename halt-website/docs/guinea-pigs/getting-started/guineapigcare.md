@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Guinea Pig Care'
-sidebar_position: 1
+sidebar_position: 3
 tags: [guinea pig, care, beginner, getting started]
 description: "Plain, quality pellets are best for guinea pigs. Guinea pigs under 6 months old should be fed an Alfalfa pellet and hay-based diet. Do not feed your guinea pig any food with artificial coloring,..."
 ---
@@ -71,7 +71,5 @@ Guinea pigs are not much for playing with toys, but do enjoy paper towel rolls s
 ## Quick Reference: Guinea Pig Care Essentials
 
 The infographic below summarizes the key care essentials — diet, cage sizing, bedding, and important reminders — in one handy reference.
-
-![Guinea Pig Care Essentials infographic covering food and diet, cage sizing, bedding, and important reminders](/img/guinea-pigs/gp-care-essentials.png)
 
 <InfographicShare imageSrc="/img/guinea-pigs/gp-care-essentials.png" />

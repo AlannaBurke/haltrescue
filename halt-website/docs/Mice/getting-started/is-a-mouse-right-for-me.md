@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Mouse Right for Me?'
-sidebar_position: 1
+sidebar_position: 5
 tags: [mouse, mice, getting started, family pets, care commitment, cost]
 description: "Mice are often overlooked as pets, but they are endlessly entertaining, relatively affordable, and surprisingly personable. They are best suited to older children, teenagers, and adults who enjoy..."
 ---

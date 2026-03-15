@@ -1,6 +1,6 @@
 ---
 sidebar_label: Diabetes
-sidebar_position: 8
+sidebar_position: 1
 tags: [rat, diabetes, endocrine, health, veterinary, care, symptoms, treatment]
 ---
 

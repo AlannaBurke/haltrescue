@@ -1,6 +1,6 @@
 ---
 sidebar_label: Rat Care Guide
-sidebar_position: 1
+sidebar_position: 6
 tags: [rat, rodent, pet health, veterinary, nutrition, health, behavior, housing]
 ---
 

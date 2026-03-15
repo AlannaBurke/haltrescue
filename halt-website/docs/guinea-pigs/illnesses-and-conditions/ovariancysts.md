@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Ovarian Cysts'
-sidebar_position: 7
+sidebar_position: 18
 tags: [guinea pig, ovarian cysts, reproductive, illnesses, veterinary, female]
 ---
 

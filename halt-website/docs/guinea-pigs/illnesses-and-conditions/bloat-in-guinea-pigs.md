@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Bloat in Guinea Pigs'
-sidebar_position: 2
+sidebar_position: 1
 tags: [guinea pig, bloat, GI, digestive, emergency, veterinary]
 ---
 

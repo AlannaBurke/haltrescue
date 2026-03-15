@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hairless or "Skinny" Pigs'
-sidebar_position: 4
+sidebar_position: 2
 tags: [guinea pig, skinny pig, hairless, breeds, care, skin health]
 ---
 

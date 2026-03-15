@@ -1,4 +1,5 @@
 ---
+sidebar_position: 9
 title: Ear Infections in Guinea Pigs
 description: Learn about ear infections in guinea pigs — causes, warning signs including head tilt and loss of balance, diagnosis, treatment, and how to prevent them.
 sidebar_label: Ear Infections

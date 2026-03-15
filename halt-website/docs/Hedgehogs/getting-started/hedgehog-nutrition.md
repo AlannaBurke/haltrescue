@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 title: Nutrition
 description: "Hedgehogs are insectivores, meaning their natural diet consists primarily of insects. In captivity, their diet is based on a high-quality, low-fat cat food, supplemented with insects and other..."
 ---

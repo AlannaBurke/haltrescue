@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Hamster Right for Me?'
-sidebar_position: 1
+sidebar_position: 5
 tags: [hamster, getting started, family pets, care commitment, cost]
 description: "Hamsters are often purchased as a first pet for young children, but the reality of hamster ownership frequently surprises families who aren't prepared. They are fascinating, complex animals — but..."
 ---

@@ -2,7 +2,7 @@
 title: Grooming Your Pet Chinchilla
 description: A guide to the unique grooming needs of chinchillas, focusing on the importance of dust baths and how to provide them safely.
 sidebar_label: Grooming
-sidebar_position: 5
+sidebar_position: 2
 tags: [chinchillas, grooming, dust bath, fur, care]
 ---
 

@@ -2,7 +2,7 @@
 title: Grooming Your Pet Hedgehog
 description: A guide to the essential grooming needs of a pet hedgehog, including how to give them a bath and trim their nails safely.
 sidebar_label: Grooming
-sidebar_position: 5
+sidebar_position: 3
 tags: [hedgehogs, grooming, bathing, nail trimming, care]
 ---
 

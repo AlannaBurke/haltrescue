@@ -11,8 +11,6 @@ description: "Rats are intelligent, social, and emotionally complex animals. Und
 
 Rats are intelligent, social, and emotionally complex animals. Understanding their natural behaviors and unique ways of communicating is key to building a strong bond and providing them with the best possible care. This guide will help you interpret your rat's body language and understand the meaning behind their actions.
 
-![An infographic illustrating common rat behaviors and what they mean.](/img/rats/rat-behavior-guide.png)
-
 <InfographicShare imageSrc="/img/rats/rat-behavior-guide.png" />
 
 ## Common Rat Behaviors and What They Mean

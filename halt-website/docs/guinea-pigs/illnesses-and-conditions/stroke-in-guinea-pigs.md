@@ -1,5 +1,5 @@
 ---
-sidebar_position: 16
+sidebar_position: 22
 title: Stroke in Guinea Pigs
 description: Understanding strokes in guinea pigs — causes, symptoms, emergency response, treatment, and recovery.
 tags: [guinea pigs, stroke, neurological, health, illnesses, emergency]

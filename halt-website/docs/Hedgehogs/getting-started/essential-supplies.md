@@ -2,7 +2,7 @@
 title: Essential Supplies for Pet Hedgehogs
 description: A complete checklist of the essential supplies needed to set up a safe, warm, and stimulating environment for a pet hedgehog.
 sidebar_label: Essential Supplies
-sidebar_position: 4
+sidebar_position: 2
 tags: [hedgehogs, supplies, checklist, shopping, getting started]
 ---
 
