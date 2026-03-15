@@ -1,0 +1,11 @@
+{
+  "label": "Health & Wellness",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Health and wellness guides for pet hamsters, including home health checks and preventive care.",
+    "slug": "/hamsters/health-and-wellness",
+    "image": "/img/heroes/hamsters/hero.png"
+  }
+}
