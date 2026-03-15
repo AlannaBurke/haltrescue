@@ -272,7 +272,7 @@ export default function About() {
         </section>
 
         {/* Contact */}
-        <section className={styles.section}>
+        <section id="contact" className={styles.section}>
           <h2 className={styles.sectionTitle}>Get in Touch</h2>
           <p>
             Have a question about adoption, surrendering an animal, sanctuary care, or anything else?
