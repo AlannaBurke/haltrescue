@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - cute-theme
   workflow_dispatch:
 
 permissions:
@@ -40,3 +39,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: halt-website/build
           publish_branch: gh-pages
+          force_orphan: true
