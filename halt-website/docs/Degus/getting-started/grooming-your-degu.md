@@ -2,7 +2,7 @@
 title: Grooming Your Pet Degu
 description: A guide to the grooming needs of pet degus, with a focus on the essential role of dust baths for maintaining their coat and skin health.
 sidebar_label: Grooming
-sidebar_position: 5
+sidebar_position: 3
 tags: [degus, grooming, dust bath, fur, care]
 ---
 

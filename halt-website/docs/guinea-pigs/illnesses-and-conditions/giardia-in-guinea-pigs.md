@@ -1,4 +1,5 @@
 ---
+sidebar_position: 13
 title: Giardia in Guinea Pigs
 description: Learn about Giardia in guinea pigs — what it is, how it spreads, symptoms, diagnosis, treatment, and how to prevent this intestinal parasite.
 sidebar_label: Giardia

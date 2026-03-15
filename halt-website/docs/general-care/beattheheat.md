@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Help Your Small Pets Beat the Heat'
-sidebar_position: 1
+sidebar_position: 2
 description: "It's getting warmer - here are some tips to help your small pets stay cool and comfortable in the heat."
 ---
 
@@ -25,7 +25,5 @@ It's getting warmer - here are some tips to help your small pets stay cool and c
 ---
 
 ## Quick Reference: Keep Your Small Pets Cool
-
-![Keep Your Small Pets Cool infographic with 8 tips for summer heat safety and signs of heatstroke](/img/general-care/beat-the-heat.png)
 
 <InfographicShare imageSrc="/img/general-care/beat-the-heat.png" />

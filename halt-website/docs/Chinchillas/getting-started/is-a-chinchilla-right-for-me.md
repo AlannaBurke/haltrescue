@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Chinchilla Right for Me?'
-sidebar_position: 0
+sidebar_position: 3
 tags: [chinchilla, getting started, family pets, care commitment, cost]
 description: "Chinchillas are extraordinary animals — soft as velvet, agile as acrobats, and capable of living 20 years or more with excellent care. That extraordinary lifespan is also the most important thing to..."
 ---

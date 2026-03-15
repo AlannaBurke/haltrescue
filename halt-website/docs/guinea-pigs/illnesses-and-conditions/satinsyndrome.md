@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Satin Syndrome'
-sidebar_position: 8
+sidebar_position: 20
 tags: [guinea pig, satin syndrome, genetic, illnesses, special needs, care]
 ---
 

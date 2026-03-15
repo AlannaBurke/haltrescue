@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Essential Supplies'
-sidebar_position: 5
+sidebar_position: 1
 tags: [guinea pig, supplies, care, beginner, housing, nutrition, enrichment]
 description: "Bringing home a guinea pig (or better yet—a pair!) is an exciting and joyful experience. To set your new friends up for a happy, healthy life, it’s important to have the right supplies ready from day..."
 ---

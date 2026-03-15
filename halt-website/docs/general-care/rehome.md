@@ -21,6 +21,4 @@ Do Not release your pet outside
  - It’s illegal
  - _They will not survive_
 
-![Need to Rehome Your Pet? Infographic with safe rehoming checklist and flowchart](/img/general-care/rehome.png)
-
 <InfographicShare imageSrc="/img/general-care/rehome.png" />

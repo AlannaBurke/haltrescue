@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: Dental Disease in Chinchillas
 description: Learn about the causes, symptoms, and treatment of dental disease and malocclusion in chinchillas, including how diet and genetics play a role.
 sidebar_label: Dental Disease

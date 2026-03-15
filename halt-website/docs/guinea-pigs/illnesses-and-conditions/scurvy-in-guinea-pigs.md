@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 21
 title: Scurvy (Vitamin C Deficiency) in Guinea Pigs
 description: Everything you need to know about scurvy in guinea pigs — causes, symptoms, treatment, and how to ensure your guinea pig gets enough Vitamin C.
 tags: [guinea pigs, scurvy, vitamin c, nutrition, health, illnesses]

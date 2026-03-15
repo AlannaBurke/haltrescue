@@ -1,6 +1,6 @@
 ---
 sidebar_label: Rat Variety Guide
-sidebar_position: 1
+sidebar_position: 2
 tags: [rat, fancy rat, rat varieties, pet health, small animal, rodent, husbandry, health, behavior, nutrition, housing]
 description: "Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating,..."
 ---
@@ -10,8 +10,6 @@ description: "Welcome to the colorful world of fancy rats! Through selective bre
 # A Guide to Fancy Rat Varieties
 
 Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating, it’s crucial to remember that unlike dog breeds, a rat's appearance does not determine its personality, health, or temperament [1]. This guide is designed to help you understand the common terms you might encounter when adopting from a rescue or shelter.
-
-![An infographic showcasing different rat varieties, including colors, coat types, and ear types.](/img/rats/rat-variety-guide.png)
 
 <InfographicShare imageSrc="/img/rats/rat-variety-guide.png" />
 

@@ -130,6 +130,4 @@ Spaying and neutering small pets like guinea pigs, rabbits, and rats offer numer
 
 ## Quick Reference: Why Spay & Neuter Your Small Pets
 
-![Why Spay and Neuter Your Small Pets infographic covering health benefits, behavioral benefits, population crisis, and pregnancy risks in guinea pigs](/img/general-care/spay-neuter.png)
-
 <InfographicShare imageSrc="/img/general-care/spay-neuter.png" />

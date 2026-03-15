@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 title: Bumblefoot in Guinea Pigs
 description: Learn about bumblefoot (pododermatitis) in guinea pigs — causes, warning signs, treatment, and how to prevent this painful foot condition with proper housing.
 sidebar_label: Bumblefoot (Pododermatitis)

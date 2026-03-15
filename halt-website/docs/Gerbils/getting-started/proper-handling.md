@@ -2,7 +2,7 @@
 title: Proper Handling of Pet Gerbils
 description: A guide to safely and confidently handling pet gerbils, with tips for building trust and the critical importance of never grabbing their tail.
 sidebar_label: Proper Handling
-sidebar_position: 6
+sidebar_position: 7
 tags: [gerbils, handling, taming, bonding, tail slip]
 ---
 

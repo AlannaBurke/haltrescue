@@ -1,4 +1,5 @@
 ---
+sidebar_position: 17
 title: Neurologic Diseases in Guinea Pigs
 description: An overview of neurologic diseases in guinea pigs — including E. cuniculi, inner ear infections, stroke, and Vitamin C deficiency — with symptoms, diagnosis, and treatment.
 sidebar_label: Neurologic Diseases

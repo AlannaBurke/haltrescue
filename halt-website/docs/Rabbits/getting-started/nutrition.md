@@ -2,7 +2,7 @@
 title: Nutrition for Pet Rabbits
 description: A detailed guide to the correct diet for a pet rabbit, emphasizing the importance of hay and outlining the proper portions of greens, pellets, and treats.
 sidebar_label: Nutrition
-sidebar_position: 2
+sidebar_position: 6
 tags: [rabbits, nutrition, diet, hay, feeding]
 ---
 

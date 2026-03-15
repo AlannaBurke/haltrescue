@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 9
 title: Parasites in Rabbits
 description: A comprehensive overview of common internal and external parasites in rabbits, including mites, fleas, ticks, worms, and protozoa like E. cuniculi and coccidia.
 tags: [rabbits, parasites, mites, fleas, worms, e-cuniculi, coccidia, health, illnesses]

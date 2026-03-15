@@ -2,7 +2,7 @@
 title: Proper Handling of Pet Mice
 description: Learn the best methods for safely handling your pet mice, building trust, and creating a positive bond through gentle and patient interaction.
 sidebar_label: Proper Handling
-sidebar_position: 6
+sidebar_position: 7
 tags: [mice, handling, taming, bonding, care]
 ---
 

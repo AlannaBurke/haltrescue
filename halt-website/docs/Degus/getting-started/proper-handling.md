@@ -2,7 +2,7 @@
 title: Proper Handling of Pet Degus
 description: A guide to the correct and safe methods for handling pet degus, focusing on building trust and the critical importance of not grabbing their tail.
 sidebar_label: Proper Handling
-sidebar_position: 6
+sidebar_position: 7
 tags: [degus, handling, taming, bonding, tail slip]
 ---
 

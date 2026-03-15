@@ -1,4 +1,5 @@
 ---
+sidebar_position: 16
 title: Mites in Guinea Pigs
 description: Understand mites in guinea pigs — the different species, symptoms including intense itching and seizures, diagnosis, treatment with ivermectin, and prevention.
 sidebar_label: Mites

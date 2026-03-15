@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Care
-sidebar_position: 2
+sidebar_position: 1
 tags: [rat, dental, teeth, malocclusion, health, veterinary, care, prevention]
 ---
 

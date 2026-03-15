@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Eye Health & Vision'
-sidebar_position: 4
+sidebar_position: 2
 tags: [guinea pig, eyes, health, hay poke, corneal ulcer, veterinary]
 description: "Guinea pig eyes are large, bright, and positioned on the sides of their head, giving them a wide field of vision to watch for predators. While generally robust, their eyes are susceptible to a range..."
 ---

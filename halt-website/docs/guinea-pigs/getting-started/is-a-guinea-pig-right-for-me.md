@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Guinea Pig Right for Me?'
-sidebar_position: 0
+sidebar_position: 4
 tags: [guinea pig, getting started, family pets, care commitment, cost]
 description: "Guinea pigs are gentle, social, and surprisingly communicative little animals — and they are one of the most rewarding small pets you can share your home with. But like any pet, they come with real..."
 ---

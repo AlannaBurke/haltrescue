@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Caseous (Cervical) Lymphadenitis'
-sidebar_position: 10
+sidebar_position: 4
 tags: [guinea pig, cervical lymphadenitis, lumps, illnesses, veterinary]
 ---
 

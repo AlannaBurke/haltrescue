@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Lethal White'
-sidebar_position: 5
+sidebar_position: 4
 tags: [guinea pig, lethal white, genetics, disability, special needs, care]
 ---
 

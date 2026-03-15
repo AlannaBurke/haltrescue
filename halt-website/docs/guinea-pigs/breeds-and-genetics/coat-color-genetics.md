@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Coat Color Genetics'
-sidebar_position: 2
+sidebar_position: 1
 tags: [guinea pig, genetics, coat color, breeds, roan, dalmatian, lethal white]
 ---
 

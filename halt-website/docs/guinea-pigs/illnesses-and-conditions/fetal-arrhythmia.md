@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Fetal Arrhythmia'
-sidebar_position: 4
+sidebar_position: 10
 tags: [guinea pig, fetal arrhythmia, heart, congenital, veterinary]
 ---
 

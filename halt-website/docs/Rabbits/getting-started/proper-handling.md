@@ -2,7 +2,7 @@
 title: Proper Handling of Pet Rabbits
 description: A guide to the correct and safe methods for handling a pet rabbit, focusing on building trust and preventing injury.
 sidebar_label: Proper Handling
-sidebar_position: 6
+sidebar_position: 7
 tags: [rabbits, handling, taming, bonding, care]
 ---
 

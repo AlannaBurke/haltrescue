@@ -1,4 +1,5 @@
 ---
+sidebar_position: 14
 title: Lice in Guinea Pigs
 description: Learn about lice in guinea pigs — the species involved, how to identify them, symptoms, treatment options, and how to prevent infestation.
 sidebar_label: Lice

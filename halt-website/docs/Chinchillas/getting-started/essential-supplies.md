@@ -2,7 +2,7 @@
 title: Essential Supplies for Pet Chinchillas
 description: A complete checklist of the essential supplies required to create a safe, healthy, and enriching environment for pet chinchillas.
 sidebar_label: Essential Supplies
-sidebar_position: 3
+sidebar_position: 1
 tags: [chinchillas, supplies, checklist, shopping, getting started]
 ---
 

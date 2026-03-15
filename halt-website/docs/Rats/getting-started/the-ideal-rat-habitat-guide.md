@@ -1,6 +1,6 @@
 ---
 sidebar_label: The Ideal Rat Habitat
-sidebar_position: 2
+sidebar_position: 8
 tags: [rat, habitat, cage, care, environment, enrichment, health, bedding, socialization, housing]
 description: "A well-designed habitat is crucial for the health, happiness, and safety of your pet rats. As active, intelligent, and social creatures, they need a space that supports their natural behaviors like..."
 ---
@@ -10,8 +10,6 @@ description: "A well-designed habitat is crucial for the health, happiness, and 
 # Creating the Ideal Habitat for Your Pet Rats
 
 A well-designed habitat is crucial for the health, happiness, and safety of your pet rats. As active, intelligent, and social creatures, they need a space that supports their natural behaviors like climbing, burrowing, and exploring. This guide will walk you through the key components of an ideal rat habitat.
-
-![An infographic showing the ideal cage setup for pet rats, including dimensions, bedding, and enrichment items.](/img/rats/rat-habitat-guide.png)
 
 <InfographicShare imageSrc="/img/rats/rat-habitat-guide.png" />
 

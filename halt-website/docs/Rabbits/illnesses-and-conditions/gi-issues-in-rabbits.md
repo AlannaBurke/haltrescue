@@ -2,7 +2,7 @@
 title: GI Issues in Rabbits
 tags: [rabbits, gastrointestinal, GI stasis, diarrhea, bloat, hairball, obstruction, diet, veterinary, emergency]
 sidebar_label: GI Issues in Rabbits
-sidebar_position: 5
+sidebar_position: 6
 description: "For rabbit owners, understanding and preventing gastrointestinal (GI) issues is paramount to ensuring the health and happiness of their beloved pets. Rabbits have delicate digestive systems, and..."
 ---
 
@@ -59,8 +59,6 @@ When GI issues arise, prompt and appropriate treatment is essential. For conditi
 *   **Probiotics:** Rabbit-specific probiotics can help restore a healthy balance of gut flora.
 
 Surgery is typically a last resort and is only considered for true obstructions that cannot be resolved medically [1].
-
-![An infographic explaining the causes, symptoms, and prevention of GI stasis in rabbits.](/img/rabbits/rabbit-gi-stasis.png)
 
 <InfographicShare imageSrc="/img/rabbits/rabbit-gi-stasis.png" />
 

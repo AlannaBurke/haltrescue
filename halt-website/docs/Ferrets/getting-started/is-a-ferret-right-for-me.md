@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Ferret Right for Me?'
-sidebar_position: 1
+sidebar_position: 5
 tags: [ferret, getting started, family pets, care commitment, cost]
 description: "Ferrets are playful, mischievous, and deeply entertaining companions — often described as 'cats in a slinky body.' They are also one of the more demanding small pets, with significant time..."
 ---

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Is a Hedgehog Right for Me?'
-sidebar_position: 1
+sidebar_position: 5
 tags: [hedgehog, getting started, family pets, care commitment, cost]
 description: "Hedgehogs are unique, fascinating animals with big personalities packed into a small, spiny package. They are not cuddly in the traditional sense — most hedgehogs take time to warm up to handling,..."
 ---

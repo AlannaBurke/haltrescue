@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 title: Nutrition
 description: "Proper nutrition is the most critical aspect of degu care. Degus have a unique sensitivity to sugar and are highly prone to developing diabetes if fed an improper diet. Their digestive system is..."
 ---
