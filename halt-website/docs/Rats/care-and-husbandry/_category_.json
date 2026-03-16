@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Rats, including diet, enrichment, and handling.",
+    "slug": "/rats/care-and-husbandry",
+    "image": "/img/heroes/rats/hero.png"
+  }
+}

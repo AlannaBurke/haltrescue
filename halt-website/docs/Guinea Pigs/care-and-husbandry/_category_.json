@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for guinea pigs, including diet, enrichment, and handling.",
+    "slug": "/guinea-pigs/care-and-husbandry",
+    "image": "/img/heroes/guinea-pigs/hero.png"
+  }
+}

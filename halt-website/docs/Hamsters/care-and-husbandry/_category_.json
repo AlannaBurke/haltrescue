@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Hamsters, including diet, enrichment, and handling.",
+    "slug": "/hamsters/care-and-husbandry",
+    "image": "/img/heroes/hamsters/hero.png"
+  }
+}

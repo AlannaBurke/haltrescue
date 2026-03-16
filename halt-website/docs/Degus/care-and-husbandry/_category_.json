@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Degus, including diet, enrichment, and handling.",
+    "slug": "/degus/care-and-husbandry",
+    "image": "/img/heroes/degus/hero.png"
+  }
+}
