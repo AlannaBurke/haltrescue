@@ -86,3 +86,34 @@ There’s no surefire way to prevent Satin Syndrome, as it appears to be linked 
 Satin Syndrome is a heartbreaking condition for guinea pigs and their owners alike, but early detection and proper care can make a significant difference in managing the disease. If your guinea pig has a satin coat, it’s essential to be vigilant about their health and watch for any signs of discomfort or bone issues. By working closely with your veterinarian, you can help ensure that your guinea pig enjoys a comfortable and fulfilling life, even with Satin Syndrome. 
 
 From the bottom of our hearts: caring for a guinea pig with Satin Syndrome is very difficult. They can continue to live for many years, often requiring around-the-clock feeding and medication. This is not to discourage anyone from caring for their pet, nor do we believe they should be euthanized before they are ready. However, you may want to consider your lifestyle, working hours, and the amount of time you can dedicate if your guinea pig is diagnosed with Satin Syndrome, and reach out to a local rescue for help or to make a plan for when their care becomes difficult.   
+
+
+## The Satin Gene in Other Animals
+
+![Infographic comparing the satin gene across guinea pigs, rabbits, hamsters, rats and mice](/img/guinea-pigs/gp-satin-species.png)
+
+
+While the satin mutation is most infamous for the severe health issues it causes in guinea pigs, a similar gene that creates a glossy, hollow hair shaft also appears in other species. However, it is **critically important** to understand that the devastating metabolic bone disease known as Satin Syndrome is **unique to guinea pigs**. The presence of a satin coat in other animals does not mean they will suffer the same fate.
+
+### Satin Rabbits
+The satin gene in rabbits also produces a coat with a characteristic sheen due to a hollow hair shaft. The gene is recessive and has been established in many breeds, such as the Satin and Mini Satin. Unlike in guinea pigs, reputable rabbit breeding associations and veterinary sources have found **no link between the satin gene in rabbits and metabolic bone disease** or other significant health problems. [1] [2] While all rabbits are susceptible to bone density issues from poor diet or lack of exercise, this is not caused by the satin gene itself.
+
+### Satin Hamsters
+In Syrian hamsters, the satin gene (`Sa`) is dominant and produces a glossy coat. A single copy of the gene is generally considered to have no adverse health effects. However, breeding two satin hamsters together can produce "double-satin" offspring (`SaSa`). These animals have an extremely thin, sparse, and oily coat that is considered an undesirable trait. While there are no systemic health issues like bone disease associated with the double-satin gene, the poor coat quality is an animal welfare concern, and ethical breeders avoid this pairing. [3] [4]
+
+### Satin Rats & Mice
+The satin mutation in rats and mice also results in a finer, shinier coat. While early lines of satin rats in the fancy were associated with respiratory problems, this is believed to have been an issue with the initial breeding stock that was largely resolved through outcrossing, rather than an inherent defect caused by the satin gene itself. [5] There is no evidence linking the satin gene in rats and mice to bone disease.
+
+---
+
+**References**
+
+[1] Rise and Shine Rabbitry. (2011). *SATIN RABBITS- The Ultimate Dual Purpose Rabbit*. [https://riseandshinerabbitry.com/2011/12/11/satin-rabbits-the-dual-purpose-rabbit/](https://riseandshinerabbitry.com/2011/12/11/satin-rabbits-the-dual-purpose-rabbit/)
+
+[2] Reddit. (2019). *Does anyone know about potential health issues with satin furred rabbits?*. [https://www.reddit.com/r/Rabbits/comments/eb7zh4/does_anyone_know_about_potential_health_issues/](https://www.reddit.com/r/Rabbits/comments/eb7zh4/does_anyone_know_about_potential_health_issues/)
+
+[3] California Hamster Association. (n.d.). *Genetic Defects*. [http://www.chahamsters.org/gendefects.html](http://www.chahamsters.org/gendefects.html)
+
+[4] Hathor Hamstery. (n.d.). *Coat Types*. [https://hathorhamstery.weebly.com/coat-types.html](https://hathorhamstery.weebly.com/coat-types.html)
+
+[5] American Fancy Rat & Mouse Association. (1994). *Satin Rats*. [https://www.afrma.org/satinrats.htm](https://www.afrma.org/satinrats.htm)
