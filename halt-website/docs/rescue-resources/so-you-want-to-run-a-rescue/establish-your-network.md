@@ -1,4 +1,5 @@
 ---
+sidebar_position: 3
 sidebar_label: Establish Your Network
 tags: [animal rescue, networking, foster network, veterinary partners, community outreach, volunteers]
 description: "A guide for animal rescues on the importance of building a strong network of volunteers, foster homes, veterinary partners, and community supporters."
