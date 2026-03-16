@@ -611,6 +611,29 @@ article header h2 a:hover {
 }
 
 /* ============================================================
+   GENERATED-INDEX HERO BANNER
+   ============================================================ */
+
+/* Make the category index hero banner taller so the full image is visible */
+[class*="heroBanner"] {
+  min-height: 340px;
+}
+
+/* Ensure the hero image covers the banner properly and centers on the subject */
+[class*="heroImage"] {
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 996px) {
+  [class*="heroBanner"] {
+    min-height: 200px;
+  }
+}
+
+/* ============================================================
    DOCS / SIDEBAR
    ============================================================ */
 
@@ -631,19 +654,9 @@ article header h2 a:hover {
   padding: 0.75rem 0.5rem 2rem;
 }
 
-/* --- Fade-out gradient at the bottom to hint at more content --- */
+/* --- Extra bottom padding so last items are not hidden --- */
 .menu.thin-scrollbar {
-  -webkit-mask-image: linear-gradient(
-    to bottom,
-    black calc(100% - 64px),
-    transparent 100%
-  );
-  mask-image: linear-gradient(
-    to bottom,
-    black calc(100% - 64px),
-    transparent 100%
-  );
-  padding-bottom: 2rem;
+  padding-bottom: 3rem;
 }
 
 /* --- Top-level category header rows --- */
@@ -678,16 +691,8 @@ article header h2 a:hover {
   color: var(--halt-teal);
 }
 
-/* Active category highlight */
-.menu__list-item-collapsible:has(.menu__link--active) {
-  background: linear-gradient(135deg, var(--halt-teal-light) 0%, var(--halt-lavender-light) 100%);
-  border-left: 3px solid var(--halt-teal);
-}
-
-[data-theme='dark'] .menu__list-item-collapsible:has(.menu__link--active) {
-  background: rgba(45, 212, 223, 0.12);
-  border-left-color: var(--halt-teal);
-}
+/* Active category highlight — applied via .menu__link--active on the
+   category link itself (no :has() to avoid Chrome layout thrashing) */
 
 /* --- Nested sub-category headers (second level) --- */
 .menu__list .menu__list .menu__list-item-collapsible .menu__link {
@@ -706,21 +711,19 @@ article header h2 a:hover {
   font-size: 0.9rem;
   color: var(--halt-text-dark);
   padding: 0.4rem 0.85rem;
-  transition: background 0.18s ease, color 0.18s ease, padding-left 0.18s ease;
+  transition: background 0.18s ease, color 0.18s ease;
 }
 
 .menu__link:hover {
   background: var(--halt-teal-light);
   color: var(--halt-teal-dark);
-  padding-left: 1.1rem;
 }
 
 .menu__link--active {
-  background: linear-gradient(90deg, var(--halt-teal-light) 0%, rgba(179,157,219,0.18) 100%) !important;
+  background: var(--halt-teal-light) !important;
   color: var(--halt-teal-dark) !important;
   font-weight: 800;
   border-left: 3px solid var(--halt-teal);
-  padding-left: 1.1rem;
 }
 
 [data-theme='dark'] .menu__link {
