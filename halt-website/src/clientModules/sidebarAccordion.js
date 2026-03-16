@@ -10,11 +10,18 @@
  * .menu__list), leaving nested sub-categories free to behave normally.
  */
 
+let sidebarClickHandler = null;
+
 function initAccordion() {
   const sidebar = document.querySelector('.menu__list');
   if (!sidebar) return;
 
-  sidebar.addEventListener('click', (e) => {
+  // Remove the previous listener if it exists to prevent stacking
+  if (sidebarClickHandler) {
+    sidebar.removeEventListener('click', sidebarClickHandler);
+  }
+
+  sidebarClickHandler = (e) => {
     // Find the closest category toggle button
     const btn = e.target.closest('.menu__list-item-collapsible');
     if (!btn) return;
@@ -30,6 +37,7 @@ function initAccordion() {
       const allTopLevel = sidebar.querySelectorAll(':scope > .menu__list-item');
       allTopLevel.forEach((item) => {
         if (item === clickedItem) return; // leave the clicked one alone
+
         // If this sibling is currently expanded (i.e. NOT collapsed), collapse it
         if (!item.classList.contains('menu__list-item--collapsed')) {
           const siblingBtn = item.querySelector(':scope > .menu__list-item-collapsible');
@@ -39,7 +47,9 @@ function initAccordion() {
         }
       });
     });
-  });
+  };
+
+  sidebar.addEventListener('click', sidebarClickHandler);
 }
 
 // Run on initial page load
