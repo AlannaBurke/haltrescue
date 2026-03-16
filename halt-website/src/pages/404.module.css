@@ -1,0 +1,115 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - var(--ifm-navbar-height) - 200px);
+  padding: 3rem 1.5rem;
+  background: linear-gradient(160deg, #f3eeff 0%, #e0f5f7 50%, #fdecea 100%);
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 28px;
+  box-shadow: 0 8px 40px rgba(15, 138, 147, 0.15);
+  padding: 3rem 2.5rem;
+  max-width: 560px;
+  width: 100%;
+  text-align: center;
+  border: 2px solid rgba(15, 138, 147, 0.12);
+}
+
+.illustration {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  border-radius: 20px;
+  margin-bottom: 1.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  font-family: 'Nunito', sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+  color: #0f8a93;
+  line-height: 1;
+  margin: 0 0 0.25rem 0;
+  letter-spacing: -2px;
+}
+
+.subtitle {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin: 0 0 1rem 0;
+}
+
+.body {
+  font-size: 1rem;
+  color: #4a5568;
+  line-height: 1.75;
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.primaryBtn {
+  display: inline-block;
+  background: linear-gradient(135deg, #0f8a93, #15b5c4);
+  color: #ffffff !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 16px rgba(15, 138, 147, 0.3);
+}
+
+.primaryBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(15, 138, 147, 0.4);
+}
+
+.secondaryBtn {
+  display: inline-block;
+  background: transparent;
+  color: #0f8a93 !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  text-decoration: none !important;
+  border: 2px solid #0f8a93;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.secondaryBtn:hover {
+  background: #e0f5f7;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 480px) {
+  .card {
+    padding: 2rem 1.5rem;
+  }
+
+  .title {
+    font-size: 4rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+}
