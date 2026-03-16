@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Transparency'
-sidebar_position: 2
+sidebar_position: 10
 ---
 
 # Transparency Is Not Optional — It’s Foundational

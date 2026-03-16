@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 sidebar_label: "Part 2: The Emotional Gauntlet"
 tags: [animal rescue, compassion fatigue, burnout, mental health, animal welfare]
 description: "Part 2 of a series on running an animal rescue, exploring the intense emotional challenges, including compassion fatigue, burnout, and the difficulty of making life-and-death decisions."

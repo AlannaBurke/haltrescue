@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Budgeting'
-sidebar_position: 1
+sidebar_position: 9
 ---
 
 # Why Budgeting is Important

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 sidebar_label: "Part 3: The Physical Toll & Unseen Labor"
 tags: [animal rescue, volunteer management, burnout, animal care, nonprofit operations]
 description: "Part 3 of a series on running an animal rescue, detailing the intense, often invisible physical labor and the 24/7 time commitment that rescue work demands."

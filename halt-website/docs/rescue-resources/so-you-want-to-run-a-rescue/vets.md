@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'You and Your Vet'
-sidebar_position: 3
+sidebar_position: 11
 ---
 
 # Rescue and Veterinary Care: What You Owe the Animals
