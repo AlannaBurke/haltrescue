@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [degu health, diabetes, dental disease, tail slip, bumblefoot, respiratory infection]
 description: "An overview of the most common health issues affecting pet degus, including their genetic predisposition to diabetes, dental disease, tail slip, and bumblefoot."

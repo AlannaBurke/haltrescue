@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [rabbit health, GI stasis, dental disease, snuffles, head tilt, uterine cancer]
 description: "An overview of the most common and serious health issues affecting pet rabbits, including the critical emergencies of GI stasis, the importance of dental health, and the high rate of uterine cancer in unspayed females."

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [ferret health, adrenal disease, insulinoma, lymphoma, heart disease, GI obstruction]
 description: "An overview of the most common health issues affecting pet ferrets, with a strong emphasis on cancers like adrenal disease, insulinoma, and lymphoma, as well as heart disease and GI obstructions."

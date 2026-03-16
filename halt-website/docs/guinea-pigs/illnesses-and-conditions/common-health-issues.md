@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [guinea pig health, scurvy, vitamin C, bloat, bladder stones, bumblefoot, respiratory infection, parasites]
 description: "An overview of the most common health issues affecting pet guinea pigs, including their absolute need for Vitamin C (scurvy), GI stasis, bladder stones, and bumblefoot."
