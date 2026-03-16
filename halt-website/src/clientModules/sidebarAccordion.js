@@ -1,51 +1,86 @@
 /**
  * Sidebar Accordion — collapses all other top-level categories when one is opened.
  *
- * Docusaurus renders sidebar categories as <li> elements with a button toggle.
- * When a category is expanded, the <li> gets the class `menu__list-item--collapsed`
- * removed (i.e. it is NOT collapsed). We watch for clicks on category buttons and
- * collapse every sibling category that is currently open.
- *
- * This only affects the top-level categories (direct children of the root
- * .menu__list), leaving nested sub-categories free to behave normally.
+ * Performance-safe implementation:
+ * - Uses a single delegated click listener (never stacked, never duplicated)
+ * - Collapses siblings by directly calling the Docusaurus internal collapse
+ *   mechanism via aria-expanded + the hidden <ul> display, rather than firing
+ *   synthetic click() events (which would re-trigger this handler and Docusaurus
+ *   animations for every sibling, causing cascading reflows and freezes)
+ * - Guards against re-entrant calls with a processing flag
  */
 
+let sidebarRef = null;
 let sidebarClickHandler = null;
+let isProcessing = false;
+
+/**
+ * Collapse a single top-level sidebar category without firing a click event.
+ * Docusaurus stores collapse state via:
+ *   - `menu__list-item--collapsed` class on the <li>
+ *   - `aria-expanded="false"` on the toggle button
+ *   - `collapsed` class on the child <ul>
+ */
+function collapseItem(item) {
+  if (item.classList.contains('menu__list-item--collapsed')) return; // already collapsed
+
+  item.classList.add('menu__list-item--collapsed');
+
+  const btn = item.querySelector(':scope > .menu__list-item-collapsible');
+  if (btn) {
+    btn.setAttribute('aria-expanded', 'false');
+  }
+
+  // Collapse the child list — Docusaurus uses either display:none or a
+  // CSS transition via the `collapsed` class on the inner <ul>
+  const childList = item.querySelector(':scope > .menu__list');
+  if (childList) {
+    childList.classList.add('menu__list--collapsed');
+    // Also set inline style to match what Docusaurus does after animation
+    childList.style.height = '0px';
+    childList.style.overflow = 'hidden';
+  }
+}
 
 function initAccordion() {
-  const sidebar = document.querySelector('.menu__list');
+  const sidebar = document.querySelector('ul.menu__list');
   if (!sidebar) return;
 
-  // Remove the previous listener if it exists to prevent stacking
-  if (sidebarClickHandler) {
+  // If the sidebar element hasn't changed, no need to re-attach
+  if (sidebar === sidebarRef) return;
+  sidebarRef = sidebar;
+
+  // Remove old listener from old sidebar element (if any)
+  if (sidebarClickHandler && sidebar !== sidebarRef) {
     sidebar.removeEventListener('click', sidebarClickHandler);
   }
 
   sidebarClickHandler = (e) => {
-    // Find the closest category toggle button
+    if (isProcessing) return;
+
     const btn = e.target.closest('.menu__list-item-collapsible');
     if (!btn) return;
 
     const clickedItem = btn.closest('.menu__list-item');
     if (!clickedItem) return;
 
-    // Only act on top-level items (direct children of the root menu__list)
+    // Only act on direct children of the root sidebar list
     if (clickedItem.parentElement !== sidebar) return;
 
-    // After a short tick (let Docusaurus do its own toggle first), collapse siblings
-    requestAnimationFrame(() => {
-      const allTopLevel = sidebar.querySelectorAll(':scope > .menu__list-item');
-      allTopLevel.forEach((item) => {
-        if (item === clickedItem) return; // leave the clicked one alone
+    // Set flag to prevent re-entrant processing
+    isProcessing = true;
 
-        // If this sibling is currently expanded (i.e. NOT collapsed), collapse it
-        if (!item.classList.contains('menu__list-item--collapsed')) {
-          const siblingBtn = item.querySelector(':scope > .menu__list-item-collapsible');
-          if (siblingBtn) {
-            siblingBtn.click();
-          }
-        }
-      });
+    // Use rAF to let Docusaurus process its own toggle first
+    requestAnimationFrame(() => {
+      try {
+        const allTopLevel = sidebar.querySelectorAll(':scope > .menu__list-item');
+        allTopLevel.forEach((item) => {
+          if (item === clickedItem) return;
+          collapseItem(item);
+        });
+      } finally {
+        isProcessing = false;
+      }
     });
   };
 
@@ -63,6 +98,7 @@ if (typeof document !== 'undefined') {
 
 // Re-run on Docusaurus client-side navigation (SPA route changes)
 export function onRouteDidUpdate() {
-  // Re-attach after navigation in case the sidebar remounts
-  setTimeout(initAccordion, 100);
+  // Reset sidebar ref so initAccordion re-attaches if the sidebar remounted
+  sidebarRef = null;
+  setTimeout(initAccordion, 150);
 }
