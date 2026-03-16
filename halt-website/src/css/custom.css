@@ -1033,15 +1033,9 @@ img[alt=board-pic] {
   max-width: 100%;
 }
 
-/* If an image is the ONLY element in a paragraph, treat it as block */
-.markdown p:has(> img:only-child) {
-  text-align: center;
-}
-
-.markdown p:has(> img:only-child) img {
-  display: block;
-  margin: 1.5rem auto;
-}
+/* Standalone images in markdown are centered via the block rule above.
+   Note: :has() selectors removed for performance — they caused layout
+   thrashing on image-heavy pages in Chrome. */
 
 /* Board member float images keep their existing style */
 img[alt=board-pic] {
