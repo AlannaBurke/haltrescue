@@ -613,31 +613,162 @@ article header h2 a:hover {
 /* ============================================================
    DOCS / SIDEBAR
    ============================================================ */
+
+/* --- Sidebar panel background --- */
+.theme-doc-sidebar-container {
+  background: var(--halt-warm-white);
+  border-right: 2px solid var(--halt-teal-light);
+  box-shadow: 2px 0 16px rgba(15, 138, 147, 0.07);
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container {
+  background: #1a1a2e;
+  border-right-color: rgba(45, 212, 223, 0.12);
+}
+
+/* --- Sidebar inner padding --- */
+.theme-doc-sidebar-menu {
+  padding: 0.75rem 0.5rem 2rem;
+}
+
+/* --- Fade-out gradient at the bottom to hint at more content --- */
+.menu.thin-scrollbar {
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    black calc(100% - 64px),
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    black calc(100% - 64px),
+    transparent 100%
+  );
+  padding-bottom: 2rem;
+}
+
+/* --- Top-level category header rows --- */
+.menu__list-item-collapsible {
+  border-radius: 12px;
+  margin-bottom: 2px;
+  transition: background 0.2s ease;
+}
+
+.menu__list-item-collapsible:hover {
+  background: var(--halt-teal-light);
+}
+
+[data-theme='dark'] .menu__list-item-collapsible:hover {
+  background: rgba(45, 212, 223, 0.10);
+}
+
+/* Category toggle button text */
+.menu__list-item-collapsible .menu__link {
+  font-weight: 800;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--halt-teal-dark);
+  border-radius: 12px;
+  padding: 0.55rem 0.85rem;
+  background: transparent;
+  transition: color 0.2s ease;
+}
+
+[data-theme='dark'] .menu__list-item-collapsible .menu__link {
+  color: var(--halt-teal);
+}
+
+/* Active category highlight */
+.menu__list-item-collapsible:has(.menu__link--active) {
+  background: linear-gradient(135deg, var(--halt-teal-light) 0%, var(--halt-lavender-light) 100%);
+  border-left: 3px solid var(--halt-teal);
+}
+
+[data-theme='dark'] .menu__list-item-collapsible:has(.menu__link--active) {
+  background: rgba(45, 212, 223, 0.12);
+  border-left-color: var(--halt-teal);
+}
+
+/* --- Nested sub-category headers (second level) --- */
+.menu__list .menu__list .menu__list-item-collapsible .menu__link {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--halt-text-medium);
+  padding-left: 1rem;
+}
+
+/* --- Leaf links (individual articles) --- */
 .menu__link {
   border-radius: 10px;
   font-weight: 600;
-  transition: background 0.2s ease, color 0.2s ease;
+  font-size: 0.9rem;
+  color: var(--halt-text-dark);
+  padding: 0.4rem 0.85rem;
+  transition: background 0.18s ease, color 0.18s ease, padding-left 0.18s ease;
 }
 
 .menu__link:hover {
   background: var(--halt-teal-light);
   color: var(--halt-teal-dark);
+  padding-left: 1.1rem;
 }
 
 .menu__link--active {
-  background: var(--halt-teal-light) !important;
+  background: linear-gradient(90deg, var(--halt-teal-light) 0%, rgba(179,157,219,0.18) 100%) !important;
   color: var(--halt-teal-dark) !important;
   font-weight: 800;
+  border-left: 3px solid var(--halt-teal);
+  padding-left: 1.1rem;
+}
+
+[data-theme='dark'] .menu__link {
+  color: var(--halt-text-medium);
 }
 
 [data-theme='dark'] .menu__link:hover {
-  background: rgba(45, 212, 223, 0.12);
+  background: rgba(45, 212, 223, 0.10);
   color: var(--halt-teal);
 }
 
 [data-theme='dark'] .menu__link--active {
-  background: rgba(45, 212, 223, 0.18) !important;
+  background: rgba(45, 212, 223, 0.15) !important;
   color: var(--halt-teal) !important;
+  border-left-color: var(--halt-teal);
+}
+
+/* --- Caret / chevron icon on category toggles --- */
+.menu__caret {
+  color: var(--halt-teal);
+  opacity: 0.7;
+  transition: transform 0.25s ease, opacity 0.2s ease;
+}
+
+.menu__list-item-collapsible:hover .menu__caret {
+  opacity: 1;
+}
+
+/* --- Subtle divider between top-level sections --- */
+.menu__list > .menu__list-item + .menu__list-item {
+  border-top: 1px solid rgba(15, 138, 147, 0.08);
+  padding-top: 2px;
+  margin-top: 2px;
+}
+
+[data-theme='dark'] .menu__list > .menu__list-item + .menu__list-item {
+  border-top-color: rgba(45, 212, 223, 0.07);
+}
+
+/* --- Indent nested items with a subtle left track line --- */
+.menu__list .menu__list {
+  border-left: 2px solid var(--halt-teal-light);
+  margin-left: 0.85rem;
+  padding-left: 0.25rem;
+}
+
+[data-theme='dark'] .menu__list .menu__list {
+  border-left-color: rgba(45, 212, 223, 0.15);
 }
 
 /* ============================================================

@@ -36,6 +36,10 @@ const config = {
     locales: ['en'],
   },
 
+  clientModules: [
+    require.resolve('./src/clientModules/sidebarAccordion.js'),
+  ],
+
   plugins: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
