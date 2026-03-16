@@ -1,4 +1,5 @@
 ---
+sidebar_position: 5
 sidebar_label: "Part 1: The True Cost of Saving Lives"
 tags: [animal rescue, rescue finance, nonprofit, fundraising, veterinary costs]
 description: "Part 1 of a series on running an animal rescue, focusing on the significant and often underestimated financial costs involved, from veterinary bills to daily supplies."
