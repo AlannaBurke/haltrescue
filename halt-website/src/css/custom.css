@@ -637,7 +637,7 @@ article header h2 a:hover {
    DOCS / SIDEBAR
    ============================================================ */
 
-/* --- Sidebar panel background --- */
+/* Minimal sidebar - background only, no transitions or complex selectors */
 .theme-doc-sidebar-container {
   background: var(--halt-warm-white);
   border-right: 2px solid var(--halt-teal-light);
@@ -646,97 +646,6 @@ article header h2 a:hover {
 [data-theme='dark'] .theme-doc-sidebar-container {
   background: #1a1a2e;
   border-right-color: rgba(45, 212, 223, 0.12);
-}
-
-/* --- Sidebar inner padding --- */
-.theme-doc-sidebar-menu {
-  padding: 0.75rem 0.5rem 2rem;
-}
-
-/* --- Extra bottom padding so last items are not hidden --- */
-.menu.thin-scrollbar {
-  padding-bottom: 3rem;
-}
-
-/* --- Top-level category header rows --- */
-.menu__list-item-collapsible {
-  border-radius: 8px;
-  margin-bottom: 2px;
-}
-
-.menu__list-item-collapsible:hover {
-  background: var(--halt-teal-light);
-}
-
-[data-theme='dark'] .menu__list-item-collapsible:hover {
-  background: rgba(45, 212, 223, 0.10);
-}
-
-/* Category toggle button text */
-.menu__list-item-collapsible > .menu__link {
-  font-weight: 800;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--halt-teal-dark);
-}
-
-[data-theme='dark'] .menu__list-item-collapsible > .menu__link {
-  color: var(--halt-teal);
-}
-
-
-/* --- Leaf links (individual articles) --- */
-.menu__link {
-  border-radius: 8px;
-  font-weight: 600;
-  font-size: 0.9rem;
-  color: var(--halt-text-dark);
-  padding: 0.4rem 0.85rem;
-
-}
-
-.menu__link:hover {
-  background: var(--halt-teal-light);
-  color: var(--halt-teal-dark);
-}
-
-.menu__link--active {
-  background: var(--halt-teal-light) !important;
-  color: var(--halt-teal-dark) !important;
-  font-weight: 800;
-
-}
-
-[data-theme='dark'] .menu__link {
-  color: var(--halt-text-medium);
-}
-
-[data-theme='dark'] .menu__link:hover {
-  background: rgba(45, 212, 223, 0.10);
-  color: var(--halt-teal);
-}
-
-[data-theme='dark'] .menu__link--active {
-  background: rgba(45, 212, 223, 0.15) !important;
-  color: var(--halt-teal) !important;
-}
-
-/* --- Caret / chevron icon on category toggles --- */
-.menu__caret {
-  color: var(--halt-teal);
-  opacity: 0.7;
-}
-
-/* --- Indent nested items with a subtle left track line --- */
-.menu__list .menu__list {
-  border-left: 2px solid var(--halt-teal-light);
-  margin-left: 0.85rem;
-  padding-left: 0.25rem;
-}
-
-[data-theme='dark'] .menu__list .menu__list {
-  border-left-color: rgba(45, 212, 223, 0.15);
 }
 
 /* ============================================================

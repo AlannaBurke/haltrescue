@@ -1,8 +1,11 @@
 {
   "label": "So You Want to Run a Rescue?",
   "position": 2,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
-    "type": "doc",
-    "id": "rescue-resources/so-you-want-to-run-a-rescue"
+    "type": "generated-index",
+    "description": "A comprehensive series on starting, running, and sustaining an animal rescue organization.",
+    "image": "/img/heroes/rescue-resources/hero.png"
   }
 }
