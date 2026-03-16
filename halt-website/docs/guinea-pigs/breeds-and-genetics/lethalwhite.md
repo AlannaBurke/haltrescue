@@ -178,6 +178,7 @@ Because guinea pigs hide illness well, heart problems may be subtle or mistaken 
 * Cyanosis (blue/gray tint around the mouth, gums, or feet)  
 * Decreased appetite  
 * Bloating or fluid buildup, enlarged belly  
+* Cold extremities (feet), which can predispose to [bumblefoot (pododermatitis)](/docs/guinea-pigs/illnesses-and-conditions/bumblefoot-in-guinea-pigs)  
 * Fainting or collapse (in severe cases)
 
 ### Diagnosis {#diagnosis}

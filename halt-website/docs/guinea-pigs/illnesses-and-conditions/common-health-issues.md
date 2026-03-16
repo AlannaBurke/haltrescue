@@ -38,10 +38,10 @@ Guinea pigs are prone to developing bladder stones (uroliths) or a thick, gritty
 
 ## 4. Bumblefoot (Pododermatitis)
 
-This is a painful infection of the footpads, often caused by wire-bottom cages, abrasive bedding, obesity, or unsanitary conditions. It can lead to severe pain, abscesses, and bone infections.
+This is a painful infection of the footpads, often caused by wire-bottom cages, abrasive bedding, obesity, or unsanitary conditions. It can lead to severe pain, abscesses, and bone infections. In older guinea pigs, underlying heart disease can also be a contributing factor — a weakened heart reduces blood flow to the extremities, making the feet more vulnerable even in a clean, well-maintained enclosure.
 
 *   **Signs:** Swollen, red, or ulcerated footpads; lameness; reluctance to move.
-*   **Prevention:** House guinea pigs on soft, clean, dry bedding like fleece or aspen. Avoid wire floors. Keep the cage meticulously clean and help your guinea pig maintain a healthy weight.
+*   **Prevention:** House guinea pigs on soft, clean, dry bedding like fleece or aspen. Avoid wire floors. Keep the cage meticulously clean and help your guinea pig maintain a healthy weight. If bumblefoot develops in an older pig with good husbandry, ask your vet to check for underlying heart disease.
 
 ## 5. Parasites (Mites and Lice)
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
 title: Bumblefoot in Guinea Pigs
-description: Learn about bumblefoot (pododermatitis) in guinea pigs — causes, warning signs, treatment, and how to prevent this painful foot condition with proper housing.
+description: Learn about bumblefoot (pododermatitis) in guinea pigs — causes including heart disease, warning signs, treatment, and how to prevent this painful foot condition.
 sidebar_label: Bumblefoot (Pododermatitis)
-tags: [guinea pigs, bumblefoot, pododermatitis, health, illnesses, housing]
+tags: [guinea pigs, bumblefoot, pododermatitis, health, illnesses, housing, heart disease]
 ---
 
 
@@ -31,6 +31,8 @@ The most significant risk factors for bumblefoot in guinea pigs are:
 **Inactivity** reduces circulation to the feet and can lead to pressure sores. Guinea pigs need space to move freely.
 
 **Rough or abrasive surfaces** — including some types of carpet — can cause friction injuries to the feet.
+
+**Underlying heart disease** is an increasingly recognized risk factor, particularly in older guinea pigs. A weakened heart compromises blood circulation to the extremities, including the feet. This reduced peripheral perfusion makes the foot pads more susceptible to injury and less able to heal, allowing pododermatitis to develop even in a clean environment with soft bedding. Cold extremities are a known clinical sign of heart failure in guinea pigs, and this poor circulation directly predisposes the feet to infection.[^3]
 
 <InfographicShare imageSrc="/img/guinea-pigs/gp-bumblefoot.png" />
 
@@ -62,6 +64,20 @@ Your veterinarian will examine the feet and assess the severity of the condition
 
 X-rays may be recommended to check for bone involvement in advanced cases. A swab culture helps identify the causative bacteria and guide antibiotic choice.
 
+## When to Suspect Heart Disease
+
+If your guinea pig develops bumblefoot despite good husbandry — clean, soft bedding, no wire flooring, healthy weight, and adequate Vitamin C — heart disease should be considered as an underlying cause, especially in guinea pigs over 3–4 years old.
+
+Ask your veterinarian to evaluate the heart if you notice any of the following alongside bumblefoot:
+
+- Labored or rapid breathing
+- Lethargy or reduced activity
+- Weight loss despite normal appetite
+- Cold feet or pale/bluish gums
+- Fluid buildup in the abdomen
+
+Heart disease is not curable, but it can be managed with medications such as diuretics, ACE inhibitors, and pimobendan, which can improve quality of life and potentially reduce the circulatory compromise contributing to bumblefoot.[^3]
+
 ## Treatment
 
 Treatment depends on the stage of the condition:
@@ -88,6 +104,7 @@ Bumblefoot is almost entirely preventable with good husbandry:
 - **Feed fresh Vitamin C daily** — bell peppers, leafy greens, and fresh herbs are excellent sources
 - **Monitor weight** — weigh your guinea pig weekly; sudden weight gain or loss is an early warning sign
 - **Inspect feet weekly** — make foot checks part of your regular handling routine
+- **Schedule regular vet check-ups for older guinea pigs** — heart disease screening can catch cardiovascular issues before they lead to secondary complications like bumblefoot
 
 :::tip
 Fleece liners are one of the best flooring options for guinea pigs. They are soft, washable, and allow for easy daily spot cleaning. Pair with an absorbent layer underneath for best results.
@@ -102,3 +119,5 @@ Fleece liners are one of the best flooring options for guinea pigs. They are sof
 [^1]: Meredith A, Johnson-Delaney C. *BSAVA Manual of Exotic Pets*. 5th ed. British Small Animal Veterinary Association; 2010:68–92.
 
 [^2]: Hoefer HL. Gastrointestinal diseases of rabbits and rodents. In: Quesenberry KE, Carpenter JW, eds. *Ferrets, Rabbits, and Rodents: Clinical Medicine and Surgery*. 3rd ed. Elsevier Saunders; 2012:193–204.
+
+[^3]: The Guinea Pig Vet. My guinea pig is breathing heavy — let's talk about heart disease. Published April 1, 2021. Accessed March 16, 2026. https://www.theguineapigvet.co.uk/post/my-guinea-pig-is-breathing-heavy-let-s-talk-about-heart-disease
