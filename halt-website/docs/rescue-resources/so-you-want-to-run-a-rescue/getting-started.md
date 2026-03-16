@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 sidebar_label: Getting Started
 tags: [animal rescue, nonprofit, 501c3, starting a rescue, mission statement, board of directors]
 description: "The essential first steps to starting an animal rescue, including defining your mission, building a board, and navigating the legal process of becoming a 501(c)(3) nonprofit."

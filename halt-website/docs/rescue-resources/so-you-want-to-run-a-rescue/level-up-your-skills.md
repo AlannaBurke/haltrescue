@@ -1,4 +1,5 @@
 ---
+sidebar_position: 4
 sidebar_label: Level Up Your Skills
 tags: [animal rescue, advanced animal care, fundraising, grant writing, nonprofit management, compassion fatigue]
 description: "A guide for established animal rescues on how to level up their skills in advanced medical care, fundraising, and nonprofit management for long-term sustainability."
