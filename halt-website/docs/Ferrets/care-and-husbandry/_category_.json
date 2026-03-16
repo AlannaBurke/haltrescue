@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Ferrets, including diet, enrichment, and handling.",
+    "slug": "/ferrets/care-and-husbandry",
+    "image": "/img/heroes/ferrets/hero.png"
+  }
+}

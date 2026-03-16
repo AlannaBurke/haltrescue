@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Mice, including diet, enrichment, and handling.",
+    "slug": "/mice/care-and-husbandry",
+    "image": "/img/heroes/mice/hero.png"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Care & Husbandry",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Care and husbandry guides for Gerbils, including diet, enrichment, and handling.",
+    "slug": "/gerbils/care-and-husbandry",
+    "image": "/img/heroes/gerbils/hero.png"
+  }
+}
