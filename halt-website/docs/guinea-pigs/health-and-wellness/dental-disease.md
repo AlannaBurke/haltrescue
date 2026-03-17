@@ -40,6 +40,7 @@ Guinea pigs are prey animals and will often hide signs of pain or illness until 
 *   **Eye or Nasal Discharge:** Elongated upper tooth roots can press on tear ducts, causing watery eyes.
 *   **Reduced Fecal Output:** A sign of decreased food intake and potential GI stasis.
 *   **Lethargy or Behavioral Changes:** Hiding more than usual, irritability, or a reluctance to move.
+*   **Making "Pellet Soup":** Some guinea pigs with mouth pain will take a mouthful of water and spit it into their pellet bowl to soften the pellets, making them easier to eat. This is a very specific and telling sign of dental trouble [6].
 
 ## Diagnosis and Veterinary Care
 
@@ -83,3 +84,6 @@ By providing a proper diet and being vigilant about your guinea pig's health, yo
 [4] Wills, A. P. (2016). Diagnosis and treatment of dental disease in guinea pigs. *Journal of the American Veterinary Medical Association*, 249(9), 1000–1008. https://avmajournals.avma.org/view/journals/javma/249/9/javma.249.9.1000.xml
 
 [5] Minarikova, A., et al. (2016). Dental Disease and Periodontitis in a Guinea Pig (Cavia porcellus). *Journal of Exotic Pet Medicine*, 25(2), 129-136. https://www.sciencedirect.com/science/article/abs/pii/S1557506316300155
+
+
+[6] Reddit. (2023). *My Guinea pig is making such a mess!*. [https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/](https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/)

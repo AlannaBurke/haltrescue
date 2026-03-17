@@ -1,5 +1,6 @@
 ---
-sidebar_label: Dangerous Treats & Toys
+sidebar_label: 'Dangerous Treats sidebar_label: Dangerous Treats & Toys Toys'
+sidebar_position: 1
 tags: [hamster care, hamster safety, dangerous treats, dangerous toys, hamster diet]
 description: "A guide to dangerous treats and toys for hamsters, highlighting the risks of certain foods, the extreme danger of fluffy bedding, and the hazards of unsafe chew toys."
 ---

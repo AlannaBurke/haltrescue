@@ -1,5 +1,6 @@
 ---
-sidebar_label: Dangerous Treats & Toys
+sidebar_label: 'Dangerous Treats sidebar_label: Dangerous Treats & Toys Toys'
+sidebar_position: 1
 tags: [gerbil care, gerbil safety, dangerous treats, dangerous toys, gerbil diet]
 description: "A guide to dangerous treats and toys for gerbils, highlighting the risks of high-water-content foods, sugary treats, and unsafe chew toys like plastic and certain woods."
 ---
