@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Dangerous Treats sidebar_label: Dangerous Treats & Toys Toys'
+sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [ferret care, ferret safety, dangerous treats, dangerous toys, ferret diet, foreign body obstruction]
 description: "A crucial guide to dangerous treats and toys for ferrets, focusing on the risks of plant-based foods and the extreme danger of foreign body obstruction from ingested toys."
