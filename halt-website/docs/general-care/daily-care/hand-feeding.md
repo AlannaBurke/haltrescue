@@ -1,6 +1,6 @@
 ---
 sidebar_label: How to Hand-Feed a Small Pet
-tags: [hand feeding, syringe feeding, critical care, convalescent care, orphaned animals, sick pet, small animal, exotic pet]
+tags: [critical care, health, pregnancy, getting started]
 description: "A step-by-step guide on how to safely and effectively hand-feed a sick, orphaned, or convalescing small pet using a syringe. Learn about preparing the food, proper feeding technique, and what to watch for."
 ---
 

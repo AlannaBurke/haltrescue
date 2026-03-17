@@ -1,6 +1,6 @@
 ---
 sidebar_label: Adrenal Disease
-tags: [ferret health, adrenal disease, hair loss, alopecia, ferret cancer]
+tags: [ferrets, adrenal disease, hair loss, cancer]
 description: "An in-depth guide to adrenal gland disease in ferrets, a common and serious condition characterized by hair loss, discussing its causes, signs, diagnosis, and treatment options."
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Know Your Breeds'
 sidebar_position: 3
-tags: [guinea pig, breeds, genetics, care]
+tags: [guinea pigs, breeds, genetics]
 description: "From the sleek and smooth to the curly and long-haired, guinea pigs come in a wonderful variety of breeds, each with its own unique look and grooming needs. While personality is individual, some..."
 ---
 

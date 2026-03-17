@@ -1,6 +1,6 @@
 ---
 sidebar_label: Socializing Your Small Pet
-tags: [socialization, taming, bonding, trust, handling, fearful pet, timid pet, prey animal]
+tags: [bonding, taming, handling, behavior]
 description: "A guide to socializing and building trust with timid small pets like rabbits, guinea pigs, and rodents, using patience and positive reinforcement to create a strong bond."
 ---
 

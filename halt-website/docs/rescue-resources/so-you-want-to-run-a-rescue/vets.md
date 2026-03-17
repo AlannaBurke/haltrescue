@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'You and Your Vet'
 sidebar_position: 11
+tags: [nonprofit, veterinary, rescue]
 ---
 
 # Rescue and Veterinary Care: What You Owe the Animals

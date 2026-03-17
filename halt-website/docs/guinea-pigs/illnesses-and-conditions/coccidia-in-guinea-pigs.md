@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Coccidia in Guinea Pigs
 description: Understand coccidia in guinea pigs — what it is, how it spreads, symptoms to watch for, how it's diagnosed and treated, and how to prevent it.
 sidebar_label: Coccidia
-tags: [guinea pigs, coccidia, parasites, health, illnesses]
+tags: [guinea pigs, parasites, health]
 ---
 
 

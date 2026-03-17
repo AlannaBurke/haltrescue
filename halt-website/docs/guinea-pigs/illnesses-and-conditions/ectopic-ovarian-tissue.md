@@ -1,6 +1,6 @@
 ---
 sidebar_label: Ectopic Ovarian Tissue
-tags: [guinea pig health, spay, ovarian remnant, ectopic ovary, guinea pig behavior]
+tags: [guinea pigs, reproductive health]
 description: "A guide to ectopic ovarian tissue in guinea pigs, a condition where ovarian tissue is found outside the ovaries, often causing hormonal issues even in spayed females."
 ---
 

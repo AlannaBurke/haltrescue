@@ -3,7 +3,7 @@ title: Essential Supplies for Pet Mice
 description: A comprehensive checklist of all the essential supplies you need to provide a safe, enriching, and healthy environment for your pet mice.
 sidebar_label: Essential Supplies
 sidebar_position: 2
-tags: [mice, supplies, checklist, shopping, getting started]
+tags: [mice, supplies, getting started]
 ---
 
 # Essential Supplies for Pet Mice

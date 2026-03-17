@@ -3,7 +3,7 @@ title: Sexing Your Pet Rabbit
 description: A clear guide on how to determine the sex of a pet rabbit by examining their genital anatomy, essential for proper care and preventing unwanted litters.
 sidebar_label: Sexing Your Rabbit
 sidebar_position: 2
-tags: [rabbits, sexing, gender, male, female, breeding]
+tags: [rabbits, sexing, reproductive health, breeding]
 ---
 
 

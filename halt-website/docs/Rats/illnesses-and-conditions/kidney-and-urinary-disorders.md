@@ -1,6 +1,6 @@
 ---
 sidebar_label: Kidney & Urinary Disorders
-tags: [rat health, kidney disease, chronic progressive nephropathy, cpn, urinary issues]
+tags: [rats, kidney disease, urinary health]
 description: "An in-depth guide to kidney and urinary disorders in rats, with a focus on Chronic Progressive Nephropathy (CPN), a common age-related disease."
 ---
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Lymphoma'
 sidebar_position: 15
-tags: [guinea pig, lymphoma, cancer, illnesses, veterinary]
+tags: [guinea pigs, cancer, health, veterinary]
 ---
 
 # Lymphoma

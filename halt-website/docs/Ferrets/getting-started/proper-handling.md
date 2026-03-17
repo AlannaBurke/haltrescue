@@ -3,7 +3,7 @@ title: Proper Handling of Pet Ferrets
 description: A guide to the correct and safe methods for handling pet ferrets, including how to pick them up and the use of scruffing for training and procedures.
 sidebar_label: Proper Handling
 sidebar_position: 7
-tags: [ferrets, handling, taming, scruffing, care]
+tags: [ferrets, handling, taming]
 ---
 
 # Proper Handling of Pet Ferrets

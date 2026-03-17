@@ -1,6 +1,6 @@
 ---
 sidebar_label: Diabetes
-tags: [gerbil health, diabetes, diabetic gerbil, hyperglycemia]
+tags: [gerbils, diabetes]
 description: "A guide to diabetes in gerbils, a common condition often linked to diet, covering the signs, causes, and the importance of dietary management for prevention and care."
 ---
 

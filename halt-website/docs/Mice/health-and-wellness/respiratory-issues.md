@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [mouse health, mice health, respiratory infection, mycoplasma, pneumonia, URI]
+tags: [mice, respiratory infection, mycoplasma]
 description: "An in-depth look at chronic respiratory disease in pet mice, caused by Mycoplasma pulmonis, covering the signs, triggers, and management of this common and persistent condition."
 ---
 

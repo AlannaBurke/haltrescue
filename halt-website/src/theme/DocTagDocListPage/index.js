@@ -2,8 +2,10 @@
  * Custom swizzle of DocTagDocListPage.
  *
  * Renders individual docs tag pages (e.g. /docs/tags/chinchillas) with:
- *   - A hero banner using the same kawaii tag image as the tag cards page
- *   - A responsive card grid of articles (matching the blog tag page style)
+ *   - A hero banner using the kawaii tag image
+ *   - A responsive card grid of articles
+ *   - Cards use the post's own image (from frontmatter) when available,
+ *     falling back to the tag image
  */
 import React from 'react';
 import clsx from 'clsx';
@@ -20,8 +22,9 @@ import Unlisted from '@theme/ContentVisibility/Unlisted';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-/* ─── Tag image mapping (same as DocTagsListPage) ─────────────────────────── */
+/* ─── Tag image mapping ───────────────────────────────────────────────────── */
 const DOC_TAG_IMAGES = {
+<<<<<<< HEAD
   // Species
   rat:              '/img/tags/rats.png',
   rats:             '/img/tags/rats.png',
@@ -234,6 +237,240 @@ const DOC_TAG_IMAGES = {
   smallanimal:      '/img/tags/guineapigs.png',
   smallanimalrescue:'/img/tags/adoptables.png',
   exoticpet:        '/img/tags/educational.png',
+=======
+  // ── Species ──────────────────────────────────────────────────────────────
+  rat:                '/img/tags/rat-health.png',
+  rats:               '/img/tags/rat-health.png',
+  'rat-health':       '/img/tags/rat-health.png',
+  rathealth:          '/img/tags/rat-health.png',
+  fancyrat:           '/img/tags/rat-health.png',
+  rodent:             '/img/tags/rat-health.png',
+  rabbit:             '/img/tags/rabbit-health.png',
+  rabbits:            '/img/tags/rabbit-health.png',
+  'rabbit-health':    '/img/tags/rabbit-health.png',
+  rabbithealth:       '/img/tags/rabbit-health.png',
+  chinchilla:         '/img/tags/chinchilla-health.png',
+  chinchillas:        '/img/tags/chinchilla-health.png',
+  'chinchilla-health':'/img/tags/chinchilla-health.png',
+  chinchillahealth:   '/img/tags/chinchilla-health.png',
+  ferret:             '/img/tags/ferret-health.png',
+  ferrets:            '/img/tags/ferret-health.png',
+  'ferret-health':    '/img/tags/ferret-health.png',
+  ferrethealth:       '/img/tags/ferret-health.png',
+  guineapig:          '/img/tags/guineapigs.png',
+  guineapigs:         '/img/tags/guineapigs.png',
+  'guinea-pig':       '/img/tags/guineapigs.png',
+  'guinea-pig-health':'/img/tags/guineapigs.png',
+  guineapighealth:    '/img/tags/guineapigs.png',
+  skinnypig:          '/img/tags/guineapigs.png',
+  hamster:            '/img/tags/hamster-health.png',
+  hamsters:           '/img/tags/hamster-health.png',
+  'hamster-health':   '/img/tags/hamster-health.png',
+  hamsterhealth:      '/img/tags/hamster-health.png',
+  dwarfhamsters:      '/img/tags/hamster-health.png',
+  hedgehog:           '/img/tags/hedgehog-health.png',
+  hedgehogs:          '/img/tags/hedgehog-health.png',
+  'hedgehog-health':  '/img/tags/hedgehog-health.png',
+  hedgehoghealth:     '/img/tags/hedgehog-health.png',
+  mice:               '/img/tags/mouse-health.png',
+  mouse:              '/img/tags/mouse-health.png',
+  'mouse-health':     '/img/tags/mouse-health.png',
+  mousehealth:        '/img/tags/mouse-health.png',
+  degu:               '/img/tags/degu-health.png',
+  degus:              '/img/tags/degu-health.png',
+  'degu-health':      '/img/tags/degu-health.png',
+  deguhealth:         '/img/tags/degu-health.png',
+  gerbil:             '/img/tags/gerbil-health.png',
+  gerbils:            '/img/tags/gerbil-health.png',
+  'gerbil-health':    '/img/tags/gerbil-health.png',
+  gerbilhealth:       '/img/tags/gerbil-health.png',
+
+  // ── Health & medical (specific) ──────────────────────────────────────────
+  health:             '/img/tags/health.png',
+  illness:            '/img/tags/health.png',
+  illnesses:          '/img/tags/health.png',
+  'veterinary-care':  '/img/tags/veterinary-care.png',
+  veterinarycare:     '/img/tags/veterinary-care.png',
+  veterinary:         '/img/tags/veterinary-care.png',
+  medical:            '/img/tags/veterinary-care.png',
+  medication:         '/img/tags/medication.png',
+  medications:        '/img/tags/medication.png',
+  treatment:          '/img/tags/medication.png',
+  surgery:            '/img/tags/surgery.png',
+  'critical-care':    '/img/tags/critical-care.png',
+  criticalcare:       '/img/tags/critical-care.png',
+  emergency:          '/img/tags/emergency.png',
+  'pain-management':  '/img/tags/pain-management.png',
+  painmanagement:     '/img/tags/pain-management.png',
+  'senior-care':      '/img/tags/senior-care.png',
+  seniorcare:         '/img/tags/senior-care.png',
+  senior:             '/img/tags/senior-care.png',
+  'end-of-life':      '/img/tags/end-of-life.png',
+  endoflife:          '/img/tags/end-of-life.png',
+  palliativecare:     '/img/tags/end-of-life.png',
+  grief:              '/img/tags/end-of-life.png',
+  euthanasia:         '/img/tags/end-of-life.png',
+  wellness:           '/img/tags/wellness.png',
+  prevention:         '/img/tags/wellness.png',
+  'dental-disease':   '/img/tags/dental-disease.png',
+  dentaldisease:      '/img/tags/dental-disease.png',
+  dental:             '/img/tags/dental-disease.png',
+  dentalcare:         '/img/tags/dental-disease.png',
+  malocclusion:       '/img/tags/dental-disease.png',
+  teeth:              '/img/tags/dental-disease.png',
+  respiratory:        '/img/tags/respiratory.png',
+  respiratoryinfection:'/img/tags/respiratory.png',
+  respiratorydisease: '/img/tags/respiratory.png',
+  pneumonia:          '/img/tags/respiratory.png',
+  uri:                '/img/tags/respiratory.png',
+  'heart-disease':    '/img/tags/heart-disease.png',
+  heartdisease:       '/img/tags/heart-disease.png',
+  heart:              '/img/tags/heart-disease.png',
+  cardiac:            '/img/tags/heart-disease.png',
+  digestive:          '/img/tags/digestive.png',
+  gi:                 '/img/tags/digestive.png',
+  gastrointestinal:   '/img/tags/digestive.png',
+  digestivehealth:    '/img/tags/digestive.png',
+  diarrhea:           '/img/tags/digestive.png',
+  bloat:              '/img/tags/bloat.png',
+  obstruction:        '/img/tags/digestive.png',
+  cecotropes:         '/img/tags/digestive.png',
+  flystrike:          '/img/tags/digestive.png',
+  neurological:       '/img/tags/neurological.png',
+  neurologic:         '/img/tags/neurological.png',
+  headtilt:           '/img/tags/neurological.png',
+  seizures:           '/img/tags/neurological.png',
+  stroke:             '/img/tags/neurological.png',
+  parasites:          '/img/tags/parasites.png',
+  mites:              '/img/tags/parasites.png',
+  lice:               '/img/tags/parasites.png',
+  fleas:              '/img/tags/parasites.png',
+  worms:              '/img/tags/parasites.png',
+  infections:         '/img/tags/infections.png',
+  infection:          '/img/tags/infections.png',
+  bacteria:           '/img/tags/infections.png',
+  abscess:            '/img/tags/infections.png',
+  cancer:             '/img/tags/cancer.png',
+  tumor:              '/img/tags/cancer.png',
+  lymphoma:           '/img/tags/cancer.png',
+  lumps:              '/img/tags/cancer.png',
+  'eye-health':       '/img/tags/eye-health.png',
+  eyehealth:          '/img/tags/eye-health.png',
+  eyes:               '/img/tags/eye-health.png',
+  cornealulcer:       '/img/tags/eye-health.png',
+  haypoke:            '/img/tags/eye-health.png',
+  skin:               '/img/tags/skin.png',
+  skinhealth:         '/img/tags/skin.png',
+  bumblefoot:         '/img/tags/bumblefoot.png',
+  pododermatitis:     '/img/tags/bumblefoot.png',
+  urinary:            '/img/tags/urinary.png',
+  bladder:            '/img/tags/urinary.png',
+  stones:             '/img/tags/urinary.png',
+  reproductive:       '/img/tags/reproductive.png',
+  ovariancysts:       '/img/tags/reproductive.png',
+  female:             '/img/tags/reproductive.png',
+  pregnancy:          '/img/tags/pregnancy.png',
+  newborn:            '/img/tags/pregnancy.png',
+  newborns:           '/img/tags/pregnancy.png',
+  lactation:          '/img/tags/pregnancy.png',
+  babies:             '/img/tags/pregnancy.png',
+  musculoskeletal:    '/img/tags/musculoskeletal.png',
+  bones:              '/img/tags/musculoskeletal.png',
+  joints:             '/img/tags/musculoskeletal.png',
+  obesity:            '/img/tags/obesity.png',
+  diabetes:           '/img/tags/obesity.png',
+  metabolic:          '/img/tags/obesity.png',
+  insulinoma:         '/img/tags/medical.png',
+  heatstroke:         '/img/tags/emergency.png',
+  hyperthermia:       '/img/tags/emergency.png',
+  scurvy:             '/img/tags/nutrition.png',
+  vitaminc:           '/img/tags/nutrition.png',
+  vaccination:        '/img/tags/veterinary-care.png',
+  'satin-syndrome':   '/img/tags/satin-syndrome.png',
+  satinsyndrome:      '/img/tags/satin-syndrome.png',
+  satin:              '/img/tags/satin-syndrome.png',
+  lethalwhite:        '/img/tags/lethalwhite.png',
+  'lethal-white':     '/img/tags/lethalwhite.png',
+
+  // ── Care & husbandry ─────────────────────────────────────────────────────
+  care:               '/img/tags/care.png',
+  careguide:          '/img/tags/care.png',
+  husbandry:          '/img/tags/care.png',
+  gettingstarted:     '/img/tags/care.png',
+  beginner:           '/img/tags/care.png',
+  checklist:          '/img/tags/care.png',
+  grooming:           '/img/tags/grooming.png',
+  nails:              '/img/tags/grooming.png',
+  hygiene:            '/img/tags/grooming.png',
+  handling:           '/img/tags/handling.png',
+  taming:             '/img/tags/taming.png',
+  training:           '/img/tags/taming.png',
+  fearful:            '/img/tags/taming.png',
+  bonding:            '/img/tags/bonding.png',
+  socialization:      '/img/tags/bonding.png',
+  introductions:      '/img/tags/bonding.png',
+  quarantine:         '/img/tags/bonding.png',
+  nutrition:          '/img/tags/nutrition.png',
+  diet:               '/img/tags/nutrition.png',
+  feeding:            '/img/tags/nutrition.png',
+  hay:                '/img/tags/nutrition.png',
+  vegetables:         '/img/tags/nutrition.png',
+  treats:             '/img/tags/nutrition.png',
+  toxicfoods:         '/img/tags/safety.png',
+  habitat:            '/img/tags/habitat.png',
+  housing:            '/img/tags/housing.png',
+  cage:               '/img/tags/housing.png',
+  bedding:            '/img/tags/bedding.png',
+  enrichment:         '/img/tags/enrichment.png',
+  toys:               '/img/tags/enrichment.png',
+  environment:        '/img/tags/habitat.png',
+  supplies:           '/img/tags/shopping.png',
+  shopping:           '/img/tags/shopping.png',
+  wishlist:           '/img/tags/shopping.png',
+  cost:               '/img/tags/cost.png',
+  family:             '/img/tags/family.png',
+  children:           '/img/tags/family.png',
+  firstpet:           '/img/tags/family.png',
+  safety:             '/img/tags/safety.png',
+  dangerous:          '/img/tags/safety.png',
+  behavior:           '/img/tags/behavior.png',
+  socialbehavior:     '/img/tags/behavior.png',
+  aggression:         '/img/tags/behavior.png',
+
+  // ── Genetics & breeds ────────────────────────────────────────────────────
+  genetics:           '/img/tags/genetics.png',
+  breeds:             '/img/tags/breeds.png',
+  breeding:           '/img/tags/breeding.png',
+  coat:               '/img/tags/coat.png',
+  coatcolor:          '/img/tags/coat.png',
+  hairless:           '/img/tags/coat.png',
+  sexing:             '/img/tags/sexing.png',
+  clubbedfeet:        '/img/tags/musculoskeletal.png',
+  roan:               '/img/tags/genetics.png',
+  dalmatian:          '/img/tags/genetics.png',
+
+  // ── Rescue & adoption ────────────────────────────────────────────────────
+  rescue:             '/img/tags/rescue.png',
+  adoption:           '/img/tags/adoption.png',
+  adoptions:          '/img/tags/adoption.png',
+  sanctuary:          '/img/tags/sanctuary.png',
+  specialneeds:       '/img/tags/sanctuary.png',
+  disability:         '/img/tags/sanctuary.png',
+  rainbowbridge:      '/img/tags/rainbowbridge.png',
+  nonprofit:          '/img/tags/nonprofit.png',
+  volunteers:         '/img/tags/volunteers.png',
+  volunteering:       '/img/tags/volunteers.png',
+  fundraising:        '/img/tags/nonprofit.png',
+
+  // ── General ──────────────────────────────────────────────────────────────
+  educational:        '/img/tags/educational.png',
+  petcare:            '/img/tags/care.png',
+  pethealth:          '/img/tags/health.png',
+  pets:               '/img/tags/guineapigs.png',
+  smallanimal:        '/img/tags/guineapigs.png',
+  smallanimalrescue:  '/img/tags/rescue.png',
+  exoticpet:          '/img/tags/educational.png',
+>>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards)
 };
 
 const FALLBACK_IMAGE = '/img/tags/health.png';
@@ -241,8 +478,13 @@ const FALLBACK_IMAGE = '/img/tags/health.png';
 function getTagImage(tagLabel) {
   const slug = (tagLabel || '')
     .toLowerCase()
-    .replace(/[\s\-_\/\.]+/g, '');
-  return DOC_TAG_IMAGES[slug] || FALLBACK_IMAGE;
+    .replace(/[\s_\/\.]+/g, '-')
+    .replace(/-+/g, '-');
+  // Try with hyphens first (canonical form)
+  if (DOC_TAG_IMAGES[slug]) return DOC_TAG_IMAGES[slug];
+  // Try without hyphens (legacy form)
+  const nohyphen = slug.replace(/-/g, '');
+  return DOC_TAG_IMAGES[nohyphen] || FALLBACK_IMAGE;
 }
 
 /* ─── Pluralisation helper ────────────────────────────────────────────────── */
@@ -277,7 +519,11 @@ function usePageTitle(props) {
 
 /* ─── Doc card ────────────────────────────────────────────────────────────── */
 function DocCard({ doc, tagLabel }) {
-  const image = getTagImage(tagLabel);
+  // Use the post's own image if available (from frontmatter), otherwise use tag image
+  const postImage = doc.frontMatter?.image || null;
+  const tagImage = getTagImage(tagLabel);
+  const image = postImage || tagImage;
+
   return (
     <article className={styles.card}>
       <Link to={doc.permalink} className={styles.cardImageLink} aria-hidden="true" tabIndex="-1">

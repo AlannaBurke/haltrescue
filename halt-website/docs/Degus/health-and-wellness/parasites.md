@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [degu health, parasites, mites, fleas, giardia, ringworm]
+tags: [degus, parasites, ringworm]
 description: "A guide to parasites affecting degus, including fleas, mites, and internal parasites, with a focus on prevention and safe treatment."
 ---
 

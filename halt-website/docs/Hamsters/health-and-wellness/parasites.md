@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [hamster health, parasites, mites, demodex, ringworm]
+tags: [hamsters, parasites, ringworm]
 description: "A guide to parasites affecting hamsters, with a focus on Demodex mites, which often signal an underlying health problem, as well as the fungal infection ringworm."
 ---
 

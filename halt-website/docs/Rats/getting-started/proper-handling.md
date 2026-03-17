@@ -3,7 +3,7 @@ title: Proper Handling of Pet Rats
 description: Learn the best techniques for safely and confidently handling your pet rats, building a strong bond based on trust and positive reinforcement.
 sidebar_label: Proper Handling
 sidebar_position: 5
-tags: [rats, handling, taming, bonding, care]
+tags: [rats, handling, taming, bonding]
 ---
 
 # Proper Handling of Pet Rats

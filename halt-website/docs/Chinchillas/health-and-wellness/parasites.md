@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [chinchilla health, parasites, mites, fleas, giardia, ringworm]
+tags: [chinchillas, parasites, ringworm]
 description: "A guide to parasites in chinchillas, covering common internal parasites like Giardia and external parasites like fleas and mites, as well as the fungal infection ringworm."
 ---
 

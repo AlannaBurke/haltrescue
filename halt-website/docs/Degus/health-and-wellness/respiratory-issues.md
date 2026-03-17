@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [degu health, respiratory infection, pneumonia, URI, breathing issues]
+tags: [degus, respiratory infection]
 description: "A guide to respiratory infections in degus, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 

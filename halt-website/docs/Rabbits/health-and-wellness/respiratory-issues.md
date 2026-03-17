@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [rabbit health, respiratory infection, snuffles, pasteurella, pneumonia, URI]
+tags: [rabbits, respiratory infection]
 description: "An in-depth guide to upper respiratory infections (Snuffles) in rabbits, caused by Pasteurella multocida and other bacteria, covering the signs, progression, and treatment of this common and often chronic condition."
 ---
 

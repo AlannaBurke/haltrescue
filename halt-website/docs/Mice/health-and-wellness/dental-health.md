@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [mouse health, mice health, dental disease, malocclusion, overgrown teeth, dental care]
+tags: [mice, dental disease]
 description: "A guide to dental health in mice, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the importance of providing a proper diet and chew toys."
 ---
 

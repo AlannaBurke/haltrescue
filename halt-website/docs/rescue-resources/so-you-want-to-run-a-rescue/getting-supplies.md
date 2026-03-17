@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 sidebar_label: Getting Supplies
-tags: [animal rescue, rescue supplies, donations, fundraising, in-kind donations, wish list]
+tags: [rescue, supplies, donations, fundraising]
 description: "A practical guide for new animal rescues on how to acquire the essential supplies needed to care for animals, from food and housing to medical equipment."
 ---
 

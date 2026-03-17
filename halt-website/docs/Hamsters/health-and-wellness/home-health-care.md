@@ -3,7 +3,7 @@ title: Home Health Care for Pet Hamsters
 description: A comprehensive guide to performing regular at-home health checks for your pet hamster to detect early signs of illness and ensure their well-being.
 sidebar_label: Home Health Care
 sidebar_position: 1
-tags: [hamsters, health, wellness, home health check, veterinary care]
+tags: [hamsters, health, wellness, home health check, veterinary]
 ---
 
 # Home Health Care for Pet Hamsters

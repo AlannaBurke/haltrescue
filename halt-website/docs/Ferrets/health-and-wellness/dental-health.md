@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [ferret health, dental disease, broken teeth, tartar, gingivitis, dental care]
+tags: [ferrets, dental disease]
 description: "A guide to dental health in ferrets, covering common issues like fractured teeth and tartar buildup, and outlining the importance of preventative care, including diet and tooth brushing."
 ---
 

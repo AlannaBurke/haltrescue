@@ -3,7 +3,7 @@ title: Know Your Mouse Breeds
 description: An overview of the varieties of fancy mice, including coat types, colors, and markings recognized by the American Fancy Rat and Mouse Association.
 sidebar_label: Know Your Breeds
 sidebar_position: 1
-tags: [mice, breeds, varieties, colors, coat types]
+tags: [mice, breeds, coat]
 ---
 
 

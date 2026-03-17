@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Dental Health'
 sidebar_position: 1
+tags: [rabbits, dental disease, health]
 ---
 
 

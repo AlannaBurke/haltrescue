@@ -3,7 +3,7 @@ title: Essential Supplies for Pet Gerbils
 description: A comprehensive checklist of the essential supplies needed to set up a safe, enriching, and appropriate habitat for pet gerbils.
 sidebar_label: Essential Supplies
 sidebar_position: 2
-tags: [gerbils, supplies, checklist, shopping, getting started]
+tags: [gerbils, supplies, getting started]
 ---
 
 # Essential Supplies for Pet Gerbils

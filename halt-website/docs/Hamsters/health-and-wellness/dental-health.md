@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [hamster health, dental disease, malocclusion, overgrown teeth, dental care]
+tags: [hamsters, dental disease]
 description: "A guide to dental health in hamsters, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the importance of providing appropriate chew toys."
 ---
 

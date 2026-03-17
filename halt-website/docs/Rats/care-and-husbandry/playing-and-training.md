@@ -1,6 +1,6 @@
 ---
 sidebar_label: Playing & Training
-tags: [rat care, rat training, rat enrichment, rat toys, rat behavior]
+tags: [rats, training, enrichment, behavior]
 description: "A guide to playing with and training your pet rats, offering ideas for enrichment, toys, and teaching simple tricks to engage their intelligence."
 ---
 

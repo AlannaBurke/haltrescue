@@ -1,6 +1,6 @@
 ---
 sidebar_label: Eye & Vision Issues
-tags: [rabbit health, eye issues, weepy eye, epiphora, tear duct, dacryocystitis, corneal ulcer, cataracts]
+tags: [rabbits, eye health, tear duct]
 description: "A guide to common eye and vision issues in rabbits, focusing on the critical link between weepy eyes (epiphora) and underlying dental disease, as well as other conditions like ulcers and abscesses."
 ---
 

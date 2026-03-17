@@ -3,7 +3,7 @@ title: Home Health Care for Pet Hedgehogs
 description: A guide to performing regular at-home health checks for your pet hedgehog to monitor their well-being and catch early signs of illness.
 sidebar_label: Home Health Care
 sidebar_position: 1
-tags: [hedgehogs, health, wellness, home check, care]
+tags: [hedgehogs, health, wellness, home health check]
 ---
 
 # Home Health Care for Pet Hedgehogs

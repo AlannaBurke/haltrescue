@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Diabetes in Hedgehogs
 description: A comprehensive guide to diabetes in hedgehogs — causes, signs, diagnosis, and management strategies for this common metabolic condition.
-tags: [hedgehogs, diabetes, health, illnesses, metabolic]
+tags: [hedgehogs, diabetes, health, metabolic disease]
 ---
 
 

@@ -3,6 +3,7 @@ title: Know Your Ferret Colors & Patterns
 sidebar_label: Know Your Ferret Colors
 sidebar_position: 1
 description: A guide to ferret coat colors, patterns, and markings recognized by the American Ferret Association.
+tags: [ferrets, coat, breeds]
 ---
 
 

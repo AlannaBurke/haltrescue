@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Basic Care
+tags: [gerbils, getting started, care commitment]
 ---
 
 # Gerbil Basic Care

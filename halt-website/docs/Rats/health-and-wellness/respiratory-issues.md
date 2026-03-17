@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [rat health, respiratory infection, mycoplasma, pneumonia, URI, breathing issues]
+tags: [rats, respiratory infection, mycoplasma]
 description: "An in-depth guide to chronic respiratory disease in pet rats, caused by Mycoplasma pulmonis, covering the signs, triggers, and lifelong management of this ubiquitous condition."
 ---
 

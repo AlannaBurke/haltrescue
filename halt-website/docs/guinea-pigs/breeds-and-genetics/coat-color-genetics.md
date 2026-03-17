@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Coat Color Genetics'
 sidebar_position: 1
-tags: [guinea pig, genetics, coat color, breeds, roan, dalmatian, lethal white]
+tags: [guinea pigs, genetics, coat, breeds, lethal white]
 ---
 
 # Understanding Guinea Pig Coat Color Genetics

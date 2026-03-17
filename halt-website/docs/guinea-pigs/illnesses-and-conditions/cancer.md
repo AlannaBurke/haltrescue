@@ -1,6 +1,6 @@
 ---
 sidebar_label: Cancer
-tags: [guinea pig health, cancer, tumors, lymphoma, skin cancer]
+tags: [guinea pigs, cancer]
 description: "A guide to cancer in guinea pigs, covering the common types like skin tumors and lymphoma, and the importance of veterinary diagnosis for any new lump or bump."
 ---
 

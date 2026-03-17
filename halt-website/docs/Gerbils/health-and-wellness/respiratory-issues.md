@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [gerbil health, respiratory infection, pneumonia, URI, breathing issues, scent gland tumor]
+tags: [gerbils, respiratory infection, cancer]
 description: "A guide to respiratory infections in gerbils, covering the common causes, signs of illness, and the importance of a clean, well-ventilated environment and proper bedding for prevention."
 ---
 

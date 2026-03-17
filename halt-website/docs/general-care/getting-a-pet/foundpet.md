@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: 'Help, I Found a Pet!'
+tags: [rescue, getting started]
 ---
 
 # Help, I Found a Pet!

@@ -3,7 +3,7 @@ title: Know Your Gerbil Breeds
 description: An overview of the two species of gerbils commonly kept as pets, and the wide variety of coat colors found in Mongolian gerbils.
 sidebar_label: Know Your Breeds
 sidebar_position: 1
-tags: [gerbils, breeds, varieties, colors, species]
+tags: [gerbils, breeds, coat]
 ---
 
 

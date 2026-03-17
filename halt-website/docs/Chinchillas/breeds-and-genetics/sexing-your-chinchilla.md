@@ -3,7 +3,7 @@ title: Sexing Your Pet Chinchilla
 description: A clear and simple guide to determining the sex of a pet chinchilla by examining the anogenital distance and key anatomical features.
 sidebar_label: Sexing Your Chinchilla
 sidebar_position: 2
-tags: [chinchillas, sexing, gender, male, female, breeding]
+tags: [chinchillas, sexing, reproductive health, breeding]
 ---
 
 

@@ -3,7 +3,7 @@ sidebar_position: 8
 title: E. cuniculi in Guinea Pigs
 description: Learn about Encephalitozoon cuniculi (E. cuniculi) in guinea pigs — what it is, how it spreads, symptoms including head tilt and seizures, diagnosis, treatment, and prevention.
 sidebar_label: E. cuniculi
-tags: [guinea pigs, e. cuniculi, parasites, neurological, health, illnesses]
+tags: [guinea pigs, neurological, parasites, health]
 ---
 
 

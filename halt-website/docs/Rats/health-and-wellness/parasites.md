@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [rat health, parasites, mites, lice, pinworms, ringworm]
+tags: [rats, parasites, ringworm]
 description: "A guide to common parasites affecting pet rats, including the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
 

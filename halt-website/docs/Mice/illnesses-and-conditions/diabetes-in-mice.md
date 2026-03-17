@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Diabetes in Pet Mice
 description: A guide to diabetes in pet mice — causes, symptoms, diagnosis, and management strategies for this metabolic condition.
-tags: [mice, diabetes, health, illnesses, metabolic]
+tags: [mice, diabetes, health, metabolic disease]
 ---
 
 

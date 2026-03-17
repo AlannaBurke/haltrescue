@@ -3,7 +3,7 @@ title: Basic Care for Pet Rabbits
 description: An essential guide to the fundamental aspects of pet rabbit care, including diet, housing, exercise, and social needs.
 sidebar_label: Basic Care
 sidebar_position: 1
-tags: [rabbits, care, diet, housing, enrichment]
+tags: [rabbits, nutrition, housing, enrichment]
 ---
 
 # Basic Care for Pet Rabbits

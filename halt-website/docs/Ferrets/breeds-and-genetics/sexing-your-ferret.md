@@ -3,7 +3,7 @@ title: Sexing Your Pet Ferret
 description: A simple guide to determining the sex of a pet ferret by identifying the key anatomical differences between males and females.
 sidebar_label: Sexing Your Ferret
 sidebar_position: 2
-tags: [ferrets, sexing, gender, male, female, breeding]
+tags: [ferrets, sexing, reproductive health, breeding]
 ---
 
 

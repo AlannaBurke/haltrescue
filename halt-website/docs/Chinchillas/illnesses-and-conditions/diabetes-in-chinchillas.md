@@ -3,7 +3,7 @@ title: Diabetes in Chinchillas
 description: Learn about the causes, symptoms, diagnosis, and management of diabetes mellitus in chinchillas, including diet and lifestyle changes.
 sidebar_label: Diabetes
 sidebar_position: 2
-tags: [chinchillas, diabetes, health, illnesses, diet]
+tags: [chinchillas, diabetes, health, nutrition]
 ---
 
 

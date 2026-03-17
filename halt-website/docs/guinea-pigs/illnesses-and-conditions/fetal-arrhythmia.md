@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Fetal Arrhythmia'
 sidebar_position: 10
-tags: [guinea pig, fetal arrhythmia, heart, congenital, veterinary]
+tags: [guinea pigs, heart disease, genetics, veterinary]
 ---
 
 # Fetal Arrhythmia in Guinea Pigs: What It Is and What It Means

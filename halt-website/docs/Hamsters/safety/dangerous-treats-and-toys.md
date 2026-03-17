@@ -1,7 +1,12 @@
 ---
+<<<<<<< HEAD:halt-website/docs/Hamsters/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [hamster care, hamster safety, dangerous treats, dangerous toys, hamster diet]
+=======
+sidebar_label: Dangerous Treats & Toys
+tags: [hamsters, safety, nutrition]
+>>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Hamsters/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A guide to dangerous treats and toys for hamsters, highlighting the risks of certain foods, the extreme danger of fluffy bedding, and the hazards of unsafe chew toys."
 ---
 

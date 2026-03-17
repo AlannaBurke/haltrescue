@@ -1,6 +1,6 @@
 ---
 sidebar_label: Hairless Rats
-tags: [rat care, hairless rat, double-rex rat, rat genetics, rat health]
+tags: [rats, genetics]
 description: "A guide to caring for hairless rats, explaining their genetic background, unique care needs regarding temperature, diet, and skin health, and common health issues."
 ---
 

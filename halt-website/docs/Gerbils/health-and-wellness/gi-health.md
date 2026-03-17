@@ -1,6 +1,6 @@
 ---
 sidebar_label: GI Health
-tags: [gerbil health, gi health, diarrhea, Tyzzer's disease, gut health]
+tags: [gerbils, gi health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in gerbils, covering common issues like diarrhea, the importance of a stable diet, and the serious threat of Tyzzer's disease."
 ---
 

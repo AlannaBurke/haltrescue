@@ -3,7 +3,7 @@ title: Sexing Your Pet Hamster
 description: A guide to accurately determining the sex of a pet hamster by examining key anatomical differences, including anogenital distance and physical features.
 sidebar_label: Sexing Your Hamster
 sidebar_position: 2
-tags: [hamsters, sexing, gender, male, female, breeding]
+tags: [hamsters, sexing, reproductive health, breeding]
 ---
 
 

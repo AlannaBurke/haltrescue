@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [chinchilla health, dental disease, malocclusion, slobbers, elodontoma, dental care]
+tags: [chinchillas, dental disease]
 description: "A detailed guide to dental disease in chinchillas, covering the causes of malocclusion, recognizing the signs of dental problems, and the critical role of a high-hay diet in prevention."
 ---
 

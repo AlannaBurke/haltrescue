@@ -3,7 +3,7 @@ title: Home Health Care for Rats
 description: Learn how to perform a routine at-home health check for your pet rats to catch early signs of illness and ensure their long-term well-being.
 sidebar_label: Home Health Care
 sidebar_position: 2
-tags: [rats, health, wellness, home health check, veterinary care]
+tags: [rats, health, wellness, home health check, veterinary]
 ---
 
 # Home Health Care for Rats

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [guinea pig health, parasites, mites, lice, ringworm]
+tags: [guinea pigs, parasites, ringworm]
 description: "A guide to common parasites affecting guinea pigs, with a focus on the intense itching caused by sarcoptic mange mites, as well as lice and the fungal infection ringworm."
 ---
 

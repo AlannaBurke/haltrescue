@@ -1,5 +1,7 @@
 ---
 sidebar_label: Animal Hoarding
+tags: [rescue, animal welfare, special needs]
+image: /img/general-care/hoarding/warning-signs.png
 ---
 
 # The Shadow of Compassion: Understanding and Addressing Animal Hoarding

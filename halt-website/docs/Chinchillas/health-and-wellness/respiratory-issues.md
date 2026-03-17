@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [chinchilla health, respiratory infection, pneumonia, URI, breathing issues]
+tags: [chinchillas, respiratory infection]
 description: "A guide to respiratory infections in chinchillas, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 

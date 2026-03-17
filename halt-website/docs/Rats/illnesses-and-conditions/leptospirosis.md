@@ -1,6 +1,6 @@
 ---
 sidebar_label: Leptospirosis
-tags: [rat health, leptospirosis, zoonotic disease, rat urine]
+tags: [rats, parasites, urinary health]
 description: "An important guide to leptospirosis in rats, a zoonotic bacterial disease, explaining its transmission, signs, and the critical importance of hygiene for pet owners."
 ---
 

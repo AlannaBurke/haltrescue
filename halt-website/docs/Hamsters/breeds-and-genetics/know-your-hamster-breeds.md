@@ -3,7 +3,8 @@ title: Know Your Hamster Breeds
 description: An overview of the five hamster species commonly kept as pets, with their key traits, size, and care considerations.
 sidebar_label: Know Your Breeds
 sidebar_position: 1
-tags: [hamsters, breeds, species, Syrian, dwarf, care]
+tags: [hamsters, breeds]
+image: /img/hamsters/hamster-breeding-ethics.png
 ---
 
 

@@ -3,7 +3,7 @@ title: Proper Handling of Pet Chinchillas
 description: A guide to safely and confidently handling pet chinchillas, with techniques for building trust and correctly picking them up.
 sidebar_label: Proper Handling
 sidebar_position: 5
-tags: [chinchillas, handling, taming, bonding, care]
+tags: [chinchillas, handling, taming, bonding]
 ---
 
 # Proper Handling of Pet Chinchillas

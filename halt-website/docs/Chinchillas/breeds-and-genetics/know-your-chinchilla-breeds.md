@@ -3,7 +3,7 @@ title: Know Your Chinchilla Breeds
 description: An overview of chinchilla species and the wide variety of color mutations found in pet chinchillas.
 sidebar_label: Know Your Breeds
 sidebar_position: 1
-tags: [chinchillas, breeds, colors, mutations, species]
+tags: [chinchillas, breeds, coat, genetics]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Diabetes
 sidebar_position: 1
-tags: [ferret, diabetes, insulinoma, endocrine, rare disease, hypoglycemia, hyperglycemia, pancreatic health]
+tags: [ferrets, diabetes, cancer, metabolic disease, health]
 ---
 
 

@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: Habitat
 description: "A hamster's cage is its entire world, so creating a safe, spacious, and enriching environment is the most important responsibility of any owner. The right habitat prevents stress, boredom, and escape..."
+tags: [hamsters, housing, getting started]
 ---
 
 

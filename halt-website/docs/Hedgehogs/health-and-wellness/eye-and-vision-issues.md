@@ -1,6 +1,6 @@
 ---
 sidebar_label: Eye & Vision Issues
-tags: [hedgehog health, eye issues, eye infection, corneal ulcer, proptosis]
+tags: [hedgehogs, eye health]
 description: "A guide to common eye and vision issues in hedgehogs, including infections, injuries, and the risk of eye proptosis (prolapse)."
 ---
 

@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 sidebar_label: Common Health Issues
-tags: [hedgehog health, wobbly hedgehog syndrome, cancer, dental disease, obesity, parasites]
+tags: [hedgehogs, neurological, cancer, dental disease, metabolic disease, parasites]
 description: "An overview of the most common health issues affecting pet hedgehogs, including the devastating Wobbly Hedgehog Syndrome (WHS), their high incidence of cancer, and common problems like obesity and parasites."
+image: /img/hedgehogs/common-health-issues.png
 ---
 
 # Common Health Issues in Hedgehogs

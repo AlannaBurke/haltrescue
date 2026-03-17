@@ -1,6 +1,6 @@
 ---
 sidebar_label: Is My Pet Nocturnal?
-tags: [nocturnal, diurnal, crepuscular, activity patterns, sleep cycle, small pet, exotic pet, behavior]
+tags: [behavior, activity patterns, getting started]
 description: "Learn the difference between nocturnal, diurnal, and crepuscular activity patterns and find out when your small pet is naturally most active. Understanding their sleep cycle is key to providing the best care."
 ---
 

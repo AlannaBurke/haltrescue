@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [hedgehog health, respiratory infection, pneumonia, URI, breathing issues]
+tags: [hedgehogs, respiratory infection]
 description: "A guide to respiratory infections in hedgehogs, covering the common causes, signs of illness, and the importance of prompt veterinary care."
 ---
 

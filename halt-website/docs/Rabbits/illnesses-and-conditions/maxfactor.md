@@ -1,7 +1,8 @@
 ---
 sidebar_label: 'Max Factor'
 sidebar_position: 7
-tags: [rabbits, max factor, genetic, disability, special needs, care]
+tags: [rabbits, breeds, genetics, special needs]
+image: /img/rabbits/maxfactor.jpg
 ---
 
 # Max Factor Rabbits

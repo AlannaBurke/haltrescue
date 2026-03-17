@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [guinea pig health, dental disease, malocclusion, slobbers, elodontoma, dental care]
+tags: [guinea pigs, dental disease]
 description: "A detailed guide to dental disease in guinea pigs, explaining the causes of malocclusion, how to recognize the signs, and the critical role of a high-hay diet in prevention."
 ---
 

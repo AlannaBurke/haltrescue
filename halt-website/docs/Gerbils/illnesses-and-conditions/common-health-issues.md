@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 sidebar_label: Common Health Issues
-tags: [gerbil health, respiratory infection, tumors, tail slip, dental disease, Tyzzer's disease]
+tags: [gerbils, respiratory infection, cancer, tail slip, dental disease, gi health]
 description: "An overview of the most common health issues affecting pet gerbils, including respiratory infections, scent gland tumors, tail slip, and Tyzzer's disease."
+image: /img/gerbils/common-health-issues.png
 ---
 
 # Common Health Issues in Gerbils

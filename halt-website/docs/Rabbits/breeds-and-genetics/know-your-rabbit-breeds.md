@@ -3,6 +3,7 @@ title: Know Your Rabbit Breeds
 sidebar_label: Know Your Rabbit Breeds
 sidebar_position: 1
 description: A guide to popular pet rabbit breeds recognized by the American Rabbit Breeders Association, including size, temperament, and care considerations.
+tags: [rabbits, breeds, getting started]
 ---
 
 

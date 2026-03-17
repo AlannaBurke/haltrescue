@@ -1,6 +1,6 @@
 ---
 sidebar_label: Pelvic Dystocia
-tags: [guinea pig health, breeding, pregnancy, dystocia, giving birth, guinea pig breeding]
+tags: [guinea pigs, breeding, pregnancy]
 description: "An essential guide to pelvic dystocia in guinea pigs, a life-threatening birth complication, explaining why breeding females over 7-8 months of age is so dangerous."
 ---
 

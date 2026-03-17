@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 sidebar_label: "Part 4: Building a Sustainable Future"
-tags: [animal rescue, nonprofit management, fundraising, volunteer retention, sustainability]
+tags: [rescue, nonprofit, fundraising, volunteers]
 description: "Part 4 of a series on running an animal rescue, focusing on strategies for building a sustainable organization that can survive long-term, including effective fundraising, volunteer management, and preventing burnout."
 ---
 

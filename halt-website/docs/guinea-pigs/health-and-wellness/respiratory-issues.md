@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [guinea pig health, respiratory infection, pneumonia, URI, breathing issues]
+tags: [guinea pigs, respiratory infection]
 description: "A guide to respiratory infections in guinea pigs, covering the common bacterial causes, signs of illness, and the importance of prompt veterinary treatment."
 ---
 

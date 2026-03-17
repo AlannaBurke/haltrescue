@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Sexing Guinea Pigs'
 sidebar_position: 5
-tags: [guinea pig, sexing, breeding, care, beginner]
+tags: [guinea pigs, sexing, breeding, getting started]
 description: "Correctly identifying the sex of a guinea pig is a crucial skill for any owner, breeder, or rescue. It is the only way to prevent accidental and unwanted pregnancies, which can be dangerous for..."
 ---
 

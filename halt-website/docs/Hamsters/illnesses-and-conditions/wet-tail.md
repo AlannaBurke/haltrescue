@@ -1,6 +1,6 @@
 ---
 sidebar_label: Wet Tail
-tags: [hamster health, wet tail, diarrhea, proliferative ileitis, hamster illness]
+tags: [hamsters, gi health, diarrhea]
 description: "An essential guide to wet tail in hamsters, a serious and often fatal diarrheal disease, explaining its causes, signs, and the critical need for immediate veterinary action."
 ---
 

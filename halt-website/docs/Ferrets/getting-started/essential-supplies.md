@@ -3,7 +3,7 @@ title: Essential Supplies for Pet Ferrets
 description: A complete checklist of the essential supplies needed to create a safe, stimulating, and comfortable home for pet ferrets.
 sidebar_label: Essential Supplies
 sidebar_position: 2
-tags: [ferrets, supplies, checklist, shopping, getting started]
+tags: [ferrets, supplies, getting started]
 ---
 
 # Essential Supplies for Pet Ferrets

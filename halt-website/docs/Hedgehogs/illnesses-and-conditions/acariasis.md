@@ -1,6 +1,6 @@
 ---
 sidebar_label: Acariasis (Mites)
-tags: [hedgehog health, acariasis, mites, quill loss, skin disease]
+tags: [hedgehogs, acariasis, parasites, quill loss, skin health]
 description: "An in-depth guide to acariasis (mite infestation) in hedgehogs, the most common skin disease in the species, covering signs like quill loss, diagnosis, and effective treatment."
 ---
 

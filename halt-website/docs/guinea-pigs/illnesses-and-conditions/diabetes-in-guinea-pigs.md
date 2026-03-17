@@ -3,7 +3,7 @@ sidebar_position: 7
 title: Diabetes in Guinea Pigs
 description: Learn about diabetes mellitus in guinea pigs — causes, symptoms, diagnosis, management, and how diet and lifestyle changes can help your guinea pig live well.
 sidebar_label: Diabetes
-tags: [guinea pigs, diabetes, health, illnesses, nutrition]
+tags: [guinea pigs, diabetes, health, nutrition]
 ---
 
 

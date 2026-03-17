@@ -1,6 +1,6 @@
 ---
 sidebar_label: Heart Disease
-tags: [ferret health, heart disease, cardiomyopathy, congestive heart failure, ferret heart]
+tags: [ferrets, heart disease]
 description: "A guide to heart disease in ferrets, a common condition in middle-aged and older animals, covering the signs of congestive heart failure, diagnosis, and medical management."
 ---
 

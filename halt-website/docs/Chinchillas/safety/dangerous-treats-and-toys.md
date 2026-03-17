@@ -1,7 +1,12 @@
 ---
+<<<<<<< HEAD:halt-website/docs/Chinchillas/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [chinchilla care, chinchilla safety, dangerous treats, dangerous toys, chinchilla diet]
+=======
+sidebar_label: Dangerous Treats & Toys
+tags: [chinchillas, safety, nutrition]
+>>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Chinchillas/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A guide to dangerous treats and toys for chinchillas, highlighting the risks of sugary foods, unsafe woods, and plastic toys to their sensitive digestive and dental health."
 ---
 

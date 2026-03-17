@@ -1,6 +1,6 @@
 ---
 sidebar_label: Sepsis in Small Pets
-tags: [sepsis, septic shock, infection, SIRS, systemic inflammatory response syndrome, emergency, critical care]
+tags: [emergency, health, critical care]
 description: "An essential guide to understanding sepsis and septic shock in small pets. Learn what causes this life-threatening condition, how to recognize the signs, and why immediate veterinary intervention is critical."
 ---
 

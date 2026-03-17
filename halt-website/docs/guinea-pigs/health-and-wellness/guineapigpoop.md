@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Guinea Pig Poop'
 sidebar_position: 3
-tags: [guinea pig, poop, digestion, health, cecotropes, care]
+tags: [guinea pigs, gi health, health]
 description: "Guinea pigs have sensitive digestive systems, and looking at their poop is the best way to quickly determine how your guinea pig's system is functioning. It's also one of the reasons why it's so..."
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Eye & Vision Issues
-tags: [mouse health, mice health, eye issues, eye infection, porphyrin, pink eye]
+tags: [mice, eye health]
 description: "A guide to common eye and vision issues in mice, explaining the significance of porphyrin (red tears) and the causes and treatment of eye infections."
 ---
 
