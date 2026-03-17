@@ -1,12 +1,7 @@
 ---
-<<<<<<< HEAD:halt-website/docs/Rats/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [rat care, rat safety, dangerous treats, dangerous toys, rat diet]
-=======
-sidebar_label: Dangerous Treats & Toys
-tags: [rats, safety, nutrition]
->>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Rats/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A guide to dangerous treats and toys for rats, highlighting toxic foods to avoid and the importance of providing safe, enriching items for their environment."
 ---
 

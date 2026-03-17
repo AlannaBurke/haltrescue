@@ -1,13 +1,7 @@
 ---
 sidebar_label: 'Satin Syndrome'
-<<<<<<< HEAD:halt-website/docs/guinea-pigs/breeds-and-genetics/satinsyndrome.md
 sidebar_position: 6
 tags: [guinea pig, satin syndrome, genetic, breeding, special needs, care]
-=======
-sidebar_position: 20
-tags: [guinea pigs, satin syndrome, genetics, health, special needs]
-image: /img/guinea-pigs/satinpig.jpg
->>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/guinea-pigs/illnesses-and-conditions/satinsyndrome.md
 ---
 
 # Satin Syndrome in Guinea Pigs

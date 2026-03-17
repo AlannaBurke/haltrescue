@@ -1,12 +1,7 @@
 ---
-<<<<<<< HEAD:halt-website/docs/Mice/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [mouse care, mice care, mouse safety, dangerous treats, dangerous toys, mouse diet]
-=======
-sidebar_label: Dangerous Treats & Toys
-tags: [mice, safety, nutrition]
->>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Mice/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A guide to dangerous treats and toys for mice, highlighting toxic foods, the extreme danger of fluffy bedding, and the importance of a safe cage environment."
 ---
 

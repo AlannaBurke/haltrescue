@@ -1,12 +1,7 @@
 ---
-<<<<<<< HEAD:halt-website/docs/Rabbits/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [rabbit care, rabbit safety, dangerous treats, dangerous toys, rabbit diet, gi stasis]
-=======
-sidebar_label: Dangerous Treats & Toys
-tags: [rabbits, safety, nutrition, gi stasis]
->>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Rabbits/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A critical guide to dangerous treats and toys for rabbits, emphasizing the extreme sensitivity of their digestive system and the risks of improper foods and enrichment items."
 ---
 

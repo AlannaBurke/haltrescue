@@ -1,12 +1,7 @@
 ---
-<<<<<<< HEAD:halt-website/docs/Hedgehogs/safety/dangerous-treats-and-toys.md
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
 tags: [hedgehog care, hedgehog safety, dangerous treats, dangerous toys, hedgehog diet]
-=======
-sidebar_label: Dangerous Treats & Toys
-tags: [hedgehogs, safety, nutrition]
->>>>>>> 2071cacf (Tag audit: consolidate 440→70 canonical tags, add 53 new kawaii tag graphics, post-image-first cards):halt-website/docs/Hedgehogs/care-and-husbandry/dangerous-treats-and-toys.md
 description: "A guide to dangerous treats and toys for hedgehogs, highlighting the risks of certain foods like nuts and dairy, and the dangers of unsafe chew toys and exercise wheels."
 ---
 
