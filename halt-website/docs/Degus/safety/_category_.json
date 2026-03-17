@@ -1,0 +1,12 @@
+{
+  "label": "Safety",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Safety guides for Degus owners — toxic foods, dangerous items, and hazard prevention.",
+    "slug": "/degus/safety",
+    "image": "/img/heroes/degus/hero.png"
+  }
+}

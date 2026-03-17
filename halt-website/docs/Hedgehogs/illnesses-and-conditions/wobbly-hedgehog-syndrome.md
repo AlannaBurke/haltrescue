@@ -1,6 +1,6 @@
 ---
 sidebar_label: Wobbly Hedgehog Syndrome
-tags: [hedgehog health, wobbly hedgehog syndrome, whs, neurological disease, paralysis]
+tags: [hedgehogs, neurological, neurological disease]
 description: "An in-depth guide to Wobbly Hedgehog Syndrome (WHS), a progressive, degenerative neurological disease in hedgehogs, covering its signs, progression, and the current understanding of the condition."
 ---
 

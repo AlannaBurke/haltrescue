@@ -1,6 +1,6 @@
 ---
 sidebar_label: Respiratory Issues
-tags: [hamster health, respiratory infection, pneumonia, URI, breathing issues]
+tags: [hamsters, respiratory infection]
 description: "A guide to respiratory infections in hamsters, covering the common causes like bedding and stress, the signs of illness, and the importance of prompt veterinary care."
 ---
 

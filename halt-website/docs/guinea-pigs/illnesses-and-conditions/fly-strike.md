@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Fly Strike (Myiasis)'
 sidebar_position: 12
-tags: [guinea pig, fly strike, myiasis, emergency, parasites, prevention]
+tags: [guinea pigs, parasites, emergency, health]
 description: "Fly strike, also known as myiasis, is a serious and often fatal condition that affects guinea pigs. It occurs when flies lay their eggs on a guinea pig, and the hatching maggots begin to feed on the..."
 ---
 

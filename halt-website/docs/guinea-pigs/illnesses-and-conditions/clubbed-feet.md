@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Clubbed Feet & Deformities'
 sidebar_position: 5
-tags: [guinea pig, clubbed feet, congenital, disability, special needs, care]
+tags: [guinea pigs, musculoskeletal, genetics, special needs]
 ---
 
 # Understanding Clubbed Feet and Limb Deformities in Guinea Pigs

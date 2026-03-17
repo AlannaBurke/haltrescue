@@ -1,7 +1,7 @@
 ---
 sidebar_label: Parasites
 sidebar_position: 3
-tags: [rat, parasites, mites, lice, health, veterinary, treatment, prevention]
+tags: [rats, parasites, health, veterinary]
 ---
 
 

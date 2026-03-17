@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dangerous Treats & Toys
-tags: [guinea pig care, guinea pig safety, dangerous treats, dangerous toys, guinea pig diet, bloat]
+tags: [guinea pigs, safety, nutrition, bloat]
 description: "A guide to dangerous treats and toys for guinea pigs, highlighting foods that can cause bloat, the risks of dairy and seeds, and the dangers of unsafe chew toys like plastic."
 ---
 

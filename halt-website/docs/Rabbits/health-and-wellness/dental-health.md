@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [rabbit health, dental disease, malocclusion, slobbers, elodontoma, dental care]
+tags: [rabbits, dental disease]
 description: "An in-depth guide to dental disease in rabbits, explaining why it is so common, how to recognize the signs of oral pain, and the absolute necessity of a hay-based diet for prevention."
 ---
 

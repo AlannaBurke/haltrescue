@@ -1,6 +1,6 @@
 ---
 sidebar_label: Heart Disease
-tags: [hedgehog health, heart disease, cardiomyopathy, congestive heart failure]
+tags: [hedgehogs, heart disease]
 description: "A guide to heart disease in hedgehogs, particularly Dilated Cardiomyopathy (DCM), a common condition in the species, covering its signs, diagnosis, and management."
 ---
 

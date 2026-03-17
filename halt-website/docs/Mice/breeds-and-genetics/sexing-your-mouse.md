@@ -3,7 +3,7 @@ title: Sexing Your Pet Mouse
 description: A clear guide on how to accurately determine the sex of pet mice, from newborns to adults, using the anogenital distance method.
 sidebar_label: Sexing Your Mouse
 sidebar_position: 2
-tags: [mice, sexing, gender, male, female, breeding]
+tags: [mice, sexing, reproductive health, breeding]
 ---
 
 

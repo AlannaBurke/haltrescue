@@ -23,7 +23,7 @@ import styles from './styles.module.css';
 
 /* ─── Tag image mapping ────────────────────────────────────────────────────── */
 const DOC_TAG_IMAGES = {
-  // Species
+  // ── Species ──────────────────────────────────────────────────────────────
   rat:              '/img/tags/rats.png',
   rats:             '/img/tags/rats.png',
   ratvarieties:     '/img/tags/rats.png',

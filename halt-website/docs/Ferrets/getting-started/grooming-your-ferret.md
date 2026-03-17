@@ -3,7 +3,7 @@ title: Grooming Your Pet Ferret
 description: A guide to the essential grooming practices for pet ferrets, including nail trimming, ear cleaning, and bathing.
 sidebar_label: Grooming
 sidebar_position: 3
-tags: [ferrets, grooming, bathing, nail trimming, care]
+tags: [ferrets, grooming, nail trimming]
 ---
 
 # Grooming Your Pet Ferret

@@ -1,6 +1,6 @@
 ---
 sidebar_label: Making Plans for Your Pets
-tags: [pet planning, disaster preparedness, emergency plan, long-term care, pet trust, pet sitter, evacuation plan]
+tags: [emergency preparedness, health]
 description: "A comprehensive guide to planning for your pet's future, covering short-term emergencies like natural disasters and long-term arrangements for their care if you are no longer able to provide it."
 ---
 

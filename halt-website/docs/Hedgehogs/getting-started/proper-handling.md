@@ -3,7 +3,7 @@ title: Proper Handling of Pet Hedgehogs
 description: A guide to safely and confidently handling a pet hedgehog, with tips for building trust and getting past their spiky defenses.
 sidebar_label: Proper Handling
 sidebar_position: 7
-tags: [hedgehogs, handling, taming, bonding, care]
+tags: [hedgehogs, handling, taming, bonding]
 ---
 
 # Proper Handling of Pet Hedgehogs

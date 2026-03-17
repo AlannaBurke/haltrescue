@@ -17,11 +17,11 @@ jobs:
       run:
         working-directory: halt-website
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4.3.0
         with:
           node-version: 22
           cache: npm
@@ -34,9 +34,8 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: halt-website/build
-          publish_branch: gh-pages
-          force_orphan: true
+          folder: halt-website/build
+          branch: gh-pages
+          clean: true

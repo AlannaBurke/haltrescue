@@ -1,7 +1,8 @@
 ---
 sidebar_label: Common Skin Issues
-tags: [skin issues, urine scald, mites, ringworm, pododermatitis, sore hocks, parasites, fungus, bacteria, rabbits, guinea pigs, chinchillas, ferrets, rats, mice, hamsters, gerbils, hedgehogs, degus]
+tags: [skin health, urinary health, parasites, ringworm, bumblefoot, health, rabbits, guinea pigs, chinchillas, ferrets, rats, mice, hamsters, gerbils, hedgehogs, degus]
 description: "A comprehensive guide to identifying, preventing, and treating common skin problems in small exotic pets, including urine scald, mites, ringworm, and bacterial infections, with species-specific advice."
+image: /img/general-care/skin-urine-scald.png
 ---
 
 # A Guide to Common Skin Issues in Small Pets

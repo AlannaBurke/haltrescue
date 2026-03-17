@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
 sidebar_label: Common Health Issues
-tags: [hamster health, wet tail, respiratory infection, dental disease, tumors, seasonal alopecia]
+tags: [hamsters, gi health, respiratory infection, dental disease, cancer, hair loss]
 description: "An overview of the most common health issues affecting pet hamsters, including the critical emergency of wet tail, respiratory infections, and common tumors."
+image: /img/hamsters/common-health-issues.png
 ---
 
 # Common Health Issues in Hamsters

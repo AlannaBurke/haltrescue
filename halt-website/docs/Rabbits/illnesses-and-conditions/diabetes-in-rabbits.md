@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Diabetes in Pet Rabbits
 description: A comprehensive guide to diabetes in rabbits — causes, symptoms, diagnosis, and management of this rare but serious metabolic condition.
-tags: [rabbits, diabetes, health, illnesses, metabolic]
+tags: [rabbits, diabetes, health, metabolic disease]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 sidebar_label: Fly Strike
 sidebar_position: 5
-tags: [rabbits, flystrike, myiasis, veterinary, pet health, prevention, health, emergency]
+tags: [rabbits, parasites, veterinary, health, emergency]
 description: "Fly strike, also known as myiasis, is a devastating and rapidly progressing condition that is a true veterinary emergency. It occurs when flies, typically blowflies, lay eggs on a rabbit. These eggs..."
 ---
 

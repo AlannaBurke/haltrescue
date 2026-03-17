@@ -3,7 +3,7 @@ title: Grooming Your Pet Hamster
 description: A guide to hamster grooming, focusing on their natural self-cleaning abilities and providing instructions for sand baths and occasional assistance.
 sidebar_label: Grooming Your Hamster
 sidebar_position: 3
-tags: [hamsters, grooming, sand bath, bathing, care]
+tags: [hamsters, grooming]
 ---
 
 # Grooming Your Pet Hamster

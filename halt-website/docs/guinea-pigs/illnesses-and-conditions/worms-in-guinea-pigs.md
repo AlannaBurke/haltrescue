@@ -2,7 +2,7 @@
 sidebar_position: 23
 title: Worms in Guinea Pigs
 description: A guide to intestinal worm infestations in guinea pigs — types, symptoms, diagnosis, treatment, and prevention.
-tags: [guinea pigs, worms, parasites, intestinal parasites, health, illnesses]
+tags: [guinea pigs, parasites, health]
 ---
 
 

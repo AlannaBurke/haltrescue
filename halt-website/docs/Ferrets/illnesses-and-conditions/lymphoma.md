@@ -1,6 +1,6 @@
 ---
 sidebar_label: Lymphoma
-tags: [ferret health, lymphoma, ferret cancer, lymphosarcoma]
+tags: [ferrets, cancer]
 description: "An in-depth guide to lymphoma, the most common cancer in ferrets, covering its different forms (juvenile and adult), signs, diagnosis, and chemotherapy treatment."
 ---
 

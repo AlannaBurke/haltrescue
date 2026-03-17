@@ -1,6 +1,6 @@
 ---
 sidebar_label: Insulinoma
-tags: [ferret health, insulinoma, low blood sugar, hypoglycemia, ferret cancer]
+tags: [ferrets, cancer, low blood sugar, diabetes]
 description: "An in-depth guide to insulinoma in ferrets, a common pancreatic cancer that causes dangerously low blood sugar, covering the signs, emergency care, diagnosis, and treatment."
 ---
 

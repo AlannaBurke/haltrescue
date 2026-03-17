@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Report Pet Store Neglect in New York'
 sidebar_position: 5
+tags: [rescue, nonprofit]
 ---
 
 # Report Pet Store Neglect in New York

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Basic Care
+tags: [mice, getting started, care commitment]
 ---
 
 # Mouse Basic Care

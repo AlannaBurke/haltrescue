@@ -1,6 +1,6 @@
 ---
 sidebar_label: Eye & Vision Issues
-tags: [degu health, eye issues, cataracts, diabetes, eye injuries, dental disease]
+tags: [degus, eye health, diabetes, dental disease]
 description: "A guide to common eye and vision issues in degus, with a focus on the strong link between cataracts and diabetes, as well as other problems like eye injuries and weeping eyes from dental disease."
 ---
 

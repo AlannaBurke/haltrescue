@@ -1,0 +1,12 @@
+{
+  "label": "Safety",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Safety guides for Hamsters owners — toxic foods, dangerous items, and hazard prevention.",
+    "slug": "/hamsters/safety",
+    "image": "/img/heroes/hamsters/hero.png"
+  }
+}

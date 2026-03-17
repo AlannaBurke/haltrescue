@@ -1,0 +1,12 @@
+{
+  "label": "Safety",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Safety guides for Gerbils owners — toxic foods, dangerous items, and hazard prevention.",
+    "slug": "/gerbils/safety",
+    "image": "/img/heroes/gerbils/hero.png"
+  }
+}

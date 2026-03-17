@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Bordetella in Guinea Pigs'
 sidebar_position: 2
-tags: [guinea pig, bordetella, respiratory, illnesses, veterinary, rabbits]
+tags: [guinea pigs, respiratory infection, health, veterinary, rabbits]
 description: "Bordetella bronchiseptica is a bacterium that causes respiratory disease in a variety of animals. While it is most commonly known as a cause of 'kennel cough' in dogs, it can be a life-threatening..."
 ---
 

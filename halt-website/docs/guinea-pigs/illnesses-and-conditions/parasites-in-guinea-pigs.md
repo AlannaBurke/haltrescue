@@ -2,7 +2,7 @@
 sidebar_position: 19
 title: Parasites in Guinea Pigs
 description: A comprehensive guide to internal and external parasites in guinea pigs, including identification, treatment, and prevention strategies.
-tags: [guinea pigs, parasites, mites, lice, worms, health, illnesses]
+tags: [guinea pigs, parasites, health]
 ---
 
 

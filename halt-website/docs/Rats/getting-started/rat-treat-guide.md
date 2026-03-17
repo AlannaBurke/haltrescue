@@ -1,7 +1,7 @@
 ---
 sidebar_label: Rat Treat Guide
 sidebar_position: 7
-tags: [rat, nutrition, treats, diet, feeding, care, health, safe foods, unsafe foods]
+tags: [rats, nutrition, health, safety]
 description: "This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or..."
 ---
 

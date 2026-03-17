@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [gerbil health, parasites, mites, fleas, pinworms, tapeworms]
+tags: [gerbils, parasites]
 description: "A guide to parasites affecting gerbils, including common external parasites like mites and fleas, and internal parasites like pinworms."
 ---
 

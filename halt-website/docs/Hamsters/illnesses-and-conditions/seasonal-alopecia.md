@@ -1,6 +1,6 @@
 ---
 sidebar_label: Seasonal Alopecia
-tags: [hamster health, hair loss, seasonal alopecia, hamster fur]
+tags: [hamsters, hair loss, coat]
 description: "A guide to seasonal alopecia in hamsters, a harmless, hormone-driven hair loss typically seen in male Syrian hamsters during the winter months."
 ---
 

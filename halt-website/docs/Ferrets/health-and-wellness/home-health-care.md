@@ -3,7 +3,7 @@ title: Home Health Care for Pet Ferrets
 description: A guide to performing regular at-home health checks for your pet ferrets to monitor their well-being and detect early signs of common illnesses.
 sidebar_label: Home Health Care
 sidebar_position: 1
-tags: [ferrets, health, wellness, home check, care]
+tags: [ferrets, health, wellness, home health check]
 ---
 
 # Home Health Care for Pet Ferrets

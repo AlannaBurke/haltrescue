@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [rabbit health, parasites, mites, ear mites, fur mites, E. cuniculi, Encephalitozoon cuniculi, head tilt]
+tags: [rabbits, parasites, neurological]
 description: "A guide to common parasites affecting rabbits, including the severe ear and fur mites, and the neurological parasite E. cuniculi, a primary cause of head tilt."
 ---
 

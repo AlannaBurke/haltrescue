@@ -1,6 +1,6 @@
 ---
 sidebar_label: Introductions & Quarantining
-tags: [quarantine, introduction, new pet, biosecurity, disease prevention, bonding, small pet, exotic pet]
+tags: [veterinary, bonding, getting started, health]
 description: "Learn the critical importance of quarantining new pets to prevent the spread of illness and the proper, gradual steps for introducing them to your resident animals to ensure a peaceful household."
 ---
 

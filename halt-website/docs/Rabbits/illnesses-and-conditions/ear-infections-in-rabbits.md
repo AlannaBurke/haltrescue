@@ -2,7 +2,7 @@
 sidebar_position: 4
 title: Ear Infections in Rabbits
 description: A guide to ear infections in rabbits — types, causes, symptoms, diagnosis, treatment, and prevention of otitis in pet rabbits.
-tags: [rabbits, ear infections, health, illnesses, otitis]
+tags: [rabbits, ear health, health]
 ---
 
 

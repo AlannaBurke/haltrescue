@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Coccidia in Rabbits
 description: A comprehensive guide to coccidiosis in rabbits — causes, symptoms, diagnosis, treatment, and prevention of this common parasitic infection.
-tags: [rabbits, coccidia, parasites, illnesses, digestive health]
+tags: [rabbits, parasites, health, gi health]
 ---
 
 

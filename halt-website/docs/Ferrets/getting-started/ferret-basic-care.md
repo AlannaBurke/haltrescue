@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Basic Care
+tags: [ferrets, getting started, care commitment]
 ---
 
 # Ferret Basic Care

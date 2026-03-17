@@ -3,7 +3,7 @@ title: Home Health Care for Pet Mice
 description: A guide to performing regular at-home health checks for your pet mice to identify early signs of illness and ensure their long-term health and happiness.
 sidebar_label: Home Health Care
 sidebar_position: 1
-tags: [mice, health, wellness, home health check, veterinary care]
+tags: [mice, health, wellness, home health check, veterinary]
 ---
 
 # Home Health Care for Pet Mice

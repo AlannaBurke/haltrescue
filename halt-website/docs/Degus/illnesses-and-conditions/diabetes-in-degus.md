@@ -3,7 +3,7 @@ title: Diabetes in Degus
 description: Learn about the causes, symptoms, diagnosis, and management of diabetes mellitus in degus — one of the most diabetes-prone small mammals kept as pets.
 sidebar_label: Diabetes
 sidebar_position: 1
-tags: [degus, diabetes, health, illnesses, diet]
+tags: [degus, diabetes, health, nutrition]
 ---
 
 # Diabetes in Degus

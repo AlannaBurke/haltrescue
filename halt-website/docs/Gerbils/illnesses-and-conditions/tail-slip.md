@@ -1,6 +1,6 @@
 ---
 sidebar_label: Tail Slip
-tags: [gerbil health, tail slip, degloving, gerbil tail, gerbil safety]
+tags: [gerbils, tail slip, emergency, safety]
 description: "An essential guide to tail slip in gerbils, a common and serious injury caused by improper handling, explaining the mechanism, necessary treatment, and how to prevent it."
 ---
 

@@ -1,5 +1,6 @@
 ---
-sidebar_label: Dangerous Treats & Toys
+sidebar_label: 'Dangerous Treats & Toys'
+sidebar_position: 1
 tags: [mouse care, mice care, mouse safety, dangerous treats, dangerous toys, mouse diet]
 description: "A guide to dangerous treats and toys for mice, highlighting toxic foods, the extreme danger of fluffy bedding, and the importance of a safe cage environment."
 ---

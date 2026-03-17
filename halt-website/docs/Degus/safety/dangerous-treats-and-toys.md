@@ -1,5 +1,6 @@
 ---
-sidebar_label: Dangerous Treats & Toys
+sidebar_label: 'Dangerous Treats & Toys'
+sidebar_position: 1
 tags: [degu care, degu safety, dangerous treats, dangerous toys, degu diet, diabetes]
 description: "A critical guide to dangerous treats and toys for degus, emphasizing the absolute prohibition of sugar to prevent diabetes, and outlining the dangers of plastic and unsafe woods."
 ---

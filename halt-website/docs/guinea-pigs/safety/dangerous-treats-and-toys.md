@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
-tags: [guinea pig, safety, toxic foods, dangerous, treats, toys]
+tags: [guinea pigs, safety, nutrition, enrichment]
 description: "As a loving guinea pig owner, it’s natural to want to spoil your pet with tasty treats and fun toys. However, it is critically important to know that many common foods and pet store items can be..."
 ---
 

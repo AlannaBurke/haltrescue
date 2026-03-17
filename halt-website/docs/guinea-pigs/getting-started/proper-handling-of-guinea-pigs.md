@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Proper Handling'
 sidebar_position: 6
-tags: [guinea pig, handling, care, beginner, safety]
+tags: [guinea pigs, handling, getting started, safety]
 description: "Proper handling is fundamental to building a trusting relationship with your guinea pig and ensuring their safety. As prey animals, guinea pigs can be naturally skittish and may be frightened by..."
 ---
 

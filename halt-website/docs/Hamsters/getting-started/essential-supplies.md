@@ -3,7 +3,7 @@ title: Essential Supplies for Pet Hamsters
 description: A complete checklist of essential supplies needed to create a safe, comfortable, and stimulating environment for a pet hamster.
 sidebar_label: Essential Supplies
 sidebar_position: 2
-tags: [hamsters, supplies, checklist, shopping, getting started]
+tags: [hamsters, supplies, getting started]
 ---
 
 # Essential Supplies for Pet Hamsters

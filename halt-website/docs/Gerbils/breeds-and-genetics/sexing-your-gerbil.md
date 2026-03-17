@@ -3,7 +3,7 @@ title: Sexing Your Pet Gerbil
 description: A guide to determining the sex of a pet gerbil using anogenital distance and other physical characteristics.
 sidebar_label: Sexing Your Gerbil
 sidebar_position: 2
-tags: [gerbils, sexing, gender, male, female, breeding]
+tags: [gerbils, sexing, reproductive health, breeding]
 ---
 
 

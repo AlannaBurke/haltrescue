@@ -3,7 +3,7 @@ title: Sexing Your Pet Degu
 description: A clear guide to determining the sex of a pet degu by examining the anogenital distance, a crucial skill for responsible ownership.
 sidebar_label: Sexing Your Degu
 sidebar_position: 2
-tags: [degus, sexing, gender, male, female, breeding]
+tags: [degus, sexing, reproductive health, breeding]
 ---
 
 

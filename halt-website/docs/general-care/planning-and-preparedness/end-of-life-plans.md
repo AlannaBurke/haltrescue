@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Making End-of-Life Plans"
-tags: [end of life, euthanasia, pet loss, grief, quality of life, animal care]
+tags: [end of life]
 description: "A guide to making compassionate and responsible end-of-life decisions for your pet, including assessing quality of life and understanding the euthanasia process."
 ---
 

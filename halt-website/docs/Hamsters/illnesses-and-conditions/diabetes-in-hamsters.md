@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Diabetes in Pet Hamsters
 description: A comprehensive guide to diabetes in hamsters — which breeds are most at risk, signs and symptoms, diagnosis, and management strategies.
-tags: [hamsters, diabetes, health, illnesses, dwarf hamsters]
+tags: [hamsters, diabetes, health]
 ---
 
 

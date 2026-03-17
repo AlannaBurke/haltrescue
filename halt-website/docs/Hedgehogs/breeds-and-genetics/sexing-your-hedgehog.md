@@ -3,7 +3,7 @@ title: Sexing Your Pet Hedgehog
 description: A simple guide to determining the sex of a pet hedgehog by identifying the key anatomical differences between males and females.
 sidebar_label: Sexing Your Hedgehog
 sidebar_position: 2
-tags: [hedgehogs, sexing, gender, male, female, breeding]
+tags: [hedgehogs, sexing, reproductive health, breeding]
 ---
 
 

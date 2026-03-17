@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [hedgehog health, dental disease, gingivitis, tartar, tooth abscess, oral cancer]
+tags: [hedgehogs, dental disease, cancer]
 description: "A guide to dental health in hedgehogs, covering common problems like gingivitis, tartar, fractured teeth, and the high risk of oral cancers like squamous cell carcinoma."
 ---
 

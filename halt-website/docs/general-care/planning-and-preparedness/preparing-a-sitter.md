@@ -1,6 +1,6 @@
 ---
 sidebar_label: Preparing a Sitter to Care for Your Pets
-tags: [pet sitter, pet care, checklist, emergency contact, pet instructions, house sitter]
+tags: [emergency preparedness, getting started]
 description: "A comprehensive checklist and guide for preparing a pet sitter to care for your animals, ensuring a smooth, safe, and stress-free experience for everyone involved."
 ---
 

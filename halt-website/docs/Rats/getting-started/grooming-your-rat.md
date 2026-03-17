@@ -3,7 +3,7 @@ title: Grooming Your Rat
 description: Learn the best practices for rat grooming, including when and how to bathe them, how to trim their nails, and how to encourage their natural self-grooming habits.
 sidebar_label: Grooming Your Rat
 sidebar_position: 2
-tags: [rats, grooming, bathing, nail trimming, care]
+tags: [rats, grooming, nail trimming]
 ---
 
 # Grooming Your Rat

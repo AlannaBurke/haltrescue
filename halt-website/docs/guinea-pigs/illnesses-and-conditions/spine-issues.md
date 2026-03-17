@@ -1,6 +1,6 @@
 ---
 sidebar_label: Spine Issues
-tags: [guinea pig health, spine issues, spinal injury, arthritis, guinea pig safety]
+tags: [guinea pigs, neurological, musculoskeletal, safety]
 description: "A guide to spinal issues in guinea pigs, highlighting their fragile skeletal structure and the severe risks posed by improper handling, falls, and the use of exercise wheels."
 ---
 

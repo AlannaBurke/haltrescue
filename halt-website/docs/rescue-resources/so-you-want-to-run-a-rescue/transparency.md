@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Transparency'
 sidebar_position: 10
+tags: [nonprofit, rescue]
 ---
 
 # Transparency Is Not Optional — It’s Foundational

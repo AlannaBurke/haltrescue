@@ -3,7 +3,7 @@ sidebar_position: 6
 title: Respiratory Infections in Chinchillas
 description: Learn about the causes, symptoms, treatment, and prevention of respiratory infections in chinchillas, including bacterial pneumonia and environmental risk factors.
 sidebar_label: Respiratory Infections
-tags: [chinchillas, respiratory, pneumonia, health, illnesses]
+tags: [chinchillas, respiratory infection, health]
 ---
 
 

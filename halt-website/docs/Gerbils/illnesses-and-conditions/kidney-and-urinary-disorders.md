@@ -1,6 +1,6 @@
 ---
 sidebar_label: Kidney & Urinary Disorders
-tags: [gerbil health, kidney disease, urinary disorders, nephritis]
+tags: [gerbils, kidney disease, urinary health, nephritis]
 description: "A guide to kidney and urinary disorders in gerbils, with a focus on chronic kidney disease (nephritis) in older gerbils, covering the signs, causes, and supportive care."
 ---
 

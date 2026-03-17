@@ -1,6 +1,6 @@
 ---
 sidebar_label: Mastitis in Small Pets
-tags: [mastitis, mammary gland infection, nursing, lactation, small pet, exotic pet, rabbit, guinea pig, health]
+tags: [reproductive health, pregnancy, getting started, rabbits, guinea pigs, health]
 description: "An overview of mastitis, a painful infection of the mammary glands, in small pets. Learn to recognize the signs, understand the causes, and know when to seek immediate veterinary care."
 ---
 

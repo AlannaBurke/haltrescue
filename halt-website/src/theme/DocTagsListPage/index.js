@@ -16,9 +16,7 @@ import styles from './styles.module.css';
  * Tags are normalised: lowercased, spaces/hyphens removed.
  */
 const DOC_TAG_IMAGES = {
-  // Species
-  degu:             '/img/tags/degus.png',
-  degus:            '/img/tags/degus.png',
+  // ── Species ──────────────────────────────────────────────────────────────
   rat:              '/img/tags/rats.png',
   rats:             '/img/tags/rats.png',
   ratvarieties:     '/img/tags/rats.png',
@@ -41,7 +39,75 @@ const DOC_TAG_IMAGES = {
   hedgehogs:        '/img/tags/hedgehogs.png',
   mice:             '/img/tags/mice.png',
   mouse:            '/img/tags/mice.png',
-  // General health
+  degu:             '/img/tags/degus.png',
+  degus:            '/img/tags/degus.png',
+  // ── Species-specific health ───────────────────────────────────────────────
+  'guinea-pig-health':     '/img/tags/guinea-pig-health.png',
+  'guinea-pig-care':       '/img/tags/guinea-pig-care.png',
+  'guinea-pig-diet':       '/img/tags/guinea-pig-diet.png',
+  'guinea-pig-housing':    '/img/tags/guinea-pig-housing.png',
+  'guinea-pig-behavior':   '/img/tags/guinea-pig-behavior.png',
+  'guinea-pig-enrichment': '/img/tags/guinea-pig-enrichment.png',
+  'guinea-pig-bonding':    '/img/tags/guinea-pig-bonding.png',
+  'guinea-pig-grooming':   '/img/tags/guinea-pig-grooming.png',
+  'guinea-pig-safety':     '/img/tags/guinea-pig-safety.png',
+  'guinea-pig-getting-started': '/img/tags/guinea-pig-getting-started.png',
+  'rabbit-health':         '/img/tags/rabbit-health.png',
+  'rabbit-care':           '/img/tags/rabbit-care.png',
+  'rabbit-diet':           '/img/tags/rabbit-diet.png',
+  'rabbit-housing':        '/img/tags/rabbit-housing.png',
+  'rabbit-behavior':       '/img/tags/rabbit-behavior.png',
+  'rabbit-enrichment':     '/img/tags/rabbit-enrichment.png',
+  'rabbit-bonding':        '/img/tags/rabbit-bonding.png',
+  'rabbit-safety':         '/img/tags/rabbit-safety.png',
+  'rabbit-getting-started': '/img/tags/rabbit-getting-started.png',
+  'rat-health':            '/img/tags/rat-health.png',
+  'rat-care':              '/img/tags/rat-care.png',
+  'rat-diet':              '/img/tags/rat-diet.png',
+  'rat-behavior':          '/img/tags/rat-behavior.png',
+  'rat-enrichment':        '/img/tags/rat-enrichment.png',
+  'rat-bonding':           '/img/tags/rat-bonding.png',
+  'rat-safety':            '/img/tags/rat-safety.png',
+  'rat-getting-started':   '/img/tags/rat-getting-started.png',
+  'hamster-health':        '/img/tags/hamster-health.png',
+  'hamster-care':          '/img/tags/hamster-care.png',
+  'hamster-diet':          '/img/tags/hamster-diet.png',
+  'hamster-behavior':      '/img/tags/hamster-behavior.png',
+  'hamster-enrichment':    '/img/tags/hamster-enrichment.png',
+  'hamster-safety':        '/img/tags/hamster-safety.png',
+  'hamster-getting-started': '/img/tags/hamster-getting-started.png',
+  'chinchilla-health':     '/img/tags/chinchilla-health.png',
+  'chinchilla-care':       '/img/tags/chinchilla-care.png',
+  'chinchilla-diet':       '/img/tags/chinchilla-diet.png',
+  'chinchilla-behavior':   '/img/tags/chinchilla-behavior.png',
+  'chinchilla-enrichment': '/img/tags/chinchilla-enrichment.png',
+  'chinchilla-safety':     '/img/tags/chinchilla-safety.png',
+  'chinchilla-getting-started': '/img/tags/chinchilla-getting-started.png',
+  'ferret-health':         '/img/tags/ferret-health.png',
+  'ferret-care':           '/img/tags/ferret-care.png',
+  'ferret-diet':           '/img/tags/ferret-diet.png',
+  'ferret-behavior':       '/img/tags/ferret-behavior.png',
+  'ferret-enrichment':     '/img/tags/ferret-enrichment.png',
+  'ferret-bonding':        '/img/tags/ferret-bonding.png',
+  'ferret-safety':         '/img/tags/ferret-safety.png',
+  'ferret-getting-started': '/img/tags/ferret-getting-started.png',
+  'hedgehog-health':       '/img/tags/hedgehog-health.png',
+  'hedgehog-care':         '/img/tags/hedgehog-care.png',
+  'hedgehog-diet':         '/img/tags/hedgehog-diet.png',
+  'hedgehog-behavior':     '/img/tags/hedgehog-behavior.png',
+  'hedgehog-enrichment':   '/img/tags/hedgehog-enrichment.png',
+  'hedgehog-safety':       '/img/tags/hedgehog-safety.png',
+  'hedgehog-getting-started': '/img/tags/hedgehog-getting-started.png',
+  'degu-health':           '/img/tags/degu-health.png',
+  'degu-care':             '/img/tags/degu-care.png',
+  'degu-diet':             '/img/tags/degu-diet.png',
+  'degu-safety':           '/img/tags/degu-safety.png',
+  'degu-getting-started':  '/img/tags/degu-getting-started.png',
+  'mouse-health':          '/img/tags/mouse-health.png',
+  'mouse-care':            '/img/tags/mouse-care.png',
+  'mouse-safety':          '/img/tags/mouse-safety.png',
+  'mouse-getting-started': '/img/tags/mouse-getting-started.png',
+  // ── Health & medical ─────────────────────────────────────────────────────
   health:           '/img/tags/health.png',
   wellness:         '/img/tags/wellness.png',
   illness:          '/img/tags/illness.png',
@@ -273,10 +339,11 @@ const DOC_TAG_IMAGES = {
 const FALLBACK_IMAGE = '/img/tags/guineapigs.png';
 
 function getTagImage(tag) {
-  const slug = (tag.label || tag.permalink?.split('/').pop() || '')
-    .toLowerCase()
-    .replace(/[\s\-_\/\.]+/g, '');
-  return DOC_TAG_IMAGES[slug] || FALLBACK_IMAGE;
+  const raw = (tag.label || tag.permalink?.split('/').pop() || '').toLowerCase();
+  // Try hyphenated form first (canonical), then no-hyphen form (legacy)
+  const hyphen = raw.replace(/[\s_\/\.]+/g, '-').replace(/-+/g, '-');
+  const nohyphen = hyphen.replace(/-/g, '');
+  return DOC_TAG_IMAGES[hyphen] || DOC_TAG_IMAGES[nohyphen] || FALLBACK_IMAGE;
 }
 
 /**

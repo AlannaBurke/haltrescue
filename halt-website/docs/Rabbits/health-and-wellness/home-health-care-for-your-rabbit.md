@@ -2,7 +2,7 @@
 title: Home Health Care for Your Rabbit
 sidebar_label: Home Health Care for Your Rabbit
 sidebar_position: 2
-tags: [rabbits, home care, health, grooming, nutrition, dental, digestive, skin health, veterinary]
+tags: [rabbits, home health check, health, grooming, nutrition, dental disease, gi health, skin health, veterinary]
 ---
 
 

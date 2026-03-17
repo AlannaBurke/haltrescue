@@ -1,6 +1,6 @@
 ---
 sidebar_label: Dental Health
-tags: [degu health, dental disease, malocclusion, elodontoma, dental care, diet]
+tags: [degus, dental disease, nutrition]
 description: "A comprehensive guide to dental disease in degus, explaining the causes of malocclusion, how to recognize the signs, and the critical importance of a proper, hay-based diet for prevention."
 ---
 

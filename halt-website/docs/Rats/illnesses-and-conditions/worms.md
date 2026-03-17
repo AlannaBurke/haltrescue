@@ -1,6 +1,6 @@
 ---
 sidebar_label: Worms (Internal Parasites)
-tags: [rat health, worms, parasites, pinworms, tapeworms, deworming]
+tags: [rats, parasites]
 description: "A guide to common internal worms in pet rats, such as pinworms and tapeworms, explaining that they are often asymptomatic and how they are diagnosed and treated."
 ---
 

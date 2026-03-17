@@ -1,6 +1,6 @@
 ---
 sidebar_label: Parasites
-tags: [mouse health, mice health, parasites, mites, lice, pinworms]
+tags: [mice, parasites]
 description: "A guide to common parasites affecting pet mice, with a focus on the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
 

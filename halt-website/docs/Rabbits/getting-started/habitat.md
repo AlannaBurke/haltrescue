@@ -3,7 +3,7 @@ title: Habitat for Pet Rabbits
 description: A guide to creating the ideal indoor habitat for pet rabbits, focusing on space, safety, and enrichment to meet their environmental needs.
 sidebar_label: Habitat
 sidebar_position: 4
-tags: [rabbits, habitat, housing, enclosure, enrichment]
+tags: [rabbits, housing, enrichment]
 ---
 
 # Habitat for Pet Rabbits
