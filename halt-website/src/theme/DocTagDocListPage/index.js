@@ -381,16 +381,129 @@ const TITLE_KEYWORD_MAP = [
 ];
 
 /**
- * Pick the best image for an article card based on its title.
- * Falls back to the tag image if no title keyword matches.
+ * Detect the animal species from a doc permalink.
+ * e.g. /docs/Gerbils/health-and-wellness/dental-health → 'gerbil'
  */
-function getDocCardImage(docTitle, tagLabel) {
+function getAnimalFromPermalink(permalink) {
+  const p = (permalink || '').toLowerCase();
+  if (p.includes('/guinea-pigs/') || p.includes('/guinea_pigs/')) return 'guinea-pig';
+  if (p.includes('/rabbits/'))    return 'rabbit';
+  if (p.includes('/rats/'))       return 'rat';
+  if (p.includes('/hamsters/'))   return 'hamster';
+  if (p.includes('/gerbils/'))    return 'gerbil';
+  if (p.includes('/chinchillas/')) return 'chinchilla';
+  if (p.includes('/ferrets/'))    return 'ferret';
+  if (p.includes('/hedgehogs/'))  return 'hedgehog';
+  if (p.includes('/mice/'))       return 'mouse';
+  if (p.includes('/degus/'))      return 'degu';
+  return null;
+}
+
+/**
+ * Detect the section/topic from a doc permalink.
+ * e.g. /docs/Gerbils/health-and-wellness/dental-health → 'health'
+ */
+function getSectionFromPermalink(permalink) {
+  const p = (permalink || '').toLowerCase();
+  if (p.includes('/illnesses-and-conditions/') || p.includes('/illnesses/')) return 'illness';
+  if (p.includes('/health-and-wellness/') || p.includes('/health/'))         return 'health';
+  if (p.includes('/breeds-and-genetics/') || p.includes('/genetics/'))       return 'genetics';
+  if (p.includes('/getting-started/'))  return 'getting-started';
+  if (p.includes('/care-and-husbandry/') || p.includes('/care/'))            return 'care';
+  if (p.includes('/safety/'))           return 'safety';
+  if (p.includes('/behavior/') || p.includes('/behaviour/')) return 'care';
+  return null;
+}
+
+/** Combo image map: animal-section → image path */
+const ANIMAL_SECTION_IMAGES = {
+  'guinea-pig-getting-started': '/img/tags/guinea-pig-getting-started.png',
+  'guinea-pig-health':          '/img/tags/guinea-pig-health.png',
+  'guinea-pig-illness':         '/img/tags/guinea-pig-illness.png',
+  'guinea-pig-safety':          '/img/tags/guinea-pig-safety.png',
+  'guinea-pig-genetics':        '/img/tags/guinea-pig-genetics.png',
+  'guinea-pig-care':            '/img/tags/guinea-pig-care.png',
+  'rabbit-getting-started':     '/img/tags/rabbit-getting-started.png',
+  'rabbit-health':              '/img/tags/rabbit-health.png',
+  'rabbit-illness':             '/img/tags/rabbit-illness.png',
+  'rabbit-safety':              '/img/tags/rabbit-safety.png',
+  'rabbit-genetics':            '/img/tags/rabbit-genetics.png',
+  'rabbit-care':                '/img/tags/rabbit-care.png',
+  'rat-getting-started':        '/img/tags/rat-getting-started.png',
+  'rat-health':                 '/img/tags/rat-health.png',
+  'rat-illness':                '/img/tags/rat-illness.png',
+  'rat-safety':                 '/img/tags/rat-safety.png',
+  'rat-genetics':               '/img/tags/rat-genetics.png',
+  'rat-care':                   '/img/tags/rat-care.png',
+  'hamster-getting-started':    '/img/tags/hamster-getting-started.png',
+  'hamster-health':             '/img/tags/hamster-health.png',
+  'hamster-illness':            '/img/tags/hamster-illness.png',
+  'hamster-safety':             '/img/tags/hamster-safety.png',
+  'hamster-genetics':           '/img/tags/hamster-genetics.png',
+  'hamster-care':               '/img/tags/hamster-care.png',
+  'gerbil-getting-started':     '/img/tags/gerbil-getting-started.png',
+  'gerbil-health':              '/img/tags/gerbil-health.png',
+  'gerbil-illness':             '/img/tags/gerbil-illness.png',
+  'gerbil-safety':              '/img/tags/gerbil-safety.png',
+  'gerbil-genetics':            '/img/tags/gerbil-genetics.png',
+  'chinchilla-getting-started': '/img/tags/chinchilla-getting-started.png',
+  'chinchilla-health':          '/img/tags/chinchilla-health.png',
+  'chinchilla-illness':         '/img/tags/chinchilla-illness.png',
+  'chinchilla-safety':          '/img/tags/chinchilla-safety.png',
+  'chinchilla-genetics':        '/img/tags/chinchilla-genetics.png',
+  'ferret-getting-started':     '/img/tags/ferret-getting-started.png',
+  'ferret-health':              '/img/tags/ferret-health.png',
+  'ferret-illness':             '/img/tags/ferret-illness.png',
+  'ferret-safety':              '/img/tags/ferret-safety.png',
+  'ferret-genetics':            '/img/tags/ferret-genetics.png',
+  'hedgehog-getting-started':   '/img/tags/hedgehog-getting-started.png',
+  'hedgehog-health':            '/img/tags/hedgehog-health.png',
+  'hedgehog-illness':           '/img/tags/hedgehog-illness.png',
+  'hedgehog-safety':            '/img/tags/hedgehog-safety.png',
+  'hedgehog-genetics':          '/img/tags/hedgehog-genetics.png',
+  'mouse-getting-started':      '/img/tags/mouse-getting-started.png',
+  'mouse-health':               '/img/tags/mouse-health.png',
+  'mouse-illness':              '/img/tags/mouse-illness.png',
+  'mouse-safety':               '/img/tags/mouse-safety.png',
+  'mouse-genetics':             '/img/tags/mouse-genetics.png',
+  'degu-getting-started':       '/img/tags/degu-getting-started.png',
+  'degu-health':                '/img/tags/degu-health.png',
+  'degu-illness':               '/img/tags/degu-illness.png',
+  'degu-safety':                '/img/tags/degu-safety.png',
+  'degu-genetics':              '/img/tags/degu-genetics.png',
+};
+
+/**
+ * Pick the best image for an article card.
+ *
+ * Priority:
+ *   1. Animal + section combo image (e.g. gerbil-health.png)
+ *   2. Topic keyword match from title (e.g. dental.png)
+ *   3. Tag image fallback
+ */
+function getDocCardImage(docTitle, tagLabel, permalink) {
+  // 1. Try animal + section combo
+  const animal = getAnimalFromPermalink(permalink);
+  const section = getSectionFromPermalink(permalink);
+  if (animal && section) {
+    const comboKey = `${animal}-${section}`;
+    if (ANIMAL_SECTION_IMAGES[comboKey]) {
+      return ANIMAL_SECTION_IMAGES[comboKey];
+    }
+    // If animal found but no combo, fall back to animal species image
+    const speciesImg = DOC_TAG_IMAGES[animal.replace('-', '')] || DOC_TAG_IMAGES[animal];
+    if (speciesImg) return speciesImg;
+  }
+
+  // 2. Title keyword match
   const lower = (docTitle || '').toLowerCase();
   for (const [keywords, img] of TITLE_KEYWORD_MAP) {
     if (keywords.some((kw) => lower.includes(kw))) {
       return img;
     }
   }
+
+  // 3. Tag fallback
   return getTagImage(tagLabel);
 }
 
@@ -426,7 +539,7 @@ function usePageTitle(props) {
 
 /* ─── Doc card ────────────────────────────────────────────────────────────── */
 function DocCard({ doc, tagLabel }) {
-  const image = getDocCardImage(doc.title, tagLabel);
+  const image = getDocCardImage(doc.title, tagLabel, doc.permalink);
   return (
     <article className={styles.card}>
       <Link to={doc.permalink} className={styles.cardImageLink} aria-hidden="true" tabIndex="-1">
