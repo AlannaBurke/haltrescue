@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Is a Mouse Right for Me?'
 sidebar_position: 5
-tags: [mice, getting started, cost]
+tags: [mice, getting started, cost, housing]
 description: "Mice are often overlooked as pets, but they are endlessly entertaining, relatively affordable, and surprisingly personable. They are best suited to older children, teenagers, and adults who enjoy..."
 ---
 
@@ -15,11 +15,19 @@ description: "Mice are often overlooked as pets, but they are endlessly entertai
 
 Mice are often overlooked as pets, but they are endlessly entertaining, relatively affordable, and surprisingly personable. They are best suited to older children, teenagers, and adults who enjoy watching natural animal behavior rather than expecting a cuddly lap pet — though some mice do enjoy being handled once they are well-socialized.
 
+## Social Needs: A Tale of Two Genders
+
+The most critical factor in mouse happiness is their social environment, which is strictly determined by their sex.
+
+**Female mice (does)** are highly social and thrive in the company of others. They should always be housed in pairs or small groups (three or more is ideal). [1] Depriving a female mouse of companionship can cause significant stress and behavioral issues. They form complex social bonds, groom each other, and sleep in piles for warmth and comfort.
+
+**Male mice (bucks)**, on the other hand, are territorially aggressive once they reach sexual maturity. Housing two or more unneutered males together will almost invariably lead to intense, often fatal, fighting. [2] For this reason, **male mice must be housed alone.** While this may seem lonely to humans, it is the safest and most humane housing solution for them. A lone male will require more enrichment and human interaction to compensate for the lack of a cage mate.
+
+Because of these social differences and the fact that males have a notably stronger musky odor, most families keeping mice as pets choose to keep a group of females.
+
 ## The Basics
 
 Mice have a short lifespan of **18 to 24 months** on average, though some live to 3 years with excellent care. This is one of the shortest lifespans of any common pet, and it's important to be emotionally prepared for that reality — especially if children are involved.
-
-**Female mice** do best in pairs or small groups and should generally be housed together. **Male mice** are typically housed alone, as they will fight once sexually mature — and males have a notably stronger musky odor than females. Most families keeping mice as pets choose females for this reason.
 
 ## What They Need Every Day
 
@@ -61,5 +69,11 @@ Mice are one of the most affordable small pets to keep, which makes them accessi
 Mice can be wonderful pets for older children (8+) who are gentle and patient. They are less ideal for very young children, not because mice are unfriendly, but because they are fast, delicate, and easily stressed by loud noises and sudden movements. With calm handling and proper introduction, many mice become quite tame and will explore their owner's hands and arms with curiosity.
 
 ---
+
+## References
+
+[1] Wood Green. (n.d.). *Keeping mice: How many should live together?* Retrieved from [https://woodgreen.org.uk/pet-advice/mice/how-many-mice-should-you-keep/](https://woodgreen.org.uk/pet-advice/mice/how-many-mice-should-you-keep/)
+
+[2] RSPCA. (n.d.). *Keeping Mice Together*. Retrieved from [https://www.rspca.org.uk/adviceandwelfare/pets/rodents/mice/company](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/mice/company)
 
 *Questions about whether mice are right for your family? [Get in touch with us](/about#contact) — we're happy to help.*
