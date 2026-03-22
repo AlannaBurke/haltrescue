@@ -1,7 +1,7 @@
 ---
 sidebar_label: Understanding Rat Behavior
 sidebar_position: 4
-tags: [rats, behavior, bonding, training, health, enrichment]
+tags: [rats, behavior, bonding, training, health, enrichment, body language]
 description: "Rats are intelligent, social, and emotionally complex animals. Understanding their natural behaviors and unique ways of communicating is key to building a strong bond and providing them with the best..."
 ---
 
