@@ -4,6 +4,8 @@ sidebar_position: 5
 tags: [rescue, nonprofit]
 ---
 
+![Kawaii illustration of a rat in a pet store with a caring advocate in New York](/img/rescue-resources/report-ny.png)
+
 # Report Pet Store Neglect in New York
 
 ## 1. Oversight & Agencies to Contact

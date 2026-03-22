@@ -4,6 +4,8 @@ sidebar_position: 9
 tags: [nonprofit, cost, rescue]
 ---
 
+![Kawaii illustration of rescue budget planning with income and expense categories](/img/rescue-resources/budget.png)
+
 # Why Budgeting is Important
 
 When people imagine running an animal rescue, they picture cuddles, cute faces, and happy adoptions. What they don’t always see is the spreadsheet behind the scenes.

@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [rescue, nonprofit]
 ---
 
+![Kawaii illustration of a guinea pig in a pet store with a caring person ready to report neglect in Connecticut](/img/rescue-resources/report-ct.png)
+
 # Report Pet Store Neglect in Connecticut
 
 ## **1\. Who actually investigates in Connecticut?**

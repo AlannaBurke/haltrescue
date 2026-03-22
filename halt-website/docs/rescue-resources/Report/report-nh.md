@@ -4,6 +4,8 @@ sidebar_position: 3
 tags: [rescue, nonprofit]
 ---
 
+![Kawaii illustration of a hamster in a pet store with a caring advocate in New Hampshire](/img/rescue-resources/report-nh.png)
+
 # Report Pet Store Neglect in New Hampshire
 
 ### **1\. Who to contact & oversight**

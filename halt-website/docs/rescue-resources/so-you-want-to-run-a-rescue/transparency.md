@@ -4,6 +4,8 @@ sidebar_position: 10
 tags: [nonprofit, rescue]
 ---
 
+![Kawaii illustration of a rescue coordinator sharing information openly with supporters](/img/rescue-resources/transparency.png)
+
 # Transparency Is Not Optional — It’s Foundational
 
 In rescue, transparency isn’t a nice-to-have — it’s essential.
