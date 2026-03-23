@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Basic Care
+title: 'Hedgehog Basic Care'
 tags: [hedgehogs, getting started, care commitment]
 ---
 

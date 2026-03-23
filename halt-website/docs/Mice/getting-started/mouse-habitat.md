@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Habitat
+title: 'Mouse Habitat'
 description: "Mice are active, curious, and love to climb and explore. Their habitat should be designed to accommodate these natural behaviors, providing plenty of space and enrichment to keep them happy and..."
 tags: [mice, housing, getting started]
 ---

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Basic Care
+title: 'Degu Basic Care'
 tags: [degus, getting started, care commitment]
 ---
 

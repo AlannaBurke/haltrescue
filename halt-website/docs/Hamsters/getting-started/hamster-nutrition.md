@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Nutrition
+title: 'Hamster Nutrition'
 description: "Providing a proper diet is fundamental to your hamster's health. Hamsters are omnivores and require a balanced diet of pellets, supplemented with small amounts of fresh foods. Understanding what to..."
 tags: [hamsters, nutrition, getting started]
 ---
