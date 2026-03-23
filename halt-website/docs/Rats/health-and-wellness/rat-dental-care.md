@@ -4,7 +4,7 @@ sidebar_position: 1
 tags: [rats, dental disease, health, veterinary]
 ---
 
-<InfographicShare imageSrc="/img/rats/rat-dental-health.png" />
+
 
 # Rat Dental Care Guide
 
@@ -102,7 +102,10 @@ Make a habit of briefly checking your rat's front teeth during your weekly healt
 
 You cannot easily check the molars at home — that requires a veterinary examination with appropriate lighting and tools.
 
+
+
 ## References
+
 
 [1] [Malocclusion in Aging Wistar Rats](https://pmc.ncbi.nlm.nih.gov/articles/PMC2824962/) — Dontas, I.A. et al., PMC/NIH, 2010
 

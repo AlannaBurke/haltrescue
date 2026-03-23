@@ -4,8 +4,6 @@ sidebar_position: 3
 tags: [chinchillas, heart disease, health, veterinary]
 ---
 
-![Chinchilla Heart Disease](/img/chinchillas/chinchilla-heart-disease.png)
-
 
 
 # Heart Disease and Heart Failure in Chinchillas

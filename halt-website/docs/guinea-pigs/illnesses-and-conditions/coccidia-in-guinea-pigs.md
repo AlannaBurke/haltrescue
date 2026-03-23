@@ -6,7 +6,7 @@ sidebar_label: Coccidia
 tags: [guinea pigs, parasites, health]
 ---
 
-![Gp Coccidia](/img/guinea-pigs/gp-coccidia.png)
+
 
 # Coccidia in Guinea Pigs
 
@@ -25,6 +25,8 @@ Transmission is **fecal-oral**: guinea pigs become infected by ingesting oocysts
 - **Young age** — juvenile guinea pigs (under 6 months) are most susceptible
 - **Introducing new animals** without quarantine
 - **Contaminated hay or vegetables** that have been in contact with infected feces
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-coccidia.png" />
 
 ## Symptoms
 
@@ -77,6 +79,8 @@ Steam cleaning is one of the most effective ways to kill coccidia oocysts in the
 :::
 
 > For more on keeping your guinea pig's environment clean and safe, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
+
+
 
 ## References
 

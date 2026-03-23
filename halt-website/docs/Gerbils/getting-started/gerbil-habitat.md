@@ -5,11 +5,16 @@ description: "Creating the right environment is one of the most important things
 tags: [gerbils, housing, getting started]
 ---
 
-<InfographicShare imageSrc="/img/gerbils/gerbil-habitat-guide.png" />
 
 # Gerbil Habitat
 
 Creating the right environment is one of the most important things you can do for your gerbils. As natural burrowers, their habitat needs to accommodate their instinct to dig. A proper setup will keep them safe, healthy, and endlessly entertained.
+
+<InfographicShare
+  imageSrc="/img/gerbils/gerbil-habitat-guide.png"
+  alt="An infographic showing the ideal habitat setup for gerbils, including enclosure type, bedding depth, enrichment items, and environmental conditions."
+  title="Gerbil Habitat Guide Infographic"
+/>
 
 ## Enclosure
 

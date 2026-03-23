@@ -6,7 +6,7 @@ sidebar_label: Dental Disease
 tags: [chinchillas, dental disease, health]
 ---
 
-![Chinchilla Dental Disease](/img/chinchillas/chinchilla-dental-disease.png)
+
 
 # Dental Disease in Chinchillas
 
@@ -17,6 +17,8 @@ Dental disease is one of the most common and serious health problems in pet chin
 Chinchillas have **open-rooted (elodont) teeth**, meaning all 20 teeth — incisors and cheek teeth — grow continuously at a rate of approximately 6–8 cm per year.[^1] They rely on a high-fiber diet, particularly unlimited grass hay, to naturally wear the teeth down through the grinding motion of chewing. When this wear is insufficient or uneven, the teeth become overgrown or misaligned, a condition known as **malocclusion**.
 
 Unlike rabbits and guinea pigs, the cheek teeth (premolars and molars) of chinchillas sit deep in the jaw and cannot be easily examined without sedation and specialized equipment. This means dental disease is often well advanced before it is detected.[^2]
+
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-dental-disease.png" />
 
 ## Causes of Dental Disease
 
@@ -78,6 +80,8 @@ While genetic malocclusion cannot be prevented, good husbandry significantly red
 - Schedule **annual veterinary check-ups** including a dental examination
 
 > For more information on feeding your chinchilla correctly, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
+
+
 
 ## References
 

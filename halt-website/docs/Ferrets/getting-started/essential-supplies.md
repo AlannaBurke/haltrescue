@@ -6,8 +6,6 @@ sidebar_position: 2
 tags: [ferrets, supplies, getting started]
 ---
 
-<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for ferrets" />
-
 # Essential Supplies for Pet Ferrets
 
 Ferrets are playful, curious, and mischievous carnivores that require a specific setup to keep them safe and entertained. Their intelligence and Houdini-like escape skills mean that their environment must be secure and stimulating. This checklist covers all the essential items you'll need to welcome your new ferret (or "business" of ferrets) home.

@@ -4,8 +4,6 @@ tags: [gerbils, parasites]
 description: "A guide to parasites affecting gerbils, including common external parasites like mites and fleas, and internal parasites like pinworms."
 ---
 
-<InfographicShare imageSrc="/img/gerbils/gerbil-parasites.png" />
-
 # Parasites in Gerbils
 
 Gerbils are desert animals and are generally clean and hardy, which makes them less prone to parasites than some other rodents. However, they can still be affected by both external and internal parasites, especially if they are stressed or exposed to a contaminated environment.

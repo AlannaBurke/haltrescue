@@ -5,11 +5,16 @@ description: "Hedgehogs are insectivores, meaning their natural diet consists pr
 tags: [hedgehogs, nutrition, getting started]
 ---
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-nutrition-guide.png" />
 
 # Hedgehog Nutrition
 
 Hedgehogs are insectivores, meaning their natural diet consists primarily of insects. In captivity, their diet is based on a high-quality, low-fat cat food, supplemented with insects and other treats. Proper nutrition is key to preventing obesity, a common and serious health problem in pet hedgehogs.
+
+<InfographicShare
+  imageSrc="/img/hedgehogs/hedgehog-nutrition-guide.png"
+  alt="An infographic detailing the proper diet for hedgehogs, including staple foods, safe insects and treats, foods to avoid, and feeding tips."
+  title="Hedgehog Nutrition Guide Infographic"
+/>
 
 ## Staple Diet: Cat Food
 

@@ -1,11 +1,8 @@
 ---
 sidebar_label: 'Bloat in Guinea Pigs'
 sidebar_position: 1
-tags: [guinea pigs, bloat, gi health, emergency, veterinary]
+tags: [guinea pigs, bloat, GI health, emergency, veterinary]
 ---
-
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-bloat.png" alt="Bloat in guinea pigs" />
 
 # Bloat in Guinea Pigs
 

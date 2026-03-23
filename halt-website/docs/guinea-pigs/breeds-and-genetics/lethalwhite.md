@@ -4,8 +4,6 @@ sidebar_position: 4
 tags: [guinea pigs, lethal white, genetics, special needs]
 ---
 
-![Gp Lethal White Punnett](/img/guinea-pigs/gp-lethal-white-punnett.png)
-
 # Understanding Lethal White Guinea Pigs
 
 Guinea pigs are beloved companions known for their sweet nature, vocal personalities, and varied appearances. But within the world of guinea pig care, there’s a little-known and serious condition that deserves more awareness—lethal white syndrome.

@@ -4,8 +4,6 @@ tags: [bonding, taming, handling, behavior]
 description: "A guide to socializing and building trust with timid small pets like rabbits, guinea pigs, and rodents, using patience and positive reinforcement to create a strong bond."
 ---
 
-<InfographicShare imageSrc="/img/general-care/socializing.png" alt="Socializing small pets" />
-
 # Socializing Your Small Pet
 
 Many small pets, such as rabbits, guinea pigs, and rodents, are prey animals. Their natural instinct is to be wary and fearful of larger animals, including humans. Socializing a timid small pet is not about forcing interaction, but about patiently building trust and teaching them that you are a source of safety and comfort, not a threat [1].

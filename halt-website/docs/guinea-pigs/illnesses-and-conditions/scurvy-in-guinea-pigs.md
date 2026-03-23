@@ -5,11 +5,13 @@ description: Everything you need to know about scurvy in guinea pigs — causes,
 tags: [guinea pigs, nutrition, health]
 ---
 
-![Gp Scurvy](/img/guinea-pigs/gp-scurvy.png)
+
 
 # Scurvy (Vitamin C Deficiency) in Guinea Pigs
 
 Scurvy is one of the most common and entirely preventable health conditions in guinea pigs. Unlike most mammals, guinea pigs — like humans — **cannot synthesize their own Vitamin C** (ascorbic acid). They must obtain it entirely through their diet. Without adequate Vitamin C, guinea pigs develop scurvy, a serious condition affecting connective tissue, immune function, and overall health.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-scurvy.png" />
 
 ## Why Guinea Pigs Need Vitamin C
 
@@ -97,6 +99,8 @@ Prevention is straightforward and critical:
 - **Increase Vitamin C during illness, pregnancy, or growth** — consult your vet for appropriate dosing
 
 > For more information on feeding your guinea pig, see our [Nutrition Information](../getting-started/nutrition-information) guide.
+
+
 
 ## References
 

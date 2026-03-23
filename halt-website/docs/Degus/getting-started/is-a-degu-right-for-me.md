@@ -5,8 +5,6 @@ tags: [degus, getting started, cost]
 description: "Degus are social, intelligent, and endlessly entertaining little animals — but they are also one of the more demanding small pets in terms of housing, diet, and specialized knowledge. They are not..."
 ---
 
-![Is A Degu Right For Me](/img/degus/is-a-degu-right-for-me.png)
-
 # Is a Degu Right for Me and My Family?
 
 <InfographicShare

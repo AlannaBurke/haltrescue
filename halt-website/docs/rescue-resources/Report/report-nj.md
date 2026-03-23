@@ -4,8 +4,6 @@ sidebar_position: 4
 tags: [rescue, nonprofit]
 ---
 
-![Kawaii illustration of a guinea pig in a pet store with a caring advocate in New Jersey](/img/rescue-resources/report-nj.png)
-
 # Report Pet Store Neglect in New Jersey
 
 ## New Jersey Public Guide

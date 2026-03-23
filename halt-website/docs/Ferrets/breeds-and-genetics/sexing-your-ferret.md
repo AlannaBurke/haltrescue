@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [ferrets, sexing, reproductive health, breeding]
 ---
 
-![Ferret Sexing Guide](/img/ferrets/ferret-sexing-guide.png)
 
 # Sexing Your Pet Ferret
 
@@ -25,6 +24,8 @@ belly-button-like opening on her abdomen. [2]
 | :--- | :--- | :--- |
 | **"Belly Button"** | **Present** (this is the penis) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly below the anus |
+
+<InfographicShare imageSrc="/img/ferrets/ferret-sexing-guide.png" />
 
 ## Other, Less Reliable Differences
 

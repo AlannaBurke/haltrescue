@@ -4,8 +4,6 @@ tags: [chinchillas, respiratory infection]
 description: "A guide to respiratory infections in chinchillas, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-respiratory-health.png" />
-
 # Respiratory Issues in Chinchillas
 
 Chinchillas are susceptible to upper respiratory infections (URIs) and pneumonia, which can be serious if not treated promptly. Their dense fur makes them prone to overheating, and their respiratory systems are sensitive to poor ventilation, high humidity, and dusty environments. Understanding the signs of a respiratory infection and maintaining an optimal environment are key to keeping your chinchilla healthy.

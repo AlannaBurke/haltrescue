@@ -5,11 +5,13 @@ tags: [rats, breeds, health, behavior, nutrition, housing]
 description: "Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating,..."
 ---
 
-![Rat Variety Guide](/img/rats/rat-variety-guide.png)
+
 
 # A Guide to Fancy Rat Varieties
 
 Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating, it’s crucial to remember that unlike dog breeds, a rat's appearance does not determine its personality, health, or temperament [1]. This guide is designed to help you understand the common terms you might encounter when adopting from a rescue or shelter.
+
+<InfographicShare imageSrc="/img/rats/rat-variety-guide.png" />
 
 ## Coat Types
 
@@ -48,7 +50,10 @@ Furthermore, some varieties, like Hairless rats, may have more specific health n
 When choosing rats, always adopt in pairs or groups — rats are highly social and can suffer from loneliness and depression if kept alone. Variety and appearance are secondary to temperament and health. Look for active, curious rats with bright eyes, clean coats, and no signs of respiratory distress.
 :::
 
+
+
 ## References
+
 
 [1] [Description and Physical Characteristics of Rats](https://www.merckvetmanual.com/all-other-pets/rats/description-and-physical-characteristics-of-rats) — Katherine E. Quesenberry, Kenneth R. Boschert, 2024
 

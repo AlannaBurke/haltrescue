@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [hamsters, sexing, reproductive health, breeding]
 ---
 
-![Hamster Sexing Guide](/img/hamsters/hamster-sexing-guide.png)
 
 # Sexing Your Pet Hamster
 
@@ -27,6 +26,8 @@ To check your hamster, hold them gently but securely on their back in the palm o
 | **Rear End Shape** | More pointed or elongated due to testicles | Rounder |
 | **Nipples** | Absent | Present and visible |
 | **Scent Glands (Dwarfs)** | Prominent, on the belly | Less prominent |
+
+<InfographicShare imageSrc="/img/hamsters/hamster-sexing-guide.png" />
 
 ## Differences in Hamster Species
 

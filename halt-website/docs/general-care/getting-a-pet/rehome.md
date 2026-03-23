@@ -5,11 +5,10 @@ description: "We all hope to keep our pets forever, but sometimes life happens a
 tags: [rescue, getting started]
 ---
 
-![Rehome](/img/general-care/rehome.png)
-
 # How to Rehome a Pet
 
 We all hope to keep our pets forever, but sometimes life happens and unfortunately, we have to find a new home for our pets. Here is some advice for safely rehoming your pets. 
+
 
 Did you adopt your pet from a shelter or rescue?
  - Yes: Please return to that organization.
@@ -22,3 +21,5 @@ Did you adopt your pet from a shelter or rescue?
 Do Not release your pet outside
  - It’s illegal
  - _They will not survive_
+
+<InfographicShare imageSrc="/img/general-care/rehome.png" />

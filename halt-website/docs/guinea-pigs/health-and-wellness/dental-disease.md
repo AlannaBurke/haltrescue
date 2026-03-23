@@ -5,8 +5,6 @@ tags: [guinea pigs, dental disease, health, veterinary]
 description: "Dental disease is one of the most common and serious health problems affecting guinea pigs. Unlike humans, a guinea pig's teeth grow continuously throughout their life. This continuous growth can..."
 ---
 
-![Dental Causes](/img/guinea-pigs/dental-causes.png)
-
 # Dental Disease in Guinea Pigs
 
 Dental disease is one of the most common and serious health problems affecting guinea pigs. Unlike humans, a guinea pig's teeth grow continuously throughout their life. This continuous growth can lead to painful and life-threatening complications if their teeth do not wear down properly. Understanding the causes, recognizing the signs, and seeking prompt veterinary care are crucial for managing this condition and ensuring your guinea pig lives a healthy, comfortable life.
@@ -18,6 +16,8 @@ Guinea pigs have 20 teeth in total: a pair of upper and lower incisors (front te
 ## Causes of Dental Disease
 
 Several factors can contribute to the development of dental disease in guinea pigs:
+
+<InfographicShare imageSrc="/img/guinea-pigs/dental-causes.png" />
 
 *   **Inadequate Diet:** This is the most common cause. A diet low in fibrous hay and high in pellets or soft foods does not provide enough abrasive material to wear down the teeth properly. Guinea pigs should have unlimited access to high-quality grass hay, such as Timothy or orchard grass [2].
 *   **Genetics:** Some guinea pigs are genetically predisposed to malocclusion (misalignment of the teeth), which can become apparent at a young age.
@@ -62,6 +62,8 @@ Treatment depends on the severity of the disease and is focused on correcting th
 
 While genetic predispositions cannot be changed, you can take several steps to prevent diet-related dental disease and manage the condition:
 
+<InfographicShare imageSrc="/img/guinea-pigs/dental-prevention.png" />
+
 *   **Provide Unlimited Hay:** The cornerstone of prevention is a diet consisting of at least 80% high-quality grass hay. The constant chewing motion is essential for proper tooth wear.
 *   **Feed a Balanced Diet:** Supplement hay with a small, measured amount of high-quality guinea pig pellets and a daily portion of fresh vegetables rich in Vitamin C. See our [Nutrition Information for Guinea Pigs](../getting-started/nutrition-information) article for more details.
 *   **Regular Health Checks:** Weigh your guinea pig weekly and perform regular home health checks to spot any early signs of illness.
@@ -82,5 +84,6 @@ By providing a proper diet and being vigilant about your guinea pig's health, yo
 [4] Wills, A. P. (2016). Diagnosis and treatment of dental disease in guinea pigs. *Journal of the American Veterinary Medical Association*, 249(9), 1000–1008. https://avmajournals.avma.org/view/journals/javma/249/9/javma.249.9.1000.xml
 
 [5] Minarikova, A., et al. (2016). Dental Disease and Periodontitis in a Guinea Pig (Cavia porcellus). *Journal of Exotic Pet Medicine*, 25(2), 129-136. https://www.sciencedirect.com/science/article/abs/pii/S1557506316300155
+
 
 [6] Reddit. (2023). *My Guinea pig is making such a mess!*. [https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/](https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/)

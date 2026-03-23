@@ -6,7 +6,7 @@ sidebar_label: Ear Infections
 tags: [guinea pigs, ear health, neurological, health]
 ---
 
-![Gp Ear Infection](/img/guinea-pigs/gp-ear-infection.png)
+
 
 # Ear Infections in Guinea Pigs
 
@@ -33,6 +33,8 @@ The most common causes of ear infections in guinea pigs include:
 - **Ear mites** — *Psoroptes cuniculi* (more common in rabbits but can affect guinea pigs) can cause secondary infection
 - **Foreign material** — bedding particles or debris in the ear canal
 - **Spread from respiratory infection** — bacteria can travel from the upper respiratory tract to the middle ear via the Eustachian tube
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-ear-infection.png" />
 
 ## Warning Signs
 
@@ -93,6 +95,8 @@ Make ear checks part of your weekly health routine. Gently fold back the ear fla
 :::
 
 > For more on neurological symptoms in guinea pigs, see our article on [Neurologic Diseases in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/neurologic-diseases-in-guinea-pigs).
+
+
 
 ## References
 

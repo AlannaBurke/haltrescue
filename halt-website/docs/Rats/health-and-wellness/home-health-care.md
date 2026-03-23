@@ -6,13 +6,13 @@ sidebar_position: 2
 tags: [rats, health, wellness, home health check, veterinary]
 ---
 
-<InfographicShare imageSrc="/img/rats/rat-home-care.png" />
-
 # Home Health Care for Rats
 
 Performing regular health checks at home is one of the most important things you can do for your pet rats. Because rats are prey animals, they are masters at hiding signs of illness until a condition is advanced. By familiarizing yourself with your rat's normal appearance, behavior, and physical condition, you can catch subtle changes early and seek veterinary care before a problem becomes a crisis. [1]
 
 A weekly head-to-tail check is a great routine to establish. Choose a calm, quiet time when your rat is relaxed. For rats that are still learning to be handled, you can break the check up into shorter sessions over a day or two.
+
+<InfographicShare imageSrc="/img/rats/home-health-check.png" />
 
 ## The Weekly Health Checklist
 

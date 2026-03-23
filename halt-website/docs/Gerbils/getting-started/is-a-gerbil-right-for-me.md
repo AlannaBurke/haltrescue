@@ -5,13 +5,18 @@ description: "Gerbils are curious, active, and social animals that can make wond
 tags: [gerbils, getting started, care commitment]
 ---
 
-![Is A Gerbil Right For Me](/img/gerbils/is-a-gerbil-right-for-me.png)
 
 # Is a Gerbil Right for You?
 
 Gerbils are curious, active, and social animals that can make wonderful pets for the right family. However, like any animal, they have specific needs that must be met to ensure they live a happy and healthy life. Before bringing gerbils home, it's crucial to understand their requirements for housing, diet, social interaction, and long-term care.
 
 This guide will help you decide if gerbils are a good match for your lifestyle and commitment level.
+
+<InfographicShare
+  imageSrc="/img/gerbils/is-a-gerbil-right-for-me.png"
+  alt="An infographic summarizing the key considerations for gerbil ownership, including lifespan, social needs, cost, habitat requirements, and suitability for different families."
+  title="Is a Gerbil Right for You? Infographic"
+/>
 
 ## Key Considerations
 

@@ -5,8 +5,6 @@ tags: [guinea pigs, sexing, breeding, getting started]
 description: "Correctly identifying the sex of a guinea pig is a crucial skill for any owner, breeder, or rescue. It is the only way to prevent accidental and unwanted pregnancies, which can be dangerous for..."
 ---
 
-![Gp Sexing Guide](/img/guinea-pigs/gp-sexing-guide.png)
-
 # Sexing Guinea Pigs
 
 Correctly identifying the sex of a guinea pig is a crucial skill for any owner, breeder, or rescue. It is the only way to prevent accidental and unwanted pregnancies, which can be dangerous for female guinea pigs (sows) and contribute to overpopulation. While it can be tricky, especially in young pups, learning to distinguish between males (boars) and females is straightforward once you know what to look for.
@@ -18,6 +16,8 @@ Guinea pigs can breed at a very young age. Boars can become fertile as early as 
 ## The Anatomical Difference: A Visual Guide
 
 The most reliable method for sexing a guinea pig is to examine the shape of their genital opening. It is helpful to have a second person to securely hold the guinea pig while you perform the examination.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-sexing-guide.png" />
 
 ### Identifying a Female (Sow)
 

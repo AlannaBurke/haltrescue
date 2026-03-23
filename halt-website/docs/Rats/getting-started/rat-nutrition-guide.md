@@ -5,11 +5,13 @@ tags: [rats, nutrition, health, getting started]
 description: "Proper nutrition is the cornerstone of your pet rat's health and longevity. As omnivores, rats have specific dietary needs that must be met to prevent obesity, nutritional deficiencies, and other..."
 ---
 
-![Rat Nutrition Guide](/img/rats/rat-nutrition-guide.png)
+
 
 # A Guide to Proper Rat Nutrition
 
 Proper nutrition is the cornerstone of your pet rat's health and longevity. As omnivores, rats have specific dietary needs that must be met to prevent obesity, nutritional deficiencies, and other health problems. This guide will walk you through the essentials of a balanced rat diet.
+
+<InfographicShare imageSrc="/img/rats/rat-nutrition-guide.png" />
 
 ## The Foundation: High-Quality Lab Blocks
 
@@ -45,7 +47,10 @@ Your rats must have access to fresh, clean water 24/7. A sipper bottle is the mo
 
 While homemade diets like the "Shunamite Diet" have gained some popularity, they are **not recommended**. It is extremely difficult to create a nutritionally complete and balanced diet at home. These diets often lack essential vitamins and minerals, which can lead to serious health problems over time. A high-quality lab block remains the safest and most reliable foundation for your rat's diet [4].
 
+
+
 ## References
+
 
 [1] [Feeding Rodents](https://vcahospitals.com/know-your-pet/feeding-rodents) — VCA Animal Hospitals, Unknown Year
 

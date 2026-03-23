@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Dangerous Treats & Toys'
 sidebar_position: 1
-tags: [rabbit care, rabbit safety, dangerous treats, dangerous toys, rabbit diet, gi stasis]
+tags: [rabbit care, rabbit safety, dangerous treats, dangerous toys, rabbit diet, GI stasis]
 description: "A critical guide to dangerous treats and toys for rabbits, emphasizing the extreme sensitivity of their digestive system and the risks of improper foods and enrichment items."
 ---
-
-<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for rabbits" />
 
 # Dangerous Treats and Toys for Rabbits
 

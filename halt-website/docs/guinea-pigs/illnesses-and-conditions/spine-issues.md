@@ -4,8 +4,6 @@ tags: [guinea pigs, neurological, musculoskeletal, safety]
 description: "A guide to spinal issues in guinea pigs, highlighting their fragile skeletal structure and the severe risks posed by improper handling, falls, and the use of exercise wheels."
 ---
 
-![Gp Spine Issues](/img/guinea-pigs/gp-spine-issues.png)
-
 # Spine Issues in Guinea Pigs
 
 A guinea pig's skeletal structure, particularly its spine, is surprisingly fragile. Unlike more flexible rodents like hamsters or rats, a guinea pig's back is relatively rigid and not designed for significant bending or arching. This makes them highly susceptible to serious and often permanent spinal injuries from improper handling, falls, or the use of inappropriate equipment.

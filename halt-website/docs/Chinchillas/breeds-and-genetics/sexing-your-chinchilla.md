@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [chinchillas, sexing, reproductive health, breeding]
 ---
 
-![Chinchilla Sexing Guide](/img/chinchillas/chinchilla-sexing-guide.png)
 
 # Sexing Your Pet Chinchilla
 
@@ -26,6 +25,8 @@ To examine your chinchilla, hold them securely or have them stand on a flat surf
 | **Anogenital Gap** | **Present** (a clear space) | **Absent** (no space) |
 | **Openings** | Two separate openings | Appear as one continuous feature |
 | **Vaginal Slit** | Absent | Present in the urethral cone |
+
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-sexing-guide.png" />
 
 ### Simple Rule: "If there's a gap, it's a chap!"
 

@@ -5,8 +5,6 @@ tags: [guinea pigs, handling, getting started, safety]
 description: "Proper handling is fundamental to building a trusting relationship with your guinea pig and ensuring their safety. As prey animals, guinea pigs can be naturally skittish and may be frightened by..."
 ---
 
-![Gp Handling Guide](/img/guinea-pigs/gp-handling-guide.png)
-
 # Proper Handling of Guinea Pigs
 
 Proper handling is fundamental to building a trusting relationship with your guinea pig and ensuring their safety. As prey animals, guinea pigs can be naturally skittish and may be frightened by being picked up. Handling them incorrectly can cause fear, stress, and even serious physical injury. Learning how to approach and hold your guinea pig correctly will make your interactions more enjoyable for both of you.
@@ -22,6 +20,8 @@ Before you attempt to pick up your guinea pig, it’s important to build a found
 ## The Correct Way to Pick Up and Hold a Guinea Pig
 
 Once your guinea pig is comfortable with your presence, you can practice picking them up. The key is to make them feel secure at all times by supporting their entire body.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-handling-guide.png" />
 
 ### Step-by-Step Guide:
 

@@ -1,11 +1,9 @@
 ---
 sidebar_label: 'Guinea Pig Poop'
 sidebar_position: 3
-tags: [guinea pigs, gi health, health]
+tags: [guinea pigs, GI health, health]
 description: "Guinea pigs have sensitive digestive systems, and looking at their poop is the best way to quickly determine how your guinea pig's system is functioning. It's also one of the reasons why it's so..."
 ---
-
-![Gp Poop Guide](/img/guinea-pigs/gp-poop-guide.png)
 
 # Guinea Pig Poop
 
@@ -56,8 +54,12 @@ Clumped poop is more often seen in older pigs, usually males, who are beginning 
 
 If you see any blood in your guinea pig's poop, take them to the vet immediately. 
 
+
+
 ---
 
 ## Quick Reference: Guinea Pig Poop Guide
 
 The infographic below provides a visual overview of the different types of guinea pig droppings and what they mean for your pig's health.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-poop-guide.png" />

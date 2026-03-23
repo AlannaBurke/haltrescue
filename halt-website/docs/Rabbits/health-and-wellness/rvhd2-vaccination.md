@@ -5,7 +5,7 @@ tags: [rabbits, emergency, veterinary, health]
 description: "As a responsible rabbit owner, safeguarding your companion from preventable diseases is a top priority. One of the most serious threats to domestic rabbits today is Rabbit Hemorrhagic Disease Virus 2..."
 ---
 
-![Rvhd2 Vaccination](/img/rabbits/rvhd2-vaccination.png)
+
 
 # The Importance of Vaccinating Your Rabbit Against RVHD2
 
@@ -16,6 +16,8 @@ As a responsible rabbit owner, safeguarding your companion from preventable dise
 RHDV2 is a calicivirus that causes a deadly disease in both wild and domestic rabbits. Unlike the original strain (RHDV1), which primarily affected adult rabbits, RHDV2 can sicken and kill rabbits of any age [1]. The virus has a high mortality rate, with some studies showing it can be fatal in 5% to over 90% of cases [2].
 
 One of the most frightening aspects of RHDV2 is its sudden onset. Many infected rabbits die suddenly without showing any prior signs of illness [2].
+
+<InfographicShare imageSrc="/img/rabbits/rvhd2-vaccination.png" />
 
 ## Symptoms and Transmission
 
@@ -57,7 +59,10 @@ While vaccination is the cornerstone of prevention, good biosecurity practices c
 
 By combining vaccination with smart biosecurity, you can provide your beloved rabbit with the best possible protection against RHDV2.
 
+
+
 ## References
+
 
 [1] [Rabbit Hemorrhagic Disease](https://www.aphis.usda.gov/livestock-poultry-disease/rabbit-hemorrhagic) — USDA APHIS, Unknown
 

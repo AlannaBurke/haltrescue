@@ -5,8 +5,6 @@ tags: [guinea pigs, nutrition]
 description: "A balanced and appropriate diet is the single most important factor in maintaining the health and well-being of your guinea pig. Unlike many other small pets, guinea pigs have specific and unique..."
 ---
 
-![Gp Nutrition Pyramid](/img/guinea-pigs/gp-nutrition-pyramid.png)
-
 # Nutrition Information for Guinea Pigs
 
 A balanced and appropriate diet is the single most important factor in maintaining the health and well-being of your guinea pig. Unlike many other small pets, guinea pigs have specific and unique dietary needs, including a daily requirement for Vitamin C. Providing the right foods in the right proportions is essential for their dental health, digestive function, and overall longevity.
@@ -14,6 +12,8 @@ A balanced and appropriate diet is the single most important factor in maintaini
 ## The Guinea Pig Food Pyramid
 
 A healthy guinea pig diet can be visualized as a pyramid, with the most important foods forming the base and occasional treats at the very top.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-nutrition-pyramid.png" />
 
 ### 1. Unlimited Grass Hay (80% of Diet)
 

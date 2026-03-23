@@ -4,8 +4,6 @@ tags: [hedgehogs, parasites, ringworm]
 description: "A guide to parasites affecting hedgehogs, with a focus on the common and serious problem of mite infestations, as well as the fungal infection ringworm."
 ---
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-parasites.png" />
-
 # Parasites in Hedgehogs
 
 Parasites, particularly external mites, are a very common and significant health concern for African Pygmy Hedgehogs. Fungal infections like ringworm are also frequently seen. These conditions cause discomfort, pain, and can be indicators of other underlying health issues. Prompt diagnosis and treatment from a veterinarian are essential.

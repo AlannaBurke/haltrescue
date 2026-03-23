@@ -4,8 +4,6 @@ tags: [behavior, activity patterns, getting started]
 description: "Learn the difference between nocturnal, diurnal, and crepuscular activity patterns and find out when your small pet is naturally most active. Understanding their sleep cycle is key to providing the best care."
 ---
 
-<InfographicShare imageSrc="/img/general-care/nocturnal.png" alt="Nocturnal small pet behavior" />
-
 # Is My Pet Nocturnal? Understanding Your Pet's Active Hours
 
 One of the most common surprises for new small pet owners is discovering their companion's unique sleep schedule. While we humans are typically **diurnal**, meaning we are active during the day, many small animals are not. Understanding whether your pet is diurnal, **nocturnal** (active at night), or **crepuscular** (active at dawn and dusk) is fundamental to their welfare [1].

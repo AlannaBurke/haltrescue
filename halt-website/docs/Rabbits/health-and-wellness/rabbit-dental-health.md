@@ -4,7 +4,7 @@ sidebar_position: 1
 tags: [rabbits, dental disease, health]
 ---
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-dental-health.png" />
+
 
 # A Guide to Rabbit Dental Health
 
@@ -94,4 +94,5 @@ By providing a proper diet and being observant of any changes in your rabbit's b
 [5] PetMD. "How To Care for Rabbit Teeth." [https://www.petmd.com/rabbit/how-care-rabbit-teeth](https://www.petmd.com/rabbit/how-care-rabbit-teeth)
 
 [6] Blue Cross. "Give your chinchilla a health check." [https://www.youtube.com/watch?v=UyFmRsSJn_c](https://www.youtube.com/watch?v=UyFmRsSJn_c)
+
 

@@ -7,9 +7,6 @@ tags: [rats, getting started, supplies, housing, nutrition, enrichment, grooming
 
 
 
-
-<InfographicShare imageSrc="/img/rats/rat-essential-supplies.png" alt="Essential rat supplies" />
-
 Bringing pet rats home requires some preparation. Rats are intelligent, social animals with specific needs, and having the right supplies in place before they arrive will make the transition much smoother for both you and your new companions. This guide covers everything you need to set up a safe, comfortable, and enriching home for your rats.
 
 ## Housing: The Right Cage

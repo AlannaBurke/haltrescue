@@ -6,7 +6,7 @@ sidebar_label: Lice
 tags: [guinea pigs, parasites, skin health, health]
 ---
 
-![Gp Lice](/img/guinea-pigs/gp-lice.png)
+
 
 # Lice in Guinea Pigs
 
@@ -31,6 +31,8 @@ Lice spread through **direct contact** between guinea pigs. They cannot jump or 
 - **Overcrowded conditions** that increase contact between animals
 - **Contaminated bedding, accessories, or equipment** shared between animals
 - **Weakened immune system** — lice infestations are often heavier in older, ill, or immunocompromised guinea pigs
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-lice.png" />
 
 ## Symptoms
 
@@ -85,6 +87,8 @@ Lice in guinea pigs are effectively treated with antiparasitic medications:
 - **Handle and check your guinea pigs regularly** — weekly health checks make it easier to catch infestations early
 
 > For more on external parasites, see our article on [Mites in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/mites-in-guinea-pigs).
+
+
 
 ## References
 

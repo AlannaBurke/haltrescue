@@ -6,8 +6,6 @@ sidebar_position: 3
 tags: [hedgehogs, grooming, nail trimming]
 ---
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-grooming.png" alt="Grooming a hedgehog" />
-
 # Grooming Your Pet Hedgehog
 
 Grooming is an important part of hedgehog care, not just for cleanliness but also as an opportunity to check their health and strengthen your bond. The two main grooming tasks for a hedgehog are bathing and nail trimming.

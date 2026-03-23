@@ -5,11 +5,11 @@ tags: [mice, behavior, bonding, health, enrichment, body language]
 description: "Mice are intelligent, curious, and surprisingly complex little animals. While often quiet, they have a rich system of communication based on body language, scent, and ultrasonic sounds..."
 ---
 
-![Mouse Behavior Guide](/img/mice/mouse-behavior-guide.png)
-
 # Understanding Mouse Behavior: A Guide for Owners
 
 Mice are intelligent, curious, and surprisingly complex little animals. While often quiet, they have a rich system of communication based on body language, scent, and ultrasonic sounds mostly beyond our range of hearing. Learning to read their physical cues is the best way to understand their needs and build a strong bond.
+
+<InfographicShare imageSrc="/img/mice/mouse-behavior-guide.png" />
 
 ## Common Mouse Body Language
 

@@ -4,8 +4,6 @@ tags: [mice, dental disease]
 description: "A guide to dental health in mice, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the importance of providing a proper diet and chew toys."
 ---
 
-<InfographicShare imageSrc="/img/mice/mouse-dental-health.png" />
-
 # Dental Health in Mice
 
 Proper dental health is a fundamental aspect of mouse care, and it revolves entirely around their four incisors (front teeth). Like all rodents, a mouse's incisors grow continuously throughout their life. This biological feature means they have a constant, instinctual need to gnaw on hard materials to wear their teeth down. When they are unable to do this, it can lead to painful and serious health issues.
@@ -21,6 +19,8 @@ The main dental problem seen in mice is **malocclusion**, which means the teeth 
 *   **Lack of Chewing Materials:** This is the most common and preventable cause. If a mouse's environment lacks items to gnaw on, its teeth will overgrow.
 *   **Genetics:** Some mice are born with a misaligned jaw (an overbite or underbite) that makes proper dental wear impossible.
 *   **Trauma:** An injury or fall that damages the jaw or a tooth can cause the teeth to grow at the wrong angle.
+
+
 
 ## Signs of Dental Problems
 

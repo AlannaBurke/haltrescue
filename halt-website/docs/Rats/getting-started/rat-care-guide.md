@@ -4,7 +4,7 @@ sidebar_position: 6
 tags: [rats, health, veterinary, nutrition, behavior, housing]
 ---
 
-<InfographicShare imageSrc="/img/rats/rat-common-health-overview.png" />
+
 
 # A Comprehensive Guide to Rat Care
 
@@ -49,7 +49,10 @@ A balanced diet is the foundation of good health.
 Keep a simple health journal for each rat, noting their weight, eating habits, and any changes in behavior. Early detection of changes — especially weight loss or labored breathing — can make a significant difference in treatment outcomes.
 :::
 
+
+
 ## References
+
 
 [1] [Feeding Rodents](https://vcahospitals.com/know-your-pet/feeding-rodents) — VCA Animal Hospitals, 2023
 

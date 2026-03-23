@@ -4,8 +4,6 @@ title: Basic Care
 tags: [degus, getting started, care commitment]
 ---
 
-![Degu Basic Care](/img/degus/degu-basic-care.png)
-
 # Degu Basic Care
 
 Degus are intelligent, social, and diurnal (active during the day) rodents that can make fascinating pets. They require specific care, particularly regarding their diet and social needs, to live a healthy life. This guide covers the essential care routines for degus.

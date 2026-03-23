@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [rabbits, sexing, reproductive health, breeding]
 ---
 
-![Rabbit Sexing Guide](/img/rabbits/rabbit-sexing-guide.png)
 
 # Sexing Your Pet Rabbit
 
@@ -30,6 +29,8 @@ Apply gentle pressure on either side of the genital opening. This will help to e
 | **Anogenital Distance** | Longer | Shorter |
 | **Protrusion** | Penis protrudes with pressure | No protrusion |
 | **Testicles** | Usually visible in adults | Absent |
+
+<InfographicShare imageSrc="/img/rabbits/rabbit-sexing-guide.png" />
 
 ## Tips for Accurate Sexing
 

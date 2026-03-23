@@ -4,8 +4,6 @@ tags: [emergency preparedness, health]
 description: "A comprehensive guide to planning for your pet's future, covering short-term emergencies like natural disasters and long-term arrangements for their care if you are no longer able to provide it."
 ---
 
-![Emergency Preparedness](/img/general-care/emergency-preparedness.png)
-
 # Making Plans for Your Pets: Emergency & Long-Term Care
 
 Responsible pet ownership extends beyond daily care; it includes planning for the unexpected. Whether it's a short-term emergency like a natural disaster or the need for long-term care in your absence, having a solid plan in place is the best way to ensure your beloved companions are always safe and cared for [1].

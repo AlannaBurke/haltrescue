@@ -4,8 +4,6 @@ tags: [rabbits, eye health, tear duct]
 description: "A guide to common eye and vision issues in rabbits, focusing on the critical link between weepy eyes (epiphora) and underlying dental disease, as well as other conditions like ulcers and abscesses."
 ---
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-eye-health.png" />
-
 # Eye & Vision Issues in Rabbits
 
 Eye issues are an extremely common problem in pet rabbits, but they are very often a symptom of a problem elsewhere in the body. A weepy or runny eye in a rabbit is rarely just a simple eye infection; more often than not, it is a direct consequence of **dental disease**. Understanding this connection is one of the most critical aspects of rabbit healthcare.

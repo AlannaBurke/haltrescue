@@ -6,7 +6,7 @@ sidebar_label: Diabetes
 tags: [guinea pigs, diabetes, health, nutrition]
 ---
 
-![Gp Diabetes](/img/guinea-pigs/gp-diabetes.png)
+
 
 # Diabetes in Guinea Pigs
 
@@ -26,6 +26,8 @@ In a healthy guinea pig, the pancreas produces **insulin**, a hormone that allow
 - **Genetic predisposition** — some guinea pigs may be more susceptible
 - **Age** — older guinea pigs are at higher risk
 - **Chronic stress** — can affect hormonal balance and glucose regulation
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-diabetes.png" />
 
 ## Symptoms
 
@@ -83,6 +85,8 @@ Weighing your guinea pig weekly is one of the best ways to monitor their health.
 :::
 
 > For more on what guinea pigs should and shouldn't eat, see our [Nutrition Information](/docs/guinea-pigs/getting-started/nutrition-information) guide.
+
+
 
 ## References
 

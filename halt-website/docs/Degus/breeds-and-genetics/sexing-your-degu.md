@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [degus, sexing, reproductive health, breeding]
 ---
 
-![Degu Sexing Guide](/img/degus/degu-sexing-guide.png)
 
 # Sexing Your Pet Degu
 
@@ -25,6 +24,8 @@ To examine your degu, you can either hold them securely on their back or let the
 | :--- | :--- | :--- |
 | **Anogenital Gap** | **Present** (a clear space) | **Absent** (no space) |
 | **Openings** | Two distinctly separate openings | Appear very close together |
+
+<InfographicShare imageSrc="/img/degus/degu-sexing-guide.png" />
 
 ### Simple Rule: "If there's a gap, it's a chap!"
 

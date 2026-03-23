@@ -5,8 +5,6 @@ tags: [rescue, networking, veterinary, nonprofit, volunteers]
 description: "A guide for animal rescues on the importance of building a strong network of volunteers, foster homes, veterinary partners, and community supporters."
 ---
 
-![Kawaii illustration of a rescue community network connecting vets, fosters, donors, and volunteers](/img/rescue-resources/establish-your-network.png)
-
 # Establish Your Network: The Power of Community
 
 No rescue can succeed as an island. A successful animal rescue is not just an organization; it's a hub at the center of a compassionate community. Building and nurturing a robust network of volunteers, fosters, and professional partners is as critical as any other aspect of your operation. This network provides the manpower, resources, and support system needed to save lives.

@@ -5,11 +5,13 @@ tags: [rats, housing, enrichment, health, bonding]
 description: "A well-designed habitat is crucial for the health, happiness, and safety of your pet rats. As active, intelligent, and social creatures, they need a space that supports their natural behaviors like..."
 ---
 
-![Rat Habitat Guide](/img/rats/rat-habitat-guide.png)
+
 
 # Creating the Ideal Habitat for Your Pet Rats
 
 A well-designed habitat is crucial for the health, happiness, and safety of your pet rats. As active, intelligent, and social creatures, they need a space that supports their natural behaviors like climbing, burrowing, and exploring. This guide will walk you through the key components of an ideal rat habitat.
+
+<InfographicShare imageSrc="/img/rats/rat-habitat-guide.png" />
 
 ## Choosing the Right Cage
 
@@ -47,7 +49,10 @@ Boredom can lead to stress and behavioral problems. A constantly changing and st
 
 Where you place the cage is also important. Keep it in a temperature-controlled room, away from direct sunlight, drafts, and loud noises. Rats are sensitive to high temperatures and can suffer from heatstroke at temperatures above 80°F (27°C) [2].
 
+
+
 ## References
+
 
 [1] [Housing Rodents](https://vcahospitals.com/know-your-pet/rodents-housing) — VCA Animal Hospitals, Unknown
 

@@ -6,7 +6,6 @@ sidebar_position: 2
 tags: [hedgehogs, sexing, reproductive health, breeding]
 ---
 
-![Hedgehog Sexing Guide](/img/hedgehogs/hedgehog-sexing-guide.png)
 
 # Sexing Your Pet Hedgehog
 
@@ -24,6 +23,8 @@ The easiest and most reliable way to determine the sex of a hedgehog is to look 
 | :--- | :--- | :--- |
 | **"Belly Button"** | **Present** (this is the penile sheath) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly next to the anus |
+
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-sexing-guide.png" />
 
 ## How to Check
 

@@ -5,8 +5,6 @@ tags: [gerbil care, gerbil safety, dangerous treats, dangerous toys, gerbil diet
 description: "A guide to dangerous treats and toys for gerbils, highlighting the risks of high-water-content foods, sugary treats, and unsafe chew toys like plastic and certain woods."
 ---
 
-<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for gerbils" />
-
 # Dangerous Treats and Toys for Gerbils
 
 Gerbils are hardy desert animals with a digestive system adapted to a dry, seed-based diet. They are also prolific chewers and burrowers. While they are generally less sensitive than some other small pets, there are still important safety considerations regarding their treats and toys to prevent digestive upset and other health problems.

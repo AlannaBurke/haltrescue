@@ -6,8 +6,6 @@ sidebar_position: 7
 tags: [degus, handling, taming, bonding, tail slip]
 ---
 
-<InfographicShare imageSrc="/img/degus/degu-handling.png" alt="Handling a degu" />
-
 # Proper Handling of Pet Degus
 
 Degus are curious and intelligent animals that can become very tame with gentle and consistent handling. As prey animals, they are naturally wary, so building trust is the key to a positive handling experience. There is also one critically important safety rule when it comes to handling a degu.

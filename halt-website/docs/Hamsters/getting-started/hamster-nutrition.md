@@ -5,11 +5,16 @@ description: "Providing a proper diet is fundamental to your hamster's health. H
 tags: [hamsters, nutrition, getting started]
 ---
 
-<InfographicShare imageSrc="/img/hamsters/hamster-nutrition-guide.png" />
 
 # Hamster Nutrition
 
 Providing a proper diet is fundamental to your hamster's health. Hamsters are omnivores and require a balanced diet of pellets, supplemented with small amounts of fresh foods. Understanding what to feed—and what to avoid—is key to preventing obesity and other health issues.
+
+<InfographicShare
+  imageSrc="/img/hamsters/hamster-nutrition-guide.png"
+  alt="An infographic detailing the proper diet for hamsters, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
+  title="Hamster Nutrition Guide Infographic"
+/>
 
 ## Staple Diet: Pellets are Best
 

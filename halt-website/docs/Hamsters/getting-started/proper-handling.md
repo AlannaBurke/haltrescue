@@ -6,8 +6,6 @@ sidebar_position: 7
 tags: [hamsters, handling, taming, bonding]
 ---
 
-<InfographicShare imageSrc="/img/hamsters/hamster-handling.png" alt="Handling a hamster" />
-
 # Proper Handling of Pet Hamsters
 
 Hamsters are naturally timid prey animals, and earning their trust is a gradual process that requires patience and a gentle approach. Learning how to handle your hamster correctly is the key to building a strong, positive bond and ensuring they feel safe and secure in your care. [1]

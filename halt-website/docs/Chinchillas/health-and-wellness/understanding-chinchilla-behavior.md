@@ -5,11 +5,11 @@ tags: [chinchillas, behavior, bonding, health, enrichment, body language]
 description: "Chinchillas are active, curious animals with a surprisingly rich behavioral repertoire. They are crepuscular — most active at dawn and dusk — and can live for 15 years or more."
 ---
 
-![Chinchilla Behavior Guide](/img/chinchillas/chinchilla-behavior-guide.png)
-
 # Understanding Chinchilla Behavior: A Guide for Owners
 
 Chinchillas are active, curious animals with a surprisingly rich behavioral repertoire. They are crepuscular — most active at dawn and dusk — and can live for 15 years or more, making understanding their behavior a long-term investment in your relationship. Chinchillas are prey animals and can be cautious with new people, but with patience they become wonderfully interactive companions.
+
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-behavior-guide.png" />
 
 ## Common Chinchilla Body Language
 

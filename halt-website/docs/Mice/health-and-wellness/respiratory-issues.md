@@ -4,8 +4,6 @@ tags: [mice, respiratory infection, mycoplasma]
 description: "An in-depth look at chronic respiratory disease in pet mice, caused by Mycoplasma pulmonis, covering the signs, triggers, and management of this common and persistent condition."
 ---
 
-<InfographicShare imageSrc="/img/mice/mouse-respiratory-health.png" />
-
 # Respiratory Issues in Mice (Mycoplasmosis)
 
 Respiratory disease is the most common and significant health problem affecting pet mice. The vast majority of these infections are caused by a bacterium called ***Mycoplasma pulmonis***. It is so pervasive in the pet mouse population that it's assumed nearly all fancy mice are born already carrying the organism.

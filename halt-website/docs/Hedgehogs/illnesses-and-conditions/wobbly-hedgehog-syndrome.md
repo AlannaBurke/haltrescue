@@ -4,8 +4,6 @@ tags: [hedgehogs, neurological, neurological disease]
 description: "An in-depth guide to Wobbly Hedgehog Syndrome (WHS), a progressive, degenerative neurological disease in hedgehogs, covering its signs, progression, and the current understanding of the condition."
 ---
 
-![Hedgehog Wobbly Syndrome](/img/hedgehogs/hedgehog-wobbly-syndrome.png)
-
 # Wobbly Hedgehog Syndrome (WHS)
 
 Wobbly Hedgehog Syndrome (WHS) is a progressive, degenerative neurological disease that affects African Pygmy Hedgehogs. It is a devastating and, at present, incurable condition that gradually leads to complete paralysis. The disease is similar in nature to Multiple Sclerosis (MS) in humans.

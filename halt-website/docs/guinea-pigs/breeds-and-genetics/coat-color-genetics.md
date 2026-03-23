@@ -49,6 +49,7 @@ This **RnRn** combination results in a condition known as "lethal white syndrome
 *   **Shortened Lifespan:** Most lethal white pups die shortly after birth or must be humanely euthanized.
 
 <figure>
+    <img src="/img/guinea-pigs/gp-lethal-white-punnett.png" alt="A Punnett square diagram showing the 25% chance of producing a lethal white pup when breeding two roan guinea pigs."/>
     <figcaption>This Punnett square illustrates the genetic probability of producing a lethal white (RR), a roan carrier (Rr), and a non-roan (rr) from a roan-to-roan breeding.</figcaption>
 </figure>
 

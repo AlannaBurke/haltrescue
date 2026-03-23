@@ -4,8 +4,6 @@ tags: [hamsters, dental disease]
 description: "A guide to dental health in hamsters, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the importance of providing appropriate chew toys."
 ---
 
-<InfographicShare imageSrc="/img/hamsters/hamster-dental-health.png" />
-
 # Dental Health in Hamsters
 
 Proper dental health is vital for a hamster's well-being and is centered around their four incisors (front teeth). Like all rodents, a hamster's incisors grow continuously throughout their life. This requires them to constantly gnaw on hard materials to wear their teeth down and maintain a proper length. Failure to do so can lead to painful and serious health complications.
@@ -22,6 +20,8 @@ The primary dental problem in hamsters is **malocclusion**, which is the misalig
 *   **Genetics:** Some hamsters may be born with a misaligned jaw that predisposes them to dental issues.
 *   **Trauma:** A fall or a fight can fracture a tooth or injure the jaw, causing the teeth to grow at an improper angle.
 *   **Cage Bar Chewing:** Obsessively chewing on the metal bars of a wire cage can lead to tooth breakage or misalignment.
+
+
 
 ## Signs of Dental Problems
 

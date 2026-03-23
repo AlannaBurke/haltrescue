@@ -4,8 +4,6 @@ tags: [chinchillas, parasites, ringworm]
 description: "A guide to parasites in chinchillas, covering common internal parasites like Giardia and external parasites like fleas and mites, as well as the fungal infection ringworm."
 ---
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-parasites-health.png" />
-
 # Parasites in Chinchillas
 
 Thanks to their incredibly dense fur, chinchillas are naturally resistant to most common external parasites like fleas and mites. It is very difficult for these tiny pests to navigate the thick coat and reach the skin. However, chinchillas can still be affected by certain internal parasites and fungal infections, which can cause significant health problems.

@@ -6,7 +6,7 @@ sidebar_label: Heat Stroke
 tags: [chinchillas, emergency, health]
 ---
 
-![Chinchilla Heat Stroke](/img/chinchillas/chinchilla-heat-stroke.png)
+
 
 # Heat Stroke in Chinchillas
 
@@ -37,6 +37,8 @@ Heat stroke in chinchillas can progress from mild distress to collapse within mi
 | **Early** | Rapid breathing, panting, drooling, restlessness |
 | **Moderate** | Red or hot ears, lying flat, lethargy, glazed eyes |
 | **Severe** | Seizures, loss of consciousness, unresponsiveness |
+
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-heat-stroke.png" />
 
 ## Emergency First Aid
 
@@ -79,6 +81,8 @@ Freeze a ceramic tile or a small water bottle wrapped in a cloth and place it in
 :::
 
 > For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
+
+
 
 ## References
 

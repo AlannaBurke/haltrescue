@@ -4,8 +4,6 @@ tags: [ferrets, adrenal disease, hair loss, cancer]
 description: "An in-depth guide to adrenal gland disease in ferrets, a common and serious condition characterized by hair loss, discussing its causes, signs, diagnosis, and treatment options."
 ---
 
-![Ferret Adrenal Disease](/img/ferrets/ferret-adrenal-disease.png)
-
 # Adrenal Gland Disease in Ferrets
 
 Adrenal gland disease is one of the most common and serious health problems affecting pet ferrets, particularly in North America. It is a complex condition, often considered a type of cancer, that involves the overproduction of sex hormones by the adrenal glands. It is fundamentally different from adrenal diseases seen in other animals like dogs (Cushing's disease).

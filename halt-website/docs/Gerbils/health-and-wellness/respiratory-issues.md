@@ -4,8 +4,6 @@ tags: [gerbils, respiratory infection, cancer]
 description: "A guide to respiratory infections in gerbils, covering the common causes, signs of illness, and the importance of a clean, well-ventilated environment and proper bedding for prevention."
 ---
 
-<InfographicShare imageSrc="/img/gerbils/gerbil-respiratory-health.png" />
-
 # Respiratory Issues in Gerbils
 
 Gerbils are desert animals adapted to a dry climate, and they are generally quite healthy. However, they can develop respiratory infections, which are often tied to their environment. A simple upper respiratory infection (URI) can become serious if it progresses to pneumonia, so it's important for owners to recognize the signs and understand the preventative measures.

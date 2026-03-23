@@ -5,8 +5,6 @@ tags: [guinea pigs, respiratory infection, health, veterinary, rabbits]
 description: "Bordetella bronchiseptica is a bacterium that causes respiratory disease in a variety of animals. While it is most commonly known as a cause of 'kennel cough' in dogs, it can be a life-threatening..."
 ---
 
-![Gp Bordetella Warning](/img/guinea-pigs/gp-bordetella-warning.png)
-
 # Bordetella in Guinea Pigs
 
 *Bordetella bronchiseptica* is a bacterium that causes respiratory disease in a variety of animals. While it is most commonly known as a cause of "kennel cough" in dogs, it can be a life-threatening pathogen for guinea pigs. An infection can progress rapidly from mild respiratory signs to severe pneumonia, making it a true veterinary emergency. Understanding the risks, signs, and prevention strategies is crucial for every guinea pig owner.
@@ -18,6 +16,8 @@ Guinea pigs can contract *Bordetella* from other animals, which is a primary rea
 *   **From Rabbits:** Rabbits can often carry *Bordetella bronchiseptica* without showing any signs of illness themselves. This makes them asymptomatic carriers that can easily transmit the bacteria to a guinea pig. For this reason, it is **not recommended to house rabbits and guinea pigs together** [1].
 *   **From Dogs:** Dogs with kennel cough can easily transmit the bacteria to guinea pigs through respiratory droplets.
 *   **From Other Guinea Pigs:** The bacteria can spread quickly between guinea pigs through direct contact or airborne droplets.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-bordetella-warning.png" />
 
 ## Signs of a Bordetella Infection
 

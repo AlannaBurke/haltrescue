@@ -6,8 +6,6 @@ sidebar_position: 7
 tags: [hedgehogs, handling, taming, bonding]
 ---
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-handling.png" alt="Handling a hedgehog" />
-
 # Proper Handling of Pet Hedgehogs
 
 Handling a pet hedgehog can be intimidating at first. Their sharp quills are a formidable defense, but with patience and the right technique, you can build a strong bond with your spiky friend. The key is to teach your hedgehog to trust you and to handle them with confidence.

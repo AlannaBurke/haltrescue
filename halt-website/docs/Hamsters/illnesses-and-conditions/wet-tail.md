@@ -1,10 +1,8 @@
 ---
 sidebar_label: Wet Tail
-tags: [hamsters, gi health, diarrhea]
+tags: [hamsters, GI health, diarrhea]
 description: "An essential guide to wet tail in hamsters, a serious and often fatal diarrheal disease, explaining its causes, signs, and the critical need for immediate veterinary action."
 ---
-
-![Hamster Wet Tail](/img/hamsters/hamster-wet-tail.png)
 
 # Wet Tail in Hamsters
 

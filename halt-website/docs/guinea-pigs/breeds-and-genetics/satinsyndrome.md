@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Satin Syndrome'
 sidebar_position: 6
-tags: [guinea pig, satin syndrome, genetic, breeding, special needs, care]
+tags: [guinea pigs, satin syndrome, genetics, breeding, special needs, care]
 ---
 
 # Satin Syndrome in Guinea Pigs
@@ -13,7 +13,7 @@ If you’re a guinea pig owner or enthusiast, it’s crucial to be aware of the 
 In this post, we’ll explore what Satin Syndrome is, the signs and symptoms to watch for, and how it can be managed to ensure your guinea pig lives a comfortable life.
 
 <figure>
-    ![Satin guinea pig](/img/guinea-pigs/satinpig.jpg "Satin guinea pig")  
+    ![Satin guinea pigs](/img/guinea-pigs/satinpig.jpg "Satin guinea pig")  
     <figcaption>Satin guinea pig</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Unfortunately, there is no cure for Satin Syndrome, but with the right care and 
 
 ## Can Satin Syndrome Be Prevented?
 
-There’s no surefire way to prevent Satin Syndrome, as it appears to be linked to genetics and the unique coat type of satin guinea pigs. If you are adopting or purchasing a guinea pig, it’s important to ask about the breeding practices of the seller. Reputable breeders will avoid breeding satins that show signs of osteodystrophy to reduce the likelihood of passing on the condition.
+There’s no surefire way to prevent Satin Syndrome, as it appears to be linked to genetics and the unique coat type of satin guinea pigs. If you are adopting or purchasing a guinea pigs, it’s important to ask about the breeding practices of the seller. Reputable breeders will avoid breeding satins that show signs of osteodystrophy to reduce the likelihood of passing on the condition.
 
 ## Final Thoughts
 

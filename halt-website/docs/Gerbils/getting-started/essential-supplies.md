@@ -6,8 +6,6 @@ sidebar_position: 2
 tags: [gerbils, supplies, getting started]
 ---
 
-<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for gerbils" />
-
 # Essential Supplies for Pet Gerbils
 
 Gerbils are active, social, and curious rodents with a powerful instinct to dig and chew. Setting up their habitat correctly from the start is the key to a happy and healthy life. This checklist covers all the essential items you’ll need to welcome your new gerbils home.

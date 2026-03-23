@@ -5,8 +5,6 @@ tags: [hedgehogs, getting started, cost]
 description: "Hedgehogs are unique, fascinating animals with big personalities packed into a small, spiny package. They are not cuddly in the traditional sense — most hedgehogs take time to warm up to handling,..."
 ---
 
-![Is A Hedgehog Right For Me](/img/hedgehogs/is-a-hedgehog-right-for-me.png)
-
 # Is a Hedgehog Right for Me and My Family?
 
 <InfographicShare

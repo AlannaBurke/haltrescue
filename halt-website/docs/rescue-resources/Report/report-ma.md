@@ -4,8 +4,6 @@ sidebar_position: 2
 tags: [rescue, nonprofit]
 ---
 
-![Kawaii illustration of a rabbit in a pet store with a caring advocate in Massachusetts](/img/rescue-resources/report-ma.png)
-
 # Report Pet Store Neglect in Massachusetts
 
 ## **1\. Who investigates animal cruelty in Massachusetts?**

@@ -4,8 +4,6 @@ tags: [ferrets, cancer]
 description: "An in-depth guide to lymphoma, the most common cancer in ferrets, covering its different forms (juvenile and adult), signs, diagnosis, and chemotherapy treatment."
 ---
 
-![Ferret Lymphoma](/img/ferrets/ferret-lymphoma.png)
-
 # Lymphoma in Ferrets
 
 Lymphoma (also called lymphosarcoma) is the most common cancer diagnosed in ferrets. It is a cancer of the lymphocytes, a type of white blood cell that is a key component of the immune system. Because lymphocytes travel throughout the entire body, this cancer can arise in almost any organ. It can affect ferrets of any age, but it presents in two general forms: juvenile lymphoma in ferrets under one year of age, and adult-onset lymphoma, which is more common.

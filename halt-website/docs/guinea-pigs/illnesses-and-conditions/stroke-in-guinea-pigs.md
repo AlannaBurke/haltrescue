@@ -5,11 +5,13 @@ description: Understanding strokes in guinea pigs — causes, symptoms, emergenc
 tags: [guinea pigs, neurological, health, emergency]
 ---
 
-![Gp Stroke](/img/guinea-pigs/gp-stroke.png)
+
 
 # Stroke in Guinea Pigs
 
 A stroke occurs when blood flow to part of the brain is suddenly interrupted, either by a blockage (ischemic stroke) or a burst blood vessel (hemorrhagic stroke). Strokes can occur in guinea pigs, though they are relatively uncommon. When they do happen, they can be frightening for owners and require prompt veterinary attention.
+
+<InfographicShare imageSrc="/img/guinea-pigs/gp-stroke.png" />
 
 ## What Is a Stroke?
 
@@ -88,6 +90,8 @@ Recovery from a stroke varies widely depending on severity and the area of the b
 - **Underlying cause** — if an underlying condition can be treated, recovery is more likely
 
 Many guinea pigs with mild strokes can go on to live comfortable lives with some adaptations to their environment (lower enclosure sides, soft bedding, easy access to food and water).
+
+
 
 ## References
 

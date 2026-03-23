@@ -4,8 +4,6 @@ sidebar_position: 1
 description: "By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster."
 tags: [emergency preparedness, safety]
 ---
-
-<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />
 # Emergency Preparedness
 
 ## 1. Create an Emergency Plan
@@ -48,9 +46,11 @@ tags: [emergency preparedness, safety]
 
 ## [>Download our Emergency Preparedness Printable Checklist](pathname:///emergencychecklist.pdf)
 
+
 By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster.
 
 ---
 
 ## Quick Reference: Emergency Preparedness Infographic
 
+<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />

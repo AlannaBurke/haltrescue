@@ -6,8 +6,6 @@ sidebar_position: 1
 tags: [mice, health, wellness, home health check, veterinary]
 ---
 
-<InfographicShare imageSrc="/img/mice/mouse-home-care.png" />
-
 # Home Health Care for Pet Mice
 
 Pet mice are small and can be masters of hiding illness, a natural instinct for a prey animal. Because of this, conducting regular health checks at home is a vital part of responsible mouse care. By performing a quick check every few days, you will become familiar with what is normal for your mice, making it easier to spot subtle signs of a problem before it becomes serious. [1]

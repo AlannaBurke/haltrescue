@@ -4,8 +4,6 @@ sidebar_position: 6
 tags: [rescue, nonprofit]
 ---
 
-![Kawaii illustration of a chinchilla in a pet store with a caring advocate in Pennsylvania](/img/rescue-resources/report-pa.png)
-
 # Report Pet Store Neglect in Pennsylvania
 
 ## **1\. Oversight & jurisdiction for small animals in Pennsylvania**
