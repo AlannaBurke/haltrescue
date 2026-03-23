@@ -6,6 +6,8 @@ sidebar_label: Heat Stroke
 tags: [chinchillas, emergency, health]
 ---
 
+![Chinchilla Heat Stroke](/img/chinchillas/chinchilla-heat-stroke.png)
+
 
 
 # Heat Stroke in Chinchillas

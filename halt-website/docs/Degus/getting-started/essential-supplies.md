@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [degus, supplies, getting started]
 ---
 
+![Common Health Issues](/img/degus/common-health-issues.png)
+
 # Essential Supplies for Pet Degus
 
 Degus are intelligent, social, and highly active rodents that require a specific environment to thrive. Their powerful chewing instincts and unique dietary needs mean that setting up their home correctly is crucial. This checklist covers the essential supplies you'll need to create the perfect degu habitat.

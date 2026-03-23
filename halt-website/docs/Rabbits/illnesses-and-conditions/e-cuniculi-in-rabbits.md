@@ -5,6 +5,8 @@ description: A comprehensive guide to Encephalitozoon cuniculi in rabbits — tr
 tags: [rabbits, neurological, parasites, health]
 ---
 
+![Rabbit Ecuniculi](/img/rabbits/rabbit-ecuniculi.png)
+
 
 
 # E. cuniculi in Rabbits

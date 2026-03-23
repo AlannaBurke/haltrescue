@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [chinchillas, diabetes, health, nutrition]
 ---
 
+![Chinchilla Diabetes](/img/chinchillas/chinchilla-diabetes.png)
+
 
 
 # Diabetes in Chinchillas

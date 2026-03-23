@@ -5,6 +5,8 @@ description: "It's getting warmer - here are some tips to help your small pets s
 tags: [emergency preparedness, emergency, safety]
 ---
 
+![Beat The Heat](/img/general-care/beat-the-heat.png)
+
 # Help Your Small Pets Beat the Heat
 
 It's getting warmer - here are some tips to help your small pets stay cool and comfortable in the heat. 

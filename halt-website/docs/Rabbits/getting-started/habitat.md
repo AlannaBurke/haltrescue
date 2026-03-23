@@ -6,6 +6,8 @@ sidebar_position: 4
 tags: [rabbits, housing, enrichment]
 ---
 
+![Common Health Issues](/img/rabbits/common-health-issues.png)
+
 # Habitat for Pet Rabbits
 
 Creating the right living environment is fundamental to a rabbit's health and happiness. Rabbits are active and curious animals that need plenty of space to run, jump, and explore. The traditional small cage or hutch is not a suitable full-time home. Instead, think of their enclosure as a "home base" within a larger, rabbit-proofed area. [1]

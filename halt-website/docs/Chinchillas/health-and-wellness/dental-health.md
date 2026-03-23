@@ -4,6 +4,8 @@ tags: [chinchillas, dental disease]
 description: "A detailed guide to dental disease in chinchillas, covering the causes of malocclusion, recognizing the signs of dental problems, and the critical role of a high-hay diet in prevention."
 ---
 
+![Chinchilla Dental Disease](/img/chinchillas/chinchilla-dental-disease.png)
+
 # Dental Health in Chinchillas
 
 Dental disease, broadly termed malocclusion, is the single most common and serious health issue affecting pet chinchillas. It is a painful, progressive, and ultimately fatal condition if not managed properly. Understanding the unique nature of chinchilla teeth is the first step for any owner to prevent this devastating disease.

@@ -5,6 +5,8 @@ description: A guide to ear infections in rabbits — types, causes, symptoms, d
 tags: [rabbits, ear health, health]
 ---
 
+![Rabbit Ear Infection](/img/rabbits/rabbit-ear-infection.png)
+
 
 
 # Ear Infections in Rabbits

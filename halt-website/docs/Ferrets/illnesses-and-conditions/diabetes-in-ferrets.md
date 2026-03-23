@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [ferrets, diabetes, cancer, metabolic disease, health]
 ---
 
+![Ferret Diabetes](/img/ferrets/ferret-diabetes.png)
+
 
 
 # Understanding Diabetes in Ferrets

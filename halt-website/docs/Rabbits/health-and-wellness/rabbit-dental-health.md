@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [rabbits, dental disease, health]
 ---
 
+![Common Health Issues](/img/rabbits/common-health-issues.png)
+
 
 
 # A Guide to Rabbit Dental Health

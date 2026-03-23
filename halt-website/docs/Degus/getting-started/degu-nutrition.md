@@ -5,6 +5,8 @@ description: "Proper nutrition is the most critical aspect of degu care. Degus h
 tags: [degus, nutrition, getting started]
 ---
 
+![Degu Nutrition](/img/degus/degu-nutrition.png)
+
 
 # Degu Nutrition
 

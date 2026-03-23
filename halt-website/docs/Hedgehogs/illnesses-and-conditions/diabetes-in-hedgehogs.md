@@ -5,6 +5,8 @@ description: A comprehensive guide to diabetes in hedgehogs — causes, signs, d
 tags: [hedgehogs, diabetes, health, metabolic disease]
 ---
 
+![Hedgehog Diabetes](/img/hedgehogs/hedgehog-diabetes.png)
+
 
 
 # Diabetes in Hedgehogs

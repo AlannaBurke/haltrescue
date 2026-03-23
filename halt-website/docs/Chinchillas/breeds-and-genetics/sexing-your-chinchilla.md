@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [chinchillas, sexing, reproductive health, breeding]
 ---
 
+![Chinchilla Sexing Guide](/img/chinchillas/chinchilla-sexing-guide.png)
+
 
 # Sexing Your Pet Chinchilla
 

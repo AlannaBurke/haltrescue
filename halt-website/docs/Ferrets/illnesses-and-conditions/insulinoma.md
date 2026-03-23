@@ -4,6 +4,8 @@ tags: [ferrets, cancer, low blood sugar, diabetes]
 description: "An in-depth guide to insulinoma in ferrets, a common pancreatic cancer that causes dangerously low blood sugar, covering the signs, emergency care, diagnosis, and treatment."
 ---
 
+![Ferret Insulinoma](/img/ferrets/ferret-insulinoma.png)
+
 # Insulinoma in Ferrets
 
 Insulinoma is one of the most common types of cancer to affect ferrets, particularly those over the age of 3. It is a tumor (or multiple small tumors) of the beta cells in the pancreas. These are the cells that produce insulin. The tumors produce a massive excess of insulin, which causes the ferret's blood sugar (glucose) level to drop dangerously low. This condition is called **hypoglycemia**.

@@ -6,6 +6,8 @@ sidebar_label: Giardia
 tags: [guinea pigs, parasites, diarrhea, health]
 ---
 
+![Gp Giardia](/img/guinea-pigs/gp-giardia.png)
+
 
 
 # Giardia in Guinea Pigs

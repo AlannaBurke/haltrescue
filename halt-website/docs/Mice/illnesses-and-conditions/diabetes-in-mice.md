@@ -5,6 +5,8 @@ description: A guide to diabetes in pet mice — causes, symptoms, diagnosis, an
 tags: [mice, diabetes, health, metabolic disease]
 ---
 
+![Mouse Diabetes](/img/mice/mouse-diabetes.png)
+
 
 
 # Diabetes in Pet Mice

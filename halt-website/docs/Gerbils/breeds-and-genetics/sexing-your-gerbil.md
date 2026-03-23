@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [gerbils, sexing, reproductive health, breeding]
 ---
 
+![Gerbil Sexing Guide](/img/gerbils/gerbil-sexing-guide.png)
+
 
 # Sexing Your Pet Gerbil
 

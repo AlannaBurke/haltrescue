@@ -5,6 +5,8 @@ description: A comprehensive guide to internal and external parasites in guinea 
 tags: [guinea pigs, parasites, health]
 ---
 
+![Gp Parasites](/img/guinea-pigs/gp-parasites.png)
+
 
 
 # Parasites in Guinea Pigs

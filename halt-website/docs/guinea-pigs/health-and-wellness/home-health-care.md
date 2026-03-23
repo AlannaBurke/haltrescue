@@ -5,6 +5,8 @@ tags: [guinea pigs, home health check, health, getting started, grooming, veteri
 description: "Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can..."
 ---
 
+![Gp Home Health Kit](/img/guinea-pigs/gp-home-health-kit.png)
+
 # Home Health Care for Your Guinea Pig: A Helping All Little Things Guide
 
 Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can do as a guinea pig owner. It allows you to spot potential problems early, manage routine care, and know when it's time to call the vet.

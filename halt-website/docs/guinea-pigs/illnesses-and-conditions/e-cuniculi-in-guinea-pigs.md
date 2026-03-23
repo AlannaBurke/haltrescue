@@ -6,6 +6,8 @@ sidebar_label: E. cuniculi
 tags: [guinea pigs, neurological, parasites, health]
 ---
 
+![Gp Ecuniculi](/img/guinea-pigs/gp-ecuniculi.png)
+
 
 
 # E. cuniculi in Guinea Pigs

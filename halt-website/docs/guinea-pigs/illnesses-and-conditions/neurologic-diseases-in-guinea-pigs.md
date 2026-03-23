@@ -6,6 +6,8 @@ sidebar_label: Neurologic Diseases
 tags: [guinea pigs, neurological, health]
 ---
 
+![Gp Neurologic Diseases](/img/guinea-pigs/gp-neurologic-diseases.png)
+
 
 
 # Neurologic Diseases in Guinea Pigs

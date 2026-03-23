@@ -4,6 +4,8 @@ tags: [hamsters, eye health]
 description: "A guide to common eye and vision issues in hamsters, including infections, age-related problems like cataracts, and serious conditions like glaucoma."
 ---
 
+![Common Health Issues](/img/hamsters/common-health-issues.png)
+
 # Eye & Vision Issues in Hamsters
 
 Eye problems are a common ailment in hamsters, especially as they age. A healthy hamster's eyes should be bright, clear, and fully open. Any signs of discharge, swelling, or cloudiness should be investigated, as they can indicate anything from a simple infection to a more serious underlying condition.

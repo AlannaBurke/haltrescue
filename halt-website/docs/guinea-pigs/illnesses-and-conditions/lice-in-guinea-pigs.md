@@ -6,6 +6,8 @@ sidebar_label: Lice
 tags: [guinea pigs, parasites, skin health, health]
 ---
 
+![Gp Lice](/img/guinea-pigs/gp-lice.png)
+
 
 
 # Lice in Guinea Pigs

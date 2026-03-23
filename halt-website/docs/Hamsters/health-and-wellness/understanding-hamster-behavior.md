@@ -5,6 +5,8 @@ tags: [hamsters, behavior, bonding, health, enrichment, body language]
 description: "Hamsters are solitary, nocturnal animals with a fascinating range of behaviors. Learning to read their body language is essential for building trust and keeping them healthy."
 ---
 
+![Hamster Behavior Guide](/img/hamsters/hamster-behavior-guide.png)
+
 # Understanding Hamster Behavior: A Guide for Owners
 
 Hamsters are solitary, nocturnal animals with a fascinating range of behaviors. Because they are most active at night and spend much of the day sleeping, many owners miss important behavioral cues. Learning to read your hamster's body language is essential for building trust and keeping them healthy.

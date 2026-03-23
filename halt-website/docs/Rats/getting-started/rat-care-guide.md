@@ -4,6 +4,8 @@ sidebar_position: 6
 tags: [rats, health, veterinary, nutrition, behavior, housing]
 ---
 
+![Rat Behavior Guide](/img/rats/rat-behavior-guide.png)
+
 
 
 # A Comprehensive Guide to Rat Care

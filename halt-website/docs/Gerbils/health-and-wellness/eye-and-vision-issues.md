@@ -4,6 +4,8 @@ tags: [gerbils, eye health, respiratory infection]
 description: "A guide to common eye and vision issues in gerbils, explaining the significance of porphyrin (red tears), the causes of eye infections, and how to prevent irritation."
 ---
 
+![Common Health Issues](/img/gerbils/common-health-issues.png)
+
 # Eye & Vision Issues in Gerbils
 
 Eye issues in gerbils are common and are often linked to either environmental irritation or as a secondary sign of stress or illness. Healthy gerbil eyes should be bright, clear, and free of any discharge. Any deviation from this, such as redness, swelling, or crustiness, warrants a closer look.

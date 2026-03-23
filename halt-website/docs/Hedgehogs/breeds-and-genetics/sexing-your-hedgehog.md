@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [hedgehogs, sexing, reproductive health, breeding]
 ---
 
+![Hedgehog Sexing Guide](/img/hedgehogs/hedgehog-sexing-guide.png)
+
 
 # Sexing Your Pet Hedgehog
 

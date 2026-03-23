@@ -6,6 +6,8 @@ sidebar_position: 3
 tags: [gerbils, grooming, coat]
 ---
 
+![Gerbil Behavior Guide](/img/gerbils/gerbil-behavior-guide.png)
+
 # Grooming Your Pet Gerbil
 
 Gerbils are fastidiously clean animals that spend a great deal of time grooming themselves and each other. As a result, they require very little grooming intervention from their owners. However, there are a few things you can do to support their natural hygiene.

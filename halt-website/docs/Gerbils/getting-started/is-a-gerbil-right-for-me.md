@@ -5,6 +5,8 @@ description: "Gerbils are curious, active, and social animals that can make wond
 tags: [gerbils, getting started, care commitment]
 ---
 
+![Is A Gerbil Right For Me](/img/gerbils/is-a-gerbil-right-for-me.png)
+
 
 # Is a Gerbil Right for You?
 

@@ -4,6 +4,8 @@ tags: [degus, respiratory infection]
 description: "A guide to respiratory infections in degus, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 
+![Common Health Issues](/img/degus/common-health-issues.png)
+
 # Respiratory Issues in Degus
 
 Degus are generally hardy rodents, but they can be susceptible to upper respiratory infections (URIs) and pneumonia. These conditions are often linked to environmental factors, such as poor ventilation or dusty bedding. Because a simple cold can quickly progress to life-threatening pneumonia, any sign of a respiratory problem in a degu should be taken seriously.

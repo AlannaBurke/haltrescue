@@ -6,6 +6,8 @@ sidebar_label: Diabetes
 tags: [guinea pigs, diabetes, health, nutrition]
 ---
 
+![Gp Diabetes](/img/guinea-pigs/gp-diabetes.png)
+
 
 
 # Diabetes in Guinea Pigs

@@ -5,6 +5,8 @@ description: "Creating the right environment is one of the most important things
 tags: [gerbils, housing, getting started]
 ---
 
+![Gerbil Habitat](/img/gerbils/gerbil-habitat.png)
+
 
 # Gerbil Habitat
 

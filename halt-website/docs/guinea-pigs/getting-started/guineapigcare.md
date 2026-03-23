@@ -5,6 +5,8 @@ tags: [guinea pigs, getting started]
 description: "Plain, quality pellets are best for guinea pigs. Guinea pigs under 6 months old should be fed an Alfalfa pellet and hay-based diet. Do not feed your guinea pig any food with artificial coloring,..."
 ---
 
+![Gp Care Essentials](/img/guinea-pigs/gp-care-essentials.png)
+
 # Guinea Pig Care
 
 ## Food and Diet

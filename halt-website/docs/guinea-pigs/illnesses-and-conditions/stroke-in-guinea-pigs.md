@@ -5,6 +5,8 @@ description: Understanding strokes in guinea pigs — causes, symptoms, emergenc
 tags: [guinea pigs, neurological, health, emergency]
 ---
 
+![Gp Stroke](/img/guinea-pigs/gp-stroke.png)
+
 
 
 # Stroke in Guinea Pigs

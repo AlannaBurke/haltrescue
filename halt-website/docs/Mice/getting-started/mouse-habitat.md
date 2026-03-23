@@ -5,6 +5,8 @@ description: "Mice are active, curious, and love to climb and explore. Their hab
 tags: [mice, housing, getting started]
 ---
 
+![Mouse Habitat Guide](/img/mice/mouse-habitat-guide.png)
+
 # Mouse Habitat
 
 Mice are active, curious, and love to climb and explore. Their habitat should be designed to accommodate these natural behaviors, providing plenty of space and enrichment to keep them happy and healthy.

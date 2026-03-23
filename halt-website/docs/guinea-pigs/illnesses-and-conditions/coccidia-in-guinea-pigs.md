@@ -6,6 +6,8 @@ sidebar_label: Coccidia
 tags: [guinea pigs, parasites, health]
 ---
 
+![Gp Coccidia](/img/guinea-pigs/gp-coccidia.png)
+
 
 
 # Coccidia in Guinea Pigs

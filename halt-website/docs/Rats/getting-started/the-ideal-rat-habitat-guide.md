@@ -5,6 +5,8 @@ tags: [rats, housing, enrichment, health, bonding]
 description: "A well-designed habitat is crucial for the health, happiness, and safety of your pet rats. As active, intelligent, and social creatures, they need a space that supports their natural behaviors like..."
 ---
 
+![Rat Habitat Guide](/img/rats/rat-habitat-guide.png)
+
 
 
 # Creating the Ideal Habitat for Your Pet Rats

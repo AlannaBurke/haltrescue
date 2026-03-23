@@ -4,6 +4,8 @@ tags: [hamsters, gi health, diarrhea]
 description: "An essential guide to wet tail in hamsters, a serious and often fatal diarrheal disease, explaining its causes, signs, and the critical need for immediate veterinary action."
 ---
 
+![Hamster Wet Tail](/img/hamsters/hamster-wet-tail.png)
+
 # Wet Tail in Hamsters
 
 "Wet tail" is a common term used to describe severe diarrhea in hamsters. However, true wet tail is a specific, highly contagious, and often fatal disease called **proliferative ileitis**. It is a bacterial infection that causes severe inflammation of the small intestine. This is one of the most serious and rapidly progressing illnesses a hamster can get, and it requires immediate veterinary intervention.

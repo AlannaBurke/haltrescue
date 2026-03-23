@@ -4,6 +4,8 @@ tags: [hedgehogs, eye health]
 description: "A guide to common eye and vision issues in hedgehogs, including infections, injuries, and the risk of eye proptosis (prolapse)."
 ---
 
+![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+
 # Eye & Vision Issues in Hedgehogs
 
 A hedgehog's eyesight is not their strongest sense; they rely much more on their acute sense of smell and hearing to navigate their world. However, their prominent, somewhat bulging eyes are susceptible to injury and infection. Healthy hedgehog eyes should be bright, dark, and clear. Any deviation from this, such as swelling, discharge, or cloudiness, requires attention.

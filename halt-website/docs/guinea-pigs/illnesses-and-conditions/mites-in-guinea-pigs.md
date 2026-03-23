@@ -6,6 +6,8 @@ sidebar_label: Mites
 tags: [guinea pigs, parasites, skin health, health]
 ---
 
+![Gp Mites](/img/guinea-pigs/gp-mites.png)
+
 
 
 # Mites in Guinea Pigs

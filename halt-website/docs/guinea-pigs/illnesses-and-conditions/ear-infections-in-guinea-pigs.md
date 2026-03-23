@@ -6,6 +6,8 @@ sidebar_label: Ear Infections
 tags: [guinea pigs, ear health, neurological, health]
 ---
 
+![Gp Ear Infection](/img/guinea-pigs/gp-ear-infection.png)
+
 
 
 # Ear Infections in Guinea Pigs

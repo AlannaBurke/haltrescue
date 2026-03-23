@@ -5,6 +5,8 @@ description: A guide to neurological conditions in rabbits — causes, symptoms,
 tags: [rabbits, neurological, health]
 ---
 
+![Rabbit Neurologic](/img/rabbits/rabbit-neurologic.png)
+
 
 
 # Neurologic Issues in Rabbits

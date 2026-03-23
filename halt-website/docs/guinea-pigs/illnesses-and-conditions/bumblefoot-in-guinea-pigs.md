@@ -6,6 +6,8 @@ sidebar_label: Bumblefoot (Pododermatitis)
 tags: [guinea pigs, bumblefoot, health, housing, heart disease]
 ---
 
+![Gp Bumblefoot](/img/guinea-pigs/gp-bumblefoot.png)
+
 
 
 # Bumblefoot in Guinea Pigs

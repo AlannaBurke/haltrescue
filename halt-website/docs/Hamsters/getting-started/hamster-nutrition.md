@@ -5,6 +5,8 @@ description: "Providing a proper diet is fundamental to your hamster's health. H
 tags: [hamsters, nutrition, getting started]
 ---
 
+![Hamster Nutrition](/img/hamsters/hamster-nutrition.png)
+
 
 # Hamster Nutrition
 

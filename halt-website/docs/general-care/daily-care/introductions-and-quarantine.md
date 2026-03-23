@@ -4,6 +4,8 @@ tags: [veterinary, bonding, getting started, health]
 description: "Learn the critical importance of quarantining new pets to prevent the spread of illness and the proper, gradual steps for introducing them to your resident animals to ensure a peaceful household."
 ---
 
+![Skin Parasites](/img/general-care/skin-parasites.png)
+
 # Proper Introduction and Quarantining of New Pets
 
 Bringing a new pet into a home with existing animals is an exciting time, but it requires careful planning and patience. To protect the health of your resident pets and ensure a smooth social transition, a strict quarantine period followed by a gradual introduction process is essential. Rushing this process is a common mistake that can lead to disease transmission and social conflict [1].

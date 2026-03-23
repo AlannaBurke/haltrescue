@@ -6,6 +6,8 @@ sidebar_label: Respiratory Infections
 tags: [chinchillas, respiratory infection, health]
 ---
 
+![Chinchilla Respiratory](/img/chinchillas/chinchilla-respiratory.png)
+
 
 
 # Respiratory Infections in Chinchillas

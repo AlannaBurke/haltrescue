@@ -5,6 +5,8 @@ description: "Hedgehogs are insectivores, meaning their natural diet consists pr
 tags: [hedgehogs, nutrition, getting started]
 ---
 
+![Hedgehog Nutrition](/img/hedgehogs/hedgehog-nutrition.png)
+
 
 # Hedgehog Nutrition
 

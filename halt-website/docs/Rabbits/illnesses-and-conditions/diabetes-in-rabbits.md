@@ -5,6 +5,8 @@ description: A comprehensive guide to diabetes in rabbits — causes, symptoms, 
 tags: [rabbits, diabetes, health, metabolic disease]
 ---
 
+![Rabbit Diabetes](/img/rabbits/rabbit-diabetes.png)
+
 
 
 # Diabetes in Pet Rabbits

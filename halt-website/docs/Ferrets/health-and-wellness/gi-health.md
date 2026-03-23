@@ -4,6 +4,8 @@ tags: [ferrets, gi health, gi obstruction, diarrhea, ece]
 description: "A guide to gastrointestinal (GI) health in ferrets, covering their unique digestive system and common issues like foreign body obstructions, vomiting, diarrhea, and ECE."
 ---
 
+![Common Health Issues](/img/ferrets/common-health-issues.png)
+
 # Gastrointestinal (GI) Health in Ferrets
 
 A ferret's gastrointestinal (GI) tract is short, simple, and built for speed. As obligate carnivores, they are designed to rapidly digest a diet of meat and fat. This unique physiology makes them prone to specific GI issues, particularly foreign body obstructions, and means that any signs of digestive upset should be taken seriously.

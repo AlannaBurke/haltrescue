@@ -4,6 +4,8 @@ tags: [emergency preparedness, getting started]
 description: "A comprehensive checklist and guide for preparing a pet sitter to care for your animals, ensuring a smooth, safe, and stress-free experience for everyone involved."
 ---
 
+![Emergency Preparedness](/img/general-care/emergency-preparedness.png)
+
 # Preparing a Sitter to Care for Your Pets
 
 Whether you're leaving for a weekend or an extended vacation, hiring a pet sitter is a great way to ensure your pets can stay in the comfort of their own home. However, a successful pet-sitting experience requires thorough preparation. Providing your sitter with clear, detailed information is the key to a safe and stress-free time for your pets, your sitter, and you [1].

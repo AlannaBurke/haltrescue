@@ -6,6 +6,8 @@ sidebar_position: 7
 tags: [mice, handling, taming, bonding]
 ---
 
+![Mouse Behavior Guide](/img/mice/mouse-behavior-guide.png)
+
 # Proper Handling of Pet Mice
 
 Earning the trust of a pet mouse is a rewarding experience that transforms them from a timid creature into a confident and interactive companion. Proper handling is built on a foundation of patience, consistency, and understanding a mouse's natural instincts as a prey animal. [1]

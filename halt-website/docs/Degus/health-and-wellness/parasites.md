@@ -4,6 +4,8 @@ tags: [degus, parasites, ringworm]
 description: "A guide to parasites affecting degus, including fleas, mites, and internal parasites, with a focus on prevention and safe treatment."
 ---
 
+![Common Health Issues](/img/degus/common-health-issues.png)
+
 # Parasites in Degus
 
 Degus are generally clean and robust animals, but they can be affected by both external and internal parasites. Infestations are often linked to environmental factors, such as contaminated bedding or contact with other animals. Prompt identification and treatment are key to preventing a minor issue from becoming a major health problem.

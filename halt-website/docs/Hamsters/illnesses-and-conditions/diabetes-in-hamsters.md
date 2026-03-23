@@ -5,6 +5,8 @@ description: A comprehensive guide to diabetes in hamsters — which breeds are 
 tags: [hamsters, diabetes, health]
 ---
 
+![Hamster Diabetes](/img/hamsters/hamster-diabetes.png)
+
 
 
 # Diabetes in Pet Hamsters

@@ -4,6 +4,8 @@ tags: [hamsters, parasites, ringworm]
 description: "A guide to parasites affecting hamsters, with a focus on Demodex mites, which often signal an underlying health problem, as well as the fungal infection ringworm."
 ---
 
+![Common Health Issues](/img/hamsters/common-health-issues.png)
+
 # Parasites in Hamsters
 
 Parasitic infections are relatively common in hamsters and can cause significant discomfort and health problems. Mites are the most frequent culprits, but their presence often points to a deeper, underlying issue with the hamster's health. Fungal infections like ringworm are also a concern.

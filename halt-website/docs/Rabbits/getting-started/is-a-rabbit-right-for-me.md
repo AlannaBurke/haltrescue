@@ -5,6 +5,8 @@ tags: [rabbits, getting started, cost]
 description: "Rabbits are among the most popular pets in the United States — and among the most frequently surrendered. The gap between expectation and reality is wide: many families bring home a rabbit imagining..."
 ---
 
+![Is A Rabbit Right For Me](/img/rabbits/is-a-rabbit-right-for-me.png)
+
 # Is a Rabbit Right for Me and My Family?
 
 <InfographicShare

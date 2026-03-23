@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [ferrets, sexing, reproductive health, breeding]
 ---
 
+![Ferret Sexing Guide](/img/ferrets/ferret-sexing-guide.png)
+
 
 # Sexing Your Pet Ferret
 

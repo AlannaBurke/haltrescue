@@ -6,6 +6,8 @@ sidebar_position: 1
 tags: [ferrets, health, wellness, home health check]
 ---
 
+![Common Health Issues](/img/ferrets/common-health-issues.png)
+
 # Home Health Care for Pet Ferrets
 
 Ferrets are playful and energetic pets, but they are also susceptible to several serious health issues. As prey animals, their instinct is to hide any signs of weakness or illness. Performing a regular at-home health check is a crucial part of responsible ownership, allowing you to spot subtle changes and seek veterinary care early. [1]

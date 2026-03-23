@@ -4,6 +4,8 @@ sidebar_position: 4
 tags: [chinchillas, nutrition, getting started]
 ---
 
+![Chinchilla Nutrition](/img/chinchillas/chinchilla-nutrition.png)
+
 
 
 # Chinchilla Nutrition and Diet

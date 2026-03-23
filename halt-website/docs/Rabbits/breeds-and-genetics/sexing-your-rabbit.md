@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [rabbits, sexing, reproductive health, breeding]
 ---
 
+![Rabbit Sexing Guide](/img/rabbits/rabbit-sexing-guide.png)
+
 
 # Sexing Your Pet Rabbit
 

@@ -5,6 +5,8 @@ tags: [guinea pigs, gi health, health]
 description: "Guinea pigs have sensitive digestive systems, and looking at their poop is the best way to quickly determine how your guinea pig's system is functioning. It's also one of the reasons why it's so..."
 ---
 
+![Gp Poop Guide](/img/guinea-pigs/gp-poop-guide.png)
+
 # Guinea Pig Poop
 
 Guinea pigs have sensitive digestive systems, and looking at their poop is the best way to quickly determine how your guinea pig's system is functioning. It's also one of the reasons why it's so important to clean their cage frequently, preferably doing a daily spot clean, allowing you to observe their poop every day, as immediate intervention is required in the event there is a problem.

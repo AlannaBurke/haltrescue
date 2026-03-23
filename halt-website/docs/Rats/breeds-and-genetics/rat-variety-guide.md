@@ -5,6 +5,8 @@ tags: [rats, breeds, health, behavior, nutrition, housing]
 description: "Welcome to the colorful world of fancy rats! Through selective breeding, pet rats have been developed in a stunning array of colors, coat types, and markings. While these varieties are fascinating,..."
 ---
 
+![Rat Variety Guide](/img/rats/rat-variety-guide.png)
+
 
 
 # A Guide to Fancy Rat Varieties

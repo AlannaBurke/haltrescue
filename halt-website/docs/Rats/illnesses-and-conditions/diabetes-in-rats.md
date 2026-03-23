@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [rats, diabetes, metabolic disease, health, veterinary]
 ---
 
+![Rat Diabetes](/img/rats/rat-diabetes.png)
+
 
 
 # Diabetes in Rats

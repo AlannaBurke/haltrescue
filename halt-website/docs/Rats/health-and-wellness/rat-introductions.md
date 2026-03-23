@@ -5,6 +5,8 @@ tags: [rats, bonding, health, behavior, veterinary]
 description: "Introducing a new rat to your existing group (or 'mischief') is an exciting step, but it must be handled with care and patience. Rats are territorial and have complex social hierarchies. A proper..."
 ---
 
+![Rat Intro Guide](/img/rats/rat-intro-guide.png)
+
 
 
 # A Guide to Safe and Successful Rat Introductions

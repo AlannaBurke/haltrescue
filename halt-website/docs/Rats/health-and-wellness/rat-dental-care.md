@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [rats, dental disease, health, veterinary]
 ---
 
+![Common Health Issues](/img/rats/common-health-issues.png)
+
 
 
 # Rat Dental Care Guide

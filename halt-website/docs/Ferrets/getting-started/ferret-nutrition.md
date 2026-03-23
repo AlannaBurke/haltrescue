@@ -5,6 +5,8 @@ description: "Understanding a ferret's diet is simple: they are obligate carnivo
 tags: [ferrets, nutrition, getting started]
 ---
 
+![Ferret Nutrition](/img/ferrets/ferret-nutrition.png)
+
 
 # Ferret Nutrition
 

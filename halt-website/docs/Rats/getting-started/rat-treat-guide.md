@@ -5,6 +5,8 @@ tags: [rats, nutrition, health, safety]
 description: "This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or..."
 ---
 
+![Rat Treat Guide](/img/rats/rat-treat-guide.png)
+
 # Rat Treat Guide
 
 This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or high-dose studies. If you're unsure or worried about something your rat ate, reach out to your vet.

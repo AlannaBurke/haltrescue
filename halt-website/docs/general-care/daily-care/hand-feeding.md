@@ -4,6 +4,8 @@ tags: [critical care, health, pregnancy, getting started]
 description: "A step-by-step guide on how to safely and effectively hand-feed a sick, orphaned, or convalescing small pet using a syringe. Learn about preparing the food, proper feeding technique, and what to watch for."
 ---
 
+![Skin Sore Hocks](/img/general-care/skin-sore-hocks.png)
+
 # How to Hand-Feed a Small Pet
 
 Hand-feeding, often done with a syringe, is a crucial skill for any small pet owner. It may be necessary when an animal is too sick or weak to eat on its own, is recovering from surgery, or in the case of orphaned neonates. While it can be a stressful experience for both you and your pet, mastering the proper technique ensures your companion receives the life-sustaining nutrition they need to recover and thrive [1].

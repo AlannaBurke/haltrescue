@@ -4,6 +4,8 @@ tags: [ferrets, eye health]
 description: "A guide to common eye and vision issues in ferrets, discussing their naturally poor eyesight and common age-related problems like cataracts and retinal atrophy."
 ---
 
+![Common Health Issues](/img/ferrets/common-health-issues.png)
+
 # Eye & Vision Issues in Ferrets
 
 Ferrets are naturally very near-sighted. Their vision is adapted for hunting in close quarters and tunnels, and they rely much more on their keen senses of hearing and smell to navigate their world. While their eyesight is not their strongest sense, they can still suffer from eye-related health problems, particularly as they age.

@@ -6,6 +6,8 @@ sidebar_position: 7
 tags: [ferrets, handling, taming]
 ---
 
+![Ferret Behavior Guide](/img/ferrets/ferret-behavior-guide.png)
+
 # Proper Handling of Pet Ferrets
 
 Ferrets are playful and resilient animals, but proper handling is key to building a trusting relationship and ensuring their safety. Unlike many other small pets, ferrets have a unique response to being "scruffed," which can be a useful tool when used correctly.

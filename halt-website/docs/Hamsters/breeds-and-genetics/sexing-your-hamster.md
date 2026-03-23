@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [hamsters, sexing, reproductive health, breeding]
 ---
 
+![Hamster Sexing Guide](/img/hamsters/hamster-sexing-guide.png)
+
 
 # Sexing Your Pet Hamster
 

@@ -5,6 +5,8 @@ tags: [rabbits, supplies, housing, nutrition, health, veterinary, grooming, beha
 description: "Bringing a rabbit into your home is a long-term commitment, and providing the right supplies is the first step to ensuring a happy, healthy life for your new friend. Rabbits have specific needs that..."
 ---
 
+![Common Health Issues](/img/rabbits/common-health-issues.png)
+
 
 
 # Essential Supplies for Your Rabbit Companion

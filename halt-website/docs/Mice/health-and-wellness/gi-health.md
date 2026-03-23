@@ -4,6 +4,8 @@ tags: [mice, gi health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in mice, covering common issues like diarrhea and the serious threat of Tyzzer's disease, and emphasizing the importance of a stable diet and stress-free environment."
 ---
 
+![Common Health Issues](/img/mice/common-health-issues.png)
+
 # Gastrointestinal (GI) Health in Mice
 
 The gastrointestinal (GI) system of a mouse is generally robust, adapted to a varied diet of grains, seeds, and insects. However, it is sensitive to stress and sudden dietary changes, which can lead to serious conditions like diarrhea. For mice, any sign of digestive upset should be taken seriously, as it can indicate a contagious and life-threatening disease.

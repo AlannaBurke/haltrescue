@@ -6,6 +6,8 @@ sidebar_position: 6
 tags: [rabbits, nutrition]
 ---
 
+![Rabbit Safe Foods](/img/rabbits/rabbit-safe-foods.png)
+
 # Nutrition for Pet Rabbits
 
 Providing a correct, species-appropriate diet is the most important factor in ensuring your rabbit lives a long and healthy life. A rabbit's digestive system is complex and has evolved to process a diet that is very high in fiber and low in calories, fat, and sugar. [1]

@@ -5,6 +5,8 @@ tags: [rabbits, emergency, veterinary, health]
 description: "As a responsible rabbit owner, safeguarding your companion from preventable diseases is a top priority. One of the most serious threats to domestic rabbits today is Rabbit Hemorrhagic Disease Virus 2..."
 ---
 
+![Rvhd2 Vaccination](/img/rabbits/rvhd2-vaccination.png)
+
 
 
 # The Importance of Vaccinating Your Rabbit Against RVHD2

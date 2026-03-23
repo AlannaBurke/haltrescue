@@ -4,6 +4,8 @@ tags: [guinea pigs, safety, nutrition, bloat]
 description: "A guide to dangerous treats and toys for guinea pigs, highlighting foods that can cause bloat, the risks of dairy and seeds, and the dangers of unsafe chew toys like plastic."
 ---
 
+![Gp Dangerous Foods](/img/guinea-pigs/gp-dangerous-foods.png)
+
 # Dangerous Treats and Toys for Guinea Pigs
 
 Guinea pigs have sensitive digestive systems and specific dietary needs that make them vulnerable to many common but inappropriate treats. As rodents with continuously growing teeth, they also need safe items to chew on. Providing the wrong food or toy can lead to serious health problems like GI stasis, bloat, or injury. Knowing what to avoid is a fundamental part of responsible guinea pig care.

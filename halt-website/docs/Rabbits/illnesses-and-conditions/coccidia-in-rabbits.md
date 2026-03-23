@@ -5,6 +5,8 @@ description: A comprehensive guide to coccidiosis in rabbits — causes, symptom
 tags: [rabbits, parasites, health, gi health]
 ---
 
+![Rabbit Coccidia](/img/rabbits/rabbit-coccidia.png)
+
 
 
 # Coccidia in Rabbits

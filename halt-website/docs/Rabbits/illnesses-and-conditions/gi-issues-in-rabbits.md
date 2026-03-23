@@ -6,6 +6,8 @@ sidebar_position: 6
 description: "For rabbit owners, understanding and preventing gastrointestinal (GI) issues is paramount to ensuring the health and happiness of their beloved pets. Rabbits have delicate digestive systems, and..."
 ---
 
+![Rabbit Gi Stasis](/img/rabbits/rabbit-gi-stasis.png)
+
 
 
 # Understanding Gastrointestinal Issues in Rabbits

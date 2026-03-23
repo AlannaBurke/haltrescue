@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [mice, sexing, reproductive health, breeding]
 ---
 
+![Mouse Sexing Guide](/img/mice/mouse-sexing-guide.png)
+
 
 # Sexing Your Pet Mouse
 

@@ -4,6 +4,8 @@ sidebar_position: 3
 tags: [rats, parasites, health, veterinary]
 ---
 
+![Common Health Issues](/img/rats/common-health-issues.png)
+
 
 
 # Parasites in Pet Rats

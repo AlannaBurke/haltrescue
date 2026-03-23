@@ -4,6 +4,8 @@ tags: [gerbils, dental disease]
 description: "A guide to dental health in gerbils, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the critical role of chewing materials."
 ---
 
+![Common Health Issues](/img/gerbils/common-health-issues.png)
+
 # Dental Health in Gerbils
 
 Dental health is a crucial aspect of gerbil care, centered almost entirely on their four prominent incisors (front teeth). Like all rodents, a gerbil's incisors grow continuously throughout their life. This unique trait requires them to constantly chew and gnaw to wear their teeth down. When this natural process is disrupted, it can lead to serious and painful health problems.

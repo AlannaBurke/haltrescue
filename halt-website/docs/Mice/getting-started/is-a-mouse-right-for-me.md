@@ -5,6 +5,8 @@ tags: [mice, getting started, cost, housing]
 description: "Mice are often overlooked as pets, but they are endlessly entertaining, relatively affordable, and surprisingly personable. They are best suited to older children, teenagers, and adults who enjoy..."
 ---
 
+![Is A Mouse Right For Me](/img/mice/is-a-mouse-right-for-me.png)
+
 # Is a Mouse Right for Me and My Family?
 
 <InfographicShare

@@ -4,6 +4,8 @@ tags: [degus, dental disease, nutrition]
 description: "A comprehensive guide to dental disease in degus, explaining the causes of malocclusion, how to recognize the signs, and the critical importance of a proper, hay-based diet for prevention."
 ---
 
+![Common Health Issues](/img/degus/common-health-issues.png)
+
 # Dental Health in Degus
 
 Like chinchillas and guinea pigs, degus have elodont dentition, meaning all of their teeth grow continuously throughout their lives. This unique physiology makes them highly susceptible to dental disease, which is one of the most common health problems seen in pet degus. Proper diet is not just important for their overall health—it is the primary factor in preventing painful and life-altering dental issues.

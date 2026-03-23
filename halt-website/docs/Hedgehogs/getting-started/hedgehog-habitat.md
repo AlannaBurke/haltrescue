@@ -5,6 +5,8 @@ description: "Creating a safe, warm, and stimulating habitat is the most importa
 tags: [hedgehogs, housing, getting started]
 ---
 
+![Hedgehog Habitat](/img/hedgehogs/hedgehog-habitat.png)
+
 
 # Hedgehog Habitat
 

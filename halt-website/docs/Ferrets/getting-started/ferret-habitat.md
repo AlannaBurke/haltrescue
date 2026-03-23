@@ -5,6 +5,8 @@ description: "Ferrets are intelligent, playful, and incredibly curious. Their ha
 tags: [ferrets, housing, getting started]
 ---
 
+![Ferret Habitat](/img/ferrets/ferret-habitat.png)
+
 
 # Ferret Habitat
 

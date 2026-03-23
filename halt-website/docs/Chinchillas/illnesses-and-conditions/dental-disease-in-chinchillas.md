@@ -6,6 +6,8 @@ sidebar_label: Dental Disease
 tags: [chinchillas, dental disease, health]
 ---
 
+![Chinchilla Dental Disease](/img/chinchillas/chinchilla-dental-disease.png)
+
 
 
 # Dental Disease in Chinchillas

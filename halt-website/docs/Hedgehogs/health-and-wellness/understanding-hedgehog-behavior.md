@@ -5,6 +5,8 @@ tags: [hedgehogs, behavior, bonding, health, enrichment, body language]
 description: "Hedgehogs are unique and fascinating creatures with a set of behaviors all their own. As solitary and nocturnal animals, their communication is often quiet and defensive..."
 ---
 
+![Hedgehog Behavior Guide](/img/hedgehogs/hedgehog-behavior-guide.png)
+
 # Understanding Hedgehog Behavior: A Guide for Owners
 
 Hedgehogs are unique and fascinating creatures with a set of behaviors all their own. As solitary and nocturnal animals, their communication is often quiet and defensive. Understanding their body language and sounds is key to providing a safe, enriching environment and building a bond with your spiky friend.

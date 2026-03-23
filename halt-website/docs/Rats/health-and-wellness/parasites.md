@@ -4,6 +4,8 @@ tags: [rats, parasites, ringworm]
 description: "A guide to common parasites affecting pet rats, including the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
 
+![Common Health Issues](/img/rats/common-health-issues.png)
+
 # Parasites in Rats
 
 Parasites are a common issue in pet rats, with external parasites like mites and lice being a frequent cause of itching and distress. While internal parasites are also common, they are often less harmful. Nearly all parasite issues require a veterinary diagnosis and prescription medication to be treated safely and effectively.

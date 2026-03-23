@@ -5,6 +5,8 @@ description: A comprehensive overview of common internal and external parasites 
 tags: [rabbits, parasites, neurological, health]
 ---
 
+![Rabbit Parasites](/img/rabbits/rabbit-parasites.png)
+
 
 
 # Parasites in Rabbits

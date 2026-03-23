@@ -4,6 +4,8 @@ sidebar_position: 18
 tags: [guinea pigs, reproductive health, health, veterinary]
 ---
 
+![Gp Ovarian Cysts](/img/guinea-pigs/gp-ovarian-cysts.png)
+
 # Ovarian Cysts
 
 Ovarian cysts are a common health issue in female guinea pigs, especially as they age. These fluid-filled sacs form on the ovaries and can lead to discomfort and health complications if untreated. Here’s everything you need to know about detecting, treating, and preventing ovarian cysts in guinea pigs, as well as why the flank approach is often preferred for surgical removal.

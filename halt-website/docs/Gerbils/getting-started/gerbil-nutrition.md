@@ -5,6 +5,8 @@ description: "A balanced diet is essential for a gerbil's health and longevity. 
 tags: [gerbils, nutrition, getting started]
 ---
 
+![Gerbil Nutrition](/img/gerbils/gerbil-nutrition.png)
+
 
 # Gerbil Nutrition
 

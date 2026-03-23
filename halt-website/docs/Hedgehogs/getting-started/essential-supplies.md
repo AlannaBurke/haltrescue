@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [hedgehogs, supplies, getting started]
 ---
 
+![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+
 # Essential Supplies for Pet Hedgehogs
 
 African Pygmy Hedgehogs have very specific needs, particularly when it comes to temperature. Setting up their environment correctly before they come home is the most important step in ensuring their health and safety. This checklist covers all the essential items you will need.

@@ -6,6 +6,8 @@ sidebar_label: Parasites
 tags: [chinchillas, parasites, health]
 ---
 
+![Chinchilla Parasites](/img/chinchillas/chinchilla-parasites.png)
+
 
 
 # Parasites in Chinchillas

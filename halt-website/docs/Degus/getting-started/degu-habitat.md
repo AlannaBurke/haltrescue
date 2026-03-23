@@ -5,6 +5,8 @@ description: "Degus are active, agile, and curious animals that need a large and
 tags: [degus, housing, getting started]
 ---
 
+![Degu Habitat](/img/degus/degu-habitat.png)
+
 
 # Degu Habitat
 

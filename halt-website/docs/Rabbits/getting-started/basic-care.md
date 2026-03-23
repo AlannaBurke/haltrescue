@@ -6,6 +6,8 @@ sidebar_position: 1
 tags: [rabbits, nutrition, housing, enrichment]
 ---
 
+![Rabbit Behavior Guide](/img/rabbits/rabbit-behavior-guide.png)
+
 # Basic Care for Pet Rabbits
 
 Rabbits are intelligent, social, and complex animals that can make wonderful companion pets. Providing them with the proper care is essential for a long, happy, and healthy life. This guide covers the four cornerstones of basic rabbit care: diet, housing, enrichment, and health.

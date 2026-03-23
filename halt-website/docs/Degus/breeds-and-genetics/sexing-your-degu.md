@@ -6,6 +6,8 @@ sidebar_position: 2
 tags: [degus, sexing, reproductive health, breeding]
 ---
 
+![Degu Sexing Guide](/img/degus/degu-sexing-guide.png)
+
 
 # Sexing Your Pet Degu
 

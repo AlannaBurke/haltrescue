@@ -5,6 +5,8 @@ description: "A proper diet is crucial for the health and well-being of pet mice
 tags: [mice, nutrition, getting started]
 ---
 
+![Mouse Nutrition Guide](/img/mice/mouse-nutrition-guide.png)
+
 
 # Mouse Nutrition
 

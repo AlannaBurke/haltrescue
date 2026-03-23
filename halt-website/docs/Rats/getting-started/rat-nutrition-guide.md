@@ -5,6 +5,8 @@ tags: [rats, nutrition, health, getting started]
 description: "Proper nutrition is the cornerstone of your pet rat's health and longevity. As omnivores, rats have specific dietary needs that must be met to prevent obesity, nutritional deficiencies, and other..."
 ---
 
+![Rat Nutrition Guide](/img/rats/rat-nutrition-guide.png)
+
 
 
 # A Guide to Proper Rat Nutrition

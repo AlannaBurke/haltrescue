@@ -5,6 +5,8 @@ description: "A hamster's cage is its entire world, so creating a safe, spacious
 tags: [hamsters, housing, getting started]
 ---
 
+![Hamster Habitat](/img/hamsters/hamster-habitat.png)
+
 
 # Hamster Habitat
 

@@ -4,6 +4,8 @@ sidebar_position: 1
 tags: [chinchillas, home health check, wellness]
 ---
 
+![Common Health Issues](/img/chinchillas/common-health-issues.png)
+
 
 
 # Home Health Care for Your Chinchilla

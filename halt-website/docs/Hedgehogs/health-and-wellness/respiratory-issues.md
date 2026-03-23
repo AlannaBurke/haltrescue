@@ -4,6 +4,8 @@ tags: [hedgehogs, respiratory infection]
 description: "A guide to respiratory infections in hedgehogs, covering the common causes, signs of illness, and the importance of prompt veterinary care."
 ---
 
+![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+
 # Respiratory Issues in Hedgehogs
 
 Respiratory infections, including pneumonia, are a significant health concern for African Pygmy Hedgehogs. Their respiratory systems are sensitive, and an infection can become serious very quickly. These illnesses are often linked to the hedgehog's environment, making proper husbandry a critical factor in prevention.

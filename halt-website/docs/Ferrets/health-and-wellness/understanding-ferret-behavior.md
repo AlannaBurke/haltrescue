@@ -5,6 +5,8 @@ tags: [ferrets, behavior, bonding, health, enrichment, body language]
 description: "Ferrets are playful, mischievous, and highly social animals with a personality that is often described as a cross between a cat and a dog. Understanding their unique behaviors is key to a happy, healthy ferret."
 ---
 
+![Ferret Behavior Guide](/img/ferrets/ferret-behavior-guide.png)
+
 # Understanding Ferret Behavior: A Guide for Owners
 
 Ferrets are playful, mischievous, and highly social animals with a personality that is often described as a cross between a cat and a dog. They are crepuscular — most active at dawn and dusk — and sleep deeply for long stretches in between. Understanding their unique behaviors is key to a happy, healthy ferret.

@@ -4,6 +4,8 @@ tags: [rats, eye health]
 description: "A guide to common eye and vision issues in rats, explaining the significance of porphyrin (red tears) as a health indicator and discussing common infections and age-related blindness."
 ---
 
+![Common Health Issues](/img/rats/common-health-issues.png)
+
 # Eye & Vision Issues in Rats
 
 Eye issues are a common concern for rat owners, but they are often a window into the rat's overall health rather than a primary problem. A healthy rat's eyes should be bright, clear, and free from discharge. The most frequent and important eye-related sign to understand is the presence of a red discharge called porphyrin.

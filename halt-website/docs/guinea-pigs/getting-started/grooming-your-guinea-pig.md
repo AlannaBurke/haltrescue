@@ -5,6 +5,8 @@ tags: [guinea pigs, grooming, nails, skin health, coat]
 description: "Grooming is an essential part of responsible guinea pig care that goes beyond just keeping them looking their best. Regular grooming sessions are an excellent opportunity to bond with your pet and..."
 ---
 
+![Gp Grooming Guide](/img/guinea-pigs/gp-grooming-guide.png)
+
 # Grooming Your Guinea Pig
 
 Grooming is an essential part of responsible guinea pig care that goes beyond just keeping them looking their best. Regular grooming sessions are an excellent opportunity to bond with your pet and perform routine health checks, allowing you to spot potential issues early. A consistent grooming schedule for brushing, nail trimming, and cleaning is vital for their comfort and well-being.

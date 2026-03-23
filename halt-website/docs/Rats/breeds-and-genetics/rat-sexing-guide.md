@@ -5,6 +5,8 @@ tags: [rats, sexing, reproductive health, breeding, pregnancy]
 description: "Correctly sexing rats is essential to prevent accidental litters and ensure proper housing. Rats can reproduce very young, and misidentification is one of the most common causes of surprise..."
 ---
 
+![Rat Sexing Guide](/img/rats/rat-sexing-guide.png)
+
 # Rat Sexing Guide: How to Identify Male and Female Rats at Different Ages
 
 Correctly sexing rats is essential to prevent accidental litters and ensure proper housing. Rats can reproduce very young, and misidentification is one of the most common causes of surprise pregnancies.

@@ -5,6 +5,8 @@ description: A guide to intestinal worm infestations in guinea pigs — types, s
 tags: [guinea pigs, parasites, health]
 ---
 
+![Gp Worms](/img/guinea-pigs/gp-worms.png)
+
 
 
 # Worms in Guinea Pigs

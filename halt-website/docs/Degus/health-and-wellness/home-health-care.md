@@ -6,6 +6,8 @@ sidebar_position: 1
 tags: [degus, health, wellness, home health check]
 ---
 
+![Common Health Issues](/img/degus/common-health-issues.png)
+
 # Home Health Care for Pet Degus
 
 Degus are generally robust little animals, but as prey species, they are masters at hiding signs of illness. Performing a regular health check at home is one of the best ways to monitor their well-being and catch potential problems early. Aim to perform this check weekly or bi-weekly. [1]

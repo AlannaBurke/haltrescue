@@ -4,6 +4,8 @@ tags: [rabbits, parasites, neurological]
 description: "A guide to common parasites affecting rabbits, including the severe ear and fur mites, and the neurological parasite E. cuniculi, a primary cause of head tilt."
 ---
 
+![Rabbit Parasites](/img/rabbits/rabbit-parasites.png)
+
 # Parasites in Rabbits
 
 Parasitic diseases are a major health concern for pet rabbits. While internal worms are uncommon, rabbits are frequently affected by external mites and a debilitating internal protozoan parasite called *Encephalitozoon cuniculi*. These parasites can cause conditions ranging from intense itching and fur loss to severe neurological damage.
