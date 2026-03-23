@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [gerbils, health, wellness, home health check]
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-home-care.png" />
 
 # Home Health Care for Pet Gerbils
 

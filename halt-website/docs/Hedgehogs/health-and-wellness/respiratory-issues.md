@@ -4,7 +4,7 @@ tags: [hedgehogs, respiratory infection]
 description: "A guide to respiratory infections in hedgehogs, covering the common causes, signs of illness, and the importance of prompt veterinary care."
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-respiratory-health.png" />
 
 # Respiratory Issues in Hedgehogs
 

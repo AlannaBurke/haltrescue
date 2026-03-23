@@ -4,7 +4,7 @@ tags: [rats, respiratory infection, mycoplasma]
 description: "An in-depth guide to chronic respiratory disease in pet rats, caused by Mycoplasma pulmonis, covering the signs, triggers, and lifelong management of this ubiquitous condition."
 ---
 
-![Rat Uri Guide](/img/rats/rat-uri-guide.png)
+<InfographicShare imageSrc="/img/rats/rat-respiratory-health.png" />
 
 # Respiratory Issues in Rats (Mycoplasmosis)
 

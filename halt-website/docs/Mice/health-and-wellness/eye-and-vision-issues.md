@@ -4,7 +4,7 @@ tags: [mice, eye health]
 description: "A guide to common eye and vision issues in mice, explaining the significance of porphyrin (red tears) and the causes and treatment of eye infections."
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/mice/mouse-eye-health.png" />
 
 # Eye & Vision Issues in Mice
 

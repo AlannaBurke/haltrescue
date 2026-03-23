@@ -8,8 +8,6 @@ tags: [chinchillas, respiratory infection, health]
 
 ![Chinchilla Respiratory](/img/chinchillas/chinchilla-respiratory.png)
 
-
-
 # Respiratory Infections in Chinchillas
 
 Chinchillas are generally hardy pets, but they are susceptible to respiratory infections, which can progress rapidly and become life-threatening if not treated promptly. Their delicate respiratory systems are sensitive to environmental conditions, and poor husbandry is a leading contributing factor. Understanding the warning signs and how to prevent respiratory disease is essential for every chinchilla owner.
@@ -29,8 +27,6 @@ Respiratory infections in chinchillas can be caused by bacteria, viruses, or env
 **Stress** suppresses the immune system. Environmental stressors — sudden changes, overcrowding, improper handling, or a poor diet — make chinchillas more susceptible to opportunistic infections.
 
 **Temperature fluctuations and drafts** are also significant risk factors. Chinchillas are sensitive to sudden temperature changes, and exposure to cold drafts can compromise their immune defenses.
-
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-respiratory.png" />
 
 ## Warning Signs
 
@@ -88,8 +84,6 @@ If you notice your chinchilla sneezing more than usual after a dust bath, try sw
 :::
 
 > For more on setting up a healthy chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
-
-
 
 ## References
 

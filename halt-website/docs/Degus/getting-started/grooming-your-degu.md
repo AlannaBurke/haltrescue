@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [degus, grooming, coat]
 ---
 
-![Degu Behavior Guide](/img/degus/degu-behavior-guide.png)
+<InfographicShare imageSrc="/img/degus/degu-grooming.png" alt="Grooming a degu" />
 
 # Grooming Your Pet Degu
 

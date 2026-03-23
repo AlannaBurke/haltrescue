@@ -11,8 +11,6 @@ description: "Gerbils are highly social, curious animals that communicate throug
 
 Gerbils are highly social, curious animals that communicate through a combination of body language, scent marking, and vocalizations. They are naturally active and inquisitive, and a gerbil that feels safe will constantly be exploring, digging, and interacting with their companions. Understanding their behavior helps you build a stronger bond and spot health problems early.
 
-<InfographicShare imageSrc="/img/gerbils/gerbil-behavior-guide.png" />
-
 ## Common Gerbil Body Language
 
 | Behavior | Common Meaning(s) | Context & Interpretation |

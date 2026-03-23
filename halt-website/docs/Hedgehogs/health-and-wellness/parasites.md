@@ -4,7 +4,7 @@ tags: [hedgehogs, parasites, ringworm]
 description: "A guide to parasites affecting hedgehogs, with a focus on the common and serious problem of mite infestations, as well as the fungal infection ringworm."
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-parasites.png" />
 
 # Parasites in Hedgehogs
 

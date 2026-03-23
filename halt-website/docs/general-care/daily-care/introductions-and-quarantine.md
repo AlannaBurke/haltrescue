@@ -4,7 +4,7 @@ tags: [veterinary, bonding, getting started, health]
 description: "Learn the critical importance of quarantining new pets to prevent the spread of illness and the proper, gradual steps for introducing them to your resident animals to ensure a peaceful household."
 ---
 
-![Skin Parasites](/img/general-care/skin-parasites.png)
+<InfographicShare imageSrc="/img/general-care/introductions-quarantine.png" alt="Introducing and quarantining small pets" />
 
 # Proper Introduction and Quarantining of New Pets
 

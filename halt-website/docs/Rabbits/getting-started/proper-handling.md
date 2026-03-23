@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [rabbits, handling, taming, bonding]
 ---
 
-![Rabbit Behavior Guide](/img/rabbits/rabbit-behavior-guide.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-handling.png" alt="Handling a rabbit" />
 
 # Proper Handling of Pet Rabbits
 

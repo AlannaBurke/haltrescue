@@ -8,8 +8,6 @@ tags: [guinea pigs, bumblefoot, health, housing, heart disease]
 
 ![Gp Bumblefoot](/img/guinea-pigs/gp-bumblefoot.png)
 
-
-
 # Bumblefoot in Guinea Pigs
 
 Bumblefoot, medically known as **pododermatitis**, is a painful inflammatory condition affecting the feet of guinea pigs. It is one of the most common — and most preventable — health problems in pet guinea pigs. Left untreated, it can progress from mild swelling to deep tissue infection, bone involvement, and severe disability. Understanding the causes and acting early makes all the difference.
@@ -35,8 +33,6 @@ The most significant risk factors for bumblefoot in guinea pigs are:
 **Rough or abrasive surfaces** — including some types of carpet — can cause friction injuries to the feet.
 
 **Underlying heart disease** is an increasingly recognized risk factor, particularly in older guinea pigs. A weakened heart compromises blood circulation to the extremities, including the feet. This reduced peripheral perfusion makes the foot pads more susceptible to injury and less able to heal, allowing pododermatitis to develop even in a clean environment with soft bedding. Cold extremities are a known clinical sign of heart failure in guinea pigs, and this poor circulation directly predisposes the feet to infection.[^3]
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-bumblefoot.png" />
 
 ## Warning Signs
 
@@ -113,8 +109,6 @@ Fleece liners are one of the best flooring options for guinea pigs. They are sof
 :::
 
 > For more on setting up a safe guinea pig enclosure, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
-
-
 
 ## References
 

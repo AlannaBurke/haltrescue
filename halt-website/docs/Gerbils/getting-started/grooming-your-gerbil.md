@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [gerbils, grooming, coat]
 ---
 
-![Gerbil Behavior Guide](/img/gerbils/gerbil-behavior-guide.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-grooming-unique.png" />
 
 # Grooming Your Pet Gerbil
 

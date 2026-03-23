@@ -8,8 +8,6 @@ tags: [guinea pigs, neurological, parasites, health]
 
 ![Gp Ecuniculi](/img/guinea-pigs/gp-ecuniculi.png)
 
-
-
 # E. cuniculi in Guinea Pigs
 
 ***Encephalitozoon cuniculi*** (commonly abbreviated **E. cuniculi**) is a microscopic intracellular parasite that can infect guinea pigs, causing damage to the brain, kidneys, and eyes. While it is more commonly associated with rabbits, E. cuniculi can and does affect guinea pigs, and the neurological symptoms it causes can be dramatic and distressing. Early diagnosis and treatment give the best chance of managing the condition effectively.
@@ -42,8 +40,6 @@ E. cuniculi can remain dormant for extended periods before symptoms appear. When
 - **Cataracts** — white or cloudy spots in the eye, particularly in younger animals
 - **Uveitis** — inflammation inside the eye
 - **Blindness** — in advanced cases
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-ecuniculi.png" />
 
 :::warning
 A guinea pig with sudden head tilt, loss of balance, or seizures requires **urgent veterinary attention**. These symptoms can have multiple causes, and prompt diagnosis is essential to determine the correct treatment.
@@ -86,8 +82,6 @@ If you keep both guinea pigs and rabbits, always handle and clean their enclosur
 :::
 
 > For more on introducing new guinea pigs safely, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
-
-
 
 ## References
 

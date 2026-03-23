@@ -4,7 +4,7 @@ tags: [degus, gi stasis, bloat, gi health, diabetes]
 description: "An essential guide to gastrointestinal (GI) health in degus, covering their sensitive digestive system, the risks of bloat and stasis, and the connection between diet, GI health, and diabetes."
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/degus/degu-gi-health.png" />
 
 # Gastrointestinal (GI) Health in Degus
 

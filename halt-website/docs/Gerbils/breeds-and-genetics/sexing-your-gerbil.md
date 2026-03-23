@@ -8,7 +8,6 @@ tags: [gerbils, sexing, reproductive health, breeding]
 
 ![Gerbil Sexing Guide](/img/gerbils/gerbil-sexing-guide.png)
 
-
 # Sexing Your Pet Gerbil
 
 Correctly identifying the sex of your gerbils is essential, as keeping mixed-sex pairs will quickly result in litters. Fortunately, gerbils are one of the easier small animals to sex, especially once they are adults.
@@ -25,8 +24,6 @@ The most reliable way to sex a gerbil is to measure the space between the anus a
 | **Anogenital Gap** | **Larger** (a clear space) | **Smaller** (openings are close together) |
 | **Testicles (adults)** | Visible as a prominent bulge under the tail | Absent |
 | **Nipples** | Absent | 8 small dots visible on the belly |
-
-<InfographicShare imageSrc="/img/gerbils/gerbil-sexing-guide.png" />
 
 ## Easier Identification in Adults
 

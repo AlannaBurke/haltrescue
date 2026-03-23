@@ -4,7 +4,7 @@ tags: [hedgehogs, eye health]
 description: "A guide to common eye and vision issues in hedgehogs, including infections, injuries, and the risk of eye proptosis (prolapse)."
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-eye-health.png" />
 
 # Eye & Vision Issues in Hedgehogs
 

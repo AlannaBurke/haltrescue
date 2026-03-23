@@ -19,8 +19,6 @@ Guinea pigs can breed at a very young age. Boars can become fertile as early as 
 
 The most reliable method for sexing a guinea pig is to examine the shape of their genital opening. It is helpful to have a second person to securely hold the guinea pig while you perform the examination.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-sexing-guide.png" />
-
 ### Identifying a Female (Sow)
 
 A female guinea pig's genital area is characterized by a "Y-shaped" opening. The top part of the "Y" is the vulva, which is a fleshy, triangular-shaped slit.

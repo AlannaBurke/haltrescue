@@ -4,7 +4,7 @@ tags: [rabbits, urinary health]
 description: "An in-depth guide to urinary and bladder issues in rabbits, focusing on the causes and management of excess calcium in the urine (sludge) and the formation of bladder stones."
 ---
 
-![Common Health Issues](/img/rabbits/common-health-issues.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-common-health-overview.png" />
 
 # Urinary and Bladder Issues in Rabbits
 

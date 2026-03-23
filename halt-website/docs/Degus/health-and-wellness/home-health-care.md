@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [degus, health, wellness, home health check]
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/degus/degu-home-care.png" />
 
 # Home Health Care for Pet Degus
 

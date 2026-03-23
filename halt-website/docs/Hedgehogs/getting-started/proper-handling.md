@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [hedgehogs, handling, taming, bonding]
 ---
 
-![Hedgehog Behavior Guide](/img/hedgehogs/hedgehog-behavior-guide.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-handling.png" alt="Handling a hedgehog" />
 
 # Proper Handling of Pet Hedgehogs
 

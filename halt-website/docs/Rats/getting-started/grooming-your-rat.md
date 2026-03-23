@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [rats, grooming, nail trimming]
 ---
 
-![Rat Behavior Guide](/img/rats/rat-behavior-guide.png)
+<InfographicShare imageSrc="/img/rats/rat-grooming.png" />
 
 # Grooming Your Rat
 

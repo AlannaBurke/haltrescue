@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [hamsters, handling, taming, bonding]
 ---
 
-![Hamster Behavior Guide](/img/hamsters/hamster-behavior-guide.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-handling.png" alt="Handling a hamster" />
 
 # Proper Handling of Pet Hamsters
 

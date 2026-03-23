@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [chinchillas, supplies, getting started]
 ---
 
-![Common Health Issues](/img/chinchillas/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for chinchillas" />
 
 # Essential Supplies for Pet Chinchillas
 

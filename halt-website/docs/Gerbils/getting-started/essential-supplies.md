@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [gerbils, supplies, getting started]
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for gerbils" />
 
 # Essential Supplies for Pet Gerbils
 

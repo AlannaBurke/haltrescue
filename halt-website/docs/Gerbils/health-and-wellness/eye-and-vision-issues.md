@@ -4,7 +4,7 @@ tags: [gerbils, eye health, respiratory infection]
 description: "A guide to common eye and vision issues in gerbils, explaining the significance of porphyrin (red tears), the causes of eye infections, and how to prevent irritation."
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-eye-health.png" />
 
 # Eye & Vision Issues in Gerbils
 

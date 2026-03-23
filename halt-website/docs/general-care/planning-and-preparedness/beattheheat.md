@@ -28,5 +28,3 @@ It's getting warmer - here are some tips to help your small pets stay cool and c
 ---
 
 ## Quick Reference: Keep Your Small Pets Cool
-
-<InfographicShare imageSrc="/img/general-care/beat-the-heat.png" />

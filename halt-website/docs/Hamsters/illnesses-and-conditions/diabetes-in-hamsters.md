@@ -7,13 +7,9 @@ tags: [hamsters, diabetes, health]
 
 ![Hamster Diabetes](/img/hamsters/hamster-diabetes.png)
 
-
-
 # Diabetes in Pet Hamsters
 
 Diabetes is one of the more common health conditions seen in certain hamster breeds, particularly **dwarf hamsters**. Like diabetes in humans, it is a chronic metabolic disorder affecting how the body processes sugar. With early detection and proper management, diabetic hamsters can live comfortable, good-quality lives.
-
-<InfographicShare imageSrc="/img/hamsters/hamster-diabetes.png" />
 
 ## What Is Diabetes in Hamsters?
 
@@ -106,8 +102,6 @@ In some cases, a veterinarian may recommend:
 ## Prognosis
 
 With dietary management, many diabetic hamsters can live relatively normal lives. However, diabetes is a progressive condition, and complications (cataracts, kidney disease, infections) are common over time. Regular veterinary monitoring helps catch complications early.
-
-
 
 ## References
 

@@ -4,7 +4,7 @@ tags: [chinchillas, dental disease]
 description: "A detailed guide to dental disease in chinchillas, covering the causes of malocclusion, recognizing the signs of dental problems, and the critical role of a high-hay diet in prevention."
 ---
 
-![Chinchilla Dental Disease](/img/chinchillas/chinchilla-dental-disease.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-dental-health.png" />
 
 # Dental Health in Chinchillas
 
@@ -18,8 +18,6 @@ Dental disease occurs when this balance is disrupted. If the teeth are not worn 
 
 1.  **Crown Elongation:** The visible part of the tooth (the crown) grows too long. The upper and lower molars meet incorrectly, forming sharp spikes that cut into the cheeks and tongue, causing extreme pain.
 2.  **Root Elongation (Apical Elongation):** The invisible part of the tooth (the root) grows backwards into the jawbone. This can lead to painful bone deformities, abscesses, and pressure on the tear ducts (causing watery eyes). This is often the more insidious and difficult part of the disease to manage.
-
-
 
 ## Causes of Dental Disease
 

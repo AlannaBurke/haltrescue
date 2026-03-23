@@ -8,8 +8,6 @@ tags: [chinchillas, parasites, health]
 
 ![Chinchilla Parasites](/img/chinchillas/chinchilla-parasites.png)
 
-
-
 # Parasites in Chinchillas
 
 Chinchillas are generally resilient animals, but they can occasionally be affected by parasitic infestations. Both external and internal parasites can pose serious health risks, especially if left untreated. While parasite issues in chinchillas are less common than in some other small animals, knowing the signs, risks, and preventive measures is essential for every chinchilla owner.
@@ -35,8 +33,6 @@ Internal parasites live within the gastrointestinal tract or other organs.
 **Coccidia** (*Eimeria* spp.) are intestinal protozoa that can cause diarrhea, weight loss, and poor growth, particularly in young or immunocompromised chinchillas.
 
 **Intestinal worms** (roundworms, tapeworms) are rare in chinchillas but can occur, particularly in animals with outdoor access or exposure to contaminated environments.
-
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-parasites.png" />
 
 ## Warning Signs
 
@@ -91,8 +87,6 @@ Environmental treatment is also essential for external parasites — the enclosu
 - **Schedule annual vet check-ups** including fecal testing
 
 > For more on keeping your chinchilla healthy, see our article on [Home Health Care for Your Chinchilla](/docs/Chinchillas/health-and-wellness/home-health-care).
-
-
 
 ## References
 

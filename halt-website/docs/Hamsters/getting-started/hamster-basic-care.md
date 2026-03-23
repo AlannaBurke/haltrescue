@@ -4,7 +4,7 @@ title: Basic Care
 tags: [hamsters, getting started, care commitment]
 ---
 
-![Hamster Basic Care](/img/hamsters/hamster-basic-care.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-basic-care.png" />
 
 # Hamster Basic Care
 

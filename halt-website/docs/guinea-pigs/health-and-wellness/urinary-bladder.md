@@ -11,8 +11,6 @@ description: "Guinea pigs may be small, but they have complex needs—and that i
 
 Guinea pigs may be small, but they have complex needs—and that includes their urinary health. Bladder and urinary tract issues are common in guinea pigs and can range from mild to life-threatening. Understanding the signs and causes is key to keeping your pet healthy.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-urinary-health.png" />
-
 ## Common Urinary Problems in Guinea Pigs
 
 Several conditions can affect a guinea pig's urinary system. They often have overlapping symptoms, so a veterinary diagnosis is essential.

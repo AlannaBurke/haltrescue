@@ -8,7 +8,6 @@ tags: [ferrets, sexing, reproductive health, breeding]
 
 ![Ferret Sexing Guide](/img/ferrets/ferret-sexing-guide.png)
 
-
 # Sexing Your Pet Ferret
 
 Correctly identifying the sex of your ferret is a straightforward process once you know where to look. It's an important step for any new owner, especially since nearly all pet ferrets in the United States are spayed or neutered before they are sold.
@@ -26,8 +25,6 @@ belly-button-like opening on her abdomen. [2]
 | :--- | :--- | :--- |
 | **"Belly Button"** | **Present** (this is the penis) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly below the anus |
-
-<InfographicShare imageSrc="/img/ferrets/ferret-sexing-guide.png" />
 
 ## Other, Less Reliable Differences
 

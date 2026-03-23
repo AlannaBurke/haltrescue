@@ -56,12 +56,8 @@ Clumped poop is more often seen in older pigs, usually males, who are beginning 
 
 If you see any blood in your guinea pig's poop, take them to the vet immediately. 
 
-
-
 ---
 
 ## Quick Reference: Guinea Pig Poop Guide
 
 The infographic below provides a visual overview of the different types of guinea pig droppings and what they mean for your pig's health.
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-poop-guide.png" />

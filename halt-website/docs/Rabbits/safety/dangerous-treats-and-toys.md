@@ -5,7 +5,7 @@ tags: [rabbit care, rabbit safety, dangerous treats, dangerous toys, rabbit diet
 description: "A critical guide to dangerous treats and toys for rabbits, emphasizing the extreme sensitivity of their digestive system and the risks of improper foods and enrichment items."
 ---
 
-![Rabbit Safe Foods](/img/rabbits/rabbit-safe-foods.png)
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for rabbits" />
 
 # Dangerous Treats and Toys for Rabbits
 

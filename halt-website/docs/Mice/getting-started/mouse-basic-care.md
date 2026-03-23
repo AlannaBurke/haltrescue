@@ -4,7 +4,7 @@ title: Basic Care
 tags: [mice, getting started, care commitment, housing]
 ---
 
-![Mouse Behavior Guide](/img/mice/mouse-behavior-guide.png)
+<InfographicShare imageSrc="/img/mice/mouse-common-health-overview.png" />
 
 # Mouse Basic Care
 

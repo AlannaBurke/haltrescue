@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [mice, health, wellness, home health check, veterinary]
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/mice/mouse-home-care.png" />
 
 # Home Health Care for Pet Mice
 

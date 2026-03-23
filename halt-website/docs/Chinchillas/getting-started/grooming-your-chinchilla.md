@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [chinchillas, grooming, coat]
 ---
 
-![Chinchilla Behavior Guide](/img/chinchillas/chinchilla-behavior-guide.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-grooming.png" alt="Grooming a chinchilla" />
 
 # Grooming Your Pet Chinchilla
 

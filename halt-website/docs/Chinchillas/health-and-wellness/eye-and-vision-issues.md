@@ -4,7 +4,7 @@ tags: [chinchillas, eye health]
 description: "A guide to common eye and vision issues in chinchillas, including watery eyes (epiphora) as a sign of dental disease, conjunctivitis, and corneal ulcers."
 ---
 
-![Common Health Issues](/img/chinchillas/common-health-issues.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-eye-health.png" />
 
 # Eye & Vision Issues in Chinchillas
 

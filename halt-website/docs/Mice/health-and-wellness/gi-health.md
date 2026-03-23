@@ -4,7 +4,7 @@ tags: [mice, gi health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in mice, covering common issues like diarrhea and the serious threat of Tyzzer's disease, and emphasizing the importance of a stable diet and stress-free environment."
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/mice/mouse-gi-health.png" />
 
 # Gastrointestinal (GI) Health in Mice
 

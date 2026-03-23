@@ -4,9 +4,7 @@ sidebar_position: 1
 tags: [chinchillas, home health check, wellness]
 ---
 
-![Common Health Issues](/img/chinchillas/common-health-issues.png)
-
-
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-home-care.png" />
 
 # Home Health Care for Your Chinchilla
 
@@ -102,5 +100,4 @@ If your home health check reveals any of the "Red Flags" listed above, it is imp
 [4] Chinchillas as Pets. "Health Check and Basic First Aid Kit." [https://www.chinchillasaspets.com/health-check-basic-first-aid.html](https://www.chinchillasaspets.com/health-check-basic-first-aid.html)
 
 [5] PDSA. "Chinchilla Health." [https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health](https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/small-pets/chinchilla-health)
-
 

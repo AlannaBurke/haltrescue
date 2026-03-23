@@ -18,8 +18,6 @@ Guinea pigs need ample, uninterrupted floor space to run, explore, and exhibit n
 *   **Minimum Size:** According to the Humane Society of the United States, the minimum cage size for a single guinea pig is 7.5 square feet, but since guinea pigs are highly social and should always be kept in pairs or groups, a more realistic minimum is **10.5 square feet for two guinea pigs** [1]. This is equivalent to a 2x4 grid C&C cage.
 *   **Why Space Matters:** Adequate space helps prevent boredom, reduces the likelihood of squabbles between cage mates, and encourages exercise, which is crucial for preventing obesity and other health problems.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-habitat-diagram.png" />
-
 ## Cage Type: C&C Cages are the Gold Standard
 
 C&C (Cubes and Coroplast) cages are widely recommended by guinea pig rescues and experts as the ideal form of housing. They consist of wire storage grids that form the walls and a corrugated plastic (Coroplast) liner that forms the base.

@@ -4,7 +4,7 @@ tags: [degus, eye health, diabetes, dental disease]
 description: "A guide to common eye and vision issues in degus, with a focus on the strong link between cataracts and diabetes, as well as other problems like eye injuries and weeping eyes from dental disease."
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/degus/degu-eye-health.png" />
 
 # Eye & Vision Issues in Degus
 

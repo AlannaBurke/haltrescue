@@ -8,7 +8,6 @@ tags: [mice, sexing, reproductive health, breeding]
 
 ![Mouse Sexing Guide](/img/mice/mouse-sexing-guide.png)
 
-
 # Sexing Your Pet Mouse
 
 Accurately determining the sex of your mice is crucial for preventing unwanted litters and managing social groups appropriately. While it can seem daunting at first, especially with young mice, learning to identify key anatomical differences makes the process straightforward.
@@ -27,8 +26,6 @@ In adult mice, the differences between males and females are quite distinct.
 | **Anogenital Distance** | Longer | Shorter |
 | **Testicles** | Present and usually visible | Absent |
 | **Nipples** | Absent | Present (5 pairs) |
-
-<InfographicShare imageSrc="/img/mice/mouse-sexing-guide.png" />
 
 ## How to Sex Baby Mice (Pups)
 

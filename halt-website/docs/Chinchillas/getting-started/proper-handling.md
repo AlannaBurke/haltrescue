@@ -6,7 +6,7 @@ sidebar_position: 5
 tags: [chinchillas, handling, taming, bonding]
 ---
 
-![Chinchilla Behavior Guide](/img/chinchillas/chinchilla-behavior-guide.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-handling.png" alt="Handling a chinchilla" />
 
 # Proper Handling of Pet Chinchillas
 

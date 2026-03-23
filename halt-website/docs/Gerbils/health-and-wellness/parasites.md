@@ -4,7 +4,7 @@ tags: [gerbils, parasites]
 description: "A guide to parasites affecting gerbils, including common external parasites like mites and fleas, and internal parasites like pinworms."
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-parasites.png" />
 
 # Parasites in Gerbils
 

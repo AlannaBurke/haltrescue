@@ -4,7 +4,7 @@ tags: [ferrets, eye health]
 description: "A guide to common eye and vision issues in ferrets, discussing their naturally poor eyesight and common age-related problems like cataracts and retinal atrophy."
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-eye-health.png" />
 
 # Eye & Vision Issues in Ferrets
 

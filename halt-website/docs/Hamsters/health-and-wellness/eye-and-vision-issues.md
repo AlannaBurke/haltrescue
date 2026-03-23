@@ -4,7 +4,7 @@ tags: [hamsters, eye health]
 description: "A guide to common eye and vision issues in hamsters, including infections, age-related problems like cataracts, and serious conditions like glaucoma."
 ---
 
-![Common Health Issues](/img/hamsters/common-health-issues.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-eye-health.png" />
 
 # Eye & Vision Issues in Hamsters
 

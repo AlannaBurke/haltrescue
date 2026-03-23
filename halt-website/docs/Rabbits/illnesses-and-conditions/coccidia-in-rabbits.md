@@ -7,13 +7,9 @@ tags: [rabbits, parasites, health, gi health]
 
 ![Rabbit Coccidia](/img/rabbits/rabbit-coccidia.png)
 
-
-
 # Coccidia in Rabbits
 
 Coccidia are microscopic protozoan parasites that can infect rabbits, causing a condition known as **coccidiosis**. While often overlooked, coccidiosis can have serious consequences — particularly for young, stressed, or immunocompromised rabbits. Understanding the signs and how to prevent and treat the infection is essential for every rabbit owner.
-
-<InfographicShare imageSrc="/img/rabbits/rabbit-coccidia.png" />
 
 ## What Are Coccidia?
 
@@ -84,8 +80,6 @@ Treatment duration is typically 5–10 days depending on the medication used and
 - **Reduce stress** — stress is a major trigger for clinical coccidiosis in subclinical carriers
 - **Avoid overcrowding** — high rabbit density increases environmental oocyst load
 - **Regular fecal testing** — annual fecal checks help identify subclinical infections before they become clinical
-
-
 
 ## References
 

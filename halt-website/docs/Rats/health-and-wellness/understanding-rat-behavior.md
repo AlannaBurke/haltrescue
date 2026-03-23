@@ -5,15 +5,11 @@ tags: [rats, behavior, bonding, training, health, enrichment, body language]
 description: "Rats are intelligent, social, and emotionally complex animals. Understanding their natural behaviors and unique ways of communicating is key to building a strong bond and providing them with the best..."
 ---
 
-![Rat Behavior Guide](/img/rats/rat-behavior-guide.png)
-
-
+<InfographicShare imageSrc="/img/rats/rat-behavior-guide.png" />
 
 # Understanding Rat Behavior: A Guide for Owners
 
 Rats are intelligent, social, and emotionally complex animals. Understanding their natural behaviors and unique ways of communicating is key to building a strong bond and providing them with the best possible care. This guide will help you interpret your rat's body language and understand the meaning behind their actions.
-
-<InfographicShare imageSrc="/img/rats/rat-behavior-guide.png" />
 
 ## Common Rat Behaviors and What They Mean
 
@@ -57,10 +53,7 @@ If you notice any of these signs, it's important to consult with a veterinarian 
 
 Rats are highly social animals and should **never be housed alone**. They thrive in the company of other rats, and much of their natural behavior is tied to social interaction. A lone rat is a bored and stressed rat, which can lead to behavioral problems and a compromised immune system [2]. Always keep rats in pairs or small, same-sex groups.
 
-
-
 ## References
-
 
 [1] [Owning Pet Rats](https://vcahospitals.com/know-your-pet/owning-a-pet-rat) — VCA Animal Hospitals, Unknown
 

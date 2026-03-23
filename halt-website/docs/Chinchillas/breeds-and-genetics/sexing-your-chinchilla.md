@@ -8,7 +8,6 @@ tags: [chinchillas, sexing, reproductive health, breeding]
 
 ![Chinchilla Sexing Guide](/img/chinchillas/chinchilla-sexing-guide.png)
 
-
 # Sexing Your Pet Chinchilla
 
 Correctly identifying the sex of your chinchilla is one of the most important first steps as a new owner. It's crucial for preventing accidental litters and for understanding their social dynamics. While it can seem confusing, there is one clear indicator to look for.
@@ -27,8 +26,6 @@ To examine your chinchilla, hold them securely or have them stand on a flat surf
 | **Anogenital Gap** | **Present** (a clear space) | **Absent** (no space) |
 | **Openings** | Two separate openings | Appear as one continuous feature |
 | **Vaginal Slit** | Absent | Present in the urethral cone |
-
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-sexing-guide.png" />
 
 ### Simple Rule: "If there's a gap, it's a chap!"
 

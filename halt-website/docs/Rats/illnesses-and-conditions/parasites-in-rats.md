@@ -4,9 +4,7 @@ sidebar_position: 3
 tags: [rats, parasites, health, veterinary]
 ---
 
-![Common Health Issues](/img/rats/common-health-issues.png)
-
-
+<InfographicShare imageSrc="/img/rats/rat-parasites.png" />
 
 # Parasites in Pet Rats
 
@@ -104,10 +102,7 @@ Rat lice and mites are species-specific and **cannot infest humans, dogs, or cat
 | Fleas | Vet consultation required | Many products are toxic to rats |
 | Ticks | Manual removal + vet consultation | Do not use dog/cat tick products |
 
-
-
 ## References
-
 
 [1] [Ectoparasites — Rat Guide](https://ratguide.com/health/integumentary_skin/dermatologic/ectoparasites.php) — Rat Guide, 2024
 

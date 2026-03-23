@@ -11,7 +11,6 @@ tags: [rescue, getting started]
 
 We all hope to keep our pets forever, but sometimes life happens and unfortunately, we have to find a new home for our pets. Here is some advice for safely rehoming your pets. 
 
-
 Did you adopt your pet from a shelter or rescue?
  - Yes: Please return to that organization.
  - No: Please try to rehome on your own using these tips:
@@ -23,5 +22,3 @@ Did you adopt your pet from a shelter or rescue?
 Do Not release your pet outside
  - It’s illegal
  - _They will not survive_
-
-<InfographicShare imageSrc="/img/general-care/rehome.png" />

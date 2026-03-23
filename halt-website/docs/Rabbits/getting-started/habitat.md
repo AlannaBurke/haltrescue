@@ -6,7 +6,8 @@ sidebar_position: 4
 tags: [rabbits, housing, enrichment]
 ---
 
-![Common Health Issues](/img/rabbits/common-health-issues.png)
+
+<InfographicShare imageSrc="/img/rabbits/rabbit-habitat.png" alt="Rabbit habitat" />
 
 # Habitat for Pet Rabbits
 

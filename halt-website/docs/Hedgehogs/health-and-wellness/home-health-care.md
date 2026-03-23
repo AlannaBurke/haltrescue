@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [hedgehogs, health, wellness, home health check]
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-home-care.png" />
 
 # Home Health Care for Pet Hedgehogs
 

@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [mice, handling, taming, bonding]
 ---
 
-![Mouse Behavior Guide](/img/mice/mouse-behavior-guide.png)
+<InfographicShare imageSrc="/img/mice/mouse-handling.png" alt="Handling a mouse" />
 
 # Proper Handling of Pet Mice
 

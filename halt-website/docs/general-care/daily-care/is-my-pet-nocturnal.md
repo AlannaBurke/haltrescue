@@ -4,7 +4,7 @@ tags: [behavior, activity patterns, getting started]
 description: "Learn the difference between nocturnal, diurnal, and crepuscular activity patterns and find out when your small pet is naturally most active. Understanding their sleep cycle is key to providing the best care."
 ---
 
-![Emergency Preparedness](/img/general-care/emergency-preparedness.png)
+<InfographicShare imageSrc="/img/general-care/nocturnal.png" alt="Nocturnal small pet behavior" />
 
 # Is My Pet Nocturnal? Understanding Your Pet's Active Hours
 

@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [degus, supplies, getting started]
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for degus" />
 
 # Essential Supplies for Pet Degus
 

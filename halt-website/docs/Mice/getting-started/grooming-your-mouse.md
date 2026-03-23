@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [mice, grooming, nail care, handling]
 ---
 
-![Mouse Behavior Guide](/img/mice/mouse-behavior-guide.png)
+<InfographicShare imageSrc="/img/mice/mouse-grooming.png" alt="Grooming a mouse" />
 
 # Grooming Your Pet Mouse
 

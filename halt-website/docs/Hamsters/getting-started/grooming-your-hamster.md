@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [hamsters, grooming]
 ---
 
-![Hamster Behavior Guide](/img/hamsters/hamster-behavior-guide.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-grooming.png" />
 
 # Grooming Your Pet Hamster
 

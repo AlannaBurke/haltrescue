@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [gerbils, handling, taming, bonding, tail slip]
 ---
 
-![Gerbil Behavior Guide](/img/gerbils/gerbil-behavior-guide.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-handling.png" />
 
 # Proper Handling of Pet Gerbils
 

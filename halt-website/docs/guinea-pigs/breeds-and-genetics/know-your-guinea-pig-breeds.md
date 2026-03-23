@@ -13,8 +13,6 @@ From the sleek and smooth to the curly and long-haired, guinea pigs come in a wo
 
 Understanding the differences, especially in coat type, is key to providing the right care for your cavy companion.
 
-<InfographicShare imageSrc="/img/guinea-pigs/guinea-pig-breeds-chart.png" />
-
 ## Short-Haired Breeds
 
 These breeds are the most common and are generally easier to care for in terms of grooming.

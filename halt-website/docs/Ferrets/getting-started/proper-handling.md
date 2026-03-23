@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [ferrets, handling, taming]
 ---
 
-![Ferret Behavior Guide](/img/ferrets/ferret-behavior-guide.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-handling.png" alt="Handling a ferret" />
 
 # Proper Handling of Pet Ferrets
 

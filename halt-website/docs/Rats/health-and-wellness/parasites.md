@@ -4,7 +4,7 @@ tags: [rats, parasites, ringworm]
 description: "A guide to common parasites affecting pet rats, including the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
 
-![Common Health Issues](/img/rats/common-health-issues.png)
+<InfographicShare imageSrc="/img/rats/rat-parasites.png" />
 
 # Parasites in Rats
 

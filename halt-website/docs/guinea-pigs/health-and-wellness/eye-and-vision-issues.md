@@ -4,7 +4,7 @@ tags: [guinea pigs, eye health]
 description: "A guide to common eye and vision issues in guinea pigs, including conditions like fatty eye and pea eye, as well as injuries and age-related changes."
 ---
 
-![Gp Eye Health](/img/guinea-pigs/gp-eye-health.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-eye-vision.png" />
 
 # Eye & Vision Issues in Guinea Pigs
 

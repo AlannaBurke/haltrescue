@@ -4,7 +4,7 @@ tags: [chinchillas, gi stasis, bloat, gi health]
 description: "An essential guide to gastrointestinal (GI) health in chinchillas, covering their sensitive digestive system, the causes and signs of life-threatening bloat and GI stasis, and the importance of a high-hay diet."
 ---
 
-![Common Health Issues](/img/chinchillas/common-health-issues.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-gi-health.png" />
 
 # Gastrointestinal (GI) Health in Chinchillas
 

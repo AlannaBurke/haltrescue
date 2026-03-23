@@ -23,8 +23,6 @@ Before you attempt to pick up your guinea pig, it’s important to build a found
 
 Once your guinea pig is comfortable with your presence, you can practice picking them up. The key is to make them feel secure at all times by supporting their entire body.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-handling-guide.png" />
-
 ### Step-by-Step Guide:
 
 1.  **Approach Calmly:** Approach from the side rather than from above, as a hand swooping down can mimic a predator.

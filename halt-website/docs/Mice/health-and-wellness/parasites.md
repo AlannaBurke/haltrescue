@@ -4,7 +4,7 @@ tags: [mice, parasites]
 description: "A guide to common parasites affecting pet mice, with a focus on the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/mice/mouse-parasites.png" />
 
 # Parasites in Mice
 

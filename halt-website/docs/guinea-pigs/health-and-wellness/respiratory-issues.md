@@ -4,7 +4,7 @@ tags: [guinea pigs, respiratory infection]
 description: "A guide to respiratory infections in guinea pigs, covering the common bacterial causes, signs of illness, and the importance of prompt veterinary treatment."
 ---
 
-![Gp Bordetella Warning](/img/guinea-pigs/gp-bordetella-warning.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-respiratory.png" />
 
 # Respiratory Issues in Guinea Pigs
 

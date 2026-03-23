@@ -8,8 +8,6 @@ tags: [guinea pigs, parasites, skin health, health]
 
 ![Gp Mites](/img/guinea-pigs/gp-mites.png)
 
-
-
 # Mites in Guinea Pigs
 
 **Mites** are microscopic arachnids that can infest guinea pigs, causing everything from mild skin irritation to severe, life-threatening disease. Unlike lice, which live on the surface of the fur, some mite species burrow into the skin, causing intense suffering. Mite infestations are one of the most common and most serious external parasite problems in guinea pigs.
@@ -27,8 +25,6 @@ This is the most dangerous mite species affecting guinea pigs. *Trixacarus cavia
 ### *Chirodiscoides caviae* — Fur Mite
 
 *Chirodiscoides caviae* is a fur mite that lives on the hair shafts rather than burrowing into the skin. It is generally less harmful than *Trixacarus* and may cause mild to no symptoms, though heavy infestations can cause irritation and hair loss.
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-mites.png" />
 
 ## Symptoms
 
@@ -101,8 +97,6 @@ If you suspect mites, do not wait to see if the symptoms improve on their own. S
 :::
 
 > For more on external parasites, see our article on [Lice in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/lice-in-guinea-pigs).
-
-
 
 ## References
 

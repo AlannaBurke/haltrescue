@@ -5,7 +5,7 @@ tags: [guinea pigs, home health check, health, getting started, grooming, veteri
 description: "Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can..."
 ---
 
-![Gp Home Health Kit](/img/guinea-pigs/gp-home-health-kit.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-home-care.png" />
 
 # Home Health Care for Your Guinea Pig: A Helping All Little Things Guide
 
@@ -16,8 +16,6 @@ Print one for each of your guinea pigs and fill it out every week. Tracking chan
 
 **[⬇ Download: Guinea Pig Weekly Health Checklist (PDF)](pathname:///downloads/gp-weekly-health-checklist.pdf)**
 :::
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-home-health-kit.png" />
 
 ## The Weekly Health Check: A Head-to-Toe Routine
 

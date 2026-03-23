@@ -6,7 +6,7 @@ sidebar_position: 5
 tags: [rats, handling, taming, bonding]
 ---
 
-![Rat Behavior Guide](/img/rats/rat-behavior-guide.png)
+<InfographicShare imageSrc="/img/rats/rat-handling.png" />
 
 # Proper Handling of Pet Rats
 

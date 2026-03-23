@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [hamsters, health, wellness, home health check, veterinary]
 ---
 
-![Common Health Issues](/img/hamsters/common-health-issues.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-home-care.png" />
 
 # Home Health Care for Pet Hamsters
 

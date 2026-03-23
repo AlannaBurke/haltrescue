@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [ferrets, health, wellness, home health check]
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-home-care.png" />
 
 # Home Health Care for Pet Ferrets
 

@@ -4,7 +4,8 @@ tags: [rabbits, parasites, neurological]
 description: "A guide to common parasites affecting rabbits, including the severe ear and fur mites, and the neurological parasite E. cuniculi, a primary cause of head tilt."
 ---
 
-![Rabbit Parasites](/img/rabbits/rabbit-parasites.png)
+
+<InfographicShare imageSrc="/img/rabbits/rabbit-parasites-health.png" alt="Rabbit parasites" />
 
 # Parasites in Rabbits
 

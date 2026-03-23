@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [ferrets, supplies, getting started]
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for ferrets" />
 
 # Essential Supplies for Pet Ferrets
 

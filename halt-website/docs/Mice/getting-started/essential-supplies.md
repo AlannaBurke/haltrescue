@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [mice, supplies, getting started]
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for mice" />
 
 # Essential Supplies for Pet Mice
 

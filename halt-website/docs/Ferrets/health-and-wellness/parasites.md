@@ -4,7 +4,7 @@ tags: [ferrets, parasites]
 description: "A guide to common parasites affecting ferrets, including ear mites, fleas, and the serious threat of heartworm disease, as well as internal parasites like coccidia."
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-parasites.png" />
 
 # Parasites in Ferrets
 

@@ -11,12 +11,6 @@ tags: [mice, housing, getting started]
 
 Mice are active, curious, and love to climb and explore. Their habitat should be designed to accommodate these natural behaviors, providing plenty of space and enrichment to keep them happy and healthy.
 
-<InfographicShare
-  imageSrc="/img/mice/mouse-habitat-guide.png"
-  alt="An infographic showing the ideal habitat setup for mice, including enclosure type, bedding, enrichment items, and environmental conditions."
-  title="Mouse Habitat Guide Infographic"
-/>
-
 ## Enclosure: A Space to Thrive
 
 When it comes to mouse housing, bigger is always better. A spacious and properly configured enclosure is the foundation of their well-being.

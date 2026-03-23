@@ -4,7 +4,7 @@ tags: [ferrets, dental disease]
 description: "A guide to dental health in ferrets, covering common issues like fractured teeth and tartar buildup, and outlining the importance of preventative care, including diet and tooth brushing."
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-dental-health.png" />
 
 # Dental Health in Ferrets
 
@@ -29,8 +29,6 @@ Ferrets have 34 adult teeth, including sharp canines for grasping prey and shear
 3.  **Dental Abscesses:**
     *   **Cause:** An abscess is a pocket of infection that can form at the root of a broken or diseased tooth.
     *   **Signs:** Facial swelling, particularly under the eye, is a classic sign of a tooth root abscess. The ferret may be reluctant to eat or paw at its mouth.
-
-
 
 ## Prevention and Home Care
 

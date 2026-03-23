@@ -4,9 +4,9 @@ sidebar_position: 1
 description: "By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster."
 tags: [emergency preparedness, safety]
 ---
-# Emergency Preparedness
 
-![Emergency Preparedness Graphic](emergency.png)
+<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />
+# Emergency Preparedness
 
 ## 1. Create an Emergency Plan
   - __Identify Safe Locations__: Know where the nearest pet-friendly shelters, hotels, or boarding facilities are located. Some shelters may not allow pets unless they are service animals, so it’s crucial to find pet-friendly options ahead of time.
@@ -48,11 +48,9 @@ tags: [emergency preparedness, safety]
 
 ## [>Download our Emergency Preparedness Printable Checklist](pathname:///emergencychecklist.pdf)
 
-
 By preparing in advance and ensuring that your pets are part of your emergency plan, you can keep them safe and reduce stress during a natural disaster.
 
 ---
 
 ## Quick Reference: Emergency Preparedness Infographic
 
-<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />

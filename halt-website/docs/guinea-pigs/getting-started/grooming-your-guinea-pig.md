@@ -15,8 +15,6 @@ Grooming is an essential part of responsible guinea pig care that goes beyond ju
 
 Different grooming tasks need to be performed at different intervals. Here is a helpful guide to keep your guinea pig clean, comfortable, and healthy.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-grooming-guide.png" />
-
 ### Brushing: Coat Care
 
 The frequency of brushing depends entirely on your guinea pig's breed and coat length.

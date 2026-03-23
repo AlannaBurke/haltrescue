@@ -4,7 +4,7 @@ tags: [degus, respiratory infection]
 description: "A guide to respiratory infections in degus, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/degus/degu-respiratory-health.png" />
 
 # Respiratory Issues in Degus
 

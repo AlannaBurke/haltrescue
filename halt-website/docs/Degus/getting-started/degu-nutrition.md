@@ -5,18 +5,11 @@ description: "Proper nutrition is the most critical aspect of degu care. Degus h
 tags: [degus, nutrition, getting started]
 ---
 
-![Degu Nutrition](/img/degus/degu-nutrition.png)
-
+<InfographicShare imageSrc="/img/degus/degu-nutrition-guide.png" />
 
 # Degu Nutrition
 
 Proper nutrition is the most critical aspect of degu care. Degus have a unique sensitivity to sugar and are highly prone to developing diabetes if fed an improper diet. Their digestive system is designed for a high-fiber, low-sugar diet.
-
-<InfographicShare
-  imageSrc="/img/degus/degu-nutrition-guide.png"
-  alt="An infographic detailing the proper diet for degus, including staple foods, safe fresh foods, foods to avoid, and feeding tips."
-  title="Degu Nutrition Guide Infographic"
-/>
 
 ## The Three Pillars of a Degu Diet
 

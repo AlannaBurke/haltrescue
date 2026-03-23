@@ -5,14 +5,13 @@ description: "Animal shelters today are full of not only cats and dogs, but smal
 tags: [reproductive health, veterinary, getting started]
 ---
 
-# The Importance of Spaying and Neutering Your Pets
+<InfographicShare imageSrc="/img/general-care/spay-neuter.png" />
 
-![Mutts Comic Strip](mutts.jpg)
+# The Importance of Spaying and Neutering Your Pets
 
 Animal shelters today are full of not only cats and dogs, but small animals like guinea pigs, rabbits, rats, and mice. While “oops” litters seem common among pet owners, it’s vital to understand that there is an overpopulation of small animals just as critical as cats and dogs, part of which is due to a much lower rate and spay and neuter. 
 
 When people think of spaying and neutering, they often associate it with cats and dogs. However, it’s just as essential for small pets like guinea pigs, rabbits, and rats. While it’s true that these animals are smaller and may not roam outdoors, spaying and neutering still brings significant health, behavioral, and practical benefits. Here’s why it’s a responsible and beneficial choice for small pet owners.
-
 
 ## 1\. Health Benefits: Reducing Risk of Diseases
 
@@ -131,4 +130,3 @@ Spaying and neutering small pets like guinea pigs, rabbits, and rats offer numer
 
 ## Quick Reference: Why Spay & Neuter Your Small Pets
 
-<InfographicShare imageSrc="/img/general-care/spay-neuter.png" />

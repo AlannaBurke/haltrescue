@@ -4,7 +4,7 @@ tags: [chinchillas, respiratory infection]
 description: "A guide to respiratory infections in chinchillas, covering the causes, signs of illness, and the importance of a clean, well-ventilated environment for prevention."
 ---
 
-![Chinchilla Respiratory](/img/chinchillas/chinchilla-respiratory.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-respiratory-health.png" />
 
 # Respiratory Issues in Chinchillas
 

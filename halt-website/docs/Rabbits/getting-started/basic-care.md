@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [rabbits, nutrition, housing, enrichment]
 ---
 
-![Rabbit Behavior Guide](/img/rabbits/rabbit-behavior-guide.png)
+![Rabbit basic care](/img/rabbits/rabbit-basic-care.png)
 
 # Basic Care for Pet Rabbits
 

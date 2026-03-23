@@ -4,7 +4,7 @@ tags: [hedgehogs, dental disease, cancer]
 description: "A guide to dental health in hedgehogs, covering common problems like gingivitis, tartar, fractured teeth, and the high risk of oral cancers like squamous cell carcinoma."
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-dental-health.png" />
 
 # Dental Health in Hedgehogs
 
@@ -27,8 +27,6 @@ Dental disease is an extremely common and often painful condition in African Pyg
 4.  **Oral Tumors:**
     *   **Cause:** Hedgehogs have a very high incidence of cancer, and **squamous cell carcinoma** is one of the most common types, frequently appearing in the mouth. These tumors are highly aggressive and can invade the jawbone.
     *   **Signs:** Signs can be similar to a dental abscess, including facial swelling, difficulty eating, weight loss, and drooling. Any lump or unusual growth in a hedgehog's mouth should be considered highly suspicious of cancer.
-
-
 
 ## Prevention and Home Care
 

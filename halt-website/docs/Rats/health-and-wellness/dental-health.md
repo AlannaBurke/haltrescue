@@ -4,7 +4,7 @@ tags: [rats, dental disease]
 description: "A guide to dental health in rats, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the importance of providing a proper diet and chew toys."
 ---
 
-![Common Health Issues](/img/rats/common-health-issues.png)
+<InfographicShare imageSrc="/img/rats/rat-dental-health.png" />
 
 # Dental Health in Rats
 
@@ -22,8 +22,6 @@ The primary dental problem seen in rats is **malocclusion**, which is the misali
 *   **Trauma:** A fall or injury to the face can fracture a tooth or damage the jaw, causing the teeth to grow at an incorrect angle.
 *   **Infection or Tumors:** An abscess or tumor in the jaw can push teeth out of alignment.
 *   **Lack of Chewing Materials:** While less common in rats than in other rodents (as they will chew on almost anything), a barren environment can contribute to dental problems.
-
-
 
 ## Signs of Dental Problems
 

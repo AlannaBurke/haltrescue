@@ -8,8 +8,6 @@ tags: [guinea pigs, neurological, health]
 
 ![Gp Neurologic Diseases](/img/guinea-pigs/gp-neurologic-diseases.png)
 
-
-
 # Neurologic Diseases in Guinea Pigs
 
 Neurological symptoms in guinea pigs — head tilt, loss of balance, seizures, circling, or paralysis — can be alarming to witness. These signs can have several different underlying causes, and prompt veterinary assessment is essential to identify the cause and begin appropriate treatment. Many guinea pigs with neurological conditions can recover well or maintain a good quality of life with proper care.
@@ -47,8 +45,6 @@ Head injuries from falls or being dropped can cause neurological symptoms. The s
 ### 7. Tumors
 
 Brain tumors are uncommon in guinea pigs but can cause progressive neurological signs. Diagnosis typically requires advanced imaging (MRI or CT). Treatment options are limited.
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-neurologic-diseases.png" />
 
 ## Symptoms
 
@@ -105,8 +101,6 @@ Treatment depends on the underlying cause:
 :::tip
 A guinea pig with a persistent head tilt can still live a happy, comfortable life. Many owners of "tilty pigs" report that their pets adapt remarkably well and remain active, social, and engaged. The key is ensuring they can access food and water safely and that their environment is adapted to prevent injury.
 :::
-
-
 
 ## References
 

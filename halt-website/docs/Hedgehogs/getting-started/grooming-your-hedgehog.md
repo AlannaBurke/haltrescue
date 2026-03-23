@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [hedgehogs, grooming, nail trimming]
 ---
 
-![Hedgehog Behavior Guide](/img/hedgehogs/hedgehog-behavior-guide.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-grooming.png" alt="Grooming a hedgehog" />
 
 # Grooming Your Pet Hedgehog
 

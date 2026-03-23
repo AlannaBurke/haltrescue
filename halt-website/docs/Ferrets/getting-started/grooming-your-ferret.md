@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [ferrets, grooming, nail trimming]
 ---
 
-![Ferret Behavior Guide](/img/ferrets/ferret-behavior-guide.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-grooming.png" alt="Grooming a ferret" />
 
 # Grooming Your Pet Ferret
 

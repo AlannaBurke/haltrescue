@@ -4,7 +4,7 @@ tags: [degus, parasites, ringworm]
 description: "A guide to parasites affecting degus, including fleas, mites, and internal parasites, with a focus on prevention and safe treatment."
 ---
 
-![Common Health Issues](/img/degus/common-health-issues.png)
+<InfographicShare imageSrc="/img/degus/degu-parasites.png" />
 
 # Parasites in Degus
 

@@ -6,7 +6,7 @@ sidebar_position: 2
 tags: [hamsters, supplies, getting started]
 ---
 
-![Common Health Issues](/img/hamsters/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/essential-supplies.png" alt="Essential supplies for hamsters" />
 
 # Essential Supplies for Pet Hamsters
 

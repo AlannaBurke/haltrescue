@@ -4,7 +4,7 @@ tags: [rabbits, dental disease]
 description: "An in-depth guide to dental disease in rabbits, explaining why it is so common, how to recognize the signs of oral pain, and the absolute necessity of a hay-based diet for prevention."
 ---
 
-![Common Health Issues](/img/rabbits/common-health-issues.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-dental-health.png" />
 
 # Dental Health in Rabbits
 
@@ -25,8 +25,6 @@ Malocclusion occurs when the teeth are not worn down properly and begin to overg
 3.  **Incisor Overgrowth:** Problems with the molars prevent the incisors from meeting correctly, causing them to overgrow, sometimes curling back into the mouth or out between the lips.
 4.  **Abscesses:** Elongated tooth roots can lead to the formation of large, painful abscesses along the jawline.
 5.  **Tear Duct Blockage:** The roots of the upper incisors and molars can grow into and block the tear ducts, causing persistent watery eyes (epiphora).
-
-
 
 ## Causes of Dental Disease
 

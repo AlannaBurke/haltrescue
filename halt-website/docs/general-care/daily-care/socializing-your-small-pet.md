@@ -4,7 +4,7 @@ tags: [bonding, taming, handling, behavior]
 description: "A guide to socializing and building trust with timid small pets like rabbits, guinea pigs, and rodents, using patience and positive reinforcement to create a strong bond."
 ---
 
-![Skin Sore Hocks](/img/general-care/skin-sore-hocks.png)
+<InfographicShare imageSrc="/img/general-care/socializing.png" alt="Socializing small pets" />
 
 # Socializing Your Small Pet
 

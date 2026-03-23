@@ -4,7 +4,7 @@ tags: [ferrets, respiratory infection]
 description: "A guide to respiratory issues in ferrets, covering their unique susceptibility to the human influenza virus, as well as other causes of respiratory distress like pneumonia and heart disease."
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-respiratory-health.png" />
 
 # Respiratory Issues in Ferrets
 

@@ -8,8 +8,6 @@ tags: [chinchillas, diabetes, health, nutrition]
 
 ![Chinchilla Diabetes](/img/chinchillas/chinchilla-diabetes.png)
 
-
-
 # Diabetes in Chinchillas
 
 Diabetes mellitus is relatively uncommon in chinchillas compared to some other small mammals, but when it does occur it poses significant health challenges. Chinchillas have a physiology that makes them sensitive to high-sugar diets, and dietary mismanagement is considered a primary contributing factor. Early recognition and appropriate management can significantly improve quality of life.
@@ -19,8 +17,6 @@ Diabetes mellitus is relatively uncommon in chinchillas compared to some other s
 **Diabetes mellitus** is a metabolic condition in which the body cannot effectively regulate blood glucose levels. This occurs either because the pancreas produces insufficient insulin, or because the body's cells become resistant to insulin's effects. Without adequate insulin function, glucose accumulates in the bloodstream rather than being taken up by cells for energy, leading to a cascade of health complications.[^1]
 
 Chinchillas, like degus, have a physiology that is poorly adapted to high-carbohydrate, high-sugar diets. Their natural diet in the wild consists of sparse, fibrous vegetation with very little sugar content. Captive chinchillas fed inappropriate diets — particularly those high in seeds, nuts, dried fruit, or sugary treats — are at elevated risk of developing insulin resistance and diabetes.[^2]
-
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-diabetes.png" />
 
 ## Causes and Risk Factors
 
@@ -87,8 +83,6 @@ The best prevention is a species-appropriate diet from the start:
 - Maintain a **healthy body weight** — you should be able to feel but not see the ribs
 
 > For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
-
-
 
 ## References
 

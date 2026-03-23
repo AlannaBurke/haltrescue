@@ -4,7 +4,7 @@ tags: [gerbils, respiratory infection, cancer]
 description: "A guide to respiratory infections in gerbils, covering the common causes, signs of illness, and the importance of a clean, well-ventilated environment and proper bedding for prevention."
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-respiratory-health.png" />
 
 # Respiratory Issues in Gerbils
 

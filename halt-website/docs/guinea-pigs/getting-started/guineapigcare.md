@@ -28,7 +28,6 @@ For more information on their products please visit www.smallpetselect.com.
 
 Sherwood Pet Health carries a healthy line of pellets and treats and can be found on their website https://store.sherwoodpethealth.com/, chewy.com or amazon.com.
 
-
 ### What about fresh foods?
 
 Guinea pigs should be given fresh vegetables on a daily basis. Fresh fruits are also safe, but should only be given as a treat, not as a primary source of nutrition. Many grocery stores are willing to set aside some of their daily veggie scraps if you call and request them in advance. Guinea pigs who eat a regular diet of veggies and fruits do not need vitamin C supplemented unless your cavy savvy veterinarian recommends it for a
@@ -73,5 +72,3 @@ Guinea pigs are not much for playing with toys, but do enjoy paper towel rolls s
 ## Quick Reference: Guinea Pig Care Essentials
 
 The infographic below summarizes the key care essentials — diet, cage sizing, bedding, and important reminders — in one handy reference.
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-care-essentials.png" />

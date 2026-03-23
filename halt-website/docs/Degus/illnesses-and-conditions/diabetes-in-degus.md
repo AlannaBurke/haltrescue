@@ -6,7 +6,7 @@ sidebar_position: 1
 tags: [degus, diabetes, health, nutrition]
 ---
 
-![Degu Diabetes Guide](/img/degus/degu-diabetes-guide.png)
+<InfographicShare imageSrc="/img/degus/diabetes-in-degus.png" />
 
 # Diabetes in Degus
 
@@ -17,8 +17,6 @@ Diabetes mellitus is one of the most significant health concerns for pet degus. 
 **Diabetes mellitus** is a metabolic condition in which the body cannot effectively regulate blood glucose levels. In most mammals, insulin acts quickly to bring blood sugar back to normal after a meal. In degus, insulin and glucagon — the hormones that regulate blood sugar — have a different molecular structure than in other mammals, meaning they work more slowly and less efficiently.[^1]
 
 In the wild, degus are native to the arid scrublands and mountains of Chile, where their natural diet consists almost entirely of dry grasses, roots, bark, cactus, and seeds — foods that are very low in sugar and high in fibre. Their bodies simply did not evolve to handle the sugar loads that are common in many commercial small animal foods and treats.[^2]
-
-<InfographicShare imageSrc="/img/degus/diabetes-in-degus.png" />
 
 ## Causes and Risk Factors
 

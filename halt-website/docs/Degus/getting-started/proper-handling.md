@@ -6,7 +6,7 @@ sidebar_position: 7
 tags: [degus, handling, taming, bonding, tail slip]
 ---
 
-![Degu Behavior Guide](/img/degus/degu-behavior-guide.png)
+<InfographicShare imageSrc="/img/degus/degu-handling.png" alt="Handling a degu" />
 
 # Proper Handling of Pet Degus
 

@@ -5,7 +5,7 @@ tags: [mouse care, mice care, mouse safety, dangerous treats, dangerous toys, mo
 description: "A guide to dangerous treats and toys for mice, highlighting toxic foods, the extreme danger of fluffy bedding, and the importance of a safe cage environment."
 ---
 
-![Common Health Issues](/img/mice/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for mice" />
 
 # Dangerous Treats and Toys for Mice
 

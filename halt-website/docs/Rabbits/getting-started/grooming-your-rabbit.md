@@ -6,7 +6,7 @@ sidebar_position: 3
 tags: [rabbits, grooming, nail trimming]
 ---
 
-![Rabbit Behavior Guide](/img/rabbits/rabbit-behavior-guide.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-grooming.png" alt="Grooming a rabbit" />
 
 # Grooming Your Pet Rabbit
 

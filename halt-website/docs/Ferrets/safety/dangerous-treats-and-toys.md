@@ -5,7 +5,7 @@ tags: [ferret care, ferret safety, dangerous treats, dangerous toys, ferret diet
 description: "A crucial guide to dangerous treats and toys for ferrets, focusing on the risks of plant-based foods and the extreme danger of foreign body obstruction from ingested toys."
 ---
 
-![Common Health Issues](/img/ferrets/common-health-issues.png)
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for ferrets" />
 
 # Dangerous Treats and Toys for Ferrets
 

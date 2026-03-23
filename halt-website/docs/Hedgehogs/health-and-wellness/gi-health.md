@@ -4,7 +4,7 @@ tags: [hedgehogs, gi health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in hedgehogs, covering their unique dietary needs as insectivores and the common causes of digestive upset."
 ---
 
-![Common Health Issues](/img/hedgehogs/common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-gi-health.png" />
 
 # Gastrointestinal (GI) Health in Hedgehogs
 

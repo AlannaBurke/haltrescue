@@ -11,8 +11,6 @@ description: "Hedgehogs are unique and fascinating creatures with a set of behav
 
 Hedgehogs are unique and fascinating creatures with a set of behaviors all their own. As solitary and nocturnal animals, their communication is often quiet and defensive. Understanding their body language and sounds is key to providing a safe, enriching environment and building a bond with your spiky friend.
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-behavior-guide.png" />
-
 ## Common Hedgehog Body Language
 
 | Behavior | Common Meaning(s) | Context & Interpretation |

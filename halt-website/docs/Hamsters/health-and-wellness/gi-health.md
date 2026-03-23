@@ -4,7 +4,7 @@ tags: [hamsters, gi health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in hamsters, with a focus on the causes of diarrhea and the serious, often fatal condition known as Wet Tail."
 ---
 
-![Common Health Issues](/img/hamsters/common-health-issues.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-gi-health.png" />
 
 # Gastrointestinal (GI) Health in Hamsters
 
@@ -30,8 +30,6 @@ A hamster's gastrointestinal (GI) tract is generally robust, but it can be susce
         *   Loss of appetite and refusal to drink.
         *   A wet and matted appearance of the tail and abdomen, giving the disease its name.
     *   **Action:** **Wet Tail is a critical emergency.** The hamster must see a veterinarian immediately. Treatment involves aggressive supportive care with subcutaneous fluids to fight dehydration, antibiotics to combat the bacterial infection, and anti-diarrheal medications. The prognosis is very poor, and many hamsters succumb to the disease within 48 hours even with treatment.
-
-
 
 ## Prevention of GI Issues
 

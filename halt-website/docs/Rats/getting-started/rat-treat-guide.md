@@ -11,8 +11,6 @@ description: "This guide is meant to help you quickly check whether a food is ge
 
 This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or high-dose studies. If you're unsure or worried about something your rat ate, reach out to your vet.
 
-<InfographicShare imageSrc="/img/rats/rat-treat-guide.png" />
-
 ## Safe Foods
 
 The following foods are generally safe to offer as treats or dietary supplements for rats:

@@ -4,7 +4,7 @@ tags: [rabbits, eye health, tear duct]
 description: "A guide to common eye and vision issues in rabbits, focusing on the critical link between weepy eyes (epiphora) and underlying dental disease, as well as other conditions like ulcers and abscesses."
 ---
 
-![Common Health Issues](/img/rabbits/common-health-issues.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-eye-health.png" />
 
 # Eye & Vision Issues in Rabbits
 

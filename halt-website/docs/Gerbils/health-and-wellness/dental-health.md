@@ -4,7 +4,7 @@ tags: [gerbils, dental disease]
 description: "A guide to dental health in gerbils, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the critical role of chewing materials."
 ---
 
-![Common Health Issues](/img/gerbils/common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-dental-health.png" />
 
 # Dental Health in Gerbils
 
@@ -22,8 +22,6 @@ Malocclusion, or the misalignment of teeth, is the primary dental problem in ger
 *   **Genetics:** Some gerbils may be genetically predisposed to jaw or tooth misalignment.
 *   **Trauma:** A fall or injury to the face can damage the jaw or a tooth bud, causing the teeth to grow in at an incorrect angle.
 *   **Illness or Malnutrition:** A diet lacking in essential minerals can affect tooth and bone health, leading to dental problems.
-
-
 
 ## Signs of Dental Problems
 
