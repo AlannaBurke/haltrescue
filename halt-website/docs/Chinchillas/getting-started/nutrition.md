@@ -40,9 +40,15 @@ High-quality, plain, hay-based pellets should supplement the hay diet. These pro
 
 > "Chinchillas benefit from high fiber, low carbohydrate, and low-fat diets. This is achieved by feeding your chinchilla a high-fiber grass hay, a fortified pellet..." [3]
 
-## Safe Treats (In Strict Moderation)
+## Sugar, Diabetes, and Why Treats Are Dangerous
 
-Treats should be offered very sparingly, no more than 2-3 times per week. A chinchilla's system is not designed to handle sugar, and overfeeding treats can lead to serious health issues like diabetes and GI stasis.
+:::danger Chinchillas Cannot Safely Process Sugar
+Chinchillas are **highly susceptible to diabetes mellitus**. Their insulin has very low biological potency compared to most mammals, meaning their bodies are poorly equipped to manage blood glucose spikes from sugary foods.[^9] Even small, repeated exposures to sugar — raisins, dried fruit, yogurt drops, seed sticks — can contribute to insulin resistance and eventually diabetes over time.
+
+Unlike in humans, **there are no "safe" sugary treats for chinchillas**. The occasional raisin that seems harmless can be the beginning of a metabolic disease that is difficult to manage and significantly shortens their lifespan. See our article on [Diabetes in Chinchillas](/docs/Chinchillas/illnesses-and-conditions/diabetes-in-chinchillas) for the full picture.
+:::
+
+Treats should be offered very sparingly — no more than 2–3 times per week, and only from the approved list below. A chinchilla's digestive and metabolic system is not designed to handle sugar, and overfeeding treats can lead to serious health issues including diabetes, GI stasis, and obesity.
 
 **Good Treat Options (small amounts):**
 
@@ -76,6 +82,8 @@ Fresh, clean water must be available at all times. A sipper bottle is the best w
 ---
 
 ### References
+
+[^9]: Frohlich J. Chinchillas. In: *Merck Veterinary Manual*. Reviewed/Revised February 2021. Available at: [https://www.merckvetmanual.com/exotic-and-laboratory-animals/rodents/chinchillas](https://www.merckvetmanual.com/exotic-and-laboratory-animals/rodents/chinchillas) *(Notes that chinchilla insulin has very low biological potency, making them highly susceptible to diabetes from high-carbohydrate diets.)*
 
 [1] VCA Animal Hospitals. "Chinchillas - Feeding." [https://vcahospitals.com/know-your-pet/chinchillas---feeding](https://vcahospitals.com/know-your-pet/chinchillas---feeding)
 

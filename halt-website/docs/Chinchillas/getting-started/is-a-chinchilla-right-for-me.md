@@ -27,7 +27,7 @@ Chinchillas are **social animals** and generally do best with a bonded companion
 - **Temperature control** — must remain below 75°F at all times; ideally 60–70°F
 - **Unlimited grass hay** and a measured amount of quality chinchilla pellets
 - **Dust baths** 2–3 times per week using chinchilla-specific dust — water baths are harmful and can cause fungal infections
-- **No sugary treats** — chinchillas are prone to digestive upset and dental disease from inappropriate foods
+- **No sugary treats, ever** — chinchillas have very low insulin potency and are highly prone to diabetes; even occasional raisins or fruit can contribute to metabolic disease over time
 - **Enrichment** — chew toys, wooden ledges, and hiding spots
 
 ## The Cost of Chinchilla Ownership
@@ -44,7 +44,7 @@ The ongoing cost of air conditioning in warm climates is a real consideration th
 
 - **You live in a warm climate without reliable air conditioning.** This is a hard stop. Heatstroke is fatal and can occur quickly.
 - **You are not prepared for a 15–20 year commitment.** A chinchilla adopted today may still be with you in your 40s, 50s, or beyond. Make sure every adult in the household understands and accepts this.
-- **You have young children.** Chinchillas have fragile bones and are extremely fast. They do not enjoy being held by most people and are easily injured by rough handling or a fall.
+- **You have young children.** Chinchillas have a highly flexible rib cage connected to a very small sternum primarily by cartilage. A child who squeezes or grabs a chinchilla around the midsection can cause fatal internal injuries — including lung damage and spinal cord compression — without breaking any bones and without any obvious external sign of injury. They are also extremely fast and easily dropped.
 - **You want a daytime pet.** Chinchillas are most active in the evening and overnight. Waking them during the day is stressful for the animal.
 
 ## Great Match If...
@@ -56,7 +56,19 @@ The ongoing cost of air conditioning in warm climates is a real consideration th
 
 ## Chinchillas and Children
 
-Chinchillas are generally not recommended as pets for young children. They are fast, fragile, and easily stressed. Older teenagers and adults who approach them with patience and respect can develop wonderful bonds with chinchillas — but this takes time and consistency.
+Chinchillas are **not recommended as pets for young children**, and this is not a matter of preference — it is a matter of anatomy. Unlike many small animals, a chinchilla's rib cage is not rigidly attached to a large bony sternum. The sternal connections are primarily cartilaginous, making the rib cage highly compressible. A child who grabs a chinchilla with both hands around the midsection — the natural instinct when trying to hold a fast, squirming animal — can compress the rib cage enough to damage the lungs or compress the spinal cord. The injury may not be immediately obvious, and the chinchilla may not show distress until it is too late.[^1]
+
+Additionally, chinchillas are fast, skittish, and prone to panic. Drops from even a modest height can cause fractures or fatal injuries.
+
+If a chinchilla lives in a household with children:
+- All handling must be **supervised by an adult at all times**
+- Children should only hold the chinchilla while **seated on the floor**
+- Children must be taught the correct two-handed, full-body support technique before any contact
+- Grabbing, squeezing, or chasing must be strictly prohibited
+
+Older teenagers and adults who approach chinchillas with patience and consistency can develop wonderful bonds with them — but this takes time and a genuine understanding of the animal's needs.
+
+[^1]: Sunshine Chinchillas. *Chinchilla Anatomy — Skeletons: Museum of Osteology*. [https://www.sunshinechinchillas.com/chinchilla-anatomy](https://www.sunshinechinchillas.com/chinchilla-anatomy)
 
 ---
 
