@@ -6,6 +6,9 @@ description: "A guide to dental health in hedgehogs, covering common problems li
 
 # Dental Health in Hedgehogs
 
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-dental-health.png" />
+
+
 Dental disease is an extremely common and often painful condition in African Pygmy Hedgehogs. Unlike rodents, their teeth do not grow continuously, so they face issues similar to cats and dogs, such as tartar buildup, gum disease, and abscesses. Furthermore, hedgehogs are notoriously prone to developing oral cancers. Regular monitoring of their oral health is a critical component of responsible care.
 
 ## Common Dental Problems in Hedgehogs
@@ -25,7 +28,6 @@ Dental disease is an extremely common and often painful condition in African Pyg
 4.  **Oral Tumors:**
     *   **Cause:** Hedgehogs have a very high incidence of cancer, and **squamous cell carcinoma** is one of the most common types, frequently appearing in the mouth. These tumors are highly aggressive and can invade the jawbone.
     *   **Signs:** Signs can be similar to a dental abscess, including facial swelling, difficulty eating, weight loss, and drooling. Any lump or unusual growth in a hedgehog's mouth should be considered highly suspicious of cancer.
-
 
 
 ## Prevention and Home Care

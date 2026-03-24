@@ -6,6 +6,9 @@ description: "A detailed guide to dental disease in guinea pigs, explaining the 
 
 # Dental Health in Guinea Pigs
 
+![Dental Prevention](/img/guinea-pigs/dental-prevention.png)
+
+
 Dental disease is one of the most prevalent and serious health issues affecting pet guinea pigs. Their teeth are all "open-rooted" and grow continuously throughout their lives, requiring a constant source of abrasive, high-fiber food to maintain their proper length and shape. A lack of appropriate dietary wear leads to a cascade of painful and debilitating problems.
 
 ## The Anatomy of a Guinea Pig's Mouth
@@ -17,7 +20,6 @@ Malocclusion (the misalignment of teeth) occurs when this wear is insufficient. 
 *   **Molar Overgrowth:** The lower molars can grow into a bridge over the tongue, trapping it and making it impossible to swallow. The upper molars can grow sharp spikes that cut into the cheeks.
 *   **Incisor Overgrowth:** While often secondary to molar problems, the front teeth can also become overgrown, making it difficult to pick up food.
 *   **Root Elongation:** The roots of the teeth can grow backwards into the jaw and skull, leading to painful abscesses, bone changes, and pressure on the eyes.
-
 
 
 ## Causes of Dental Disease

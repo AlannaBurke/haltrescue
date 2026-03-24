@@ -6,8 +6,10 @@ tags: [rabbits, ear health, health]
 ---
 
 
-
 # Ear Infections in Rabbits
+
+![Rabbit Ear Infection](/img/rabbits/rabbit-ear-infection.png)
+
 
 Ear infections are a relatively common health issue in rabbits and can cause significant discomfort if left untreated. Rabbits have delicate ear structures, and infections can affect the outer, middle, or inner ear — each with different causes and consequences. Early detection and treatment are essential to prevent the infection from spreading and causing permanent damage.
 
@@ -81,7 +83,6 @@ Treatment courses for middle and inner ear infections are often prolonged (4–8
 - **Reduce stress** — a healthy immune system is the best defence against infection
 
 > For more information on neurological signs that can accompany inner ear infections, see our article on [Neurologic Issues in Rabbits](./neurologic-issues-in-rabbits).
-
 
 
 ## References

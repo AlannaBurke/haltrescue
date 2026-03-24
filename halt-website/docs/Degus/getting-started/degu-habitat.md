@@ -8,6 +8,9 @@ tags: [degus, housing, getting started]
 
 # Degu Habitat
 
+<InfographicShare imageSrc="/img/degus/degu-habitat-guide.png" />
+
+
 Degus are active, agile, and curious animals that need a large and stimulating environment to thrive. Their habitat must be chew-proof and designed to accommodate their love of climbing, running, and burrowing.
 
 <InfographicShare

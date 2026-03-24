@@ -8,6 +8,9 @@ tags: [rats, grooming, nail trimming]
 
 # Grooming Your Rat
 
+<InfographicShare imageSrc="/img/rats/rat-grooming.png" />
+
+
 Rats are naturally fastidious animals and spend a significant amount of time grooming themselves and each other. [1] A healthy, happy rat will typically keep its coat clean, shiny, and smooth. However, there are times when a little help from their human companion is necessary.
 
 This guide covers the main aspects of grooming: bathing, nail trimming, and supporting their natural hygiene.

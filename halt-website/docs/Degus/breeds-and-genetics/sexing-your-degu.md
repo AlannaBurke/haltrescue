@@ -9,6 +9,9 @@ tags: [degus, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Degu
 
+![Degu Sexing Guide](/img/degus/degu-sexing-guide.png)
+
+
 Correctly identifying the sex of your degus is vital. Degus are social animals that must live in pairs or groups, and mixing sexes will inevitably lead to frequent litters. Sexing a degu is straightforward once you know what to look for.
 
 The only reliable method is to examine the anogenital distance—the space between the anus and the urethral cone (genital opening). [1]

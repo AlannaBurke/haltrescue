@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in Massachusetts
 
+![Kawaii illustration of a rabbit in a pet store with a caring advocate in Massachusetts](/img/rescue-resources/report-ma.png)
+
+
 ## **1\. Who investigates animal cruelty in Massachusetts?**
 
 In Massachusetts, **animal cruelty—including in pet stores—can be investigated by multiple agencies**, and any one of them can take the report:

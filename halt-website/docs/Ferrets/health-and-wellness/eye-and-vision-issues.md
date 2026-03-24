@@ -6,6 +6,9 @@ description: "A guide to common eye and vision issues in ferrets, discussing the
 
 # Eye & Vision Issues in Ferrets
 
+<InfographicShare imageSrc="/img/ferrets/ferret-eye-health.png" />
+
+
 Ferrets are naturally very near-sighted. Their vision is adapted for hunting in close quarters and tunnels, and they rely much more on their keen senses of hearing and smell to navigate their world. While their eyesight is not their strongest sense, they can still suffer from eye-related health problems, particularly as they age.
 
 ## A Ferret's-Eye View

@@ -7,6 +7,9 @@ description: "Rabbits are among the most popular pets in the United States — a
 
 # Is a Rabbit Right for Me and My Family?
 
+![Is A Rabbit Right For Me](/img/rabbits/is-a-rabbit-right-for-me.png)
+
+
 <InfographicShare
   src="/img/rabbits/is-a-rabbit-right-for-me.png"
   alt="Is a Rabbit Right for You? Quick reference guide from HALT Rescue"

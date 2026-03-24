@@ -8,6 +8,9 @@ tags: [hamsters, housing, getting started]
 
 # Hamster Habitat
 
+<InfographicShare imageSrc="/img/hamsters/hamster-habitat-guide.png" />
+
+
 A hamster's cage is its entire world, so creating a safe, spacious, and enriching environment is the most important responsibility of any owner. The right habitat prevents stress, boredom, and escape attempts, allowing your hamster to thrive.
 
 <InfographicShare

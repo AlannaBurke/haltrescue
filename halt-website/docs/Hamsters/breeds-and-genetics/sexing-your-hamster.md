@@ -9,6 +9,9 @@ tags: [hamsters, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Hamster
 
+![Hamster Sexing Guide](/img/hamsters/hamster-sexing-guide.png)
+
+
 Correctly identifying the sex of your hamster is essential, especially since they are solitary animals and housing them together can lead to fighting and unwanted pregnancies. While it can be tricky with very young hamsters, there are several distinct anatomical clues to look for.
 
 The most reliable method for sexing a hamster is by observing the **anogenital distance**—the space between the anus and the genital opening (the urethra). [1]

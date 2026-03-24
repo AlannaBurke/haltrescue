@@ -6,6 +6,9 @@ tags: [nonprofit, rescue]
 
 # Transparency Is Not Optional — It’s Foundational
 
+![Kawaii illustration of a rescue coordinator sharing information openly with supporters](/img/rescue-resources/transparency.png)
+
+
 In rescue, transparency isn’t a nice-to-have — it’s essential.
 
 When you’re responsible for the care, treatment, and often the survival of animals, you’re also accountable to the community that supports you. Whether it’s donors, fosters, adopters, volunteers, or fellow rescuers, people deserve to know what’s going on.

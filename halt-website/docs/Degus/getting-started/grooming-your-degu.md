@@ -8,6 +8,9 @@ tags: [degus, grooming, coat]
 
 # Grooming Your Pet Degu
 
+<InfographicShare imageSrc="/img/degus/degu-grooming.png" alt="Grooming a degu" />
+
+
 Degus are meticulous self-groomers and, for the most part, take excellent care of their own coats. However, they require one very specific and essential grooming aid from their owners: a dust bath. [1]
 
 ## The Importance of Dust Baths

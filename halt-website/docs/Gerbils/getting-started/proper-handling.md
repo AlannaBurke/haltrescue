@@ -8,6 +8,9 @@ tags: [gerbils, handling, taming, bonding, tail slip]
 
 # Proper Handling of Pet Gerbils
 
+<InfographicShare imageSrc="/img/gerbils/gerbil-handling.png" />
+
+
 Gerbils are among the most naturally curious and tame of all small pets, and with gentle, consistent handling, they can become very comfortable with their owners. However, there is one critical rule that every gerbil owner must know.
 
 ## The Most Important Rule: Never Grab the Tail

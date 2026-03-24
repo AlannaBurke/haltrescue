@@ -6,6 +6,9 @@ description: "A guide to common internal worms in pet rats, such as pinworms and
 
 # Worms in Pet Rats
 
+![Rat Worms](/img/rats/rat-worms.png)
+
+
 The topic of internal parasites, or worms, is a common concern for many pet owners. In pet rats, the reality is that while worm infestations are very common, they very rarely cause any actual harm or signs of illness. The two most common types of worms found in rats are pinworms and tapeworms.
 
 ## Pinworms

@@ -6,8 +6,10 @@ tags: [rabbits, parasites, neurological, health]
 ---
 
 
-
 # Parasites in Rabbits
+
+![Rabbit Parasites](/img/rabbits/rabbit-parasites.png)
+
 
 Parasites are a common concern for rabbit owners, ranging from external pests that cause skin irritation to internal organisms that can lead to severe systemic disease. Understanding the types of parasites that can affect your rabbit, along with the signs of an infestation, is key to prevention and effective treatment. This guide provides a general overview; for more detailed information, please see the linked articles.
 
@@ -71,7 +73,6 @@ Treatment is specific to the parasite and may include topical medications (selam
 - **Flea Prevention**: Use a rabbit-safe flea preventive (like Revolution® or Advantage®) as recommended by your vet, especially if your rabbit has outdoor access or lives with other pets.
 - **Regular Check-ups**: Annual veterinary exams and fecal tests can help catch internal parasites early.
 - **Environmental Control**: Source hay from reputable suppliers and prevent contact with wild rabbits.
-
 
 
 ## References

@@ -5,8 +5,10 @@ tags: [rabbits, dental disease, health]
 ---
 
 
-
 # A Guide to Rabbit Dental Health
+
+<InfographicShare imageSrc="/img/rabbits/rabbit-dental-health.png" />
+
 
 Dental health is one of the most critical aspects of a rabbit's overall well-being. Unlike humans, a rabbit's teeth grow continuously throughout their life. A proper diet and regular monitoring are essential to prevent painful and life-threatening dental disease. This guide covers the fundamentals of rabbit dental anatomy, common problems, and preventative care.
 

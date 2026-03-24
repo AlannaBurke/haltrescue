@@ -7,6 +7,9 @@ description: "Guinea pigs are gentle, social, and surprisingly communicative lit
 
 # Is a Guinea Pig Right for Me and My Family?
 
+![Is A Guinea Pig Right For Me](/img/guinea-pigs/is-a-guinea-pig-right-for-me.png)
+
+
 <InfographicShare
   src="/img/guinea-pigs/is-a-guinea-pig-right-for-me.png"
   alt="Is a Guinea Pig Right for You? Quick reference guide from HALT Rescue"

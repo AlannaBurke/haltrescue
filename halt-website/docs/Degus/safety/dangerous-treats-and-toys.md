@@ -7,6 +7,9 @@ description: "A critical guide to dangerous treats and toys for degus, emphasizi
 
 # Dangerous Treats and Toys for Degus
 
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for degus" />
+
+
 Degus have a unique and strict dietary requirement: they are completely intolerant of sugar. This, combined with their need to constantly chew, makes it absolutely critical for owners to understand which treats and toys are safe and which are dangerously inappropriate. Many items marketed for small animals are not safe for degus.
 
 ## The Golden Rule: NO SUGAR

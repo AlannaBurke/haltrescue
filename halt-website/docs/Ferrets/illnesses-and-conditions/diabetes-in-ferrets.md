@@ -5,8 +5,10 @@ tags: [ferrets, diabetes, cancer, metabolic disease, health]
 ---
 
 
-
 # Understanding Diabetes in Ferrets
+
+![Ferret Diabetes](/img/ferrets/ferret-diabetes.png)
+
 
 When discussing pancreatic diseases in ferrets, it is crucial to distinguish between two very different conditions: **Insulinoma** and **Diabetes Mellitus**.
 
@@ -49,7 +51,6 @@ Given its prevalence, ferret owners are far more likely to encounter insulinoma 
 *   Seizures
 
 If you suspect your ferret has any form of pancreatic disease, a prompt veterinary visit is critical for diagnosis and treatment.
-
 
 
 ## References

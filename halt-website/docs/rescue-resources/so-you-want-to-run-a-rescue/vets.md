@@ -6,6 +6,9 @@ tags: [nonprofit, veterinary, rescue]
 
 # Rescue and Veterinary Care: What You Owe the Animals
 
+![Kawaii illustration of a veterinarian examining a guinea pig with a rescue volunteer watching](/img/rescue-resources/vets.png)
+
+
 When you run a rescue, you take on a lot — shelter, food, enrichment, cleaning, and of course… medical care. And let’s be real: a lot of that falls to us. We clean wounds, administer medications, track symptoms, manage chronic conditions, and make hard decisions.
 
 But here’s the line we must never cross:

@@ -8,6 +8,9 @@ tags: [rats, handling, taming, bonding]
 
 # Proper Handling of Pet Rats
 
+<InfographicShare imageSrc="/img/rats/rat-handling.png" />
+
+
 Proper handling is the foundation of a positive relationship with your pet rats. Rats are intelligent and social animals that can form deep bonds with their owners, but this requires building trust through gentle, confident, and consistent handling. [1]
 
 This guide will cover the best methods for picking up, holding, and interacting with your rats to ensure they feel safe and secure in your hands.

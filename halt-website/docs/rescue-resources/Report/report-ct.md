@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in Connecticut
 
+![Kawaii illustration of a guinea pig in a pet store with a caring person ready to report neglect in Connecticut](/img/rescue-resources/report-ct.png)
+
+
 ## **1\. Who actually investigates in Connecticut?**
 
 In CT, most cruelty complaints (including **small animals in pet stores**) are handled by:

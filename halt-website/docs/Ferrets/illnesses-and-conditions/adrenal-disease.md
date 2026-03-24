@@ -6,6 +6,9 @@ description: "An in-depth guide to adrenal gland disease in ferrets, a common an
 
 # Adrenal Gland Disease in Ferrets
 
+![Ferret Adrenal Disease](/img/ferrets/ferret-adrenal-disease.png)
+
+
 Adrenal gland disease is one of the most common and serious health problems affecting pet ferrets, particularly in North America. It is a complex condition, often considered a type of cancer, that involves the overproduction of sex hormones by the adrenal glands. It is fundamentally different from adrenal diseases seen in other animals like dogs (Cushing's disease).
 
 ## The Cause: A Hormonal Imbalance

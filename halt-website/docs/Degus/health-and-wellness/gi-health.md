@@ -6,6 +6,9 @@ description: "An essential guide to gastrointestinal (GI) health in degus, cover
 
 # Gastrointestinal (GI) Health in Degus
 
+<InfographicShare imageSrc="/img/degus/degu-gi-health.png" />
+
+
 A degu's digestive system is adapted for a harsh, arid environment, designed to extract nutrients from a diet high in fiber and low in sugar and fat. Their gastrointestinal (GI) tract is sensitive, and dietary errors are the root cause of the most common and serious health problems in degus, including GI stasis, bloat, and diabetes. Maintaining a healthy gut is synonymous with maintaining a healthy degu.
 
 ## The Degu Digestive System

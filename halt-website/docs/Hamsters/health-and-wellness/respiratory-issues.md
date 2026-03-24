@@ -6,6 +6,9 @@ description: "A guide to respiratory infections in hamsters, covering the common
 
 # Respiratory Issues in Hamsters
 
+<InfographicShare imageSrc="/img/hamsters/hamster-respiratory-health.png" />
+
+
 Respiratory infections can be a serious concern for hamsters. Their small size means that a simple upper respiratory infection (a cold) can quickly progress to pneumonia, which is often life-threatening. These infections are frequently linked to the hamster's environment, making proper husbandry the most critical tool for prevention.
 
 ## Causes of Respiratory Infections

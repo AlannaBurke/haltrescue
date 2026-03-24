@@ -6,6 +6,9 @@ description: "A guide to common eye and vision issues in guinea pigs, including 
 
 # Eye & Vision Issues in Guinea Pigs
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-eye-vision.png" />
+
+
 Eye problems are common in guinea pigs and can range from minor irritations to indicators of more serious underlying health issues. A healthy guinea pig's eyes should be bright, wide, and clear. As they are prey animals, their large eyes, set on the sides of their head, give them a wide field of vision to watch for predators.
 
 ## Common Eye Conditions

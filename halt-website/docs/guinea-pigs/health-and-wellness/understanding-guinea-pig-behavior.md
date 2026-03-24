@@ -7,6 +7,9 @@ description: "Guinea pigs are highly vocal, social animals with a rich repertoir
 
 # Understanding Guinea Pig Behavior: A Guide for Owners
 
+![Gp Behavior Guide](/img/guinea-pigs/gp-behavior-guide.png)
+
+
 Guinea pigs are highly vocal, social animals with a rich repertoire of sounds and body language. Learning to read their cues is one of the most rewarding parts of guinea pig ownership — and one of the most important for their welfare. A guinea pig that feels safe and understood will thrive; one whose signals are missed can suffer in silence.
 
 <InfographicShare imageSrc="/img/guinea-pigs/gp-behavior-guide.png" />

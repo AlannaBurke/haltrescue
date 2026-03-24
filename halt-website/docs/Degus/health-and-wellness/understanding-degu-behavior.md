@@ -7,6 +7,9 @@ description: "Degus are highly social, intelligent, and vocal rodents from Chile
 
 # Understanding Degu Behavior: A Guide for Owners
 
+![Degu Behavior Guide](/img/degus/degu-behavior-guide.png)
+
+
 Degus are highly social, intelligent, and vocal rodents from Chile, often described as having the curiosity of a rat and the social complexity of a prairie dog. They live in large underground communities and have a complex system of communication. Understanding their chatty nature and body language is essential for their care.
 
 <InfographicShare imageSrc="/img/degus/degu-behavior-guide.png" />

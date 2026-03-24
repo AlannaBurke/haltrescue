@@ -6,6 +6,9 @@ tags: [guinea pigs, satin syndrome, genetics, breeding, special needs, care]
 
 # Satin Syndrome in Guinea Pigs
 
+    ![Satin guinea pig](/img/guinea-pigs/satinpig.jpg "Satin guinea pig")  
+
+
 ## ✅ [Download our checklist here and bring it to your vet!](pathname:///downloads/satin-checklist.pdf) ✅ 
 
 If you’re a guinea pig owner or enthusiast, it’s crucial to be aware of the health conditions that can affect your furry companions. One such condition is **Satin Syndrome**, a disease that primarily affects satin-coated guinea pigs. While these guinea pigs are prized for their beautiful, glossy fur, they are at higher risk of developing a painful and often debilitating condition that affects their bones and organs.

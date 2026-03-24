@@ -7,6 +7,9 @@ description: "A guide to dangerous treats and toys for mice, highlighting toxic 
 
 # Dangerous Treats and Toys for Mice
 
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for mice" />
+
+
 Mice are curious omnivores that enjoy a varied diet and love to chew and shred. While they are often seen as easy pets, there are several common products and foods that are dangerous and should be avoided. Ensuring their environment is safe and their diet is appropriate is key to their well-being.
 
 ## Dangerous Treats

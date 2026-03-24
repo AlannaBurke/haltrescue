@@ -6,6 +6,9 @@ description: "A detailed guide to dental disease in chinchillas, covering the ca
 
 # Dental Health in Chinchillas
 
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-dental-health.png" />
+
+
 Dental disease, broadly termed malocclusion, is the single most common and serious health issue affecting pet chinchillas. It is a painful, progressive, and ultimately fatal condition if not managed properly. Understanding the unique nature of chinchilla teeth is the first step for any owner to prevent this devastating disease.
 
 ## Elodont Dentition: The Root of the Problem
@@ -16,7 +19,6 @@ Dental disease occurs when this balance is disrupted. If the teeth are not worn 
 
 1.  **Crown Elongation:** The visible part of the tooth (the crown) grows too long. The upper and lower molars meet incorrectly, forming sharp spikes that cut into the cheeks and tongue, causing extreme pain.
 2.  **Root Elongation (Apical Elongation):** The invisible part of the tooth (the root) grows backwards into the jawbone. This can lead to painful bone deformities, abscesses, and pressure on the tear ducts (causing watery eyes). This is often the more insidious and difficult part of the disease to manage.
-
 
 
 ## Causes of Dental Disease

@@ -7,6 +7,9 @@ description: "Guinea pigs are hardy little creatures, but they rely on attentive
 
 # Home Health Care for Your Guinea Pig: A Helping All Little Things Guide
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-home-care.png" />
+
+
 Guinea pigs are hardy little creatures, but they rely on attentive caregivers to keep them healthy and comfortable. Performing regular home health checks is one of the most important things you can do as a guinea pig owner. It allows you to spot potential problems early, manage routine care, and know when it's time to call the vet.
 
 :::tip Download the Weekly Health Checklist

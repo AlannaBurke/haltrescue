@@ -6,6 +6,9 @@ description: "An in-depth guide to dental disease in rabbits, explaining why it 
 
 # Dental Health in Rabbits
 
+<InfographicShare imageSrc="/img/rabbits/rabbit-dental-health.png" />
+
+
 Dental disease is arguably the most common and preventable health problem seen in pet rabbits. It is a painful and progressive condition that significantly impacts a rabbit's quality of life. A thorough understanding of their unique dental anatomy and dietary needs is essential for every rabbit owner.
 
 ## Built for Grinding: Rabbit Dental Anatomy
@@ -23,7 +26,6 @@ Malocclusion occurs when the teeth are not worn down properly and begin to overg
 3.  **Incisor Overgrowth:** Problems with the molars prevent the incisors from meeting correctly, causing them to overgrow, sometimes curling back into the mouth or out between the lips.
 4.  **Abscesses:** Elongated tooth roots can lead to the formation of large, painful abscesses along the jawline.
 5.  **Tear Duct Blockage:** The roots of the upper incisors and molars can grow into and block the tear ducts, causing persistent watery eyes (epiphora).
-
 
 
 ## Causes of Dental Disease

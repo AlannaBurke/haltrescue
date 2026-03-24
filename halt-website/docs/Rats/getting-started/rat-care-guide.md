@@ -5,8 +5,10 @@ tags: [rats, health, veterinary, nutrition, behavior, housing]
 ---
 
 
-
 # A Comprehensive Guide to Rat Care
+
+<InfographicShare imageSrc="/img/rats/rat-common-health-overview.png" />
+
 
 Rats are intelligent, social, and engaging pets that bring a unique joy to any home. To ensure they live long, happy, and healthy lives, it’s essential to understand and meet their specific needs. This guide provides a comprehensive overview of daily and weekly care routines for your pet rats.
 
@@ -48,7 +50,6 @@ A balanced diet is the foundation of good health.
 :::tip
 Keep a simple health journal for each rat, noting their weight, eating habits, and any changes in behavior. Early detection of changes — especially weight loss or labored breathing — can make a significant difference in treatment outcomes.
 :::
-
 
 
 ## References

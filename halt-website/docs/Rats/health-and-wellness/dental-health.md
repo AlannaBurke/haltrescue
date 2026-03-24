@@ -6,6 +6,9 @@ description: "A guide to dental health in rats, focusing on the causes and preve
 
 # Dental Health in Rats
 
+<InfographicShare imageSrc="/img/rats/rat-dental-health.png" />
+
+
 Proper dental health is a cornerstone of good rat care, and it is almost entirely focused on their four incisors (front teeth). Like all rodents, a rat's incisors grow continuously throughout their entire life. This biological imperative requires them to constantly gnaw on a variety of materials to wear their teeth down. When this natural wearing process is disrupted, it can lead to painful and serious health problems.
 
 ## The Basics of Rat Teeth
@@ -20,7 +23,6 @@ The primary dental problem seen in rats is **malocclusion**, which is the misali
 *   **Trauma:** A fall or injury to the face can fracture a tooth or damage the jaw, causing the teeth to grow at an incorrect angle.
 *   **Infection or Tumors:** An abscess or tumor in the jaw can push teeth out of alignment.
 *   **Lack of Chewing Materials:** While less common in rats than in other rodents (as they will chew on almost anything), a barren environment can contribute to dental problems.
-
 
 
 ## Signs of Dental Problems

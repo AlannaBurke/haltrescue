@@ -6,6 +6,9 @@ description: "A guide to kidney and urinary disorders in gerbils, with a focus o
 
 # Kidney and Urinary Disorders in Gerbils
 
+![Gerbil Kidney Disorders](/img/gerbils/gerbil-kidney-disorders.png)
+
+
 As desert animals, gerbils have highly efficient kidneys designed to conserve water. However, they can be prone to kidney disease, particularly as they age. Chronic kidney disease is a common cause of decline in older gerbils. Urinary tract infections are less common but can also occur.
 
 ## Chronic Kidney Disease (Nephritis)

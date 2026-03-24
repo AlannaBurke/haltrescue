@@ -6,6 +6,9 @@ description: "A guide to gastrointestinal (GI) health in ferrets, covering their
 
 # Gastrointestinal (GI) Health in Ferrets
 
+<InfographicShare imageSrc="/img/ferrets/ferret-gi-health.png" />
+
+
 A ferret's gastrointestinal (GI) tract is short, simple, and built for speed. As obligate carnivores, they are designed to rapidly digest a diet of meat and fat. This unique physiology makes them prone to specific GI issues, particularly foreign body obstructions, and means that any signs of digestive upset should be taken seriously.
 
 ## The Ferret Digestive System: Fast and Simple

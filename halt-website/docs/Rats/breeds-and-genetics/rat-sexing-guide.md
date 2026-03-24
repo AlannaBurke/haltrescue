@@ -7,6 +7,9 @@ description: "Correctly sexing rats is essential to prevent accidental litters a
 
 # Rat Sexing Guide: How to Identify Male and Female Rats at Different Ages
 
+![Rat Sexing Guide](/img/rats/rat-sexing-guide.png)
+
+
 Correctly sexing rats is essential to prevent accidental litters and ensure proper housing. Rats can reproduce very young, and misidentification is one of the most common causes of surprise pregnancies.
 
 This guide explains how to identify male and female rats from birth through adulthood, what changes with age, and common mistakes to avoid.

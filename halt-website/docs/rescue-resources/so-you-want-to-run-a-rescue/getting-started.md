@@ -7,6 +7,9 @@ description: "The essential first steps to starting an animal rescue, including 
 
 # Getting Started: The Foundation of Your Rescue
 
+![Kawaii illustration of someone opening the door to their new small animal rescue](/img/rescue-resources/getting-started.png)
+
+
 The passion to save animals is the spark that ignites every rescue, but to build a sustainable organization, that passion must be channeled into a solid, well-planned structure. Before you can save your first animal, you must lay the legal and strategic groundwork for your nonprofit.
 
 ## 1. Define Your Mission and Scope

@@ -7,6 +7,9 @@ description: "Mice are often overlooked as pets, but they are endlessly entertai
 
 # Is a Mouse Right for Me and My Family?
 
+![Is A Mouse Right For Me](/img/mice/is-a-mouse-right-for-me.png)
+
+
 <InfographicShare
   src="/img/mice/is-a-mouse-right-for-me.png"
   alt="Is a Mouse Right for You? Quick reference guide from HALT Rescue"

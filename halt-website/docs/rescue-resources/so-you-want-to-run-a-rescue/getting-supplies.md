@@ -7,6 +7,9 @@ description: "A practical guide for new animal rescues on how to acquire the ess
 
 # Getting Supplies: Equipping Your Rescue for Success
 
+![Kawaii illustration of sourcing supplies for a small animal rescue](/img/rescue-resources/getting-supplies.png)
+
+
 Once your rescue is legally established, the immediate, ongoing challenge is acquiring the vast amount of supplies needed to care for your animals. A well-stocked rescue is a prepared rescue, able to provide excellent care and respond to emergencies. Building a sustainable supply chain requires a multi-faceted approach that combines direct purchasing, community donations, and corporate partnerships.
 
 ## 1. Create a Comprehensive Wish List

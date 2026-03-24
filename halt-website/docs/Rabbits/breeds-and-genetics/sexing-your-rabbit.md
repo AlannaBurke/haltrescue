@@ -9,6 +9,9 @@ tags: [rabbits, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Rabbit
 
+![Rabbit Sexing Guide](/img/rabbits/rabbit-sexing-guide.png)
+
+
 Correctly identifying the sex of your rabbit is a fundamental part of responsible ownership. It is essential for preventing unplanned pregnancies, which can happen as early as 12 weeks of age, and for understanding their behavior. [1]
 
 Sexing a rabbit involves gently examining their genital area to identify key differences between males (bucks) and females (does).

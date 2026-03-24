@@ -7,6 +7,9 @@ description: "Degus are social, intelligent, and endlessly entertaining little a
 
 # Is a Degu Right for Me and My Family?
 
+![Is A Degu Right For Me](/img/degus/is-a-degu-right-for-me.png)
+
+
 <InfographicShare
   src="/img/degus/is-a-degu-right-for-me.png"
   alt="Is a Degu Right for You? Quick reference guide from HALT Rescue"

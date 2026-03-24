@@ -9,6 +9,9 @@ tags: [mice, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Mouse
 
+![Mouse Sexing Guide](/img/mice/mouse-sexing-guide.png)
+
+
 Accurately determining the sex of your mice is crucial for preventing unwanted litters and managing social groups appropriately. While it can seem daunting at first, especially with young mice, learning to identify key anatomical differences makes the process straightforward.
 
 The primary method for sexing mice is to compare the **anogenital distance**—the space between the anus and the genital opening. [1]

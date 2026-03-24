@@ -6,8 +6,10 @@ description: "Bringing a rabbit into your home is a long-term commitment, and pr
 ---
 
 
-
 # Essential Supplies for Your Rabbit Companion
+
+![Essential rabbit supplies](/img/general-care/essential-supplies.png)
+
 
 Bringing a rabbit into your home is a long-term commitment, and providing the right supplies is the first step to ensuring a happy, healthy life for your new friend. Rabbits have specific needs that differ greatly from other common household pets. This guide will walk you through the essential supplies you'll need to create a safe and enriching environment for your rabbit.
 
@@ -78,7 +80,6 @@ Rabbits are intelligent and curious animals that need mental stimulation.
 ## 9. A Rabbit-Savvy Veterinarian
 
 Before you even bring your rabbit home, find a veterinarian who is experienced in treating exotic pets. Rabbits have unique health needs, and a rabbit-savvy vet is an essential partner in your rabbit's care. Annual health checkups are crucial for early detection of potential problems [2].
-
 
 
 ## References

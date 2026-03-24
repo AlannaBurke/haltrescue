@@ -7,6 +7,9 @@ description: "From the sleek and smooth to the curly and long-haired, guinea pig
 
 # Know Your Guinea Pig Breeds
 
+![Guinea Pig Breeds Chart](/img/guinea-pigs/guinea-pig-breeds-chart.png)
+
+
 From the sleek and smooth to the curly and long-haired, guinea pigs come in a wonderful variety of breeds, each with its own unique look and grooming needs. While personality is individual, some breeds are known for certain temperaments. The American Cavy Breeders Association (ACBA) officially recognizes 13 breeds, but there are several other popular, non-recognized varieties you might encounter [1].
 
 Understanding the differences, especially in coat type, is key to providing the right care for your cavy companion.

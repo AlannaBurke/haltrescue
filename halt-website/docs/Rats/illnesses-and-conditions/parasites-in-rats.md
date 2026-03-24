@@ -5,8 +5,10 @@ tags: [rats, parasites, health, veterinary]
 ---
 
 
-
 # Parasites in Pet Rats
+
+<InfographicShare imageSrc="/img/rats/rat-parasites.png" />
+
 
 Parasites are a relatively common health concern in pet rats and can affect even well-cared-for animals. Most infestations are highly treatable when caught early. This guide explains the types of parasites rats can carry, how to recognize them, how to treat them safely, and how to prevent future infestations.
 
@@ -101,7 +103,6 @@ Rat lice and mites are species-specific and **cannot infest humans, dogs, or cat
 | Pinworms | Ivermectin or Fenbendazole | Vet prescription required |
 | Fleas | Vet consultation required | Many products are toxic to rats |
 | Ticks | Manual removal + vet consultation | Do not use dog/cat tick products |
-
 
 
 ## References

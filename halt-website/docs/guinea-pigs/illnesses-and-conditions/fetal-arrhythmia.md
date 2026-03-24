@@ -6,6 +6,9 @@ tags: [guinea pigs, heart disease, genetics, veterinary]
 
 # Fetal Arrhythmia in Guinea Pigs: What It Is and What It Means
 
+![Gp Fetal Arrhythmia](/img/guinea-pigs/gp-fetal-arrhythmia.png)
+
+
 Pregnancy in guinea pigs can be a delicate time, requiring close monitoring and appropriate veterinary care. One rare but important condition that can arise is **fetal arrhythmia**, an irregular heartbeat detected in a developing fetus. While unsettling to hear about, understanding this condition can help owners and rescues make informed decisions.
 
 ## What is Fetal Arrhythmia?

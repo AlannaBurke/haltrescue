@@ -7,6 +7,9 @@ description: "Bordetella bronchiseptica is a bacterium that causes respiratory d
 
 # Bordetella in Guinea Pigs
 
+![Gp Bordetella Warning](/img/guinea-pigs/gp-bordetella-warning.png)
+
+
 *Bordetella bronchiseptica* is a bacterium that causes respiratory disease in a variety of animals. While it is most commonly known as a cause of "kennel cough" in dogs, it can be a life-threatening pathogen for guinea pigs. An infection can progress rapidly from mild respiratory signs to severe pneumonia, making it a true veterinary emergency. Understanding the risks, signs, and prevention strategies is crucial for every guinea pig owner.
 
 ## How is Bordetella Transmitted?

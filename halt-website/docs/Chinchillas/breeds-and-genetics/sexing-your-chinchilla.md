@@ -9,6 +9,9 @@ tags: [chinchillas, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Chinchilla
 
+![Chinchilla Sexing Guide](/img/chinchillas/chinchilla-sexing-guide.png)
+
+
 Correctly identifying the sex of your chinchilla is one of the most important first steps as a new owner. It's crucial for preventing accidental litters and for understanding their social dynamics. While it can seem confusing, there is one clear indicator to look for.
 
 The most reliable way to sex a chinchilla is by looking at the distance and space between the anus and the urethral cone (genital opening). [1]

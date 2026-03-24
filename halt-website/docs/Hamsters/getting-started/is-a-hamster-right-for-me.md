@@ -7,6 +7,9 @@ description: "Hamsters are often purchased as a first pet for young children, bu
 
 # Is a Hamster Right for Me and My Family?
 
+![Is A Hamster Right For Me](/img/hamsters/is-a-hamster-right-for-me.png)
+
+
 <InfographicShare
   src="/img/hamsters/is-a-hamster-right-for-me.png"
   alt="Is a Hamster Right for You? Quick reference guide from HALT Rescue"

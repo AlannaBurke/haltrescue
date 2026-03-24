@@ -8,6 +8,9 @@ tags: [rabbits, handling, taming, bonding]
 
 # Proper Handling of Pet Rabbits
 
+<InfographicShare imageSrc="/img/rabbits/rabbit-handling.png" alt="Handling a rabbit" />
+
+
 As prey animals, rabbits have a strong instinct to fear being picked up, as this mimics being caught by a predator. Proper handling is therefore one of the most important skills for a rabbit owner to learn, both for the rabbit's safety and for building a trusting bond. [1]
 
 ## The Golden Rule: Support the Spine

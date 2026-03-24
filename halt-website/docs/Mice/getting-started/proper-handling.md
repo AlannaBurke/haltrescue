@@ -8,6 +8,9 @@ tags: [mice, handling, taming, bonding]
 
 # Proper Handling of Pet Mice
 
+<InfographicShare imageSrc="/img/mice/mouse-handling.png" alt="Handling a mouse" />
+
+
 Earning the trust of a pet mouse is a rewarding experience that transforms them from a timid creature into a confident and interactive companion. Proper handling is built on a foundation of patience, consistency, and understanding a mouse's natural instincts as a prey animal. [1]
 
 This guide outlines the best practices for handling your mice to ensure they feel safe and comfortable in your presence.

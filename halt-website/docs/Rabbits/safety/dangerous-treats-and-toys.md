@@ -7,6 +7,9 @@ description: "A critical guide to dangerous treats and toys for rabbits, emphasi
 
 # Dangerous Treats and Toys for Rabbits
 
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for rabbits" />
+
+
 Rabbits have one of the most sensitive digestive systems of any common household pet. Their health is inextricably linked to a high-fiber diet, and any deviation can lead to a life-threatening emergency like Gastrointestinal (GI) Stasis. Furthermore, their delicate skeletal structure makes them vulnerable to injuries from improper toys and handling. Knowing what to avoid is paramount to their safety.
 
 ## Dangerous Treats: A Recipe for GI Stasis

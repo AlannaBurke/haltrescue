@@ -6,8 +6,10 @@ tags: [rabbits, neurological, parasites, health]
 ---
 
 
-
 # E. cuniculi in Rabbits
+
+![Rabbit Ecuniculi](/img/rabbits/rabbit-ecuniculi.png)
+
 
 *Encephalitozoon cuniculi* (commonly abbreviated as **E. cuniculi**) is a microscopic obligate intracellular parasite that affects a significant proportion of pet rabbits worldwide. It is one of the most common causes of neurological signs in domestic rabbits and can also cause kidney disease and eye problems. Understanding E. cuniculi is essential for every rabbit owner.
 
@@ -85,7 +87,6 @@ Many rabbits with head tilt improve significantly with treatment, though some de
 - **Minimize stress** — a strong immune system helps keep subclinical infections from becoming clinical
 - **Maintain excellent hygiene** — clean litter boxes daily; E. cuniculi spores are shed in urine
 - **Prophylactic fenbendazole** — some vets recommend a 28-day course for newly acquired rabbits or after known exposure
-
 
 
 ## References

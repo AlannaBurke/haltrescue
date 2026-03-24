@@ -7,8 +7,10 @@ tags: [chinchillas, respiratory infection, health]
 ---
 
 
-
 # Respiratory Infections in Chinchillas
+
+![Chinchilla Respiratory](/img/chinchillas/chinchilla-respiratory.png)
+
 
 Chinchillas are generally hardy pets, but they are susceptible to respiratory infections, which can progress rapidly and become life-threatening if not treated promptly. Their delicate respiratory systems are sensitive to environmental conditions, and poor husbandry is a leading contributing factor. Understanding the warning signs and how to prevent respiratory disease is essential for every chinchilla owner.
 
@@ -86,7 +88,6 @@ If you notice your chinchilla sneezing more than usual after a dust bath, try sw
 :::
 
 > For more on setting up a healthy chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
-
 
 
 ## References

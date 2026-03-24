@@ -5,8 +5,10 @@ tags: [chinchillas, home health check, wellness]
 ---
 
 
-
 # Home Health Care for Your Chinchilla
+
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-home-care.png" />
+
 
 Chinchillas are masters at hiding illness, a survival instinct inherited from their wild ancestors. This means that by the time a chinchilla shows obvious signs of being sick, they may have been unwell for some time. Performing regular health checks at home is one of the most effective ways to catch potential problems early. This guide will walk you through how to conduct a gentle, thorough health check for your chinchilla.
 

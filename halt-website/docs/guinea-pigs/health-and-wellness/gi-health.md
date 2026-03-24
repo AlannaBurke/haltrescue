@@ -6,6 +6,9 @@ description: "An essential guide to gastrointestinal (GI) health in guinea pigs,
 
 # Gastrointestinal (GI) Health in Guinea Pigs
 
+<InfographicShare imageSrc="/img/guinea-pigs/gp-gi-health.png" />
+
+
 A guinea pig's life revolves around its gastrointestinal (GI) tract. Their digestive system is a delicate, complex engine that must be constantly running. It is designed to process large volumes of high-fiber food, and any interruption to this process can quickly become a life-threatening emergency. Understanding and meticulously catering to their digestive needs is the most important responsibility of any guinea pig owner.
 
 ## The Guinea Pig Gut: A Fermentation Factory

@@ -7,6 +7,9 @@ description: "Chinchillas are extraordinary animals — soft as velvet, agile as
 
 # Is a Chinchilla Right for Me and My Family?
 
+![Is A Chinchilla Right For Me](/img/chinchillas/is-a-chinchilla-right-for-me.png)
+
+
 <InfographicShare
   src="/img/chinchillas/is-a-chinchilla-right-for-me.png"
   alt="Is a Chinchilla Right for You? Quick reference guide from HALT Rescue"

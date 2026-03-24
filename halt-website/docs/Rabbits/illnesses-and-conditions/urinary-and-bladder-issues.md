@@ -6,6 +6,9 @@ description: "An in-depth guide to urinary and bladder issues in rabbits, focusi
 
 # Urinary and Bladder Issues in Rabbits
 
+<InfographicShare imageSrc="/img/rabbits/rabbit-common-health-overview.png" />
+
+
 Urinary and bladder problems are extremely common in pet rabbits. These issues are almost always related to the unique way rabbits metabolize calcium. An improper diet can lead to a spectrum of problems, from thick, sludgy urine to the formation of painful bladder stones that require surgery. Understanding how rabbits handle calcium is key to preventing these conditions.
 
 ## The Rabbit's Unique Calcium Metabolism

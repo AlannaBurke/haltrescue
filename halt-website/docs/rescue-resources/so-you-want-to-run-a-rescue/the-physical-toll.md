@@ -7,6 +7,9 @@ description: "Part 3 of a series on running an animal rescue, detailing the inte
 
 # So You Want to Run a Rescue? Part 3: The Physical Toll & Unseen Labor
 
+![Kawaii illustration of the physical work involved in running a small animal rescue](/img/rescue-resources/the-physical-toll.png)
+
+
 We've covered the financial and emotional costs of rescue, but there's a third, equally demanding component: the sheer physical work. Running a rescue is not a desk job. It is a relentless, 24/7 commitment that pushes your body and your schedule to their absolute limits. This unseen labor is the engine that keeps a rescue running, and it is fueled by pure grit.
 
 ## The Day-to-Day is a Marathon

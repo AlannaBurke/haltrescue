@@ -7,6 +7,9 @@ tags: [rescue, getting started]
 
 # How to Rehome a Pet
 
+![Rehome](/img/general-care/rehome.png)
+
+
 We all hope to keep our pets forever, but sometimes life happens and unfortunately, we have to find a new home for our pets. Here is some advice for safely rehoming your pets. 
 
 

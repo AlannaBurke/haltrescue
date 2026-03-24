@@ -7,6 +7,9 @@ description: "A crucial guide to dangerous treats and toys for ferrets, focusing
 
 # Dangerous Treats and Toys for Ferrets
 
+<InfographicShare imageSrc="/img/general-care/dangerous-foods.png" alt="Dangerous treats and toys for ferrets" />
+
+
 Ferrets are curious, playful, and have a very specific set of dietary and behavioral needs. As obligate carnivores with a simple, short digestive tract, they cannot process plant matter. Furthermore, their instinct to chew and their inquisitive nature puts them at extremely high risk for life-threatening intestinal blockages from swallowing non-food items. Understanding what is dangerous is fundamental to ferret safety.
 
 ## Dangerous Treats

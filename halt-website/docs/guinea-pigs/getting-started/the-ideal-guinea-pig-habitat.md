@@ -7,6 +7,9 @@ description: "Creating a safe, spacious, and enriching environment is one of the
 
 # The Ideal Guinea Pig Habitat
 
+![Gp Habitat Diagram](/img/guinea-pigs/gp-habitat-diagram.png)
+
+
 Creating a safe, spacious, and enriching environment is one of the most important responsibilities of a guinea pig owner. The right habitat directly impacts their physical health and mental well-being. Many cages sold in pet stores are unfortunately too small and do not meet the minimum space requirements for these active animals. Understanding the key components of an ideal habitat will help you provide the best possible home for your cavy.
 
 ## Space: Bigger is Always Better

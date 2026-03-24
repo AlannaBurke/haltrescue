@@ -17,4 +17,4 @@ What to Do if You Find an Abandoned Domestic Animal
  - Be prepared to properly feed & care for the animal.
  - Be prepared to properly screen potential homes (ask for vet references & personal references).
 
-![I Found A Pet](foundpet.png)
+![I Found A Pet](/img/general-care/foundpet.png)

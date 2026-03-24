@@ -6,6 +6,9 @@ description: "A guide to dental health in gerbils, focusing on the causes and pr
 
 # Dental Health in Gerbils
 
+<InfographicShare imageSrc="/img/gerbils/gerbil-dental-health.png" />
+
+
 Dental health is a crucial aspect of gerbil care, centered almost entirely on their four prominent incisors (front teeth). Like all rodents, a gerbil's incisors grow continuously throughout their life. This unique trait requires them to constantly chew and gnaw to wear their teeth down. When this natural process is disrupted, it can lead to serious and painful health problems.
 
 ## The Basics of Gerbil Teeth
@@ -20,7 +23,6 @@ Malocclusion, or the misalignment of teeth, is the primary dental problem in ger
 *   **Genetics:** Some gerbils may be genetically predisposed to jaw or tooth misalignment.
 *   **Trauma:** A fall or injury to the face can damage the jaw or a tooth bud, causing the teeth to grow in at an incorrect angle.
 *   **Illness or Malnutrition:** A diet lacking in essential minerals can affect tooth and bone health, leading to dental problems.
-
 
 
 ## Signs of Dental Problems
