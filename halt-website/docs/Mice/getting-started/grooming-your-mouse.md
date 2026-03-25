@@ -8,6 +8,8 @@ tags: [mice, grooming, nail care, handling]
 
 # Grooming Your Pet Mouse
 
+![](/img/mice/mouse-grooming.png)
+
 Mice are exceptionally clean animals that dedicate a great deal of their waking hours to meticulous self-grooming. [1] A healthy mouse will keep its coat sleek and tidy without any help. For owners, this means that grooming is more about observation and occasional assistance rather than a regular chore.
 
 ## Self-Grooming: A Sign of Health

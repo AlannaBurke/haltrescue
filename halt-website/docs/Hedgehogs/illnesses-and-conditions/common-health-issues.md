@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [hedgehogs, neurological, cancer, dental disease, metabolic disease, parasites]
 description: "An overview of the most common health issues affecting pet hedgehogs, including the devastating Wobbly Hedgehog Syndrome (WHS), their high incidence of cancer, and common problems like obesity and parasites."
-image: /img/hedgehogs/common-health-issues.png
+image: /img/hedgehogs/hedgehog-common-health-issues.png
 ---
 
 # Common Health Issues in Hedgehogs
@@ -11,7 +11,7 @@ image: /img/hedgehogs/common-health-issues.png
 African Pygmy Hedgehogs are unique pets with a specific set of health concerns that potential and current owners must understand. They are unfortunately prone to several serious neurological and cancerous conditions. A close relationship with a veterinarian experienced in hedgehog care is essential for managing their health.
 
 <figure>
-    ![An infographic summarizing the most common health issues in hedgehogs: Wobbly Hedgehog Syndrome (WHS), Cancer, Dental Disease, and Obesity.](/img/hedgehogs/common-health-issues.png "Common Hedgehog Health Concerns")
+    ![An infographic summarizing the most common health issues in hedgehogs: Wobbly Hedgehog Syndrome (WHS), Cancer, Dental Disease, and Obesity.](/img/hedgehogs/hedgehog-common-health-issues.png)
     <figcaption>Many hedgehog health issues are serious and progressive, making regular veterinary care and a watchful eye crucial.</figcaption>
 </figure>
 

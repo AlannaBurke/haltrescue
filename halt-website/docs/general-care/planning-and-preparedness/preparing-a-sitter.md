@@ -6,6 +6,9 @@ description: "A comprehensive checklist and guide for preparing a pet sitter to 
 
 # Preparing a Sitter to Care for Your Pets
 
+![](/img/general-care/preparing-sitter.png)
+
+
 Whether you're leaving for a weekend or an extended vacation, hiring a pet sitter is a great way to ensure your pets can stay in the comfort of their own home. However, a successful pet-sitting experience requires thorough preparation. Providing your sitter with clear, detailed information is the key to a safe and stress-free time for your pets, your sitter, and you [1].
 
 Use this comprehensive guide to prepare for your sitter's arrival.

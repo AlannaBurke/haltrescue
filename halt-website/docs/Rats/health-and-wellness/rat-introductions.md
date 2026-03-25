@@ -9,6 +9,11 @@ description: "Introducing a new rat to your existing group (or 'mischief') is an
 
 # A Guide to Safe and Successful Rat Introductions
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rats/rat-intro-guide.png" />
+
+
 Introducing a new rat to your existing group (or "mischief") is an exciting step, but it must be handled with care and patience. Rats are territorial and have complex social hierarchies. A proper introduction process is crucial to prevent stress, injury, and to foster a peaceful, bonded colony.
 
 <InfographicShare imageSrc="/img/rats/rat-intro-guide.png" />

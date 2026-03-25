@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [rabbits, gi stasis, dental disease, respiratory infection, neurological, cancer]
 description: "An overview of the most common and serious health issues affecting pet rabbits, including the critical emergencies of GI stasis, the importance of dental health, and the high rate of uterine cancer in unspayed females."
-image: /img/rabbits/common-health-issues.png
+image: /img/rabbits/rabbit-common-health-issues.png
 ---
 
 # Common Health Issues in Rabbits
@@ -11,7 +11,7 @@ image: /img/rabbits/common-health-issues.png
 Rabbits are prey animals, which means they are masters at hiding signs of illness. This makes it incredibly important for owners to be vigilant and knowledgeable about the common health problems that can affect them. Many of these issues are emergencies that require immediate veterinary care.
 
 <figure>
-    ![An infographic summarizing the most common health issues in rabbits: GI Stasis, Dental Disease, Uterine Cancer, and Head Tilt (E. cuniculi).](/img/rabbits/common-health-issues.png "Common Rabbit Health Concerns")
+    ![An infographic summarizing the most common health issues in rabbits: GI Stasis, Dental Disease, Uterine Cancer, and Head Tilt (E. cuniculi).](/img/rabbits/rabbit-common-health-issues.png)
     <figcaption>A diet of unlimited hay is the single most important factor in preventing GI stasis and dental disease, the two most common rabbit health issues.</figcaption>
 </figure>
 

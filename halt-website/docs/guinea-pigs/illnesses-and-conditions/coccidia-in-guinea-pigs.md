@@ -10,6 +10,11 @@ tags: [guinea pigs, parasites, health]
 
 # Coccidia in Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-coccidia.png" />
+
+
 **Coccidia** are microscopic, single-celled parasites that can infect the intestinal tract of guinea pigs, causing a condition called **coccidiosis**. While healthy adult guinea pigs may carry coccidia without showing symptoms, young, stressed, or immunocompromised animals can develop serious illness. Understanding how coccidia spreads and how to prevent it is key to keeping your guinea pig healthy.
 
 ## What Are Coccidia?

@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in New Hampshire
 
+![](/img/rescue-resources/report-abuse.png)
+
+
 ### **1\. Who to contact & oversight**
 
 * If you **see immediate abuse or danger**, call your local **police department** and report suspected animal cruelty.    

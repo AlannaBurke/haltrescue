@@ -8,6 +8,8 @@ tags: [gerbils, health, wellness, home health check]
 
 # Home Health Care for Pet Gerbils
 
+![](/img/gerbils/gerbil-home-health-care.png)
+
 Gerbils are generally hardy little animals, but as prey species, they instinctively hide signs of illness. Getting to know your gerbils' normal behavior and appearance is the first and most important step in being able to spot when something is wrong. Aim to do a quick visual check daily and a more thorough hands-on check weekly. [1]
 
 ## The Weekly Gerbil Health Checklist

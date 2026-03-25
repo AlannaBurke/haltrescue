@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in New Jersey
 
+![](/img/rescue-resources/report-abuse.png)
+
+
 ## New Jersey Public Guide
 
 If you see a pet store in New Jersey selling sick animals or keeping them in unsafe, dirty, or inhumane conditions, you have the right to report it and request enforcement action. This guide explains how to document concerns and report them to the correct agencies.

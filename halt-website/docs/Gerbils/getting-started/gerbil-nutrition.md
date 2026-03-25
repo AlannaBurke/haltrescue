@@ -8,6 +8,11 @@ tags: [gerbils, nutrition, getting started]
 
 # Gerbil Nutrition
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/gerbils/gerbil-nutrition-guide.png" />
+
+
 A balanced diet is essential for a gerbil's health and longevity. Unlike some other small pets, gerbils are prone to obesity and selective eating, so it's important to provide a diet that is both nutritious and appropriate for their needs.
 
 <InfographicShare

@@ -10,6 +10,11 @@ tags: [guinea pigs, parasites, diarrhea, health]
 
 # Giardia in Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-giardia.png" />
+
+
 **Giardia** is a microscopic intestinal parasite that can infect guinea pigs, causing digestive upset and diarrhea. While many infected guinea pigs show no symptoms, others — particularly young, stressed, or immunocompromised animals — can develop significant illness. Good hygiene and careful quarantine practices are the most effective ways to prevent giardia in your herd.
 
 ## What Is Giardia?

@@ -9,6 +9,11 @@ tags: [hedgehogs, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Hedgehog
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/hedgehogs/hedgehog-sexing-guide.png" />
+
+
 Correctly identifying the sex of your hedgehog is a simple process once you know the key difference to look for. Unlike many other small mammals, the distinction is not subtle.
 
 ## The "Belly Button" Rule

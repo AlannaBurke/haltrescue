@@ -10,6 +10,11 @@ tags: [guinea pigs, diabetes, health, nutrition]
 
 # Diabetes in Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-diabetes.png" />
+
+
 **Diabetes mellitus** is a metabolic disorder in which the body is unable to properly regulate blood glucose levels. While less common in guinea pigs than in some other small mammals, it does occur and is most often associated with obesity and a high-sugar diet. With early detection and appropriate management, many diabetic guinea pigs can live comfortably.
 
 ## How Diabetes Develops

@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [rats, respiratory infection, mycoplasma, cancer, bumblefoot, dental disease]
 description: "An overview of the most common health issues affecting pet rats, focusing on the chronic nature of Mycoplasma respiratory infections, the high incidence of mammary tumors, and conditions like bumblefoot."
-image: /img/rats/common-health-issues.png
+image: /img/rats/rat-common-health-issues.png
 ---
 
 # Common Health Issues in Rats
@@ -11,7 +11,7 @@ image: /img/rats/common-health-issues.png
 Pet rats are intelligent, affectionate companions, but they are unfortunately prone to several significant health issues. A proactive owner who provides excellent husbandry and monitors their pets closely can manage these conditions and ensure a good quality of life.
 
 <figure>
-    ![An infographic summarizing the most common health issues in rats: Respiratory Disease (Myco), Mammary Tumors, Bumblefoot, and Malocclusion.](/img/rats/common-health-issues.png "Common Rat Health Concerns")
+    ![An infographic summarizing the most common health issues in rats: Respiratory Disease (Myco), Mammary Tumors, Bumblefoot, and Malocclusion.](/img/rats/rat-common-health-issues.png)
     <figcaption>A clean, stimulating environment and a close eye for lumps and respiratory sounds are key to managing rat health.</figcaption>
 </figure>
 

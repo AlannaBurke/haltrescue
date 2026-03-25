@@ -6,6 +6,8 @@ description: "A guide to respiratory infections in guinea pigs, covering the com
 
 # Respiratory Issues in Guinea Pigs
 
+![](/img/guinea-pigs/gp-bordetella-warning.png)
+
 Respiratory infections are a serious and unfortunately common health issue in guinea pigs. What may seem like a simple cold can rapidly progress to life-threatening pneumonia. Guinea pigs are particularly susceptible to certain types of bacteria, and their tendency to hide illness means that by the time an owner notices symptoms, the disease may already be advanced. Any sign of a respiratory problem in a guinea pig warrants an immediate veterinary visit.
 
 ## Causes of Respiratory Infections

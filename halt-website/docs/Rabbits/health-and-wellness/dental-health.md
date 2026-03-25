@@ -6,6 +6,9 @@ description: "An in-depth guide to dental disease in rabbits, explaining why it 
 
 # Dental Health in Rabbits
 
+![](/img/rabbits/rabbit-common-health-issues.png)
+
+
 Dental disease is arguably the most common and preventable health problem seen in pet rabbits. It is a painful and progressive condition that significantly impacts a rabbit's quality of life. A thorough understanding of their unique dental anatomy and dietary needs is essential for every rabbit owner.
 
 ## Built for Grinding: Rabbit Dental Anatomy

@@ -6,6 +6,8 @@ description: "An important guide to leptospirosis in rats, a zoonotic bacterial 
 
 # Leptospirosis in Rats
 
+![](/img/rats/rat-common-health-issues.png)
+
 Leptospirosis is a bacterial disease that can affect many animals, including rats and humans. It is caused by spiral-shaped bacteria of the genus *Leptospira*. What makes this disease particularly important for pet rat owners to understand is that it is a **zoonotic disease**, meaning it can be transmitted from animals to people.
 
 While the risk of contracting leptospirosis from a well-cared-for pet rat is very low, it is not zero. Understanding the disease and practicing good hygiene is essential.

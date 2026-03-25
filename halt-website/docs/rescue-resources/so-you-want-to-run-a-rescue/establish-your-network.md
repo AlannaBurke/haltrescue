@@ -7,6 +7,9 @@ description: "A guide for animal rescues on the importance of building a strong 
 
 # Establish Your Network: The Power of Community
 
+![](/img/rescue-resources/network-building.png)
+
+
 No rescue can succeed as an island. A successful animal rescue is not just an organization; it's a hub at the center of a compassionate community. Building and nurturing a robust network of volunteers, fosters, and professional partners is as critical as any other aspect of your operation. This network provides the manpower, resources, and support system needed to save lives.
 
 ## 1. The Foster Network: The Backbone of Rescue

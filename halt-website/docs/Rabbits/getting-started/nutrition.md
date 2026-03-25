@@ -8,6 +8,9 @@ tags: [rabbits, nutrition]
 
 # Nutrition for Pet Rabbits
 
+![](/img/rabbits/rabbit-home-health-care.png)
+
+
 Providing a correct, species-appropriate diet is the most important factor in ensuring your rabbit lives a long and healthy life. A rabbit's digestive system is complex and has evolved to process a diet that is very high in fiber and low in calories, fat, and sugar. [1]
 
 ## The Food Pyramid for Rabbits

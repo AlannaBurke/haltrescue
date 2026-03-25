@@ -7,6 +7,11 @@ description: "Dental disease is one of the most common and serious health proble
 
 # Dental Disease in Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/dental-disease-xray.jpg" />
+
+
 Dental disease is one of the most common and serious health problems affecting guinea pigs. Unlike humans, a guinea pig's teeth grow continuously throughout their life. This continuous growth can lead to painful and life-threatening complications if their teeth do not wear down properly. Understanding the causes, recognizing the signs, and seeking prompt veterinary care are crucial for managing this condition and ensuring your guinea pig lives a healthy, comfortable life.
 
 ## Why Dental Health is Different in Guinea Pigs

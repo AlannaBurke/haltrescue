@@ -9,6 +9,11 @@ tags: [ferrets, coat, breeds]
 
 # Know Your Ferret Colors & Patterns
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/ferrets/ferret-common-health-issues.png" />
+
+
 <figure>
   <img src="/img/ferrets/ferret-color-guide.png" alt="Ferret Color & Pattern Guide" />
   <figcaption>Common ferret colors and patterns</figcaption>

@@ -6,6 +6,8 @@ description: "A detailed guide to dental disease in guinea pigs, explaining the 
 
 # Dental Health in Guinea Pigs
 
+![](/img/guinea-pigs/dental-causes.png)
+
 Dental disease is one of the most prevalent and serious health issues affecting pet guinea pigs. Their teeth are all "open-rooted" and grow continuously throughout their lives, requiring a constant source of abrasive, high-fiber food to maintain their proper length and shape. A lack of appropriate dietary wear leads to a cascade of painful and debilitating problems.
 
 ## The Anatomy of a Guinea Pig's Mouth

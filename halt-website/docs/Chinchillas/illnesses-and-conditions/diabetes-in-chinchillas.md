@@ -10,6 +10,11 @@ tags: [chinchillas, diabetes, health, nutrition]
 
 # Diabetes in Chinchillas
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/chinchillas/chinchilla-diabetes.png" />
+
+
 Diabetes mellitus is relatively uncommon in chinchillas compared to some other small mammals, but when it does occur it poses significant health challenges. Chinchillas have a physiology that makes them sensitive to high-sugar diets, and dietary mismanagement is considered a primary contributing factor. Early recognition and appropriate management can significantly improve quality of life.
 
 ## Understanding Diabetes in Chinchillas

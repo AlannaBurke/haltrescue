@@ -9,6 +9,11 @@ tags: [rabbits, parasites, neurological, health]
 
 # Parasites in Rabbits
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rabbit-ecuniculi.png" />
+
+
 Parasites are a common concern for rabbit owners, ranging from external pests that cause skin irritation to internal organisms that can lead to severe systemic disease. Understanding the types of parasites that can affect your rabbit, along with the signs of an infestation, is key to prevention and effective treatment. This guide provides a general overview; for more detailed information, please see the linked articles.
 
 <InfographicShare imageSrc="/img/rabbits/rabbit-parasites.png" />

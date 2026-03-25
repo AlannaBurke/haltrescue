@@ -7,6 +7,11 @@ description: "Plain, quality pellets are best for guinea pigs. Guinea pigs under
 
 # Guinea Pig Care
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-common-health-issues.png" />
+
+
 ## Food and Diet
 
 ### What type of food should I feed my guinea pig?

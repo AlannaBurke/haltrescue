@@ -8,6 +8,9 @@ tags: [hedgehogs, supplies, getting started]
 
 # Essential Supplies for Pet Hedgehogs
 
+![](/img/hedgehogs/hedgehog-diabetes.png)
+
+
 African Pygmy Hedgehogs have very specific needs, particularly when it comes to temperature. Setting up their environment correctly before they come home is the most important step in ensuring their health and safety. This checklist covers all the essential items you will need.
 
 ## The Hedgehog Shopping Checklist

@@ -7,6 +7,11 @@ description: "As a loving guinea pig owner, it’s natural to want to spoil your
 
 # Dangerous Treats and Toys for Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-dangerous-foods.png" />
+
+
 As a loving guinea pig owner, it’s natural to want to spoil your pet with tasty treats and fun toys. However, it is critically important to know that many common foods and pet store items can be dangerous, and even fatal, for guinea pigs. Their digestive systems are sensitive, and their specific dental structure makes them prone to choking or injury from improper items.
 
 ## Foods to Never Give Your Guinea Pig

@@ -6,6 +6,8 @@ description: "A guide to gastrointestinal (GI) health in mice, covering common i
 
 # Gastrointestinal (GI) Health in Mice
 
+![](/img/mice/mouse-gi-health.png)
+
 The gastrointestinal (GI) system of a mouse is generally robust, adapted to a varied diet of grains, seeds, and insects. However, it is sensitive to stress and sudden dietary changes, which can lead to serious conditions like diarrhea. For mice, any sign of digestive upset should be taken seriously, as it can indicate a contagious and life-threatening disease.
 
 ## Common GI Problems in Mice

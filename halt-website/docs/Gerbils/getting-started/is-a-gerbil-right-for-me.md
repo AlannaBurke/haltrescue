@@ -8,6 +8,11 @@ tags: [gerbils, getting started, care commitment]
 
 # Is a Gerbil Right for You?
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/gerbils/gerbil-basic-care.png" />
+
+
 Gerbils are curious, active, and social animals that can make wonderful pets for the right family. However, like any animal, they have specific needs that must be met to ensure they live a happy and healthy life. Before bringing gerbils home, it's crucial to understand their requirements for housing, diet, social interaction, and long-term care.
 
 This guide will help you decide if gerbils are a good match for your lifestyle and commitment level.

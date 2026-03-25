@@ -6,6 +6,8 @@ tags: [guinea pigs, coat, breeds, skin health]
 
 # What to Know about Hairless or "Skinny" Pigs
 
+![](/img/guinea-pigs/skinny-pig.png)
+
 Hairless guinea pigs, most commonly known as "Skinny Pigs," are a unique and increasingly popular variety of cavy. Their striking appearance, lacking the typical fluffy coat, makes them stand out, but it also means they have specialized care requirements that potential owners must be prepared to meet. Understanding their unique needs is essential to providing them with a healthy and happy life.
 
 ## The Origin of Hairless Guinea Pigs

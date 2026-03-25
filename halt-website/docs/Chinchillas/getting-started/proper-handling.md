@@ -8,6 +8,8 @@ tags: [chinchillas, handling, taming, bonding]
 
 # Proper Handling of Pet Chinchillas
 
+![](/img/chinchillas/chinchilla-proper-handling.png)
+
 Chinchillas are prey animals with a naturally skittish and flighty demeanor. Building a bond based on trust through correct and gentle handling is essential for a positive relationship with your pet. Their delicate, floating rib cages also mean that improper handling can cause serious injury. [1]
 
 This guide covers the best methods for taming, picking up, and holding your chinchilla safely.

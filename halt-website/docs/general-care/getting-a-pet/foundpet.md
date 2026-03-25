@@ -6,6 +6,9 @@ tags: [rescue, getting started]
 
 # Help, I Found a Pet!
 
+![](/img/general-care/found-pet.png)
+
+
 * Is it a pet?
 * Is it a wild animal?
   * How to tell a wild rabbit from a pet rabbit 

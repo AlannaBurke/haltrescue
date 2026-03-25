@@ -6,6 +6,9 @@ description: "A step-by-step guide on how to safely and effectively hand-feed a 
 
 # How to Hand-Feed a Small Pet
 
+![](/img/general-care/hand-feeding.png)
+
+
 Hand-feeding, often done with a syringe, is a crucial skill for any small pet owner. It may be necessary when an animal is too sick or weak to eat on its own, is recovering from surgery, or in the case of orphaned neonates. While it can be a stressful experience for both you and your pet, mastering the proper technique ensures your companion receives the life-sustaining nutrition they need to recover and thrive [1].
 
 This guide provides general instructions for hand-feeding small herbivores like rabbits, guinea pigs, and chinchillas, as well as other small mammals. **Always follow the specific instructions and diet recommendations provided by your veterinarian.**

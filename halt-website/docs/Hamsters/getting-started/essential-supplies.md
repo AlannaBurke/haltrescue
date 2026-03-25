@@ -8,6 +8,8 @@ tags: [hamsters, supplies, getting started]
 
 # Essential Supplies for Pet Hamsters
 
+![](/img/hamsters/hamster-essential-supplies.png)
+
 Preparing for a new hamster involves creating an environment that caters to their natural instincts to burrow, forage, and run. Having all the necessary supplies ready before your new pet comes home will ensure a smooth and stress-free transition for both of you.
 
 This checklist outlines the fundamental items every hamster owner needs.

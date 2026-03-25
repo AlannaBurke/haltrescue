@@ -8,6 +8,8 @@ tags: [ferrets, grooming, nail trimming]
 
 # Grooming Your Pet Ferret
 
+![](/img/ferrets/ferret-grooming.png)
+
 Ferrets are naturally clean animals and groom themselves frequently. However, they still require regular grooming assistance from their owners to stay in top condition. This includes nail trimming, ear cleaning, and occasional baths.
 
 ## Nail Trimming

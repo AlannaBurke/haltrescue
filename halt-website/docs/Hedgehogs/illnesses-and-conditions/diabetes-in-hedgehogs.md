@@ -9,6 +9,11 @@ tags: [hedgehogs, diabetes, health, metabolic disease]
 
 # Diabetes in Hedgehogs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/hedgehogs/hedgehog-common-health-issues.png" />
+
+
 Diabetes mellitus is a metabolic condition that can affect pet hedgehogs, particularly as they age or when fed an inappropriate diet. While not as extensively studied in hedgehogs as in some other small animals, diabetes is a recognized health concern that requires prompt veterinary attention and careful long-term management.
 
 <InfographicShare imageSrc="/img/hedgehogs/hedgehog-diabetes.png" />

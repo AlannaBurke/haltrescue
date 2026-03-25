@@ -6,6 +6,8 @@ description: "A guide to common eye and vision issues in hedgehogs, including in
 
 # Eye & Vision Issues in Hedgehogs
 
+![](/img/hedgehogs/hedgehog-eye-health.png)
+
 A hedgehog's eyesight is not their strongest sense; they rely much more on their acute sense of smell and hearing to navigate their world. However, their prominent, somewhat bulging eyes are susceptible to injury and infection. Healthy hedgehog eyes should be bright, dark, and clear. Any deviation from this, such as swelling, discharge, or cloudiness, requires attention.
 
 ## Common Eye Problems

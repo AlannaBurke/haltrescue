@@ -6,6 +6,8 @@ description: "A guide to ectopic ovarian tissue in guinea pigs, a condition wher
 
 # Ectopic Ovarian Tissue in Guinea Pigs
 
+![](/img/guinea-pigs/gp-common-health-issues.png)
+
 Ectopic ovarian tissue, sometimes related to Ovarian Remnant Syndrome, is a unique and often confusing condition that can affect female guinea pigs. "Ectopic" means "in an abnormal place or position." In this case, it refers to the presence of functional ovarian tissue somewhere in the body other than the ovaries themselves. This can lead to hormonal behaviors and health problems, even in a guinea pig that has been spayed.
 
 ## What is Ectopic Ovarian Tissue?

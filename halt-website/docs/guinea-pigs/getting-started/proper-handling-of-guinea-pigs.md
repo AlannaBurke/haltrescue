@@ -7,6 +7,11 @@ description: "Proper handling is fundamental to building a trusting relationship
 
 # Proper Handling of Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-handling-guide.png" />
+
+
 Proper handling is fundamental to building a trusting relationship with your guinea pig and ensuring their safety. As prey animals, guinea pigs can be naturally skittish and may be frightened by being picked up. Handling them incorrectly can cause fear, stress, and even serious physical injury. Learning how to approach and hold your guinea pig correctly will make your interactions more enjoyable for both of you.
 
 ## Building Trust First

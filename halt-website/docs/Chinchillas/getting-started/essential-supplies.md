@@ -8,6 +8,8 @@ tags: [chinchillas, supplies, getting started]
 
 # Essential Supplies for Pet Chinchillas
 
+![](/img/chinchillas/chinchilla-essential-supplies.png)
+
 Chinchillas are unique pets with specific needs related to their sensitive digestive systems, dense fur, and energetic nature. Preparing their home with all the necessary supplies before they arrive is crucial for their health and well-being. This checklist will guide you through everything you need to get started.
 
 ## The Chinchilla Shopping Checklist

@@ -13,7 +13,7 @@ If you’re a guinea pig owner or enthusiast, it’s crucial to be aware of the 
 In this post, we’ll explore what Satin Syndrome is, the signs and symptoms to watch for, and how it can be managed to ensure your guinea pig lives a comfortable life.
 
 <figure>
-    ![Satin guinea pig](/img/guinea-pigs/satinpig.jpg "Satin guinea pig")  
+    ![Satin guinea pig](/img/guinea-pigs/gp-satin-syndrome.png)  
     <figcaption>Satin guinea pig</figcaption>
 </figure>
 
@@ -32,12 +32,12 @@ Osteodystrophy can lead to **osteoporosis-like** symptoms in guinea pigs, and as
 Compare the following photos of guinea pig hair under a microscope.
 
 <figure>
-    ![Healthy guinea pig hair](/img/guinea-pigs/normal-hair.jpg "X Ray of a healthy guinea pig hair")
+    ![Healthy guinea pig hair](/img/guinea-pigs/normal-hair.jpg)
   <figcaption>X Ray of a healthy guinea pig hair</figcaption>
 </figure>
 
 <figure>
-    ![Satin guinea pig hair](/img/guinea-pigs/satin-hair.jpg "X Ray of a satin guinea pig hair")
+    ![Satin guinea pig hair](/img/guinea-pigs/satin-hair.jpg)
   <figcaption>X Ray of a satin guinea pig hair</figcaption>
 </figure>
 

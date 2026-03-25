@@ -9,6 +9,11 @@ tags: [mice, diabetes, health, metabolic disease]
 
 # Diabetes in Pet Mice
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/mice/mouse-diabetes.png" />
+
+
 Diabetes is a chronic metabolic condition that can affect pet mice, though it is less commonly diagnosed than in some other small animals. Because mice are small and adept at hiding signs of illness, diabetes can go undetected until it has progressed significantly. Understanding the signs and risk factors helps owners seek veterinary care early and manage the condition effectively.
 
 <InfographicShare imageSrc="/img/mice/mouse-diabetes.png" />

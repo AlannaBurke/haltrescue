@@ -6,6 +6,8 @@ tags: [guinea pigs, cancer, health, veterinary]
 
 # Lymphoma
 
+![](/img/guinea-pigs/gp-flea-treatment.png)
+
 Lymphoma is a type of cancer that affects the lymphatic system, and while it may be rare in guinea pigs, it’s a serious health condition that pet owners should be aware of. Early detection of lymphoma can significantly improve the chances of managing the disease and providing your guinea pig with a better quality of life. Understanding the nature of lymphoma, recognizing the early signs, and seeking timely veterinary care are crucial steps in ensuring the best possible outcome for your guinea pig.
 
 ## What is Lymphoma?

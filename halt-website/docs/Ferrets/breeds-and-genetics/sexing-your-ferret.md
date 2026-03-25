@@ -9,6 +9,11 @@ tags: [ferrets, sexing, reproductive health, breeding]
 
 # Sexing Your Pet Ferret
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/ferrets/ferret-sexing-guide.png" />
+
+
 Correctly identifying the sex of your ferret is a straightforward process once you know where to look. It's an important step for any new owner, especially since nearly all pet ferrets in the United States are spayed or neutered before they are sold.
 
 ## The Key Difference: Location, Location, Location

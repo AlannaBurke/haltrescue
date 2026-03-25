@@ -6,6 +6,8 @@ description: "An in-depth guide to chronic respiratory disease in pet rats, caus
 
 # Respiratory Issues in Rats (Mycoplasmosis)
 
+![](/img/rats/mycoplasma-warning.png)
+
 Chronic respiratory disease is the most common and significant health challenge in the pet rat community. The primary culprit is a bacterium called ***Mycoplasma pulmonis***, often simply referred to as "myco." It is so widespread that it is assumed that virtually every pet rat is a carrier from birth. While the infection is incurable, it is manageable. Understanding the nature of this chronic disease is key to providing a good quality of life for your pet rats.
 
 ## The Nature of Mycoplasma

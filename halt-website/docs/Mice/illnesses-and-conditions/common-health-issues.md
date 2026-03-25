@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [mice, respiratory infection, mycoplasma, cancer, parasites, dental disease]
 description: "An overview of the most common health issues affecting pet mice, with a focus on the pervasive nature of respiratory disease (Mycoplasma), their high rate of tumors, and common parasites."
-image: /img/mice/common-health-issues.png
+image: /img/mice/mouse-common-health-issues.png
 ---
 
 # Common Health Issues in Mice
@@ -11,7 +11,7 @@ image: /img/mice/common-health-issues.png
 Pet mice are charming and intelligent, but they are prone to several health conditions, many of which are unfortunately common and can progress quickly. Due to their small size and tendency to hide illness, a vigilant owner who performs daily health checks is their best advocate.
 
 <figure>
-    ![An infographic summarizing the most common health issues in mice: Respiratory Infections, Tumors, Parasites (Mites), and Dental Disease.](/img/mice/common-health-issues.png "Common Mouse Health Concerns")
+    ![An infographic summarizing the most common health issues in mice: Respiratory Infections, Tumors, Parasites (Mites), and Dental Disease.](/img/mice/mouse-common-health-issues.png)
     <figcaption>A clean, well-ventilated habitat and a low-stress environment are crucial for preventing respiratory disease in mice.</figcaption>
 </figure>
 

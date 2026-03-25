@@ -8,6 +8,8 @@ tags: [chinchillas, heart disease, health, veterinary]
 
 # Heart Disease and Heart Failure in Chinchillas
 
+![](/img/chinchillas/chinchilla-heart-disease.png)
+
 Heart disease and heart failure are relatively uncommon in chinchillas but can still occur, especially as they age or due to certain genetic predispositions. These conditions can be challenging to detect early on, as chinchillas tend to hide their symptoms until the disease has progressed. Understanding the causes, signs, and treatments of heart disease in chinchillas is key to ensuring your pet remains healthy and receives proper care.
 
 ##  What is Heart Disease and Heart Failure?

@@ -6,6 +6,8 @@ tags: [hamsters, getting started, care commitment]
 
 # Hamster Basic Care
 
+![](/img/hamsters/hamster-basic-care.png)
+
 Hamsters are popular pets, known for their chubby cheeks and love of running on their wheel. While they are small, they still require consistent care to thrive. This guide covers the daily, weekly, and monthly tasks needed to keep your hamster healthy and happy.
 
 ## Daily Care

@@ -9,6 +9,11 @@ description: "Bringing a rabbit into your home is a long-term commitment, and pr
 
 # Essential Supplies for Your Rabbit Companion
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/is-a-rabbit-right-for-me.png" />
+
+
 Bringing a rabbit into your home is a long-term commitment, and providing the right supplies is the first step to ensuring a happy, healthy life for your new friend. Rabbits have specific needs that differ greatly from other common household pets. This guide will walk you through the essential supplies you'll need to create a safe and enriching environment for your rabbit.
 
 ## 1. A Spacious and Safe Enclosure

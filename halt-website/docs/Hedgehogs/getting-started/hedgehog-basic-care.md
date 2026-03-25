@@ -6,6 +6,8 @@ tags: [hedgehogs, getting started, care commitment]
 
 # Hedgehog Basic Care
 
+![](/img/hedgehogs/hedgehog-basic-care.png)
+
 Hedgehogs are unique and charming pets, but they have very specific care needs that are critical to their survival and well-being. Unlike more common small pets, they are not low-maintenance and require a dedicated owner to thrive. This guide covers the essential aspects of hedgehog care.
 
 ## Daily Care

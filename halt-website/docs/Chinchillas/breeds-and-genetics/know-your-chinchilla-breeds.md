@@ -10,6 +10,11 @@ tags: [chinchillas, breeds, coat, genetics]
 
 # Know Your Chinchilla Breeds
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/chinchillas/chinchilla-breeds-chart.png" />
+
+
 <figure>
   <img src="/img/chinchillas/chinchilla-breeds-chart.png" alt="Chinchilla Color & Mutation Chart" />
   <figcaption>Common chinchilla colors and mutations</figcaption>

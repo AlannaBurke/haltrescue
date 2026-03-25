@@ -6,6 +6,9 @@ description: "Learn the difference between nocturnal, diurnal, and crepuscular a
 
 # Is My Pet Nocturnal? Understanding Your Pet's Active Hours
 
+![](/img/general-care/nocturnal-pets.png)
+
+
 One of the most common surprises for new small pet owners is discovering their companion's unique sleep schedule. While we humans are typically **diurnal**, meaning we are active during the day, many small animals are not. Understanding whether your pet is diurnal, **nocturnal** (active at night), or **crepuscular** (active at dawn and dusk) is fundamental to their welfare [1].
 
 Respecting your pet's natural activity pattern allows you to schedule feeding, playtime, and cleaning for when they are most receptive, leading to a happier, healthier, and less stressed animal.

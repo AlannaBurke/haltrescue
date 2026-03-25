@@ -6,6 +6,8 @@ description: "An in-depth guide to kidney and urinary disorders in rats, with a 
 
 # Kidney and Urinary Disorders in Rats
 
+![](/img/rats/rat-common-health-issues.png)
+
 Kidney disease is a very common health problem in rats, particularly as they enter their senior years (typically over 18 months of age). The most prevalent condition is **Chronic Progressive Nephropathy (CPN)**, a degenerative disease that leads to a gradual and irreversible decline in kidney function. Urinary tract infections can also occur but are less common.
 
 ## Chronic Progressive Nephropathy (CPN)

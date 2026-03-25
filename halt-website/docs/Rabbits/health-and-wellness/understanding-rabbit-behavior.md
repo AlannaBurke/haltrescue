@@ -7,6 +7,11 @@ description: "Rabbits are highly expressive animals whose body language is subtl
 
 # Understanding Rabbit Behavior: A Guide for Owners
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rabbit-behavior-guide.png" />
+
+
 Rabbits are highly expressive animals whose body language is subtle but rich. Unlike dogs or cats, rabbits communicate primarily through posture, ear position, and movement — and their vocalizations are relatively quiet. Understanding what your rabbit is communicating is key to building a trusting relationship and catching health problems early.
 
 <InfographicShare imageSrc="/img/rabbits/rabbit-behavior-guide.png" />

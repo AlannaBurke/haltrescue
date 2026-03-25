@@ -8,6 +8,9 @@ tags: [ferrets, diabetes, cancer, metabolic disease, health]
 
 # Understanding Diabetes in Ferrets
 
+![](/img/ferrets/ferret-diabetes.png)
+
+
 When discussing pancreatic diseases in ferrets, it is crucial to distinguish between two very different conditions: **Insulinoma** and **Diabetes Mellitus**.
 
 *   **Insulinoma** is a common condition in ferrets. It involves a tumor on the pancreas that produces too much insulin, leading to dangerously **low blood sugar (hypoglycemia)**.

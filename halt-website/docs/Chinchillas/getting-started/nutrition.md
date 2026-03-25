@@ -8,6 +8,8 @@ tags: [chinchillas, nutrition, getting started]
 
 # Chinchilla Nutrition and Diet
 
+![](/img/chinchillas/chinchilla-nutrition.png)
+
 A chinchilla's digestive system is incredibly sensitive and has evolved to process a diet of sparse, high-fiber vegetation. Providing a species-appropriate diet is the single most important thing you can do to ensure your chinchilla lives a long, healthy life. This guide covers the essential components of a healthy chinchilla diet.
 
 ## The Foundation: Unlimited High-Quality Hay

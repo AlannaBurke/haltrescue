@@ -9,6 +9,11 @@ tags: [rabbits, breeds, getting started]
 
 # Know Your Rabbit Breeds
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rabbit-breeds-chart.png" />
+
+
 <figure>
   <img src="/img/rabbits/rabbit-breeds-chart.png" alt="Popular Rabbit Breeds" />
   <figcaption>Popular rabbit breeds kept as pets</figcaption>

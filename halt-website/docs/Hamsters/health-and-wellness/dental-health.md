@@ -6,6 +6,8 @@ description: "A guide to dental health in hamsters, focusing on the causes and p
 
 # Dental Health in Hamsters
 
+![](/img/hamsters/hamster-dental-health.png)
+
 Proper dental health is vital for a hamster's well-being and is centered around their four incisors (front teeth). Like all rodents, a hamster's incisors grow continuously throughout their life. This requires them to constantly gnaw on hard materials to wear their teeth down and maintain a proper length. Failure to do so can lead to painful and serious health complications.
 
 ## The Basics of Hamster Teeth

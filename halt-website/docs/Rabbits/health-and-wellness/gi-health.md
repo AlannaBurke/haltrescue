@@ -6,6 +6,9 @@ description: "An in-depth guide to the sensitive gastrointestinal (GI) system of
 
 # Gastrointestinal (GI) Health in Rabbits
 
+![](/img/rabbits/rabbit-gi-stasis.png)
+
+
 The gastrointestinal (GI) tract is the center of a rabbit's universe. Their health and well-being are inextricably linked to the proper functioning of their incredibly complex and sensitive digestive system. GI problems, particularly GI stasis, are the most common reason pet rabbits require emergency veterinary care. A deep understanding of their digestive needs is not optional for a rabbit owner—it is essential.
 
 ## The Rabbit Gut: A High-Fiber Engine

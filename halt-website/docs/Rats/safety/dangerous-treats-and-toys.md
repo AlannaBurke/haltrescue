@@ -7,6 +7,9 @@ description: "A guide to dangerous treats and toys for rats, highlighting toxic 
 
 # Dangerous Treats and Toys for Rats
 
+![](/img/rats/rat-dangerous-foods.png)
+
+
 Rats are intelligent, curious omnivores that thrive on a varied diet and an enriching environment. However, their intelligence and curiosity can also get them into trouble. While they have a more robust digestive system than many small pets, many common human foods are still unhealthy or toxic. Likewise, not all toys are created equal, and some can pose significant safety risks.
 
 ## Dangerous Treats

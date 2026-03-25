@@ -6,6 +6,9 @@ description: "A guide to common eye and vision issues in rabbits, focusing on th
 
 # Eye & Vision Issues in Rabbits
 
+![](/img/rabbits/rabbit-common-health-issues.png)
+
+
 Eye issues are an extremely common problem in pet rabbits, but they are very often a symptom of a problem elsewhere in the body. A weepy or runny eye in a rabbit is rarely just a simple eye infection; more often than not, it is a direct consequence of **dental disease**. Understanding this connection is one of the most critical aspects of rabbit healthcare.
 
 ## The #1 Cause of Weepy Eyes: Dental Disease

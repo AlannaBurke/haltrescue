@@ -6,6 +6,8 @@ tags: [guinea pigs, health, cancer, veterinary]
 
 # Caseous/Cervical Lymphadenitis in Guinea Pigs
 
+![](/img/guinea-pigs/gp-care-essentials.png)
+
 Guinea pigs are beloved pets known for their friendly and gentle nature, but like all animals, they can be susceptible to a variety of health issues. One condition that can affect them is **Caseous Lymphadenitis (CL)**, a bacterial infection that causes swelling and abscesses in the lymph nodes. This disease can be serious and requires prompt treatment to avoid complications.
 
 In this post, we’ll explore what Caseous Lymphadenitis is, its causes, signs, symptoms, and the treatment options available to keep your guinea pig healthy.

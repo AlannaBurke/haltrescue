@@ -6,6 +6,8 @@ description: "A guide to dental health in mice, focusing on the causes and preve
 
 # Dental Health in Mice
 
+![](/img/mice/mouse-dental-health.png)
+
 Proper dental health is a fundamental aspect of mouse care, and it revolves entirely around their four incisors (front teeth). Like all rodents, a mouse's incisors grow continuously throughout their life. This biological feature means they have a constant, instinctual need to gnaw on hard materials to wear their teeth down. When they are unable to do this, it can lead to painful and serious health issues.
 
 ## The Basics of Mouse Teeth

@@ -7,6 +7,9 @@ description: "Part 4 of a series on running an animal rescue, focusing on strate
 
 # So You Want to Run a Rescue? Part 4: Building a Sustainable Future
 
+![](/img/rescue-resources/sustainable-future.png)
+
+
 We have explored the immense financial, emotional, and physical costs of running an animal rescue. It's a daunting picture, and it's meant to be. The world doesn't need another failed rescue, another group of well-meaning people who burn out after a year, leaving animals in the lurch. What the world needs are sustainable rescues that can weather the storms and continue to do good work for years to come. 
 
 Building a sustainable future isn't about passion; it's about structure, strategy, and a commitment to running your rescue like a business—a nonprofit business, but a business nonetheless.

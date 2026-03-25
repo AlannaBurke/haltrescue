@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in New York
 
+![](/img/rescue-resources/report-abuse.png)
+
+
 ## 1. Oversight & Agencies to Contact
 
 * Contact your local **municipal police department** and ask specifically for their **Humane Law Enforcement Officer (HLEO)** or equivalent animal‐cruelty enforcement unit.  

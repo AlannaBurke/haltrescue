@@ -9,6 +9,11 @@ tags: [rabbits, diabetes, health, metabolic disease]
 
 # Diabetes in Pet Rabbits
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rabbit-diabetes.png" />
+
+
 Diabetes is well known in dogs and cats, but it is considerably rarer in rabbits. When it does occur, rabbit diabetes presents unique challenges because of their highly specialized digestive physiology and dietary requirements. Understanding the condition helps owners recognize early signs and work with their veterinarian to manage it effectively.
 
 <InfographicShare imageSrc="/img/rabbits/rabbit-diabetes.png" />

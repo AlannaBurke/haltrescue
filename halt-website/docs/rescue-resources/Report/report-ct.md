@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in Connecticut
 
+![](/img/rescue-resources/report-abuse.png)
+
+
 ## **1\. Who actually investigates in Connecticut?**
 
 In CT, most cruelty complaints (including **small animals in pet stores**) are handled by:

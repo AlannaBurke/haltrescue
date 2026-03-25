@@ -6,6 +6,9 @@ description: "An in-depth guide to upper respiratory infections (Snuffles) in ra
 
 # Respiratory Issues in Rabbits ("Snuffles")
 
+![](/img/rabbits/rabbit-common-health-issues.png)
+
+
 "Snuffles" is the common term for an upper respiratory infection (URI) in rabbits. While it may sound cute, it is a serious condition that can lead to chronic, lifelong health problems and may progress to fatal pneumonia if not managed correctly. These infections are most famously caused by the bacterium *Pasteurella multocida*, but other bacteria can also be involved.
 
 ## The Cause: *Pasteurella* and Other Bacteria

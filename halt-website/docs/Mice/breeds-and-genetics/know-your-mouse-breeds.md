@@ -10,6 +10,11 @@ tags: [mice, breeds, coat]
 
 # Know Your Mouse Breeds
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/mice/mouse-color-guide.png" />
+
+
 <figure>
   <img src="/img/mice/mouse-color-guide.png" alt="Fancy Mouse Colors & Coat Types" />
   <figcaption>Common fancy mouse colors and coat types</figcaption>

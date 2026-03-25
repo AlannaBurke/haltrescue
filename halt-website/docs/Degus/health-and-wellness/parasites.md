@@ -6,6 +6,8 @@ description: "A guide to parasites affecting degus, including fleas, mites, and 
 
 # Parasites in Degus
 
+![](/img/degus/degu-parasites.png)
+
 Degus are generally clean and robust animals, but they can be affected by both external and internal parasites. Infestations are often linked to environmental factors, such as contaminated bedding or contact with other animals. Prompt identification and treatment are key to preventing a minor issue from becoming a major health problem.
 
 ## External Parasites

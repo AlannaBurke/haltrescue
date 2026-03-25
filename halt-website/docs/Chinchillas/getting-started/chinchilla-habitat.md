@@ -8,6 +8,8 @@ tags: [chinchillas, housing, getting started]
 
 # The Ideal Chinchilla Habitat
 
+![](/img/chinchillas/chinchilla-habitat.png)
+
 Creating a safe, stimulating, and comfortable habitat is essential for your chinchilla's physical and mental well-being. Chinchillas are active, curious, and fragile animals, and their environment must be tailored to their unique needs. This guide details the critical components of an ideal chinchilla habitat.
 
 ## Cage Requirements

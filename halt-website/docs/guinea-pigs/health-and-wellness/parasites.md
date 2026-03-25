@@ -6,6 +6,8 @@ description: "A guide to common parasites affecting guinea pigs, with a focus on
 
 # Parasites in Guinea Pigs
 
+![](/img/guinea-pigs/gp-parasites.png)
+
 Parasitic infections are a common and serious problem for guinea pigs. Both external parasites (mites and lice) and fungal infections can cause intense discomfort, pain, and secondary health issues. It is vital for owners to recognize the signs of these infestations and seek veterinary treatment promptly.
 
 ## External Parasites

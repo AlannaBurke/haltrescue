@@ -10,6 +10,11 @@ tags: [chinchillas, parasites, health]
 
 # Parasites in Chinchillas
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/chinchillas/chinchilla-common-health-issues.png" />
+
+
 Chinchillas are generally resilient animals, but they can occasionally be affected by parasitic infestations. Both external and internal parasites can pose serious health risks, especially if left untreated. While parasite issues in chinchillas are less common than in some other small animals, knowing the signs, risks, and preventive measures is essential for every chinchilla owner.
 
 ## Types of Parasites

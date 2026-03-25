@@ -6,6 +6,8 @@ description: "A guide to common parasites affecting rabbits, including the sever
 
 # Parasites in Rabbits
 
+![](/img/rabbits/rabbit-parasites.png)
+
 Parasitic diseases are a major health concern for pet rabbits. While internal worms are uncommon, rabbits are frequently affected by external mites and a debilitating internal protozoan parasite called *Encephalitozoon cuniculi*. These parasites can cause conditions ranging from intense itching and fur loss to severe neurological damage.
 
 ## External Parasites

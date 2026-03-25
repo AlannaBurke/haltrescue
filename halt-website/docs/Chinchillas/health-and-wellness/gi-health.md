@@ -6,6 +6,8 @@ description: "An essential guide to gastrointestinal (GI) health in chinchillas,
 
 # Gastrointestinal (GI) Health in Chinchillas
 
+![](/img/chinchillas/chinchilla-gi-health.png)
+
 A chinchilla's digestive system is incredibly sensitive and specialized. It is designed to process a high-fiber, low-nutrient diet. Understanding and respecting this delicate system is fundamental to their health, as gastrointestinal (GI) problems are common, can develop rapidly, and are often life-threatening. The two most critical GI emergencies are bloat and GI stasis.
 
 ## The Chinchilla Digestive System: A Quick Overview

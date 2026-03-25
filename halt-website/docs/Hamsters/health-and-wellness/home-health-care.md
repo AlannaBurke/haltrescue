@@ -8,6 +8,8 @@ tags: [hamsters, health, wellness, home health check, veterinary]
 
 # Home Health Care for Pet Hamsters
 
+![](/img/hamsters/hamster-home-health-care.png)
+
 Hamsters are masters of disguise when it comes to hiding illness. This instinct, carried over from their wild ancestors, means that by the time a hamster shows obvious signs of being unwell, their condition may already be quite advanced. [1] Performing regular health checks at home is a crucial responsibility for any owner, allowing you to spot subtle changes and seek veterinary care early.
 
 ## The At-Home Health Checklist

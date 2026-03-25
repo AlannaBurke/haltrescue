@@ -8,6 +8,8 @@ tags: [rats, health, veterinary, nutrition, behavior, housing]
 
 # A Comprehensive Guide to Rat Care
 
+![](/img/rats/rat-behavior-guide.png)
+
 Rats are intelligent, social, and engaging pets that bring a unique joy to any home. To ensure they live long, happy, and healthy lives, it’s essential to understand and meet their specific needs. This guide provides a comprehensive overview of daily and weekly care routines for your pet rats.
 
 ## The Importance of Social Housing

@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [chinchillas, dental disease, bloat, ringworm, emergency, respiratory infection]
 description: "An overview of the most common health issues affecting pet chinchillas, including dental disease, bloat, ringworm, and heat stroke, with a focus on prevention and recognizing early warning signs."
-image: /img/chinchillas/common-health-issues.png
+image: /img/chinchillas/chinchilla-common-health-issues.png
 ---
 
 # Common Health Issues in Chinchillas
@@ -11,7 +11,7 @@ image: /img/chinchillas/common-health-issues.png
 Chinchillas are generally hardy animals, but like all pets, they are susceptible to specific health problems. Many of these issues are directly related to their unique anatomy and husbandry needs. Understanding these common ailments is key to prevention and early intervention.
 
 <figure>
-    ![An infographic summarizing the most common health issues in chinchillas: Dental Disease, Bloat, Ringworm, and Heat Stroke.](/img/chinchillas/common-health-issues.png "Common Chinchilla Health Concerns")
+    ![An infographic summarizing the most common health issues in chinchillas: Dental Disease, Bloat, Ringworm, and Heat Stroke.](/img/chinchillas/chinchilla-common-health-issues.png)
     <figcaption>Proactive care and a proper environment are essential for preventing common chinchilla health problems.</figcaption>
 </figure>
 

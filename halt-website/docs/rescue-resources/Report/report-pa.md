@@ -6,6 +6,9 @@ tags: [rescue, nonprofit]
 
 # Report Pet Store Neglect in Pennsylvania
 
+![](/img/rescue-resources/report-abuse.png)
+
+
 ## **1\. Oversight & jurisdiction for small animals in Pennsylvania**
 
 When a pet store is selling or housing small animals, the agencies below may apply:

@@ -6,6 +6,8 @@ description: "An essential guide to pelvic dystocia in guinea pigs, a life-threa
 
 # Pelvic Dystocia in Guinea Pigs
 
+![](/img/guinea-pigs/gp-habitat-diagram.png)
+
 Pelvic dystocia, or difficulty giving birth, is a common and life-threatening emergency in guinea pigs. It is a direct consequence of their unique pelvic anatomy and is the primary reason why responsible breeding of guinea pigs is so complex. Understanding this condition is critical for anyone who owns a female guinea pig, as accidental pregnancies are common.
 
 ## The Fusing of the Pelvis

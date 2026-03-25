@@ -7,6 +7,11 @@ tags: [reproductive health, veterinary, getting started]
 
 # The Importance of Spaying and Neutering Your Pets
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/general-care/animal-hoarding.png" />
+
+
 ![Mutts Comic Strip](mutts.jpg)
 
 Animal shelters today are full of not only cats and dogs, but small animals like guinea pigs, rabbits, rats, and mice. While “oops” litters seem common among pet owners, it’s vital to understand that there is an overpopulation of small animals just as critical as cats and dogs, part of which is due to a much lower rate and spay and neuter. 

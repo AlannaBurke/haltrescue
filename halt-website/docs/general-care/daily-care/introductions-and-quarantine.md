@@ -6,6 +6,9 @@ description: "Learn the critical importance of quarantining new pets to prevent 
 
 # Proper Introduction and Quarantining of New Pets
 
+![](/img/general-care/introductions-quarantine.png)
+
+
 Bringing a new pet into a home with existing animals is an exciting time, but it requires careful planning and patience. To protect the health of your resident pets and ensure a smooth social transition, a strict quarantine period followed by a gradual introduction process is essential. Rushing this process is a common mistake that can lead to disease transmission and social conflict [1].
 
 ## Part 1: The Quarantine Period

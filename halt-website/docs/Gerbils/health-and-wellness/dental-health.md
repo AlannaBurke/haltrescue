@@ -6,6 +6,8 @@ description: "A guide to dental health in gerbils, focusing on the causes and pr
 
 # Dental Health in Gerbils
 
+![](/img/gerbils/gerbil-dental-health.png)
+
 Dental health is a crucial aspect of gerbil care, centered almost entirely on their four prominent incisors (front teeth). Like all rodents, a gerbil's incisors grow continuously throughout their life. This unique trait requires them to constantly chew and gnaw to wear their teeth down. When this natural process is disrupted, it can lead to serious and painful health problems.
 
 ## The Basics of Gerbil Teeth

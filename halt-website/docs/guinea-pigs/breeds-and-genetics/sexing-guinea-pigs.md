@@ -7,6 +7,11 @@ description: "Correctly identifying the sex of a guinea pig is a crucial skill f
 
 # Sexing Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-sexing-guide.png" />
+
+
 Correctly identifying the sex of a guinea pig is a crucial skill for any owner, breeder, or rescue. It is the only way to prevent accidental and unwanted pregnancies, which can be dangerous for female guinea pigs (sows) and contribute to overpopulation. While it can be tricky, especially in young pups, learning to distinguish between males (boars) and females is straightforward once you know what to look for.
 
 ## Why is Sexing Important?

@@ -10,6 +10,11 @@ tags: [gerbils, breeds, coat]
 
 # Know Your Gerbil Breeds
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/gerbils/is-a-gerbil-right-for-me.png" />
+
+
 <figure>
   <img src="/img/gerbils/gerbil-color-guide.png" alt="Gerbil Color Guide" />
   <figcaption>Common gerbil colors and coat types</figcaption>

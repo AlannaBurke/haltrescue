@@ -6,6 +6,8 @@ description: "A guide to gastrointestinal (GI) health in hamsters, with a focus 
 
 # Gastrointestinal (GI) Health in Hamsters
 
+![](/img/hamsters/hamster-gi-health.png)
+
 A hamster's gastrointestinal (GI) tract is generally robust, but it can be susceptible to serious issues, most notably diarrhea. Unlike the complex digestive systems of herbivores, a hamster's gut is simpler, but it is sensitive to stress and bacterial imbalances. Any instance of diarrhea in a hamster should be treated as a serious concern, as it can be a symptom of the life-threatening condition known as Wet Tail.
 
 ## Common GI Problems in Hamsters

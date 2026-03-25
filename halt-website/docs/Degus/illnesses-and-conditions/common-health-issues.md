@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [degus, diabetes, dental disease, tail slip, bumblefoot, respiratory infection]
 description: "An overview of the most common health issues affecting pet degus, including their genetic predisposition to diabetes, dental disease, tail slip, and bumblefoot."
-image: /img/degus/common-health-issues.png
+image: /img/degus/degu-common-health-issues.png
 ---
 
 # Common Health Issues in Degus
@@ -11,7 +11,7 @@ image: /img/degus/common-health-issues.png
 Degus are active and social rodents that are generally healthy when provided with the proper diet and environment. However, they are prone to several specific health conditions, many of which are directly linked to their unique dietary needs and anatomy.
 
 <figure>
-    ![An infographic summarizing the most common health issues in degus: Diabetes, Dental Disease, Tail Slip, and Bumblefoot.](/img/degus/common-health-issues.png "Common Degu Health Concerns")
+    ![An infographic summarizing the most common health issues in degus: Diabetes, Dental Disease, Tail Slip, and Bumblefoot.](/img/degus/degu-common-health-issues.png)
     <figcaption>A proper diet and safe environment are paramount for preventing the most common degu health problems.</figcaption>
 </figure>
 

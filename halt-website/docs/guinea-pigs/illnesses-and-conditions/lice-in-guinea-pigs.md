@@ -10,6 +10,11 @@ tags: [guinea pigs, parasites, skin health, health]
 
 # Lice in Guinea Pigs
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/guinea-pigs/gp-lice.png" />
+
+
 **Lice** are small, wingless insects that live on the skin and fur of guinea pigs. Unlike mites, which burrow into the skin, lice live on the surface — feeding on skin debris and, in some species, blood. Lice infestations are relatively common in guinea pigs and are highly contagious between animals, but they are species-specific: guinea pig lice cannot infect humans or other pets.
 
 ## Types of Lice in Guinea Pigs

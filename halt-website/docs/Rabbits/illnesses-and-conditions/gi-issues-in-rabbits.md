@@ -10,6 +10,11 @@ description: "For rabbit owners, understanding and preventing gastrointestinal (
 
 # Understanding Gastrointestinal Issues in Rabbits
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rabbit-common-health-issues.png" />
+
+
 For rabbit owners, understanding and preventing gastrointestinal (GI) issues is paramount to ensuring the health and happiness of their beloved pets. Rabbits have delicate digestive systems, and problems can escalate quickly, often becoming life-threatening if not addressed promptly. This article will delve into common GI problems, their causes, prevention, and treatment, helping you keep your rabbit healthy and thriving.
 
 ## The Silent Killer: GI Stasis

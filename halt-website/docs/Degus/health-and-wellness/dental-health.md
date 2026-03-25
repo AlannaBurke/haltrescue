@@ -6,6 +6,8 @@ description: "A comprehensive guide to dental disease in degus, explaining the c
 
 # Dental Health in Degus
 
+![](/img/degus/degu-dental-health.png)
+
 Like chinchillas and guinea pigs, degus have elodont dentition, meaning all of their teeth grow continuously throughout their lives. This unique physiology makes them highly susceptible to dental disease, which is one of the most common health problems seen in pet degus. Proper diet is not just important for their overall health—it is the primary factor in preventing painful and life-altering dental issues.
 
 ## The Mechanics of Degu Teeth

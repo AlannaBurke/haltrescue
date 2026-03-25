@@ -9,6 +9,11 @@ description: "As a responsible rabbit owner, safeguarding your companion from pr
 
 # The Importance of Vaccinating Your Rabbit Against RVHD2
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rabbits/rvhd2-vaccination.png" />
+
+
 As a responsible rabbit owner, safeguarding your companion from preventable diseases is a top priority. One of the most serious threats to domestic rabbits today is Rabbit Hemorrhagic Disease Virus 2 (RHDV2), a highly contagious and often fatal virus. Understanding this disease and the critical importance of vaccination is essential for every rabbit owner.
 
 ## What is RHDV2?

@@ -6,6 +6,9 @@ description: "An essential guide to understanding sepsis and septic shock in sma
 
 # Sepsis in Small Pets
 
+![](/img/general-care/sepsis.png)
+
+
 Sepsis is a life-threatening emergency that can affect any animal, including small pets like rabbits, guinea pigs, ferrets, and rodents. It is not a specific disease, but rather the body's extreme, dysregulated response to an infection. This overwhelming response can cause widespread inflammation, leading to organ damage, septic shock, and death if not treated aggressively and immediately [1].
 
 

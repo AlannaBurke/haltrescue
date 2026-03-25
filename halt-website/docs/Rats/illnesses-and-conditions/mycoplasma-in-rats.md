@@ -9,6 +9,11 @@ description: "If you're a rat owner, you've likely heard the term 'myco.' Mycopl
 
 # Mycoplasma in Rats: An Essential Guide
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/rats/rat-food-list-printable.png" />
+
+
 If you're a rat owner, you've likely heard the term "myco." *Mycoplasma pulmonis* is a species of bacteria that is the primary cause of chronic respiratory disease (CRD) in pet rats. It's a pervasive issue, with most domestic rats carrying the bacteria, often from birth [1]. While many rats live their lives with a silent, low-level infection, understanding this complex disease is key to managing your pets' health.
 
 <InfographicShare imageSrc="/img/rats/mycoplasma-warning.png" />

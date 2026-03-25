@@ -8,6 +8,11 @@ tags: [hedgehogs, housing, getting started]
 
 # Hedgehog Habitat
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/hedgehogs/hedgehog-habitat-guide.png" />
+
+
 Creating a safe, warm, and stimulating habitat is the most important part of hedgehog ownership. Their enclosure is their entire world, and it must be set up to meet their unique needs, especially their critical requirement for a stable, warm temperature.
 
 <InfographicShare

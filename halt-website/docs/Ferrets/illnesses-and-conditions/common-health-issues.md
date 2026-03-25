@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [ferrets, adrenal disease, cancer, heart disease, gi obstruction]
 description: "An overview of the most common health issues affecting pet ferrets, with a strong emphasis on cancers like adrenal disease, insulinoma, and lymphoma, as well as heart disease and GI obstructions."
-image: /img/ferrets/common-health-issues.png
+image: /img/ferrets/ferret-common-health-issues.png
 ---
 
 # Common Health Issues in Ferrets
@@ -11,7 +11,7 @@ image: /img/ferrets/common-health-issues.png
 Ferrets are unique pets with a specific set of common health problems that owners must be vigilant about. Unfortunately, ferrets are highly prone to several types of cancer, and many of the most common issues are serious and require prompt veterinary intervention. Early detection through regular check-ups and careful observation is key to managing these conditions.
 
 <figure>
-    ![An infographic summarizing the most common health issues in ferrets: Adrenal Gland Disease, Insulinoma, Lymphoma, and Heart Disease.](/img/ferrets/common-health-issues.png "Common Ferret Health Concerns")
+    ![An infographic summarizing the most common health issues in ferrets: Adrenal Gland Disease, Insulinoma, Lymphoma, and Heart Disease.](/img/ferrets/ferret-common-health-issues.png)
     <figcaption>Many common ferret diseases are serious and require a close partnership with an experienced exotics veterinarian.</figcaption>
 </figure>
 

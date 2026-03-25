@@ -6,6 +6,8 @@ description: "A guide to common parasites affecting pet rats, including the inte
 
 # Parasites in Rats
 
+![](/img/rats/rat-uri-guide.png)
+
 Parasites are a common issue in pet rats, with external parasites like mites and lice being a frequent cause of itching and distress. While internal parasites are also common, they are often less harmful. Nearly all parasite issues require a veterinary diagnosis and prescription medication to be treated safely and effectively.
 
 ## External Parasites

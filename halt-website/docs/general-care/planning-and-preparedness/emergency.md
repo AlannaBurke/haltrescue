@@ -6,6 +6,11 @@ tags: [emergency preparedness, safety]
 ---
 # Emergency Preparedness
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/general-care/emergency-preparedness.png" />
+
+
 ![Emergency Preparedness Graphic](emergency.png)
 
 ## 1. Create an Emergency Plan

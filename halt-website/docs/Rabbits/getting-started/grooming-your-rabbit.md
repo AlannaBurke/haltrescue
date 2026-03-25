@@ -8,6 +8,9 @@ tags: [rabbits, grooming, nail trimming]
 
 # Grooming Your Pet Rabbit
 
+![](/img/rabbits/rabbit-coccidia.png)
+
+
 Grooming is an essential part of rabbit care that helps keep them healthy and strengthens the bond you share. Rabbits are naturally clean animals that groom themselves frequently, but they still need regular help from their human companions, especially when it comes to brushing and nail trims. [1]
 
 ## Brushing

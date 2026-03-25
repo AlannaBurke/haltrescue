@@ -6,6 +6,8 @@ description: "A guide to dental health in rats, focusing on the causes and preve
 
 # Dental Health in Rats
 
+![](/img/rats/rat-nutrition-guide.png)
+
 Proper dental health is a cornerstone of good rat care, and it is almost entirely focused on their four incisors (front teeth). Like all rodents, a rat's incisors grow continuously throughout their entire life. This biological imperative requires them to constantly gnaw on a variety of materials to wear their teeth down. When this natural wearing process is disrupted, it can lead to painful and serious health problems.
 
 ## The Basics of Rat Teeth

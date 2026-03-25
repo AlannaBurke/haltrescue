@@ -8,6 +8,11 @@ tags: [mice, nutrition, getting started]
 
 # Mouse Nutrition
 
+import InfographicShare from '@site/src/components/InfographicShare';
+
+<InfographicShare src="/img/mice/mouse-nutrition-guide.png" />
+
+
 A proper diet is crucial for the health and well-being of pet mice. As omnivores, they require a balanced mix of grains, seeds, and protein. Providing the right food will help prevent obesity and ensure they get all the necessary nutrients.
 
 <InfographicShare

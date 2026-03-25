@@ -7,6 +7,9 @@ description: "A guide to dangerous treats and toys for hedgehogs, highlighting t
 
 # Dangerous Treats and Toys for Hedgehogs
 
+![](/img/hedgehogs/hedgehog-common-health-issues.png)
+
+
 Hedgehogs are insectivores with specific dietary needs, and their unique anatomy makes them prone to certain injuries from improper toys and accessories. Providing a safe environment and a correct diet is crucial for their health. Many items that are safe for other small pets can be dangerous for a hedgehog.
 
 ## Dangerous Treats

@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [guinea pigs, nutrition, bloat, urinary health, bumblefoot, respiratory infection, parasites]
 description: "An overview of the most common health issues affecting pet guinea pigs, including their absolute need for Vitamin C (scurvy), GI stasis, bladder stones, and bumblefoot."
-image: /img/guinea-pigs/common-health-issues.png
+image: /img/guinea-pigs/gp-common-health-issues.png
 ---
 
 # Common Health Issues in Guinea Pigs
@@ -11,7 +11,7 @@ image: /img/guinea-pigs/common-health-issues.png
 Guinea pigs are beloved for their gentle nature and vocal personalities, but they come with a unique set of health considerations. Many of their most common ailments are directly tied to their specific dietary needs and sensitive body systems. A knowledgeable and observant owner is the best defense against these common problems.
 
 <figure>
-    ![An infographic summarizing the most common health issues in guinea pigs: Scurvy (Vitamin C Deficiency), GI Stasis/Bloat, Bladder Stones, and Bumblefoot.](/img/guinea-pigs/common-health-issues.png "Common Guinea Pig Health Concerns")
+    ![An infographic summarizing the most common health issues in guinea pigs: Scurvy (Vitamin C Deficiency), GI Stasis/Bloat, Bladder Stones, and Bumblefoot.](/img/guinea-pigs/gp-common-health-issues.png)
     <figcaption>A diet rich in Vitamin C and high-quality hay is the foundation of guinea pig health.</figcaption>
 </figure>
 

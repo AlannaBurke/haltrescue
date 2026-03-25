@@ -6,6 +6,9 @@ description: "An in-depth guide to acariasis (mite infestation) in hedgehogs, th
 
 # Acariasis (Mite Infestation) in Hedgehogs
 
+![](/img/hedgehogs/hedgehog-acariasis.png)
+
+
 Acariasis, the medical term for an infestation of mites, is the most common skin disease affecting African Pygmy Hedgehogs. The most common mite involved is *Caparinia tripilis*. While a small number of these mites can live on a hedgehog without causing problems, an overgrowth can lead to significant irritation, quill loss, and discomfort. It is a treatable condition but requires a veterinary diagnosis and prescription medication.
 
 ## The Cause: An Opportunistic Pest
