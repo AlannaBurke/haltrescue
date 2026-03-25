@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Diabetes is a chronic metabolic condition that can affect pet mice, though it is less commonly diagnosed than in some other small animals. Because mice are small and adept at hiding signs of illness, diabetes can go undetected until it has progressed significantly. Understanding the signs and risk factors helps owners seek veterinary care early and manage the condition effectively.
 
-<InfographicShare imageSrc="/img/mice/mouse-diabetes.png" />
-
 ## What Is Diabetes in Mice?
 
 Diabetes mellitus is a metabolic disorder in which the body cannot properly regulate blood glucose (sugar) levels. **Insulin**, produced by the pancreas, normally allows cells to absorb glucose for energy. In diabetes, either insufficient insulin is produced or the body's cells fail to respond to it, causing glucose to accumulate in the bloodstream.

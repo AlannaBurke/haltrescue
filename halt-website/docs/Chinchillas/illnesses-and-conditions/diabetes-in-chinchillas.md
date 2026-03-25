@@ -22,8 +22,6 @@ Diabetes mellitus is relatively uncommon in chinchillas compared to some other s
 
 Chinchillas, like degus, have a physiology that is poorly adapted to high-carbohydrate, high-sugar diets. Their natural diet in the wild consists of sparse, fibrous vegetation with very little sugar content. Captive chinchillas fed inappropriate diets — particularly those high in seeds, nuts, dried fruit, or sugary treats — are at elevated risk of developing insulin resistance and diabetes.[^2]
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-diabetes.png" />
-
 ## Causes and Risk Factors
 
 The primary risk factors for diabetes in chinchillas include:

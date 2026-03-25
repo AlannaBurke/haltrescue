@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [degus, GI stasis, bloat, GI health, diabetes]
 description: "An essential guide to gastrointestinal (GI) health in degus, covering their sensitive digestive system, the risks of bloat and stasis, and the connection between diet, GI health, and diabetes."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Degus
 
-![](/img/degus/degu-gi-health.png)
+<InfographicShare imageSrc="/img/degus/degu-gi-health.png" />
 
 A degu's digestive system is adapted for a harsh, arid environment, designed to extract nutrients from a diet high in fiber and low in sugar and fat. Their gastrointestinal (GI) tract is sensitive, and dietary errors are the root cause of the most common and serious health problems in degus, including GI stasis, bloat, and diabetes. Maintaining a healthy gut is synonymous with maintaining a healthy degu.
 

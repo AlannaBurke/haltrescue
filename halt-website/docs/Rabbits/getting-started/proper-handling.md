@@ -5,10 +5,11 @@ sidebar_label: Proper Handling
 sidebar_position: 7
 tags: [rabbits, handling, taming, bonding]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Proper Handling of Pet Rabbits
 
-![](/img/rabbits/rabbit-safe-foods.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-handling.png" />
 
 
 As prey animals, rabbits have a strong instinct to fear being picked up, as this mimics being caught by a predator. Proper handling is therefore one of the most important skills for a rabbit owner to learn, both for the rabbit's safety and for building a trusting bond. [1]

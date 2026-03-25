@@ -3,10 +3,11 @@ sidebar_label: 'Clubbed Feet & Deformities'
 sidebar_position: 5
 tags: [guinea pigs, musculoskeletal, genetics, special needs]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Understanding Clubbed Feet and Limb Deformities in Guinea Pigs
 
-![](/img/guinea-pigs/gp-coat-color-genetics.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-common-health-issues.png" />
 
 Guinea pigs are known for their sweet personalities and unique charm—but some arrive into rescue with visible physical challenges, including limb deformities commonly referred to as "clubbed feet." Understanding this condition is key to providing these special-needs pigs with the quality of life they deserve.
 

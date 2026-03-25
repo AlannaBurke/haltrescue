@@ -30,8 +30,6 @@ belly-button-like opening on her abdomen. [2]
 | **"Belly Button"** | **Present** (this is the penis) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly below the anus |
 
-<InfographicShare imageSrc="/img/ferrets/ferret-sexing-guide.png" />
-
 ## Other, Less Reliable Differences
 
 While anatomy is the only definitive way to sex a ferret, there are some general size and behavioral differences.

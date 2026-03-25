@@ -3,10 +3,11 @@ sidebar_label: Eye & Vision Issues
 tags: [mice, eye health]
 description: "A guide to common eye and vision issues in mice, explaining the significance of porphyrin (red tears) and the causes and treatment of eye infections."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Eye & Vision Issues in Mice
 
-![](/img/mice/mouse-eye-health.png)
+<InfographicShare imageSrc="/img/mice/mouse-eye-health.png" />
 
 Eye issues are a frequent concern for mouse owners. A healthy mouse should have bright, clear, and fully open eyes. Because mice are prone to respiratory diseases and are sensitive to their environment, their eyes are often one of the first places to show signs of stress or illness. Any swelling, discharge, or crustiness should be taken seriously.
 

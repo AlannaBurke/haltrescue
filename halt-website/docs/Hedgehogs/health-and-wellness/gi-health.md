@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [hedgehogs, GI health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in hedgehogs, covering their unique dietary needs as insectivores and the common causes of digestive upset."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Hedgehogs
 
-![](/img/hedgehogs/hedgehog-gi-health.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-gi-health.png" />
 
 A hedgehog's gastrointestinal (GI) tract is that of an insectivore, designed to process a diet high in protein and chitin (from insect exoskeletons) and low in fat and complex carbohydrates. Their digestive system is relatively simple and, while generally hardy, can be sensitive to improper diets, which can lead to issues like diarrhea and nutritional imbalances.
 

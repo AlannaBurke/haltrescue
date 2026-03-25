@@ -3,10 +3,11 @@ sidebar_label: "Making End-of-Life Plans"
 tags: [end of life]
 description: "A guide to making compassionate and responsible end-of-life decisions for your pet, including assessing quality of life and understanding the euthanasia process."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Making End-of-Life Plans for Your Pet
 
-![](/img/general-care/end-of-life.png)
+<InfographicShare imageSrc="/img/general-care/end-of-life.png" />
 
 
 Thinking about the end of your pet's life is one of the most difficult and painful parts of pet ownership. However, preparing for this eventuality is a profound act of love and responsibility. As caregivers, we have the ability to prevent suffering. Making a plan before you are in a crisis allows you to make decisions based on compassion and your pet's best interest, rather than fear and panic.

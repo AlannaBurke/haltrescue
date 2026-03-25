@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 A stroke occurs when blood flow to part of the brain is suddenly interrupted, either by a blockage (ischemic stroke) or a burst blood vessel (hemorrhagic stroke). Strokes can occur in guinea pigs, though they are relatively uncommon. When they do happen, they can be frightening for owners and require prompt veterinary attention.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-stroke.png" />
-
 ## What Is a Stroke?
 
 A stroke (cerebrovascular accident) results from sudden disruption of blood supply to the brain. Without adequate oxygen and glucose, brain cells begin to die within minutes. The severity and nature of symptoms depend on which part of the brain is affected and how much tissue is damaged.

@@ -5,10 +5,11 @@ sidebar_label: Grooming
 sidebar_position: 3
 tags: [degus, grooming, coat]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Grooming Your Pet Degu
 
-![](/img/degus/degu-grooming.png)
+<InfographicShare imageSrc="/img/degus/degu-grooming.png" />
 
 Degus are meticulous self-groomers and, for the most part, take excellent care of their own coats. However, they require one very specific and essential grooming aid from their owners: a dust bath. [1]
 

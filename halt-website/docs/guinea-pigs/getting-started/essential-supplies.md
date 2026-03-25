@@ -14,8 +14,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Bringing home a guinea pig (or better yet—a pair!) is an exciting and joyful experience. To set your new friends up for a happy, healthy life, it’s important to have the right supplies ready from day one. This guide covers the essentials every guinea pig owner needs.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-essential-supplies.png" />
-
 ## 1. Housing: A Safe and Spacious Home
 
 Your guinea pigs will spend a lot of time in their cage, so it needs to be a safe and enriching environment.

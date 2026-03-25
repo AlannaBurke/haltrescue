@@ -3,10 +3,11 @@ sidebar_label: Playing & Training
 tags: [rats, training, enrichment, behavior]
 description: "A guide to playing with and training your pet rats, offering ideas for enrichment, toys, and teaching simple tricks to engage their intelligence."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Playing with and Training Your Rat
 
-![](/img/rats/mycoplasma-warning.png)
+<InfographicShare imageSrc="/img/rats/rat-play-training.png" />
 
 
 Rats are incredibly intelligent, social, and curious animals. They are not pets that are meant to simply sit in a cage; they thrive on interaction, mental stimulation, and play. Building a bond with your rats through play and training is one of the most rewarding aspects of owning them. It enriches their lives and allows their clever personalities to shine.

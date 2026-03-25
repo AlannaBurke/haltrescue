@@ -5,10 +5,11 @@ sidebar_label: Essential Supplies
 sidebar_position: 2
 tags: [mice, supplies, getting started]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Essential Supplies for Pet Mice
 
-![](/img/mice/mouse-essential-supplies.png)
+<InfographicShare imageSrc="/img/mice/mouse-essential-supplies.png" />
 
 Setting up a home for new pet mice is an exciting process. To ensure your new companions have everything they need to thrive from day one, it’s important to gather all the essential supplies in advance. This checklist covers the fundamental items required for a happy and healthy mouse habitat.
 

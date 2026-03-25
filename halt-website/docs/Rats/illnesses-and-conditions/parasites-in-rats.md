@@ -3,11 +3,12 @@ sidebar_label: Parasites
 sidebar_position: 3
 tags: [rats, parasites, health, veterinary]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 
 # Parasites in Pet Rats
 
-![](/img/rats/mycoplasma-warning.png)
+<InfographicShare imageSrc="/img/rats/rat-parasites.png" />
 
 
 Parasites are a relatively common health concern in pet rats and can affect even well-cared-for animals. Most infestations are highly treatable when caught early. This guide explains the types of parasites rats can carry, how to recognize them, how to treat them safely, and how to prevent future infestations.

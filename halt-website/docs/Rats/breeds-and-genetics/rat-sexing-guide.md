@@ -16,8 +16,6 @@ Correctly sexing rats is essential to prevent accidental litters and ensure prop
 
 This guide explains how to identify male and female rats from birth through adulthood, what changes with age, and common mistakes to avoid.
 
-<InfographicShare imageSrc="/img/rats/rat-sexing-guide.png" />
-
 ---
 
 ## Newborns (0–7 Days)

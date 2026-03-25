@@ -18,8 +18,6 @@ A balanced and appropriate diet is the single most important factor in maintaini
 
 A healthy guinea pig diet can be visualized as a pyramid, with the most important foods forming the base and occasional treats at the very top.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-nutrition-pyramid.png" />
-
 ### 1. Unlimited Grass Hay (80% of Diet)
 
 The foundation of every guinea pig's diet is an unlimited supply of high-quality grass hay. This is not just bedding; it is their most critical food source.

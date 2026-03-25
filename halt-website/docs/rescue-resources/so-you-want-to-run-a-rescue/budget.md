@@ -3,10 +3,11 @@ sidebar_label: 'Budgeting'
 sidebar_position: 9
 tags: [nonprofit, cost, rescue]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Why Budgeting is Important
 
-![](/img/rescue-resources/budget-planning.png)
+<InfographicShare imageSrc="/img/rescue-resources/budget-planning.png" />
 
 
 When people imagine running an animal rescue, they picture cuddles, cute faces, and happy adoptions. What they don’t always see is the spreadsheet behind the scenes.

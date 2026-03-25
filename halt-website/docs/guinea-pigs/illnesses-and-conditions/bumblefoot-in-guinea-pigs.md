@@ -38,8 +38,6 @@ The most significant risk factors for bumblefoot in guinea pigs are:
 
 **Underlying heart disease** is an increasingly recognized risk factor, particularly in older guinea pigs. A weakened heart compromises blood circulation to the extremities, including the feet. This reduced peripheral perfusion makes the foot pads more susceptible to injury and less able to heal, allowing pododermatitis to develop even in a clean environment with soft bedding. Cold extremities are a known clinical sign of heart failure in guinea pigs, and this poor circulation directly predisposes the feet to infection.[^3]
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-bumblefoot.png" />
-
 ## Warning Signs
 
 Bumblefoot can be subtle in its early stages. Check your guinea pig's feet regularly and watch for:

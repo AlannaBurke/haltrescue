@@ -3,10 +3,11 @@ sidebar_label: Tail Slip
 tags: [gerbils, tail slip, emergency, safety]
 description: "An essential guide to tail slip in gerbils, a common and serious injury caused by improper handling, explaining the mechanism, necessary treatment, and how to prevent it."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Tail Slip in Gerbils
 
-![](/img/gerbils/gerbil-tail-slip.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-tail-slip.png" />
 
 
 Tail slip (or tail degloving) is a common and serious injury in gerbils. It is a defensive mechanism, similar to how a lizard can drop its tail. When a gerbil is grabbed by the tail, especially the middle or end, the skin and fur can tear away, leaving the underlying bone and tissue exposed. This is a painful injury that requires prompt attention.

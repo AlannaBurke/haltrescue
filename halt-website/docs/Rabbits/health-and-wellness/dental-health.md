@@ -3,10 +3,11 @@ sidebar_label: Dental Health
 tags: [rabbits, dental disease]
 description: "An in-depth guide to dental disease in rabbits, explaining why it is so common, how to recognize the signs of oral pain, and the absolute necessity of a hay-based diet for prevention."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dental Health in Rabbits
 
-![](/img/rabbits/rabbit-common-health-issues.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-dental-health.png" />
 
 
 Dental disease is arguably the most common and preventable health problem seen in pet rabbits. It is a painful and progressive condition that significantly impacts a rabbit's quality of life. A thorough understanding of their unique dental anatomy and dietary needs is essential for every rabbit owner.

@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [gerbils, GI health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in gerbils, covering common issues like diarrhea, the importance of a stable diet, and the serious threat of Tyzzer's disease."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Gerbils
 
-![](/img/gerbils/gerbil-common-health-issues.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-common-health-issues.png" />
 
 
 Gerbils are desert animals, and their gastrointestinal (GI) tract is highly adapted to a dry environment and a diet of seeds, grains, and tough plant matter. Their digestive system is generally robust, but it can be upset by sudden dietary changes, stress, or infectious disease. Diarrhea is the most common sign of a GI problem in gerbils and should always be taken seriously.

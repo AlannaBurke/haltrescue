@@ -4,10 +4,10 @@ sidebar_position: 3
 tags: [rats, getting started, cost]
 description: "Rats are among the most intelligent, affectionate, and interactive small pets you can keep. They learn their names, come when called, enjoy being held and carried, and form genuine bonds with their..."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Is a Rat Right for Me and My Family?
 
-![Is A Rat Right For Me](/img/rats/is-a-rat-right-for-me.png)
 
 
 <InfographicShare

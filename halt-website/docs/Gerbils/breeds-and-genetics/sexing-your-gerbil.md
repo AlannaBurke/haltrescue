@@ -29,8 +29,6 @@ The most reliable way to sex a gerbil is to measure the space between the anus a
 | **Testicles (adults)** | Visible as a prominent bulge under the tail | Absent |
 | **Nipples** | Absent | 8 small dots visible on the belly |
 
-<InfographicShare imageSrc="/img/gerbils/gerbil-sexing-guide.png" />
-
 ## Easier Identification in Adults
 
 In adult gerbils (7 weeks and older), sexing becomes even more straightforward.

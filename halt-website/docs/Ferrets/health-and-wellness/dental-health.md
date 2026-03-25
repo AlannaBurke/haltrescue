@@ -3,10 +3,11 @@ sidebar_label: Dental Health
 tags: [ferrets, dental disease]
 description: "A guide to dental health in ferrets, covering common issues like fractured teeth and tartar buildup, and outlining the importance of preventative care, including diet and tooth brushing."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dental Health in Ferrets
 
-![](/img/ferrets/ferret-dental-health.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-dental-health.png" />
 
 Dental health is an often-overlooked aspect of ferret care, but it is crucial for their overall well-being. Unlike rodents and rabbits, a ferret's teeth do not grow continuously. They have a permanent set of adult teeth, just like cats and dogs, which makes them susceptible to issues like tartar buildup, gum disease, and fractured teeth. Good preventative care can help avoid painful and expensive dental problems down the line.
 

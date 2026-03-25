@@ -32,8 +32,6 @@ Respiratory infections in chinchillas can be caused by bacteria, viruses, or env
 
 **Temperature fluctuations and drafts** are also significant risk factors. Chinchillas are sensitive to sudden temperature changes, and exposure to cold drafts can compromise their immune defenses.
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-respiratory.png" />
-
 ## Warning Signs
 
 Respiratory infections can progress from mild to severe quickly. Watch for:

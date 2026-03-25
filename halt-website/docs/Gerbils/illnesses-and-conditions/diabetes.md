@@ -3,10 +3,11 @@ sidebar_label: Diabetes
 tags: [gerbils, diabetes]
 description: "A guide to diabetes in gerbils, a common condition often linked to diet, covering the signs, causes, and the importance of dietary management for prevention and care."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Diabetes in Gerbils
 
-![](/img/gerbils/gerbil-diabetes.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-diabetes.png" />
 
 
 Diabetes is a relatively common metabolic disease in gerbils. While it can have a genetic component, it is most often linked to diet and obesity. It occurs when the gerbil's body either doesn't produce enough insulin or can't effectively use the insulin it does produce. This leads to high levels of glucose (sugar) in the blood, a condition called hyperglycemia.

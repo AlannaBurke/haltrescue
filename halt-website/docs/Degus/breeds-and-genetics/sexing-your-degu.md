@@ -30,8 +30,6 @@ To examine your degu, you can either hold them securely on their back or let the
 | **Anogenital Gap** | **Present** (a clear space) | **Absent** (no space) |
 | **Openings** | Two distinctly separate openings | Appear very close together |
 
-<InfographicShare imageSrc="/img/degus/degu-sexing-guide.png" />
-
 ### Simple Rule: "If there's a gap, it's a chap!"
 
 This simple rhyme is the easiest way to remember the key difference. The presence of a space between the two openings is the definitive sign of a male.

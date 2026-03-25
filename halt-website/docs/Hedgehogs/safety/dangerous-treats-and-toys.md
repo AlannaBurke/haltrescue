@@ -4,10 +4,11 @@ sidebar_position: 1
 tags: [hedgehog care, hedgehog safety, dangerous treats, dangerous toys, hedgehog diet]
 description: "A guide to dangerous treats and toys for hedgehogs, highlighting the risks of certain foods like nuts and dairy, and the dangers of unsafe chew toys and exercise wheels."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dangerous Treats and Toys for Hedgehogs
 
-![](/img/hedgehogs/hedgehog-common-health-issues.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-common-health-issues.png" />
 
 
 Hedgehogs are insectivores with specific dietary needs, and their unique anatomy makes them prone to certain injuries from improper toys and accessories. Providing a safe environment and a correct diet is crucial for their health. Many items that are safe for other small pets can be dangerous for a hedgehog.

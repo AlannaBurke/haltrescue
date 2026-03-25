@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [guinea pigs, GI stasis, bloat, GI health]
 description: "An essential guide to gastrointestinal (GI) health in guinea pigs, covering their sensitive digestive system, the causes and signs of life-threatening bloat and GI stasis, and the importance of a high-hay diet."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Guinea Pigs
 
-![](/img/guinea-pigs/gp-poop-guide.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-poop-guide.png" />
 
 A guinea pig's life revolves around its gastrointestinal (GI) tract. Their digestive system is a delicate, complex engine that must be constantly running. It is designed to process large volumes of high-fiber food, and any interruption to this process can quickly become a life-threatening emergency. Understanding and meticulously catering to their digestive needs is the most important responsibility of any guinea pig owner.
 

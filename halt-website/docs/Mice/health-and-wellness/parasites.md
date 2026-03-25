@@ -3,10 +3,11 @@ sidebar_label: Parasites
 tags: [mice, parasites]
 description: "A guide to common parasites affecting pet mice, with a focus on the intense itching caused by fur mites and lice, and the importance of veterinary-prescribed treatment."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Parasites in Mice
 
-![](/img/mice/mouse-parasites.png)
+<InfographicShare imageSrc="/img/mice/mouse-parasites.png" />
 
 Parasitic infestations, particularly from external mites and lice, are a very common and distressing problem for pet mice. These tiny pests can cause intense itching, leading to self-trauma and a poor quality of life. Internal parasites like pinworms are also common, though they are often less harmful. Effective treatment requires a veterinary diagnosis and prescription medication.
 

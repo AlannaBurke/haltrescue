@@ -3,10 +3,11 @@ sidebar_label: Cancer
 tags: [guinea pigs, cancer]
 description: "A guide to cancer in guinea pigs, covering the common types like skin tumors and lymphoma, and the importance of veterinary diagnosis for any new lump or bump."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Cancer in Guinea Pigs
 
-![](/img/guinea-pigs/gp-behavior-guide.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-common-health-issues.png" />
 
 Like all animals, guinea pigs can develop cancer, and it becomes more common as they get older. The term "cancer" refers to the uncontrolled growth of abnormal cells, which can form masses or tumors. These tumors can be benign (non-cancerous and do not spread) or malignant (cancerous and can spread to other parts of the body).
 

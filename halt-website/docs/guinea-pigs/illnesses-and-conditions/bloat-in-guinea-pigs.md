@@ -3,10 +3,11 @@ sidebar_label: 'Bloat in Guinea Pigs'
 sidebar_position: 1
 tags: [guinea pigs, bloat, GI health, emergency, veterinary]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Bloat in Guinea Pigs
 
-![](/img/guinea-pigs/gp-common-health-issues.png)
+<InfographicShare imageSrc="/img/guinea-pigs/bloat-in-guinea-pigs.png" />
 
 Bloat, also known as Gastric Dilatation and Volvulus (GDV), is a sudden, life-threatening condition that can affect guinea pigs. It occurs when the stomach fills with gas and, in some cases, twists on itself (volvulus), cutting off blood supply to the stomach and other organs. This is a severe medical emergency that requires immediate veterinary intervention. Understanding the signs and acting quickly can be the difference between life and death.
 

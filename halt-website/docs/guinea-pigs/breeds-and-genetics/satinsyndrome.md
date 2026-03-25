@@ -3,6 +3,7 @@ sidebar_label: 'Satin Syndrome'
 sidebar_position: 6
 tags: [guinea pigs, satin syndrome, genetics, breeding, special needs, care]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Satin Syndrome in Guinea Pigs
 
@@ -93,7 +94,7 @@ From the bottom of our hearts: caring for a guinea pig with Satin Syndrome is ve
 
 ## The Satin Gene in Other Animals
 
-![Infographic comparing the satin gene across guinea pigs, rabbits, hamsters, rats and mice](/img/guinea-pigs/gp-satin-species.png)
+<InfographicShare imageSrc="/img/guinea-pigs/gp-satin-species.png" />
 
 
 While the satin mutation is most infamous for the severe health issues it causes in guinea pigs, a similar gene that creates a glossy, hollow hair shaft also appears in other species. However, it is **critically important** to understand that the devastating metabolic bone disease known as Satin Syndrome is **unique to guinea pigs**. The presence of a satin coat in other animals does not mean they will suffer the same fate.

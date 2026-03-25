@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in Massachusetts'
 sidebar_position: 2
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in Massachusetts
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-ma.png" />
 
 
 ## **1\. Who investigates animal cruelty in Massachusetts?**

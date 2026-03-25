@@ -4,6 +4,7 @@ tags: [skin health, urinary health, parasites, ringworm, bumblefoot, health, rab
 description: "A comprehensive guide to identifying, preventing, and treating common skin problems in small exotic pets, including urine scald, mites, ringworm, and bacterial infections, with species-specific advice."
 image: /img/general-care/skin-urine-scald.png
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # A Guide to Common Skin Issues in Small Pets
 
@@ -13,7 +14,7 @@ This guide covers some of the most common dermatological (skin) problems seen ac
 
 ## Urine Scald (Perineal Dermatitis)
 
-![Urine Scald infographic showing causes, signs, prevention and care for small pets](/img/general-care/skin-urine-scald.png)
+<InfographicShare imageSrc="/img/general-care/skin-urine-scald.png" />
 
 Urine scald is a painful condition that occurs when urine soaks into an animal's fur and is held against the skin, causing chemical burns, inflammation, hair loss, and secondary infections. The skin in the perineal area (around the genitals and anus), on the belly, and down the inner thighs becomes red, raw, and extremely sore.
 
@@ -32,7 +33,7 @@ Urine scald is a painful condition that occurs when urine soaks into an animal's
 
 ## Parasitic Infections
 
-![Skin Parasites infographic showing mange mites, fur mites, ear mites and treatment for small pets](/img/general-care/skin-parasites.png)
+<InfographicShare imageSrc="/img/general-care/skin-parasites.png" />
 
 Ectoparasites (parasites that live on the outside of the body) are a frequent cause of intense itching, hair loss, and self-trauma in small pets.
 
@@ -61,7 +62,7 @@ Commonly known as ringworm, this condition is caused by a fungus, not a worm. It
 
 ### Pododermatitis (Sore Hocks)
 
-![Sore Hocks infographic showing progression, causes, prevention and treatment for rabbits and guinea pigs](/img/general-care/skin-sore-hocks.png)
+<InfographicShare imageSrc="/img/general-care/skin-sore-hocks.png" />
 This is a chronic, progressive inflammation of the skin on the bottom of the feet, most common in rabbits and guinea pigs. 
 
 - **Causes:** Constant pressure on the feet from improper flooring (e.g., wire-bottom cages), obesity, poor sanitation, or inactivity [10].

@@ -21,8 +21,6 @@ RHDV2 is a calicivirus that causes a deadly disease in both wild and domestic ra
 
 One of the most frightening aspects of RHDV2 is its sudden onset. Many infected rabbits die suddenly without showing any prior signs of illness [2].
 
-<InfographicShare imageSrc="/img/rabbits/rvhd2-vaccination.png" />
-
 ## Symptoms and Transmission
 
 The incubation period for RHDV2 is typically three to nine days [2]. When symptoms do appear, they can be vague and progress rapidly. They include:

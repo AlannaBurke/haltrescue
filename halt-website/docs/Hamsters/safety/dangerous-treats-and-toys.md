@@ -4,10 +4,11 @@ sidebar_position: 1
 tags: [hamster care, hamster safety, dangerous treats, dangerous toys, hamster diet]
 description: "A guide to dangerous treats and toys for hamsters, highlighting the risks of certain foods, the extreme danger of fluffy bedding, and the hazards of unsafe chew toys."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dangerous Treats and Toys for Hamsters
 
-![](/img/hamsters/hamster-dangerous-treats.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-dangerous-treats.png" />
 
 
 Hamsters are curious creatures that love to forage, hoard, and chew. While they are generally more robust in their dietary needs than some other small pets, there is still a great deal of misinformation and many unsafe products marketed towards them. Knowing what treats and toys are dangerous is essential to keeping your hamster safe and healthy.

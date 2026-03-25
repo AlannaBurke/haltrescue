@@ -4,10 +4,11 @@ sidebar_position: 1
 tags: [mouse care, mice care, mouse safety, dangerous treats, dangerous toys, mouse diet]
 description: "A guide to dangerous treats and toys for mice, highlighting toxic foods, the extreme danger of fluffy bedding, and the importance of a safe cage environment."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dangerous Treats and Toys for Mice
 
-![](/img/mice/mouse-dangerous-treats.png)
+<InfographicShare imageSrc="/img/mice/mouse-dangerous-treats.png" />
 
 
 Mice are curious omnivores that enjoy a varied diet and love to chew and shred. While they are often seen as easy pets, there are several common products and foods that are dangerous and should be avoided. Ensuring their environment is safe and their diet is appropriate is key to their well-being.

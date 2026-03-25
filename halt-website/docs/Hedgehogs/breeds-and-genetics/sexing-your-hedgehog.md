@@ -29,8 +29,6 @@ The easiest and most reliable way to determine the sex of a hedgehog is to look 
 | **"Belly Button"** | **Present** (this is the penile sheath) | **Absent** |
 | **Genital Location** | Mid-abdomen | Directly next to the anus |
 
-<InfographicShare imageSrc="/img/hedgehogs/hedgehog-sexing-guide.png" />
-
 ## How to Check
 
 To get a look at your hedgehog's underside, you can either gently encourage them to uncurl while holding them on their back, or you can place them on a clear surface, like a glass coffee table, and look from underneath. [3]

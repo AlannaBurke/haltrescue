@@ -5,10 +5,11 @@ sidebar_label: Habitat
 sidebar_position: 4
 tags: [rabbits, housing, enrichment]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Habitat for Pet Rabbits
 
-![](/img/rabbits/rabbit-flystrike.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-habitat.png" />
 
 
 Creating the right living environment is fundamental to a rabbit's health and happiness. Rabbits are active and curious animals that need plenty of space to run, jump, and explore. The traditional small cage or hutch is not a suitable full-time home. Instead, think of their enclosure as a "home base" within a larger, rabbit-proofed area. [1]

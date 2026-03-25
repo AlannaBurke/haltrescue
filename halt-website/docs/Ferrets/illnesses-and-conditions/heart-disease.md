@@ -3,10 +3,11 @@ sidebar_label: Heart Disease
 tags: [ferrets, heart disease]
 description: "A guide to heart disease in ferrets, a common condition in middle-aged and older animals, covering the signs of congestive heart failure, diagnosis, and medical management."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Heart Disease in Ferrets
 
-![](/img/ferrets/ferret-heart-disease.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-heart-disease.png" />
 
 
 Heart disease is a common and serious condition in ferrets, typically affecting middle-aged to older animals (3 years and up). The most common form of heart disease in ferrets is **Dilated Cardiomyopathy (DCM)**, a condition where the heart muscle becomes weak and enlarged, making it unable to pump blood effectively. This can eventually lead to **Congestive Heart Failure (CHF)**.

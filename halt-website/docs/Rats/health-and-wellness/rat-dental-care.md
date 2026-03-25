@@ -3,11 +3,12 @@ sidebar_label: Dental Care
 sidebar_position: 1
 tags: [rats, dental disease, health, veterinary]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 
 # Rat Dental Care Guide
 
-![](/img/rats/rat-nutrition-guide.png)
+<InfographicShare imageSrc="/img/rats/rat-dental-health.png" />
 
 Dental health is one of the most important — and most overlooked — aspects of rat care. Because rat incisors grow continuously throughout life, they must wear down properly to prevent serious complications. A rat with dental problems will struggle to eat, lose weight rapidly, and can deteriorate quickly. Understanding how rat teeth work and how to support healthy dental wear is essential for every rat owner.
 

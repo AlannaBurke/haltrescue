@@ -3,10 +3,11 @@ sidebar_position: 1
 title: 'Gerbil Basic Care'
 tags: [gerbils, getting started, care commitment]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gerbil Basic Care
 
-![](/img/gerbils/gerbil-basic-care.png)
+<InfographicShare imageSrc="/img/gerbils/gerbil-basic-care.png" />
 
 Gerbils are relatively low-maintenance pets, but they have specific needs that must be met to ensure they live a long, healthy, and happy life. This guide covers the fundamentals of daily, weekly, and monthly care for your gerbils.
 

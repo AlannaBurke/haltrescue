@@ -3,10 +3,11 @@ sidebar_label: Seasonal Alopecia
 tags: [hamsters, hair loss, coat]
 description: "A guide to seasonal alopecia in hamsters, a harmless, hormone-driven hair loss typically seen in male Syrian hamsters during the winter months."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Seasonal Alopecia in Hamsters
 
-![](/img/hamsters/hamster-seasonal-alopecia.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-seasonal-alopecia.png" />
 
 Seasonal alopecia is a specific and interesting type of hair loss that can occur in hamsters, most notably in male Syrian hamsters. It is a benign, hormone-driven condition that is linked to the changing seasons and length of daylight. While the sight of hair loss can be alarming, this particular type is harmless and resolves on its own.
 

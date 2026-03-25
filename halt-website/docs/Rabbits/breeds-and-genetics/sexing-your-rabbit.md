@@ -35,8 +35,6 @@ Apply gentle pressure on either side of the genital opening. This will help to e
 | **Protrusion** | Penis protrudes with pressure | No protrusion |
 | **Testicles** | Usually visible in adults | Absent |
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-sexing-guide.png" />
-
 ## Tips for Accurate Sexing
 
 *   **Age Matters**: It is much easier to sex a rabbit once they are a few weeks old, as the features become more distinct. Sexing newborn kits is very difficult and best left to experts.

@@ -4,10 +4,10 @@ sidebar_position: 5
 tags: [hamsters, getting started, cost]
 description: "Hamsters are often purchased as a first pet for young children, but the reality of hamster ownership frequently surprises families who aren't prepared. They are fascinating, complex animals — but..."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Is a Hamster Right for Me and My Family?
 
-![Is A Hamster Right For Me](/img/hamsters/is-a-hamster-right-for-me.png)
 
 
 <InfographicShare

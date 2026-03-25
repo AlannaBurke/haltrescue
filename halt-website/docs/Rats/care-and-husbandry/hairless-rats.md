@@ -3,10 +3,11 @@ sidebar_label: Hairless Rats
 tags: [rats, genetics]
 description: "A guide to caring for hairless rats, explaining their genetic background, unique care needs regarding temperature, diet, and skin health, and common health issues."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # What to Know About Hairless Rats
 
-![](/img/rats/mycoplasma-warning.png)
+<InfographicShare imageSrc="/img/rats/rat-hairless-care.png" />
 
 
 Hairless rats, often called "double-rex" rats, are a unique and increasingly popular variety of pet rat. Their striking appearance, with wrinkled pink skin and large ears, is endearing to many. However, their lack of fur means they have several special care requirements that potential owners must be prepared to meet. They are not simply a standard rat without hair; their needs are different.

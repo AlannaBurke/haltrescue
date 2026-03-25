@@ -3,10 +3,11 @@ sidebar_position: 1
 title: 'Ferret Basic Care'
 tags: [ferrets, getting started, care commitment]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Ferret Basic Care
 
-![](/img/ferrets/ferret-basic-care.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-basic-care.png" />
 
 Ferrets are playful, curious, and energetic members of the weasel family. They can make wonderful, engaging pets, but they have very specific care requirements that differ significantly from rodents. Understanding their needs is key to providing a healthy and enriching life.
 

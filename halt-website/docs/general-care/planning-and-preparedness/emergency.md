@@ -59,5 +59,3 @@ By preparing in advance and ensuring that your pets are part of your emergency p
 ---
 
 ## Quick Reference: Emergency Preparedness Infographic
-
-<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />

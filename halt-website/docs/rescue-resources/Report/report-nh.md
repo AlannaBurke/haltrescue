@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in New Hampshire'
 sidebar_position: 3
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in New Hampshire
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-nh.png" />
 
 
 ### **1\. Who to contact & oversight**

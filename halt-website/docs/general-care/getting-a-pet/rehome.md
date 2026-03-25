@@ -26,5 +26,3 @@ Did you adopt your pet from a shelter or rescue?
 Do Not release your pet outside
  - It’s illegal
  - _They will not survive_
-
-<InfographicShare imageSrc="/img/general-care/rehome.png" />

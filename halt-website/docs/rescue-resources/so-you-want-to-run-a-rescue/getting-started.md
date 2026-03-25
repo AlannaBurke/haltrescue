@@ -4,10 +4,11 @@ sidebar_label: Getting Started
 tags: [rescue, nonprofit, 501(c)(3)]
 description: "The essential first steps to starting an animal rescue, including defining your mission, building a board, and navigating the legal process of becoming a 501(c)(3) nonprofit."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Getting Started: The Foundation of Your Rescue
 
-![](/img/rescue-resources/getting-started-rescue.png)
+<InfographicShare imageSrc="/img/rescue-resources/getting-started-rescue.png" />
 
 
 The passion to save animals is the spark that ignites every rescue, but to build a sustainable organization, that passion must be channeled into a solid, well-planned structure. Before you can save your first animal, you must lay the legal and strategic groundwork for your nonprofit.

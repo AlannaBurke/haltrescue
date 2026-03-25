@@ -31,8 +31,6 @@ To examine your chinchilla, hold them securely or have them stand on a flat surf
 | **Openings** | Two separate openings | Appear as one continuous feature |
 | **Vaginal Slit** | Absent | Present in the urethral cone |
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-sexing-guide.png" />
-
 ### Simple Rule: "If there's a gap, it's a chap!"
 
 This simple rhyme is the easiest way to remember the key difference. The presence of a space between the two openings is the definitive sign of a male.

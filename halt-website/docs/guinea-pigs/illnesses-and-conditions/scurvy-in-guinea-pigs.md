@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Scurvy is one of the most common and entirely preventable health conditions in guinea pigs. Unlike most mammals, guinea pigs — like humans — **cannot synthesize their own Vitamin C** (ascorbic acid). They must obtain it entirely through their diet. Without adequate Vitamin C, guinea pigs develop scurvy, a serious condition affecting connective tissue, immune function, and overall health.
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-scurvy.png" />
-
 ## Why Guinea Pigs Need Vitamin C
 
 Guinea pigs lack the enzyme **L-gulonolactone oxidase**, which is required to convert glucose into Vitamin C. This means they are entirely dependent on dietary sources for this essential nutrient. Vitamin C plays a critical role in:

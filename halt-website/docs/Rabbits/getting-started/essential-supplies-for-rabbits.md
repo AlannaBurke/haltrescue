@@ -10,7 +10,7 @@ description: "Bringing a rabbit into your home is a long-term commitment, and pr
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rabbits/is-a-rabbit-right-for-me.png" />
+<InfographicShare src="/img/rabbits/rabbit-basic-care.png" />
 
 
 Bringing a rabbit into your home is a long-term commitment, and providing the right supplies is the first step to ensuring a happy, healthy life for your new friend. Rabbits have specific needs that differ greatly from other common household pets. This guide will walk you through the essential supplies you'll need to create a safe and enriching environment for your rabbit.
@@ -50,7 +50,7 @@ While hay is the staple, pellets and fresh greens provide essential vitamins and
 *   **Pellets:** Choose a high-quality, high-fiber timothy-based pellet. Adult rabbits only need a small amount—about **1/8 to 1/4 cup per 5 lbs of body weight daily** [2]. Overfeeding pellets can lead to obesity and soft stools.
 *   **Fresh Greens:** Offer a variety of leafy green vegetables daily. Introduce new greens slowly to avoid upsetting your rabbit's delicate digestive system [2].
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-safe-foods.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-basic-care.png" />
 
 :::tip
 **Safe greens for rabbits include:** romaine lettuce, kale, cilantro, parsley, basil, and bok choy. **Avoid:** iceberg lettuce, spinach (in large amounts), and any plant from the onion family. Introduce new greens one at a time and watch for soft stools.

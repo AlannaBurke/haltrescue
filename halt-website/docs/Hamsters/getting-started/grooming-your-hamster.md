@@ -5,10 +5,11 @@ sidebar_label: Grooming Your Hamster
 sidebar_position: 3
 tags: [hamsters, grooming]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Grooming Your Pet Hamster
 
-![](/img/hamsters/hamster-grooming.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-grooming.png" />
 
 Hamsters are remarkably clean animals that take pride in their personal hygiene. They are fastidious self-groomers and, in most cases, require very little grooming assistance from their owners. [1] Understanding their natural grooming behaviors is key to providing them with the right support.
 

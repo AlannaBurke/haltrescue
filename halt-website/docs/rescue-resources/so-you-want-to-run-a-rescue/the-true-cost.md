@@ -4,10 +4,11 @@ sidebar_label: "Part 1: The True Cost of Saving Lives"
 tags: [rescue, nonprofit, fundraising, cost]
 description: "Part 1 of a series on running an animal rescue, focusing on the significant and often underestimated financial costs involved, from veterinary bills to daily supplies."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # So You Want to Run a Rescue? Part 1: The True Cost of Saving Lives
 
-![](/img/rescue-resources/true-cost.png)
+<InfographicShare imageSrc="/img/rescue-resources/true-cost.png" />
 
 
 Starting an animal rescue is a noble and rewarding endeavor, born from a deep compassion for animals in need. However, passion alone doesn't pay the bills. The single most underestimated aspect of running a rescue is the immense and unrelenting financial cost. Before you file for nonprofit status or take in your first animal, it is critical to have a stark and realistic understanding of the true cost of saving lives.

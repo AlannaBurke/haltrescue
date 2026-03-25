@@ -6,7 +6,6 @@ tags: [guinea pigs, genetics, coat, breeds, lethal white]
 
 # Understanding Guinea Pig Coat Color Genetics
 
-![](/img/guinea-pigs/gp-coat-color-genetics.png)
 
 Guinea pigs are known for their stunning diversity of coat colors and patterns, from solid black to intricate brindles and dalmatians. This variety isn't random; it's the result of a fascinating and complex world of genetics. Understanding the basics of coat color inheritance is not only interesting for curious owners but is also critical for responsible breeding and rescue advocacy to prevent serious genetic health problems.
 

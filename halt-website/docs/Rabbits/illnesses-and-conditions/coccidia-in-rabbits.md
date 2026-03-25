@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Coccidia are microscopic protozoan parasites that can infect rabbits, causing a condition known as **coccidiosis**. While often overlooked, coccidiosis can have serious consequences — particularly for young, stressed, or immunocompromised rabbits. Understanding the signs and how to prevent and treat the infection is essential for every rabbit owner.
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-coccidia.png" />
-
 ## What Are Coccidia?
 
 Coccidia are single-celled parasites belonging to the genus *Eimeria*. Rabbits are susceptible to several species of *Eimeria*, with *Eimeria stiedai* (which infects the liver) and intestinal species (such as *E. magna*, *E. perforans*, and *E. irresidua*) being the most clinically significant.[1]

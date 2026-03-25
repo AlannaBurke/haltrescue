@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Diabetes is one of the more common health conditions seen in certain hamster breeds, particularly **dwarf hamsters**. Like diabetes in humans, it is a chronic metabolic disorder affecting how the body processes sugar. With early detection and proper management, diabetic hamsters can live comfortable, good-quality lives.
 
-<InfographicShare imageSrc="/img/hamsters/hamster-diabetes.png" />
-
 ## What Is Diabetes in Hamsters?
 
 Diabetes mellitus is a metabolic disorder in which the pancreas cannot produce enough insulin, or the body cannot use insulin effectively. **Insulin** is a hormone that allows cells to absorb glucose (sugar) from the bloodstream for energy. When insulin function is impaired, glucose accumulates in the blood, leading to hyperglycemia (high blood sugar) and a cascade of health problems.

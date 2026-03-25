@@ -3,10 +3,11 @@ sidebar_position: 1
 title: 'Mouse Basic Care'
 tags: [mice, getting started, care commitment, housing]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Mouse Basic Care
 
-![](/img/mice/mouse-basic-care.png)
+<InfographicShare imageSrc="/img/mice/mouse-basic-care.png" />
 
 Mice are intelligent, social, and active little animals that can make engaging pets. Proper care is essential to ensure they live a full and stimulating life. This guide outlines the key aspects of caring for pet mice.
 

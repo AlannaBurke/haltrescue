@@ -6,6 +6,7 @@ sidebar_position: 1
 tags: [hamsters, breeds]
 image: /img/hamsters/hamster-breeding-ethics.png
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 
 
@@ -89,7 +90,7 @@ Technically not a true dwarf hamster, the Chinese hamster is slender and mouse-l
 
 ## A Note on Hamster Breeding: Ethics and Welfare
 
-![Infographic showing ethical breeder checklist, red flags, and genes to avoid in hamster breeding](/img/hamsters/hamster-breeding-ethics.png)
+<InfographicShare imageSrc="/img/hamsters/hamster-breeding-ethics.png" />
 
 Understanding hamster breeds goes beyond just their appearance; it also involves recognizing the importance of ethical breeding practices that prioritize the health and well-being of the animals. When seeking a hamster, it is crucial to support breeders who adhere to high ethical standards and to be aware of dangerous genetic combinations and experimental breeds that can cause significant suffering.
 

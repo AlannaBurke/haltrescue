@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in New York'
 sidebar_position: 5
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in New York
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-ny.png" />
 
 
 ## 1. Oversight & Agencies to Contact

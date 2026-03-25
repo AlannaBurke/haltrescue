@@ -3,10 +3,11 @@ sidebar_label: Eye & Vision Issues
 tags: [degus, eye health, diabetes, dental disease]
 description: "A guide to common eye and vision issues in degus, with a focus on the strong link between cataracts and diabetes, as well as other problems like eye injuries and weeping eyes from dental disease."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Eye & Vision Issues in Degus
 
-![](/img/degus/degu-eye-health.png)
+<InfographicShare imageSrc="/img/degus/degu-eye-health.png" />
 
 Eye problems are relatively common in degus and can range from simple injuries to serious indicators of systemic disease. For degus, the most significant eye concern is the development of cataracts, which is almost always a sign of diabetes. A vigilant owner who checks their degu's eyes regularly can catch health problems early.
 

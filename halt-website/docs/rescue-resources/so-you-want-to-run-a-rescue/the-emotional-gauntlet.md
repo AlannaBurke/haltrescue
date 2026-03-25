@@ -4,10 +4,11 @@ sidebar_label: "Part 2: The Emotional Gauntlet"
 tags: [rescue, volunteers]
 description: "Part 2 of a series on running an animal rescue, exploring the intense emotional challenges, including compassion fatigue, burnout, and the difficulty of making life-and-death decisions."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # So You Want to Run a Rescue? Part 2: The Emotional Gauntlet
 
-![](/img/rescue-resources/emotional-toll.png)
+<InfographicShare imageSrc="/img/rescue-resources/emotional-toll.png" />
 
 
 In Part 1, we discussed the staggering financial cost of running a rescue. But the money, as difficult as it is, is often not the hardest part. The emotional toll—the daily gauntlet of difficult decisions, heartbreak, and exhaustion—is the true crucible of rescue work. This is the part that breaks people, and it's the part you must be prepared for if you hope to survive and continue helping animals.

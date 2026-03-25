@@ -17,8 +17,6 @@ Fly strike, also known as myiasis, is a devastating and rapidly progressing cond
 
 **If you see maggots on your rabbit, contact a veterinarian immediately.**
 
-<InfographicShare imageSrc="/img/rabbits/rabbit-flystrike.png" />
-
 ## Who is at Risk?
 
 While any rabbit can get fly strike, some are at a higher risk. Flies are attracted to damp, soiled fur and open wounds. Risk factors include:

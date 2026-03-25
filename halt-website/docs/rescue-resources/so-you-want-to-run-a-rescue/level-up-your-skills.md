@@ -4,10 +4,11 @@ sidebar_label: Level Up Your Skills
 tags: [rescue, health, fundraising, nonprofit, volunteers]
 description: "A guide for established animal rescues on how to level up their skills in advanced medical care, fundraising, and nonprofit management for long-term sustainability."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Level Up Your Skills: From Passion to Profession
 
-![](/img/rescue-resources/leveling-up-skills.png)
+<InfographicShare imageSrc="/img/rescue-resources/leveling-up-skills.png" />
 
 
 Getting a rescue off the ground is a monumental achievement. Keeping it running and growing for the long term requires a new level of skill and strategy. To ensure sustainability and increase your life-saving capacity, you must transition from a passion-fueled startup to a professional, well-run organization. This means leveling up your skills in advanced animal care, fundraising, and nonprofit management.

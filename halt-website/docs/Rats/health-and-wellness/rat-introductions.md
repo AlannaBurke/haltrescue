@@ -15,8 +15,6 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 Introducing a new rat to your existing group (or "mischief") is an exciting step, but it must be handled with care and patience. Rats are territorial and have complex social hierarchies. A proper introduction process is crucial to prevent stress, injury, and to foster a peaceful, bonded colony.
 
-<InfographicShare imageSrc="/img/rats/rat-intro-guide.png" />
-
 ## Step 1: Quarantine (4 Weeks)
 
 **This is the most critical step and should never be skipped.**

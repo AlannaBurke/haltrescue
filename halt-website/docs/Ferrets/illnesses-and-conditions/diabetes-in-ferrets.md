@@ -3,11 +3,12 @@ sidebar_label: Diabetes
 sidebar_position: 1
 tags: [ferrets, diabetes, cancer, metabolic disease, health]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 
 # Understanding Diabetes in Ferrets
 
-![](/img/ferrets/ferret-diabetes.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-diabetes.png" />
 
 
 When discussing pancreatic diseases in ferrets, it is crucial to distinguish between two very different conditions: **Insulinoma** and **Diabetes Mellitus**.

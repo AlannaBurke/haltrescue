@@ -5,10 +5,11 @@ sidebar_label: Home Health Care
 sidebar_position: 1
 tags: [hedgehogs, health, wellness, home health check]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Home Health Care for Pet Hedgehogs
 
-![](/img/hedgehogs/hedgehog-home-health-care.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-home-health-care.png" />
 
 Hedgehogs are masters of hiding illness, a survival instinct from the wild. This makes regular at-home health checks an essential part of responsible care. By knowing what is normal for your hedgehog, you can spot subtle signs of a problem before it becomes serious. Aim to do a quick check daily and a more thorough one weekly. [1]
 

@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in New Jersey'
 sidebar_position: 4
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in New Jersey
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-nj.png" />
 
 
 ## New Jersey Public Guide

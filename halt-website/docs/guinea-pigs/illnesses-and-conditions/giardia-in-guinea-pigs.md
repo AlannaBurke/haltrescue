@@ -34,8 +34,6 @@ Giardia cysts are extremely resistant to standard disinfectants. Quaternary ammo
 - **Shared equipment** — food bowls, water bottles, and accessories shared between animals without proper disinfection
 - **Introducing new animals** without quarantine
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-giardia.png" />
-
 ## Symptoms
 
 Many guinea pigs with giardia are **asymptomatic carriers** — they carry the parasite without showing signs of illness. When symptoms do occur, they include:

@@ -3,10 +3,11 @@ sidebar_label: Mastitis in Small Pets
 tags: [reproductive health, pregnancy, getting started, rabbits, guinea pigs, health]
 description: "An overview of mastitis, a painful infection of the mammary glands, in small pets. Learn to recognize the signs, understand the causes, and know when to seek immediate veterinary care."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Mastitis in Small Pets
 
-![](/img/general-care/mastitis.png)
+<InfographicShare imageSrc="/img/general-care/mastitis.png" />
 
 
 Mastitis is a painful inflammation of the mammary gland (or udder) that is most commonly seen in lactating or post-partum female animals. It is typically caused by a bacterial infection and can become a life-threatening emergency if not treated promptly [1]. While it can occur in any mammal, it is a significant concern for small pets like rabbits, guinea pigs, and rats.

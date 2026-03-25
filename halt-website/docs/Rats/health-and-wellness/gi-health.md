@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [rats, GI health, diarrhea, mycoplasma]
 description: "A guide to gastrointestinal (GI) health in rats, covering their omnivorous digestive system and the common causes of diarrhea, including diet, stress, and secondary effects from other illnesses."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Rats
 
-![](/img/rats/rat-treat-guide.png)
+<InfographicShare imageSrc="/img/rats/rat-gi-health.png" />
 
 Rats are opportunistic omnivores with a digestive system that is considerably more robust than that of many other small pets. They can handle a varied diet of grains, seeds, proteins, and vegetables. However, their gastrointestinal (GI) tract is not invincible. Diarrhea and other GI issues can occur, and they are often a sign of an underlying problem related to diet, stress, or other illnesses.
 

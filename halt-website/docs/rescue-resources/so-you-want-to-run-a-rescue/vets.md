@@ -3,10 +3,11 @@ sidebar_label: 'You and Your Vet'
 sidebar_position: 11
 tags: [nonprofit, veterinary, rescue]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Rescue and Veterinary Care: What You Owe the Animals
 
-![](/img/rescue-resources/finding-vets.png)
+<InfographicShare imageSrc="/img/rescue-resources/finding-vets.png" />
 
 
 When you run a rescue, you take on a lot — shelter, food, enrichment, cleaning, and of course… medical care. And let’s be real: a lot of that falls to us. We clean wounds, administer medications, track symptoms, manage chronic conditions, and make hard decisions.

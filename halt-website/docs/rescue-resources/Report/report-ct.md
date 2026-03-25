@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in Connecticut'
 sidebar_position: 1
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in Connecticut
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-ct.png" />
 
 
 ## **1\. Who actually investigates in Connecticut?**

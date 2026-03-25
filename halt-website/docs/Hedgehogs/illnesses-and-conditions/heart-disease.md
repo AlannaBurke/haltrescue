@@ -3,10 +3,11 @@ sidebar_label: Heart Disease
 tags: [hedgehogs, heart disease]
 description: "A guide to heart disease in hedgehogs, particularly Dilated Cardiomyopathy (DCM), a common condition in the species, covering its signs, diagnosis, and management."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Heart Disease in Hedgehogs
 
-![](/img/hedgehogs/hedgehog-heart-disease.png)
+<InfographicShare imageSrc="/img/hedgehogs/hedgehog-heart-disease.png" />
 
 
 Heart disease is a significant and unfortunately common health problem in African Pygmy Hedgehogs, particularly as they reach middle age (around 2 years and older). The most prevalent type of heart disease seen in hedgehogs is **Dilated Cardiomyopathy (DCM)**. This is a condition where the heart muscle becomes weak, thin, and enlarged, losing its ability to pump blood effectively.

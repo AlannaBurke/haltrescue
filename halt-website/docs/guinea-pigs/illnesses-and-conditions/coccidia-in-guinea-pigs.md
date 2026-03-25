@@ -30,8 +30,6 @@ Transmission is **fecal-oral**: guinea pigs become infected by ingesting oocysts
 - **Introducing new animals** without quarantine
 - **Contaminated hay or vegetables** that have been in contact with infected feces
 
-<InfographicShare imageSrc="/img/guinea-pigs/gp-coccidia.png" />
-
 ## Symptoms
 
 Many guinea pigs with coccidia show no symptoms at all. When illness does occur, signs include:

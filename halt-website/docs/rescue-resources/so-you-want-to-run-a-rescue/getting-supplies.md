@@ -4,10 +4,11 @@ sidebar_label: Getting Supplies
 tags: [rescue, supplies, donations, fundraising]
 description: "A practical guide for new animal rescues on how to acquire the essential supplies needed to care for animals, from food and housing to medical equipment."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Getting Supplies: Equipping Your Rescue for Success
 
-![](/img/rescue-resources/getting-supplies.png)
+<InfographicShare imageSrc="/img/rescue-resources/getting-supplies.png" />
 
 
 Once your rescue is legally established, the immediate, ongoing challenge is acquiring the vast amount of supplies needed to care for your animals. A well-stocked rescue is a prepared rescue, able to provide excellent care and respond to emergencies. Building a sustainable supply chain requires a multi-faceted approach that combines direct purchasing, community donations, and corporate partnerships.

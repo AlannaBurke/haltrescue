@@ -3,10 +3,11 @@ sidebar_label: 'Transparency'
 sidebar_position: 10
 tags: [nonprofit, rescue]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Transparency Is Not Optional — It’s Foundational
 
-![](/img/rescue-resources/transparency.png)
+<InfographicShare imageSrc="/img/rescue-resources/transparency.png" />
 
 
 In rescue, transparency isn’t a nice-to-have — it’s essential.

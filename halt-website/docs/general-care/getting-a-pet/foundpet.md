@@ -3,10 +3,11 @@ sidebar_position: 3
 sidebar_label: 'Help, I Found a Pet!'
 tags: [rescue, getting started]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Help, I Found a Pet!
 
-![](/img/general-care/found-pet.png)
+<InfographicShare imageSrc="/img/general-care/found-pet.png" />
 
 
 * Is it a pet?
@@ -20,4 +21,4 @@ What to Do if You Find an Abandoned Domestic Animal
  - Be prepared to properly feed & care for the animal.
  - Be prepared to properly screen potential homes (ask for vet references & personal references).
 
-![I Found A Pet](/img/general-care/foundpet.png)
+<InfographicShare imageSrc="/img/general-care/foundpet.png" />

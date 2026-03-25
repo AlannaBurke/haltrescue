@@ -22,8 +22,6 @@ Chinchillas have **open-rooted (elodont) teeth**, meaning all 20 teeth — incis
 
 Unlike rabbits and guinea pigs, the cheek teeth (premolars and molars) of chinchillas sit deep in the jaw and cannot be easily examined without sedation and specialized equipment. This means dental disease is often well advanced before it is detected.[^2]
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-dental-disease.png" />
-
 ## Causes of Dental Disease
 
 Several factors can contribute to dental disease in chinchillas:

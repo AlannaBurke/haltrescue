@@ -3,10 +3,11 @@ sidebar_label: Pelvic Dystocia
 tags: [guinea pigs, breeding, pregnancy]
 description: "An essential guide to pelvic dystocia in guinea pigs, a life-threatening birth complication, explaining why breeding females over 7-8 months of age is so dangerous."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Pelvic Dystocia in Guinea Pigs
 
-![](/img/guinea-pigs/gp-habitat-diagram.png)
+<InfographicShare imageSrc="/img/guinea-pigs/pelvic-dystocia.png" />
 
 Pelvic dystocia, or difficulty giving birth, is a common and life-threatening emergency in guinea pigs. It is a direct consequence of their unique pelvic anatomy and is the primary reason why responsible breeding of guinea pigs is so complex. Understanding this condition is critical for anyone who owns a female guinea pig, as accidental pregnancies are common.
 

@@ -3,10 +3,11 @@ sidebar_label: GI Health
 tags: [rabbits, GI stasis, bloat, GI health]
 description: "An in-depth guide to the sensitive gastrointestinal (GI) system of rabbits, covering the causes and signs of the life-threatening emergencies GI stasis and bloat, and the critical role of hay."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Gastrointestinal (GI) Health in Rabbits
 
-![](/img/rabbits/rabbit-gi-stasis.png)
+<InfographicShare imageSrc="/img/rabbits/rabbit-gi-health.png" />
 
 
 The gastrointestinal (GI) tract is the center of a rabbit's universe. Their health and well-being are inextricably linked to the proper functioning of their incredibly complex and sensitive digestive system. GI problems, particularly GI stasis, are the most common reason pet rabbits require emergency veterinary care. A deep understanding of their digestive needs is not optional for a rabbit owner—it is essential.

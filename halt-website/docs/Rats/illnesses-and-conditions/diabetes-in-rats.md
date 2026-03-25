@@ -3,11 +3,12 @@ sidebar_label: Diabetes
 sidebar_position: 1
 tags: [rats, diabetes, metabolic disease, health, veterinary]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 
 # Diabetes in Rats
 
-![](/img/rats/rat-common-health-issues.png)
+<InfographicShare imageSrc="/img/rats/rat-diabetes.png" />
 
 Diabetes Mellitus is a condition in which the body either fails to produce enough insulin or cannot use it effectively, resulting in persistently high blood sugar (hyperglycemia). While not common in pet rats, it does occur — particularly in older or overweight individuals — and requires prompt veterinary attention and a committed management plan. Understanding the signs, how diagnosis works, and what treatment looks like can make a significant difference for an affected rat [1][2].
 

@@ -3,10 +3,11 @@ sidebar_label: 'Report Pet Store Neglect in Pennsylvania'
 sidebar_position: 6
 tags: [rescue, nonprofit]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Report Pet Store Neglect in Pennsylvania
 
-![](/img/rescue-resources/report-abuse.png)
+<InfographicShare imageSrc="/img/rescue-resources/report-pa.png" />
 
 
 ## **1\. Oversight & jurisdiction for small animals in Pennsylvania**

@@ -31,8 +31,6 @@ In adult mice, the differences between males and females are quite distinct.
 | **Testicles** | Present and usually visible | Absent |
 | **Nipples** | Absent | Present (5 pairs) |
 
-<InfographicShare imageSrc="/img/mice/mouse-sexing-guide.png" />
-
 ## How to Sex Baby Mice (Pups)
 
 Sexing mice is easiest from about one to three weeks of age, but it can be done from the day they are born. [4] With pups, the testicles will not be visible, so the anogenital distance is the most reliable indicator.

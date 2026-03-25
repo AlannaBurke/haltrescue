@@ -3,6 +3,7 @@ sidebar_label: Animal Hoarding
 tags: [rescue, animal welfare, special needs]
 image: /img/general-care/hoarding/warning-signs.png
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # The Shadow of Compassion: Understanding and Addressing Animal Hoarding
 
@@ -35,7 +36,7 @@ The impact of hoarding is devastating for both the animals and the people involv
 
 ## Recognizing the Signs
 
-![Warning signs of animal hoarding — an infographic showing 8 key red flags including too many animals, strong odors, sick animals, refusal of home visits, and more](/img/general-care/hoarding/warning-signs.png)
+<InfographicShare imageSrc="/img/general-care/hoarding/warning-signs.png" />
 
 
 Whether you are concerned about a neighbor, a friend, or even a foster in your rescue network, certain signs are common.

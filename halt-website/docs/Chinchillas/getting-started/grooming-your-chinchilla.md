@@ -5,10 +5,11 @@ sidebar_label: Grooming
 sidebar_position: 2
 tags: [chinchillas, grooming, coat]
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Grooming Your Pet Chinchilla
 
-![](/img/chinchillas/chinchilla-grooming.png)
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-grooming.png" />
 
 A chinchilla's fur is their most defining feature. With up to 60 hairs growing from a single follicle, their coat is incredibly dense and soft. This unique fur requires a special grooming routine that is unlike that of any other pet. [1]
 

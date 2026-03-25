@@ -32,8 +32,6 @@ To check your hamster, hold them gently but securely on their back in the palm o
 | **Nipples** | Absent | Present and visible |
 | **Scent Glands (Dwarfs)** | Prominent, on the belly | Less prominent |
 
-<InfographicShare imageSrc="/img/hamsters/hamster-sexing-guide.png" />
-
 ## Differences in Hamster Species
 
 *   **Syrian Hamsters**: The difference in anogenital distance is very clear in adults. The male's rear end will look distinctly pointed or elongated compared to the female's rounder shape.

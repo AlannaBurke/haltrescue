@@ -3,10 +3,11 @@ sidebar_label: Respiratory Issues
 tags: [ferrets, respiratory infection]
 description: "A guide to respiratory issues in ferrets, covering their unique susceptibility to the human influenza virus, as well as other causes of respiratory distress like pneumonia and heart disease."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Respiratory Issues in Ferrets
 
-![](/img/ferrets/ferret-respiratory-health.png)
+<InfographicShare imageSrc="/img/ferrets/ferret-respiratory-health.png" />
 
 Ferrets are susceptible to a range of respiratory illnesses, but they are unique among small pets in their ability to contract and share the human influenza virus. What might be a simple case of the flu for you can be a serious illness for your ferret. Understanding the signs of respiratory distress and the specific risks from human viruses is crucial for any ferret owner.
 

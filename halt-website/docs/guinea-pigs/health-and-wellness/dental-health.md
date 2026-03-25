@@ -3,10 +3,11 @@ sidebar_label: Dental Health
 tags: [guinea pigs, dental disease]
 description: "A detailed guide to dental disease in guinea pigs, explaining the causes of malocclusion, how to recognize the signs, and the critical role of a high-hay diet in prevention."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Dental Health in Guinea Pigs
 
-![](/img/guinea-pigs/dental-causes.png)
+<InfographicShare imageSrc="/img/guinea-pigs/dental-health.png" />
 
 Dental disease is one of the most prevalent and serious health issues affecting pet guinea pigs. Their teeth are all "open-rooted" and grow continuously throughout their lives, requiring a constant source of abrasive, high-fiber food to maintain their proper length and shape. A lack of appropriate dietary wear leads to a cascade of painful and debilitating problems.
 
