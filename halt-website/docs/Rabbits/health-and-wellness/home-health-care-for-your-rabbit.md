@@ -2,7 +2,7 @@
 title: Home Health Care for Your Rabbit
 sidebar_label: Home Health Care for Your Rabbit
 sidebar_position: 2
-tags: [rabbits, home health check, health, grooming, nutrition, dental disease, gi health, skin health, veterinary]
+tags: [rabbits, home health check, health, grooming, nutrition, dental disease, GI health, skin health, veterinary]
 ---
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -70,7 +70,6 @@ Nail trims are typically needed every 4–8 weeks [3]. For light-colored nails, 
 Recognizing the subtle signs of illness in rabbits is crucial. Any significant change in eating habits, lethargy, unusual behavior, or absence of droppings warrants a prompt visit to a rabbit-savvy veterinarian. Early intervention can make a significant difference in the outcome of many conditions.
 
 For more information on related topics, see our articles on [GI Issues in Rabbits](../illnesses-and-conditions/gi-issues-in-rabbits) and [RVHD2 Vaccination](../illnesses-and-conditions/rvhd2-vaccination).
-
 
 
 ## References

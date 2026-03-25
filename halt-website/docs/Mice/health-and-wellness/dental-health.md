@@ -23,7 +23,6 @@ The main dental problem seen in mice is **malocclusion**, which means the teeth 
 *   **Trauma:** An injury or fall that damages the jaw or a tooth can cause the teeth to grow at the wrong angle.
 
 
-
 ## Signs of Dental Problems
 
 Overgrown teeth can be incredibly painful, preventing a mouse from eating and causing injuries inside the mouth. The signs are often related to this pain and inability to eat.

@@ -29,7 +29,6 @@ Dental disease is an extremely common and often painful condition in African Pyg
     *   **Signs:** Signs can be similar to a dental abscess, including facial swelling, difficulty eating, weight loss, and drooling. Any lump or unusual growth in a hedgehog's mouth should be considered highly suspicious of cancer.
 
 
-
 ## Prevention and Home Care
 
 While some issues are genetic, preventative care can significantly reduce the risk of dental disease.

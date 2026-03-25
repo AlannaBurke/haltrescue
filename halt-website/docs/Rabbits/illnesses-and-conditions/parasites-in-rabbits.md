@@ -6,7 +6,6 @@ tags: [rabbits, parasites, neurological, health]
 ---
 
 
-
 # Parasites in Rabbits
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -76,7 +75,6 @@ Treatment is specific to the parasite and may include topical medications (selam
 - **Flea Prevention**: Use a rabbit-safe flea preventive (like Revolution® or Advantage®) as recommended by your vet, especially if your rabbit has outdoor access or lives with other pets.
 - **Regular Check-ups**: Annual veterinary exams and fecal tests can help catch internal parasites early.
 - **Environmental Control**: Source hay from reputable suppliers and prevent contact with wild rabbits.
-
 
 
 ## References

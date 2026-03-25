@@ -7,7 +7,6 @@ tags: [chinchillas, parasites, health]
 ---
 
 
-
 # Parasites in Chinchillas
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -94,7 +93,6 @@ Environmental treatment is also essential for external parasites — the enclosu
 - **Schedule annual vet check-ups** including fecal testing
 
 > For more on keeping your chinchilla healthy, see our article on [Home Health Care for Your Chinchilla](/docs/Chinchillas/health-and-wellness/home-health-care).
-
 
 
 ## References

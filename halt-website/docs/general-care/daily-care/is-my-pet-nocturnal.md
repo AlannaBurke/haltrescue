@@ -14,7 +14,6 @@ One of the most common surprises for new small pet owners is discovering their c
 Respecting your pet's natural activity pattern allows you to schedule feeding, playtime, and cleaning for when they are most receptive, leading to a happier, healthier, and less stressed animal.
 
 
-
 ## The Three Main Activity Patterns
 
 ### 1. Diurnal: Active During the Day

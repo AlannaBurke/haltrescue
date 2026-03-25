@@ -6,7 +6,6 @@ tags: [rabbits, ear health, health]
 ---
 
 
-
 # Ear Infections in Rabbits
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -86,7 +85,6 @@ Treatment courses for middle and inner ear infections are often prolonged (4–8
 - **Reduce stress** — a healthy immune system is the best defence against infection
 
 > For more information on neurological signs that can accompany inner ear infections, see our article on [Neurologic Issues in Rabbits](./neurologic-issues-in-rabbits).
-
 
 
 ## References

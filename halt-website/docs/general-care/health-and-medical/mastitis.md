@@ -12,6 +12,8 @@ description: "An overview of mastitis, a painful infection of the mammary glands
 Mastitis is a painful inflammation of the mammary gland (or udder) that is most commonly seen in lactating or post-partum female animals. It is typically caused by a bacterial infection and can become a life-threatening emergency if not treated promptly [1]. While it can occur in any mammal, it is a significant concern for small pets like rabbits, guinea pigs, and rats.
 
 
+Mastitis is a painful inflammation of the mammary gland (or udder) that is most commonly seen in lactating or post-partum female animals. It is typically caused by a bacterial infection and can become a life-threatening emergency if not treated promptly [1]. While it can occur in any mammal, it is a significant concern for small pets like rabbits, guinea pigs, and rats.
+
 
 ## Causes of Mastitis
 

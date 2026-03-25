@@ -7,7 +7,6 @@ tags: [guinea pigs, parasites, skin health, health]
 ---
 
 
-
 # Mites in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -104,7 +103,6 @@ If you suspect mites, do not wait to see if the symptoms improve on their own. S
 :::
 
 > For more on external parasites, see our article on [Lice in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/lice-in-guinea-pigs).
-
 
 
 ## References

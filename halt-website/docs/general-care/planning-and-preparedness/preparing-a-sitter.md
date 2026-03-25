@@ -14,7 +14,6 @@ Whether you're leaving for a weekend or an extended vacation, hiring a pet sitte
 Use this comprehensive guide to prepare for your sitter's arrival.
 
 
-
 ## The Pet Sitter Information Binder
 
 Create a binder or a detailed document with everything your sitter needs to know. This should be their go-to resource for any questions that arise.

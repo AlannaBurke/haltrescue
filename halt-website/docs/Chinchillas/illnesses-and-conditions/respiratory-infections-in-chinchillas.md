@@ -7,7 +7,6 @@ tags: [chinchillas, respiratory infection, health]
 ---
 
 
-
 # Respiratory Infections in Chinchillas
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -91,7 +90,6 @@ If you notice your chinchilla sneezing more than usual after a dust bath, try sw
 :::
 
 > For more on setting up a healthy chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
-
 
 
 ## References

@@ -6,7 +6,6 @@ tags: [guinea pigs, nutrition, health]
 ---
 
 
-
 # Scurvy (Vitamin C Deficiency) in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -104,7 +103,6 @@ Prevention is straightforward and critical:
 - **Increase Vitamin C during illness, pregnancy, or growth** — consult your vet for appropriate dosing
 
 > For more information on feeding your guinea pig, see our [Nutrition Information](../getting-started/nutrition-information) guide.
-
 
 
 ## References

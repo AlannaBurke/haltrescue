@@ -7,7 +7,6 @@ tags: [chinchillas, emergency, health]
 ---
 
 
-
 # Heat Stroke in Chinchillas
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -86,7 +85,6 @@ Freeze a ceramic tile or a small water bottle wrapped in a cloth and place it in
 :::
 
 > For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
-
 
 
 ## References

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Basic Care
+title: 'Hamster Basic Care'
 tags: [hamsters, getting started, care commitment]
 ---
 

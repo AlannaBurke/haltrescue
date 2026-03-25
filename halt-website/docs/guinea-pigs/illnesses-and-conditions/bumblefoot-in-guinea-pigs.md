@@ -7,7 +7,6 @@ tags: [guinea pigs, bumblefoot, health, housing, heart disease]
 ---
 
 
-
 # Bumblefoot in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -116,7 +115,6 @@ Fleece liners are one of the best flooring options for guinea pigs. They are sof
 :::
 
 > For more on setting up a safe guinea pig enclosure, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
-
 
 
 ## References

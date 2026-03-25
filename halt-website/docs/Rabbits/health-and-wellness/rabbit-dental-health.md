@@ -5,7 +5,6 @@ tags: [rabbits, dental disease, health]
 ---
 
 
-
 # A Guide to Rabbit Dental Health
 
 ![](/img/rabbits/rabbit-urinary-health.png)

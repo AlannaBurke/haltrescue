@@ -14,7 +14,6 @@ Hand-feeding, often done with a syringe, is a crucial skill for any small pet ow
 This guide provides general instructions for hand-feeding small herbivores like rabbits, guinea pigs, and chinchillas, as well as other small mammals. **Always follow the specific instructions and diet recommendations provided by your veterinarian.**
 
 
-
 ## When is Hand-Feeding Necessary?
 
 Syringe feeding is a method of nutritional support used when a temporary illness or health problem compromises a pet's appetite [2]. Common reasons include:

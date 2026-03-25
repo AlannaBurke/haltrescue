@@ -5,7 +5,6 @@ tags: [chinchillas, housing, getting started]
 ---
 
 
-
 # The Ideal Chinchilla Habitat
 
 ![](/img/chinchillas/chinchilla-habitat.png)

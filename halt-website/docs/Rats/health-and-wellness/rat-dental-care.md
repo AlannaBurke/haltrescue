@@ -5,7 +5,6 @@ tags: [rats, dental disease, health, veterinary]
 ---
 
 
-
 # Rat Dental Care Guide
 
 ![](/img/rats/rat-nutrition-guide.png)
@@ -103,7 +102,6 @@ Make a habit of briefly checking your rat's front teeth during your weekly healt
 - Proper alignment (upper slightly overlapping lower)
 
 You cannot easily check the molars at home — that requires a veterinary examination with appropriate lighting and tools.
-
 
 
 ## References

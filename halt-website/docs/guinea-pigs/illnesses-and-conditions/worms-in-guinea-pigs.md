@@ -6,7 +6,6 @@ tags: [guinea pigs, parasites, health]
 ---
 
 
-
 # Worms in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -98,7 +97,6 @@ Good husbandry is the most effective way to prevent worm infestations:
 - **Prevent access to soil** where wild animal feces may be present
 
 > For a broader overview of parasites affecting guinea pigs, see our [Parasites in Guinea Pigs](./parasites-in-guinea-pigs) article.
-
 
 
 ## References

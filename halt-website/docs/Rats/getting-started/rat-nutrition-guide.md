@@ -6,7 +6,6 @@ description: "Proper nutrition is the cornerstone of your pet rat's health and l
 ---
 
 
-
 # A Guide to Proper Rat Nutrition
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -51,7 +50,6 @@ Your rats must have access to fresh, clean water 24/7. A sipper bottle is the mo
 ## A Note on Homemade Diets
 
 While homemade diets like the "Shunamite Diet" have gained some popularity, they are **not recommended**. It is extremely difficult to create a nutritionally complete and balanced diet at home. These diets often lack essential vitamins and minerals, which can lead to serious health problems over time. A high-quality lab block remains the safest and most reliable foundation for your rat's diet [4].
-
 
 
 ## References

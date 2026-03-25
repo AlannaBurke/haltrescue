@@ -6,7 +6,6 @@ tags: [rabbits, neurological, parasites, health]
 ---
 
 
-
 # E. cuniculi in Rabbits
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -90,7 +89,6 @@ Many rabbits with head tilt improve significantly with treatment, though some de
 - **Minimize stress** — a strong immune system helps keep subclinical infections from becoming clinical
 - **Maintain excellent hygiene** — clean litter boxes daily; E. cuniculi spores are shed in urine
 - **Prophylactic fenbendazole** — some vets recommend a 28-day course for newly acquired rabbits or after known exposure
-
 
 
 ## References

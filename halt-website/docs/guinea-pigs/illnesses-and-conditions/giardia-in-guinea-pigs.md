@@ -7,7 +7,6 @@ tags: [guinea pigs, parasites, diarrhea, health]
 ---
 
 
-
 # Giardia in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -86,7 +85,6 @@ All guinea pigs in the same household should be evaluated and treated simultaneo
 - **Wash hands** thoroughly after handling guinea pigs or cleaning their enclosure
 
 > For more on preventing parasites, see our article on [Mites in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/mites-in-guinea-pigs).
-
 
 
 ## References

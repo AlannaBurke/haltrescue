@@ -6,7 +6,6 @@ description: "Bringing a rabbit into your home is a long-term commitment, and pr
 ---
 
 
-
 # Essential Supplies for Your Rabbit Companion
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -83,7 +82,6 @@ Rabbits are intelligent and curious animals that need mental stimulation.
 ## 9. A Rabbit-Savvy Veterinarian
 
 Before you even bring your rabbit home, find a veterinarian who is experienced in treating exotic pets. Rabbits have unique health needs, and a rabbit-savvy vet is an essential partner in your rabbit's care. Annual health checkups are crucial for early detection of potential problems [2].
-
 
 
 ## References

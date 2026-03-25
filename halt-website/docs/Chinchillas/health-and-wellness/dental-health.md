@@ -20,7 +20,6 @@ Dental disease occurs when this balance is disrupted. If the teeth are not worn 
 2.  **Root Elongation (Apical Elongation):** The invisible part of the tooth (the root) grows backwards into the jawbone. This can lead to painful bone deformities, abscesses, and pressure on the tear ducts (causing watery eyes). This is often the more insidious and difficult part of the disease to manage.
 
 
-
 ## Causes of Dental Disease
 
 While genetics can play a role, the vast majority of dental disease cases are caused by an improper diet.

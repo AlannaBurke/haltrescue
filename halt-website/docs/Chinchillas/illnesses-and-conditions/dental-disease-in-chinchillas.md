@@ -7,7 +7,6 @@ tags: [chinchillas, dental disease, health]
 ---
 
 
-
 # Dental Disease in Chinchillas
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -85,7 +84,6 @@ While genetic malocclusion cannot be prevented, good husbandry significantly red
 - Schedule **annual veterinary check-ups** including a dental examination
 
 > For more information on feeding your chinchilla correctly, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
-
 
 
 ## References

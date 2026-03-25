@@ -7,6 +7,9 @@ description: "Ferrets are playful, mischievous, and deeply entertaining companio
 
 # Is a Ferret Right for Me and My Family?
 
+![Is A Ferret Right For Me](/img/ferrets/is-a-ferret-right-for-me.png)
+
+
 <InfographicShare
   src="/img/ferrets/is-a-ferret-right-for-me.png"
   alt="Is a Ferret Right for You? Quick reference guide from HALT Rescue"

@@ -1,6 +1,6 @@
 ---
 sidebar_label: GI Health
-tags: [rabbits, gi stasis, bloat, gi health]
+tags: [rabbits, GI stasis, bloat, GI health]
 description: "An in-depth guide to the sensitive gastrointestinal (GI) system of rabbits, covering the causes and signs of the life-threatening emergencies GI stasis and bloat, and the critical role of hay."
 ---
 

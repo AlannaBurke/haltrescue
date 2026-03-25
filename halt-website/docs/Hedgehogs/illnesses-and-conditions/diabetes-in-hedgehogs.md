@@ -6,7 +6,6 @@ tags: [hedgehogs, diabetes, health, metabolic disease]
 ---
 
 
-
 # Diabetes in Hedgehogs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -104,7 +103,6 @@ In some cases, a veterinarian may recommend:
 ## Prognosis
 
 With dietary management and regular veterinary care, diabetic hedgehogs can maintain a reasonable quality of life. However, diabetes is a progressive condition in hedgehogs, and complications — particularly cataracts, kidney disease, and infections — are common over time. Early diagnosis and consistent management give the best outcomes.
-
 
 
 ## References

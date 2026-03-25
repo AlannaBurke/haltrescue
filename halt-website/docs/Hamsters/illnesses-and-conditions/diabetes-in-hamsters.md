@@ -6,7 +6,6 @@ tags: [hamsters, diabetes, health]
 ---
 
 
-
 # Diabetes in Pet Hamsters
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -109,7 +108,6 @@ In some cases, a veterinarian may recommend:
 ## Prognosis
 
 With dietary management, many diabetic hamsters can live relatively normal lives. However, diabetes is a progressive condition, and complications (cataracts, kidney disease, infections) are common over time. Regular veterinary monitoring helps catch complications early.
-
 
 
 ## References

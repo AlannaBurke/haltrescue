@@ -5,6 +5,7 @@ sidebar_position: 1
 tags: [rats, getting started, supplies, housing, nutrition, enrichment, grooming]
 ---
 
+<InfographicShare imageSrc="/img/rats/rat-essential-supplies.png" alt="Essential rat supplies" />
 
 
 
@@ -64,7 +65,6 @@ Keep a small stock of supplies on hand: extra bedding, a spare water bottle, and
 ## Cross-Referencing Other Articles
 
 For more detail on what to feed your rats, see our [Rat Nutrition Guide](./rat-nutrition-guide). For housing setup specifics, visit [The Ideal Rat Habitat](./the-ideal-rat-habitat-guide).
-
 
 
 ## References

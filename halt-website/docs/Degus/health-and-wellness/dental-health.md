@@ -20,7 +20,6 @@ Dental disease, or malocclusion, occurs when this wear process is insufficient. 
 *   **Root Elongation:** The roots of the teeth can grow backwards into the jaw and skull. This can cause pain, abscesses, and pressure on the eyes and nasal passages.
 
 
-
 ## Causes of Dental Disease
 
 While some degus may have a genetic predisposition to dental problems, the vast majority of cases are directly related to an improper diet.

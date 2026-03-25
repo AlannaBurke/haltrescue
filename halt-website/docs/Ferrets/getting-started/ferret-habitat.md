@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Habitat
+title: 'Ferret Habitat'
 description: "Ferrets are intelligent, playful, and incredibly curious. Their habitat needs to be a safe and secure home base, but it is not where they should spend all their time. A ferret's cage is for sleeping,..."
 tags: [ferrets, housing, getting started]
 ---

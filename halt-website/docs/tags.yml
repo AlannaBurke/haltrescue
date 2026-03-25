@@ -1,0 +1,360 @@
+# Docs tag definitions
+# Keys MUST match the exact tag strings used in markdown front matter.
+# These labels will be used as the display name on tag pages.
+
+"501(c)(3)":
+  label: "501(c)(3)"
+
+ECE:
+  label: "ECE"
+
+"GI health":
+  label: "GI Health"
+
+"GI obstruction":
+  label: "GI Obstruction"
+
+"GI stasis":
+  label: "GI Stasis"
+
+acariasis:
+  label: "Acariasis"
+
+"activity patterns":
+  label: "Activity Patterns"
+
+"adrenal disease":
+  label: "Adrenal Disease"
+
+"animal welfare":
+  label: "Animal Welfare"
+
+behavior:
+  label: "Behavior"
+
+bloat:
+  label: "Bloat"
+
+"body language":
+  label: "Body Language"
+
+bonding:
+  label: "Bonding"
+
+breeding:
+  label: "Breeding"
+
+breeds:
+  label: "Breeds"
+
+bumblefoot:
+  label: "Bumblefoot"
+
+cancer:
+  label: "Cancer"
+
+care:
+  label: "Care"
+
+"care commitment":
+  label: "Care Commitment"
+
+"chinchilla care":
+  label: "Chinchilla Care"
+
+"chinchilla diet":
+  label: "Chinchilla Diet"
+
+"chinchilla safety":
+  label: "Chinchilla Safety"
+
+chinchillas:
+  label: "Chinchillas"
+
+coat:
+  label: "Coat"
+
+cost:
+  label: "Cost"
+
+"critical care":
+  label: "Critical Care"
+
+"dangerous toys":
+  label: "Dangerous Toys"
+
+"dangerous treats":
+  label: "Dangerous Treats"
+
+"degu care":
+  label: "Degu Care"
+
+"degu diet":
+  label: "Degu Diet"
+
+"degu safety":
+  label: "Degu Safety"
+
+degus:
+  label: "Degus"
+
+"dental disease":
+  label: "Dental Disease"
+
+diabetes:
+  label: "Diabetes"
+
+diarrhea:
+  label: "Diarrhea"
+
+donations:
+  label: "Donations"
+
+"ear health":
+  label: "Ear Health"
+
+emergency:
+  label: "Emergency"
+
+"emergency preparedness":
+  label: "Emergency Preparedness"
+
+"end of life":
+  label: "End of Life"
+
+enrichment:
+  label: "Enrichment"
+
+"eye health":
+  label: "Eye Health"
+
+"ferret care":
+  label: "Ferret Care"
+
+"ferret diet":
+  label: "Ferret Diet"
+
+"ferret safety":
+  label: "Ferret Safety"
+
+ferrets:
+  label: "Ferrets"
+
+"foreign body obstruction":
+  label: "Foreign Body Obstruction"
+
+fundraising:
+  label: "Fundraising"
+
+genetics:
+  label: "Genetics"
+
+"gerbil care":
+  label: "Gerbil Care"
+
+"gerbil diet":
+  label: "Gerbil Diet"
+
+"gerbil safety":
+  label: "Gerbil Safety"
+
+gerbils:
+  label: "Gerbils"
+
+"getting started":
+  label: "Getting Started"
+
+grooming:
+  label: "Grooming"
+
+"guinea pigs":
+  label: "Guinea Pigs"
+
+"hair loss":
+  label: "Hair Loss"
+
+"hamster care":
+  label: "Hamster Care"
+
+"hamster diet":
+  label: "Hamster Diet"
+
+"hamster safety":
+  label: "Hamster Safety"
+
+hamsters:
+  label: "Hamsters"
+
+handling:
+  label: "Handling"
+
+health:
+  label: "Health"
+
+"heart disease":
+  label: "Heart Disease"
+
+"hedgehog care":
+  label: "Hedgehog Care"
+
+"hedgehog diet":
+  label: "Hedgehog Diet"
+
+"hedgehog safety":
+  label: "Hedgehog Safety"
+
+hedgehogs:
+  label: "Hedgehogs"
+
+"home health check":
+  label: "Home Health Check"
+
+housing:
+  label: "Housing"
+
+"kidney disease":
+  label: "Kidney Disease"
+
+"lethal white":
+  label: "Lethal White"
+
+"low blood sugar":
+  label: "Low Blood Sugar"
+
+"metabolic disease":
+  label: "Metabolic Disease"
+
+mice:
+  label: "Mice"
+
+"mice care":
+  label: "Mice Care"
+
+"mouse care":
+  label: "Mouse Care"
+
+"mouse diet":
+  label: "Mouse Diet"
+
+"mouse safety":
+  label: "Mouse Safety"
+
+musculoskeletal:
+  label: "Musculoskeletal"
+
+mycoplasma:
+  label: "Mycoplasma"
+
+"nail care":
+  label: "Nail Care"
+
+"nail trimming":
+  label: "Nail Trimming"
+
+nails:
+  label: "Nails"
+
+nephritis:
+  label: "Nephritis"
+
+networking:
+  label: "Networking"
+
+neurological:
+  label: "Neurological"
+
+"neurological disease":
+  label: "Neurological Disease"
+
+nonprofit:
+  label: "Nonprofit"
+
+nutrition:
+  label: "Nutrition"
+
+parasites:
+  label: "Parasites"
+
+pregnancy:
+  label: "Pregnancy"
+
+"quill loss":
+  label: "Quill Loss"
+
+"rabbit care":
+  label: "Rabbit Care"
+
+"rabbit diet":
+  label: "Rabbit Diet"
+
+"rabbit safety":
+  label: "Rabbit Safety"
+
+rabbits:
+  label: "Rabbits"
+
+"rat care":
+  label: "Rat Care"
+
+"rat diet":
+  label: "Rat Diet"
+
+"rat safety":
+  label: "Rat Safety"
+
+rats:
+  label: "Rats"
+
+"reproductive health":
+  label: "Reproductive Health"
+
+rescue:
+  label: "Rescue"
+
+"respiratory infection":
+  label: "Respiratory Infection"
+
+ringworm:
+  label: "Ringworm"
+
+safety:
+  label: "Safety"
+
+"satin syndrome":
+  label: "Satin Syndrome"
+
+sexing:
+  label: "Sexing"
+
+"skin health":
+  label: "Skin Health"
+
+"special needs":
+  label: "Special Needs"
+
+supplies:
+  label: "Supplies"
+
+"tail slip":
+  label: "Tail Slip"
+
+taming:
+  label: "Taming"
+
+"tear duct":
+  label: "Tear Duct"
+
+training:
+  label: "Training"
+
+"urinary health":
+  label: "Urinary Health"
+
+veterinary:
+  label: "Veterinary"
+
+volunteers:
+  label: "Volunteers"
+
+wellness:
+  label: "Wellness"

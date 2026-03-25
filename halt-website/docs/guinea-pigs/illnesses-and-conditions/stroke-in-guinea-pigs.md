@@ -6,7 +6,6 @@ tags: [guinea pigs, neurological, health, emergency]
 ---
 
 
-
 # Stroke in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -95,7 +94,6 @@ Recovery from a stroke varies widely depending on severity and the area of the b
 - **Underlying cause** — if an underlying condition can be treated, recovery is more likely
 
 Many guinea pigs with mild strokes can go on to live comfortable lives with some adaptations to their environment (lower enclosure sides, soft bedding, easy access to food and water).
-
 
 
 ## References

@@ -6,7 +6,6 @@ description: "As a responsible rabbit owner, safeguarding your companion from pr
 ---
 
 
-
 # The Importance of Vaccinating Your Rabbit Against RVHD2
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -63,7 +62,6 @@ While vaccination is the cornerstone of prevention, good biosecurity practices c
 *   **Avoid Foraging:** Do not feed your rabbit grass or plants from areas where wild rabbits may have been present.
 
 By combining vaccination with smart biosecurity, you can provide your beloved rabbit with the best possible protection against RHDV2.
-
 
 
 ## References

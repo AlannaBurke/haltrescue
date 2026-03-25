@@ -5,7 +5,6 @@ tags: [chinchillas, home health check, wellness]
 ---
 
 
-
 # Home Health Care for Your Chinchilla
 
 ![](/img/chinchillas/chinchilla-home-health-care.png)

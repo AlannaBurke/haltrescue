@@ -6,7 +6,6 @@ description: "Welcome to the colorful world of fancy rats! Through selective bre
 ---
 
 
-
 # A Guide to Fancy Rat Varieties
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -54,7 +53,6 @@ Furthermore, some varieties, like Hairless rats, may have more specific health n
 :::tip
 When choosing rats, always adopt in pairs or groups — rats are highly social and can suffer from loneliness and depression if kept alone. Variety and appearance are secondary to temperament and health. Look for active, curious rats with bright eyes, clean coats, and no signs of respiratory distress.
 :::
-
 
 
 ## References

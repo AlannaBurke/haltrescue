@@ -7,7 +7,6 @@ tags: [chinchillas, diabetes, health, nutrition]
 ---
 
 
-
 # Diabetes in Chinchillas
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -90,7 +89,6 @@ The best prevention is a species-appropriate diet from the start:
 - Maintain a **healthy body weight** — you should be able to feel but not see the ribs
 
 > For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
-
 
 
 ## References

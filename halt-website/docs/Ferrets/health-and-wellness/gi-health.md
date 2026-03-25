@@ -1,6 +1,6 @@
 ---
 sidebar_label: GI Health
-tags: [ferrets, gi health, gi obstruction, diarrhea, ece]
+tags: [ferrets, GI health, GI obstruction, diarrhea, ECE]
 description: "A guide to gastrointestinal (GI) health in ferrets, covering their unique digestive system and common issues like foreign body obstructions, vomiting, diarrhea, and ECE."
 ---
 

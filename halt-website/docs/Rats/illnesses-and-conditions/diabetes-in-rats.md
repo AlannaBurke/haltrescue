@@ -5,7 +5,6 @@ tags: [rats, diabetes, metabolic disease, health, veterinary]
 ---
 
 
-
 # Diabetes in Rats
 
 ![](/img/rats/rat-common-health-issues.png)
@@ -72,7 +71,6 @@ Early diagnosis and consistent management provide the best chance of a good qual
 Caring for a diabetic rat is a significant commitment, but it is a manageable one. With close attention to diet, regular veterinary check-ups, and a consistent management plan, your rat can continue to live a happy and fulfilling life. Always work closely with your veterinarian to ensure your rat receives the best possible care.
 
 ---
-
 
 
 ## References

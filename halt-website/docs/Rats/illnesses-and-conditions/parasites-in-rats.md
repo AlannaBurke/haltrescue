@@ -5,7 +5,6 @@ tags: [rats, parasites, health, veterinary]
 ---
 
 
-
 # Parasites in Pet Rats
 
 ![](/img/rats/mycoplasma-warning.png)
@@ -104,7 +103,6 @@ Rat lice and mites are species-specific and **cannot infest humans, dogs, or cat
 | Pinworms | Ivermectin or Fenbendazole | Vet prescription required |
 | Fleas | Vet consultation required | Many products are toxic to rats |
 | Ticks | Manual removal + vet consultation | Do not use dog/cat tick products |
-
 
 
 ## References

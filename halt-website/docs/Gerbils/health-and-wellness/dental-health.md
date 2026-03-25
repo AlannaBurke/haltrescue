@@ -24,7 +24,6 @@ Malocclusion, or the misalignment of teeth, is the primary dental problem in ger
 *   **Illness or Malnutrition:** A diet lacking in essential minerals can affect tooth and bone health, leading to dental problems.
 
 
-
 ## Signs of Dental Problems
 
 An overgrown incisor can prevent a gerbil from being able to eat and can cause painful injuries inside the mouth. Watch for these signs:

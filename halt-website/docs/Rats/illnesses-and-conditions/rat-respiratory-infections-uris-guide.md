@@ -6,7 +6,6 @@ description: "Respiratory illness is one of the most common health issues affect
 ---
 
 
-
 # A Guide to Respiratory Infections (URIs) in Rats
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -59,7 +58,6 @@ While you can't eliminate the risk of a URI, you can take steps to minimize flar
 *   **Proper Diet:** A balanced diet supports a strong immune system.
 
 By understanding the signs and acting quickly, you can effectively manage respiratory infections and give your rat the best possible quality of life.
-
 
 
 ## References

@@ -7,6 +7,9 @@ description: "Rats are among the most intelligent, affectionate, and interactive
 
 # Is a Rat Right for Me and My Family?
 
+![Is A Rat Right For Me](/img/rats/is-a-rat-right-for-me.png)
+
+
 <InfographicShare
   src="/img/rats/is-a-rat-right-for-me.png"
   alt="Is a Rat Right for You? Quick reference guide from HALT Rescue"

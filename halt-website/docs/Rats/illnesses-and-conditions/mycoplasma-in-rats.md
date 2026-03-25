@@ -6,7 +6,6 @@ description: "If you're a rat owner, you've likely heard the term 'myco.' Mycopl
 ---
 
 
-
 # Mycoplasma in Rats: An Essential Guide
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -58,7 +57,6 @@ For rats with frequent flare-ups, a veterinarian may recommend a long-term, low-
 ## The Reality of Living with Myco
 
 Because the disease is so widespread, it's a reality that most rat owners will have to manage. Rats with well-managed CRD can still live happy lives, but their lifespan may be shortened [1]. Proactive care, a clean environment, a high-quality diet, and a strong relationship with a rat-savvy vet are your best tools for giving your myco-positive rats the best quality of life possible.
-
 
 
 ## References

@@ -21,7 +21,6 @@ Malocclusion (the misalignment of teeth) occurs when this wear is insufficient. 
 *   **Root Elongation:** The roots of the teeth can grow backwards into the jaw and skull, leading to painful abscesses, bone changes, and pressure on the eyes.
 
 
-
 ## Causes of Dental Disease
 
 While genetics can play a role, the overwhelming majority of cases are preventable and caused by an improper diet.

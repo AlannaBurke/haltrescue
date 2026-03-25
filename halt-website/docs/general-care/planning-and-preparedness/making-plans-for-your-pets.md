@@ -14,7 +14,6 @@ Responsible pet ownership extends beyond daily care; it includes planning for th
 This guide covers two critical areas of planning: preparing for emergencies and arranging for your pet's long-term future.
 
 
-
 ## Part 1: Emergency and Disaster Preparedness
 
 When a disaster strikes, your pets are completely dependent on you for their safety. **If it isn't safe for you, it isn't safe for your pets.** Never leave your pets behind during an evacuation [2].

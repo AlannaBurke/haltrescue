@@ -28,7 +28,6 @@ Malocclusion occurs when the teeth are not worn down properly and begin to overg
 5.  **Tear Duct Blockage:** The roots of the upper incisors and molars can grow into and block the tear ducts, causing persistent watery eyes (epiphora).
 
 
-
 ## Causes of Dental Disease
 
 *   **Improper Diet:** This is the cause in over 90% of cases. A diet low in hay and high in pellets or treats does not provide the necessary fiber or chewing action to wear the teeth down.

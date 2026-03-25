@@ -5,7 +5,6 @@ tags: [rats, health, veterinary, nutrition, behavior, housing]
 ---
 
 
-
 # A Comprehensive Guide to Rat Care
 
 ![](/img/rats/rat-behavior-guide.png)
@@ -50,7 +49,6 @@ A balanced diet is the foundation of good health.
 :::tip
 Keep a simple health journal for each rat, noting their weight, eating habits, and any changes in behavior. Early detection of changes — especially weight loss or labored breathing — can make a significant difference in treatment outcomes.
 :::
-
 
 
 ## References

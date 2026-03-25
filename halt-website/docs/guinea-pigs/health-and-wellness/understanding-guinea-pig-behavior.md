@@ -1,7 +1,7 @@
 ---
 sidebar_label: Understanding Guinea Pig Behavior
 sidebar_position: 1
-tags: [guinea-pigs, behavior, bonding, health, enrichment, body language]
+tags: [guinea pigs, behavior, bonding, health, enrichment, body language]
 description: "Guinea pigs are highly vocal, social animals with a rich repertoire of sounds and body language. Learning to read their cues is one of the most rewarding parts of guinea pig ownership."
 ---
 

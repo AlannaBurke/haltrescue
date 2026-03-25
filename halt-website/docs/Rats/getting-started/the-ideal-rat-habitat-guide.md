@@ -6,7 +6,6 @@ description: "A well-designed habitat is crucial for the health, happiness, and 
 ---
 
 
-
 # Creating the Ideal Habitat for Your Pet Rats
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -53,7 +52,6 @@ Boredom can lead to stress and behavioral problems. A constantly changing and st
 ## Location, Location, Location
 
 Where you place the cage is also important. Keep it in a temperature-controlled room, away from direct sunlight, drafts, and loud noises. Rats are sensitive to high temperatures and can suffer from heatstroke at temperatures above 80°F (27°C) [2].
-
 
 
 ## References

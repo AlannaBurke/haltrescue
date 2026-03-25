@@ -14,7 +14,6 @@ Many small pets, such as rabbits, guinea pigs, and rodents, are prey animals. Th
 This process requires time, consistency, and a gentle approach. The goal is to create a bond where your pet willingly seeks out your affection.
 
 
-
 ## Creating a Safe Environment
 
 A fearful pet cannot learn to trust if it doesn't feel safe. The first step in socialization is ensuring their environment is secure and calm.

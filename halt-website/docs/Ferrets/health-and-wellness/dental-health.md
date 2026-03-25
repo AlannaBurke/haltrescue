@@ -31,7 +31,6 @@ Ferrets have 34 adult teeth, including sharp canines for grasping prey and shear
     *   **Signs:** Facial swelling, particularly under the eye, is a classic sign of a tooth root abscess. The ferret may be reluctant to eat or paw at its mouth.
 
 
-
 ## Prevention and Home Care
 
 Preventing dental disease is always preferable to treating it.

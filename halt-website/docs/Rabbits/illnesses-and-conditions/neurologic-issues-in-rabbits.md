@@ -6,7 +6,6 @@ tags: [rabbits, neurological, health]
 ---
 
 
-
 # Neurologic Issues in Rabbits
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -102,7 +101,6 @@ Prognosis varies widely by cause:
 - **Spinal injury** — variable; depends on severity; some rabbits regain function with rest and time
 - **Stroke** — variable; many rabbits improve over weeks with supportive care
 - **Spinal fracture with complete paralysis** — poor prognosis; quality of life assessment required
-
 
 
 ## References

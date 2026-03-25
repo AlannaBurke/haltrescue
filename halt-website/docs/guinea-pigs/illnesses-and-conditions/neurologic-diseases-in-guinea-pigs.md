@@ -7,7 +7,6 @@ tags: [guinea pigs, neurological, health]
 ---
 
 
-
 # Neurologic Diseases in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -108,7 +107,6 @@ Treatment depends on the underlying cause:
 :::tip
 A guinea pig with a persistent head tilt can still live a happy, comfortable life. Many owners of "tilty pigs" report that their pets adapt remarkably well and remain active, social, and engaged. The key is ensuring they can access food and water safely and that their environment is adapted to prevent injury.
 :::
-
 
 
 ## References

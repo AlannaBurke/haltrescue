@@ -2,9 +2,8 @@
 sidebar_position: 1
 title: Coccidia in Rabbits
 description: A comprehensive guide to coccidiosis in rabbits — causes, symptoms, diagnosis, treatment, and prevention of this common parasitic infection.
-tags: [rabbits, parasites, health, gi health]
+tags: [rabbits, parasites, health, GI health]
 ---
-
 
 
 # Coccidia in Rabbits
@@ -87,7 +86,6 @@ Treatment duration is typically 5–10 days depending on the medication used and
 - **Reduce stress** — stress is a major trigger for clinical coccidiosis in subclinical carriers
 - **Avoid overcrowding** — high rabbit density increases environmental oocyst load
 - **Regular fecal testing** — annual fecal checks help identify subclinical infections before they become clinical
-
 
 
 ## References

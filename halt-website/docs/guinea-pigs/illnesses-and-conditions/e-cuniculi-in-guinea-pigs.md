@@ -7,7 +7,6 @@ tags: [guinea pigs, neurological, parasites, health]
 ---
 
 
-
 # E. cuniculi in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -89,7 +88,6 @@ If you keep both guinea pigs and rabbits, always handle and clean their enclosur
 :::
 
 > For more on introducing new guinea pigs safely, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
-
 
 
 ## References

@@ -1,11 +1,10 @@
 ---
 title: GI Issues in Rabbits
-tags: [rabbits, gi health, gi stasis, diarrhea, bloat, gi obstruction, nutrition, veterinary, emergency]
+tags: [rabbits, GI health, GI stasis, diarrhea, bloat, GI obstruction, nutrition, veterinary, emergency]
 sidebar_label: GI Issues in Rabbits
 sidebar_position: 6
 description: "For rabbit owners, understanding and preventing gastrointestinal (GI) issues is paramount to ensuring the health and happiness of their beloved pets. Rabbits have delicate digestive systems, and..."
 ---
-
 
 
 # Understanding Gastrointestinal Issues in Rabbits
@@ -70,7 +69,6 @@ Surgery is typically a last resort and is only considered for true obstructions 
 ## Further Reading
 
 For more information on rabbit health and care, consider exploring our articles on [Rabbit Dental Health](/docs/Rabbits/health-and-wellness/rabbit-dental-health) and [Emergency Preparedness for Pet Owners](/docs/general-care/emergency).
-
 
 
 ## References

@@ -7,7 +7,6 @@ tags: [guinea pigs, ear health, neurological, health]
 ---
 
 
-
 # Ear Infections in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -100,7 +99,6 @@ Make ear checks part of your weekly health routine. Gently fold back the ear fla
 :::
 
 > For more on neurological symptoms in guinea pigs, see our article on [Neurologic Diseases in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/neurologic-diseases-in-guinea-pigs).
-
 
 
 ## References

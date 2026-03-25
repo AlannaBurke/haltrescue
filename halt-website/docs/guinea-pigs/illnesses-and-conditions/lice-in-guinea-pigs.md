@@ -7,7 +7,6 @@ tags: [guinea pigs, parasites, skin health, health]
 ---
 
 
-
 # Lice in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -92,7 +91,6 @@ Lice in guinea pigs are effectively treated with antiparasitic medications:
 - **Handle and check your guinea pigs regularly** — weekly health checks make it easier to catch infestations early
 
 > For more on external parasites, see our article on [Mites in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/mites-in-guinea-pigs).
-
 
 
 ## References

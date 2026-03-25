@@ -24,7 +24,6 @@ The primary dental problem seen in rats is **malocclusion**, which is the misali
 *   **Lack of Chewing Materials:** While less common in rats than in other rodents (as they will chew on almost anything), a barren environment can contribute to dental problems.
 
 
-
 ## Signs of Dental Problems
 
 Overgrown teeth can be extremely painful. They can prevent a rat from eating and can grow so long that they injure the roof of the mouth, the face, or the eyes. It is critical to spot the signs early.

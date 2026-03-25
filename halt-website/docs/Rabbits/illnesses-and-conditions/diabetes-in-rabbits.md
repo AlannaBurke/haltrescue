@@ -6,7 +6,6 @@ tags: [rabbits, diabetes, health, metabolic disease]
 ---
 
 
-
 # Diabetes in Pet Rabbits
 
 import InfographicShare from '@site/src/components/InfographicShare';
@@ -98,7 +97,6 @@ Dietary management is the cornerstone of treatment:
 ## Prognosis
 
 With appropriate dietary management and veterinary monitoring, many rabbits with diabetes can maintain a good quality of life. The prognosis is best when the condition is caught early and dietary changes are made promptly.
-
 
 
 ## References

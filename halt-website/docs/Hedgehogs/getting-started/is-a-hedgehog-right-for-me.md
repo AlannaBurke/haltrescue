@@ -7,6 +7,9 @@ description: "Hedgehogs are unique, fascinating animals with big personalities p
 
 # Is a Hedgehog Right for Me and My Family?
 
+![Is A Hedgehog Right For Me](/img/hedgehogs/is-a-hedgehog-right-for-me.png)
+
+
 <InfographicShare
   src="/img/hedgehogs/is-a-hedgehog-right-for-me.png"
   alt="Is a Hedgehog Right for You? Quick reference guide from HALT Rescue"
