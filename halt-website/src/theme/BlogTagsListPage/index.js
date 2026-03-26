@@ -15,10 +15,17 @@ import styles from './styles.module.css';
 
 /** Get the kawaii image for a tag by its label or permalink slug */
 function getTagImage(tag) {
-  const slug = (tag.label || tag.permalink?.split('/').pop() || '')
-    .toLowerCase()
-    .replace(/\s+/g, '');
-  return TAG_DEFAULT_IMAGES[slug] || TAG_DEFAULT_IMAGES['guineapigs'];
+  // Try permalink slug first (preserves hyphens, e.g. 'success-stories')
+  const permalinkSlug = tag.permalink?.split('/').pop()?.toLowerCase();
+  // Also try label-based slugs
+  const slugHyphen = tag.label?.toLowerCase().replace(/\s+/g, '-');
+  const slugNoHyphen = tag.label?.toLowerCase().replace(/[\s-]+/g, '');
+  return (
+    TAG_DEFAULT_IMAGES[permalinkSlug] ||
+    TAG_DEFAULT_IMAGES[slugHyphen] ||
+    TAG_DEFAULT_IMAGES[slugNoHyphen] ||
+    TAG_DEFAULT_IMAGES['guineapigs']
+  );
 }
 
 function TagCard({ tag }) {

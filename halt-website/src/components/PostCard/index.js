@@ -34,6 +34,14 @@ export const TAG_DEFAULT_IMAGES = {
   rainbowbridge: '/img/tags/rainbowbridge.png',
   sanctuary:     '/img/tags/sanctuary.png',
   satin:         '/img/tags/satin.png',
+  rats:          '/img/tags/rats.png',
+  rabbits:       '/img/tags/rabbits.png',
+  'success-stories': '/img/tags/success-stories.png',
+  successstories: '/img/tags/success-stories.png',
+  intake:        '/img/tags/intake.png',
+  babies:        '/img/tags/babies.png',
+  rescue:        '/img/tags/rescue.png',
+  dental:        '/img/tags/medical.png',
 };
 
 const FALLBACK_IMAGE = '/img/tags/guineapigs.png';

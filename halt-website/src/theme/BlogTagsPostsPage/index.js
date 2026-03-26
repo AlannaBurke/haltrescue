@@ -17,9 +17,18 @@ import PostCard, {TAG_DEFAULT_IMAGES} from '@site/src/components/PostCard';
 import cardStyles from '@site/src/components/PostCard/styles.module.css';
 import styles from './styles.module.css';
 
-function getDefaultImage(tagLabel) {
-  const slug = tagLabel?.toLowerCase().replace(/\s+/g, '');
-  return TAG_DEFAULT_IMAGES[slug] || '/img/tags/guineapigs.png';
+function getDefaultImage(tagLabel, tagPermalink) {
+  // Try permalink-based slug first (e.g. '/success-stories' → 'success-stories')
+  const permalinkSlug = tagPermalink?.split('/').pop()?.toLowerCase();
+  // Also try label-based slugs
+  const slugHyphen = tagLabel?.toLowerCase().replace(/\s+/g, '-');
+  const slugNoHyphen = tagLabel?.toLowerCase().replace(/[\s-]+/g, '');
+  return (
+    TAG_DEFAULT_IMAGES[permalinkSlug] ||
+    TAG_DEFAULT_IMAGES[slugHyphen] ||
+    TAG_DEFAULT_IMAGES[slugNoHyphen] ||
+    '/img/tags/guineapigs.png'
+  );
 }
 
 function BlogTagsPostsPageMetadata({tag}) {
@@ -42,7 +51,7 @@ function BlogTagsPostsPageContent({tag, items, sidebar, listMetadata}) {
       <header className={styles.tagHeader}>
         <div
           className={styles.tagBanner}
-          style={{ backgroundImage: `url(${getDefaultImage(tag.label)})` }}
+          style={{ backgroundImage: `url(${getDefaultImage(tag.label, tag.permalink)})` }}
           aria-hidden="true"
         />
         <div className={styles.tagHeaderContent}>

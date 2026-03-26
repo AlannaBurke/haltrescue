@@ -78,4 +78,32 @@ hamsters:
   permalink: /hamsters
   description: Hamster updates and stories
 
+rats:
+  label: Rats
+  permalink: /rats
+  description: Rat updates and stories
 
+rabbits:
+  label: Rabbits
+  permalink: /rabbits
+  description: Rabbit updates and stories
+
+success-stories:
+  label: Success Stories
+  permalink: /success-stories
+  description: Adoption success stories and happy endings
+
+intake:
+  label: Intake
+  permalink: /intake
+  description: New animals coming into the rescue
+
+babies:
+  label: Babies
+  permalink: /babies
+  description: Baby animals and litters
+
+rescue:
+  label: Rescue Operations
+  permalink: /rescue
+  description: Large-scale rescues and intake operations
