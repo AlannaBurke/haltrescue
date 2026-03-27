@@ -899,20 +899,46 @@ img[alt=board-pic] {
   }
 }
 
-/* Inline images that appear inside a paragraph (e.g. small icons) */
-.markdown p img {
-  display: inline;
-  margin: 0 0.25rem;
-  vertical-align: middle;
-  border-radius: 4px;
-  box-shadow: none;
-  outline: none;
+/* Images inside paragraphs: keep the block display so captions wrap below.
+   The general .markdown img rule (display:block) handles this correctly.
+   Only truly tiny inline icons (< 2em height) should be inline — handled
+   by the board-pic rule and any future icon-specific selectors. */
+
+/* Image captions: Docusaurus renders ![alt](src)*caption* as
+   <p><img>\n<em>caption text</em></p>. Make the paragraph a flex column
+   so the caption always sits below the image, centered and styled. */
+.markdown p:has(> img) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  margin: 1.5rem auto;
+  max-width: min(100%, 720px);
+}
+
+.markdown p:has(> img) img {
+  margin: 0 auto;
+  width: 100%;
   max-width: 100%;
 }
 
-/* Standalone images in markdown are centered via the block rule above.
-   Note: :has() selectors removed for performance — they caused layout
-   thrashing on image-heavy pages in Chrome. */
+.markdown p:has(> img) > em {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--halt-text-light, #718096);
+  margin-top: 0.45rem;
+  line-height: 1.4;
+  padding: 0 0.5rem;
+}
+
+[data-theme='dark'] .markdown p:has(> img) > em {
+  color: #9ca3af;
+}
+
+/* Standalone images in markdown are centered via the block rule above. */
 
 /* Board member float images keep their existing style */
 img[alt=board-pic] {
