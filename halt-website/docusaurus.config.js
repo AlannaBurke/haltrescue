@@ -123,6 +123,7 @@ const config = {
           },
           { to: '/about', label: 'About', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/success-stories', label: '🐾 Success Stories', position: 'left' },
         ],
         },
       
@@ -143,6 +144,10 @@ const config = {
               {
                 label: 'Petfinder',
                 href: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/',
+              },
+              {
+                label: 'Success Stories',
+                to: '/success-stories',
               },
             ],
           },
