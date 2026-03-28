@@ -177,6 +177,112 @@
   transform: translateY(-2px);
 }
 
+/* ── Section Header (shared) ─────────────────────────────────────────────── */
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.sectionEyebrow {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--halt-teal, #0f8a93);
+  margin-bottom: 0.4rem;
+}
+
+.sectionHeading {
+  font-family: 'Nunito', sans-serif;
+  font-size: clamp(1.5rem, 3.5vw, 2rem);
+  font-weight: 900;
+  color: var(--ifm-heading-color, #2d3748);
+  margin: 0 0 0.6rem;
+}
+
+.sectionSubtext {
+  font-size: 1rem;
+  color: var(--halt-text-medium, #4a5568);
+  max-width: 520px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* ── Adoptable Section ────────────────────────────────────────────────────── */
+.adoptableSection {
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, #fff8f0 0%, #fff3e8 100%);
+  border-top: 3px solid var(--halt-coral, #e07a6e);
+  border-bottom: 3px solid var(--halt-coral, #e07a6e);
+}
+
+.adoptableSection .sectionEyebrow {
+  color: var(--halt-coral, #e07a6e);
+}
+
+.adoptableSection .sectionHeading {
+  color: var(--halt-coral-dark, #c45f54);
+}
+
+.cardAdoptable {
+  border-color: var(--halt-coral, #e07a6e) !important;
+  box-shadow: 0 4px 20px rgba(224, 122, 110, 0.15) !important;
+}
+
+.cardAdoptable:hover {
+  box-shadow: 0 10px 32px rgba(224, 122, 110, 0.28) !important;
+}
+
+.adoptableBadge {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  background: var(--halt-coral, #e07a6e);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  z-index: 2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.readMoreAdoptable {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--halt-coral, #e07a6e) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: color 0.2s;
+}
+
+.readMoreAdoptable:hover {
+  text-decoration: underline !important;
+  color: var(--halt-coral-dark, #c45f54) !important;
+}
+
+.adoptableCta {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2.5rem;
+}
+
+.gridCentered {
+  justify-content: center;
+}
+
+.gridCentered > * {
+  max-width: 360px;
+}
+
+[data-theme='dark'] .adoptableSection {
+  background: linear-gradient(135deg, #2a1a14 0%, #251510 100%);
+}
+
 /* ── Grid Section ─────────────────────────────────────────────────────────── */
 .gridSection {
   padding: 4rem 2rem;
@@ -188,14 +294,6 @@
   margin: 0 auto;
 }
 
-.gridHeading {
-  font-family: 'Nunito', sans-serif;
-  font-size: 1.8rem;
-  font-weight: 800;
-  color: var(--halt-teal, #0f8a93);
-  margin-bottom: 2rem;
-  text-align: center;
-}
 
 .grid {
   display: grid;
