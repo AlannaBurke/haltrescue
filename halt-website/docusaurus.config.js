@@ -129,8 +129,8 @@ const config = {
           },
           { to: '/about', label: 'About', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/adoptables', label: '🐾 Adopt', position: 'left' },
-          { to: '/success-stories', label: '💛 Success Stories', position: 'left' },
+          { to: '/adoptables', label: 'Adopt', position: 'left' },
+          { to: '/success-stories', label: 'Success Stories', position: 'left' },
         ],
         },
       
