@@ -10,6 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   future: {
     experimental_faster: true,
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
   },
   title: 'Helping All Little Things',
   tagline: 'Finding loving homes for small animals.',
