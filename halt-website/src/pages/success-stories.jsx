@@ -78,6 +78,15 @@ const ADOPTED = [
     tags: ['Guinea Pigs'],
     blogPath: '/blog/ducky-joins-the-herd',
   },
+  {
+    slug: 'tonks-finds-her-forever-home',
+    title: 'Tonks Finds Her Forever Home',
+    date: 'March 25, 2026',
+    desc: 'A Californian bunny who had been waiting at a shelter for a long time found the perfect family — Danni's parents, the best bunny parents ever.',
+    image: '/blog-img/tonks-photo1.jpg',
+    tags: ['Rabbits'],
+    blogPath: '/blog/tonks-finds-her-forever-home',
+  },
 ];
 
 /* ─────────────────────────────────────────────────────────────
