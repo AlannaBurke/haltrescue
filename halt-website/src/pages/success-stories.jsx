@@ -200,8 +200,8 @@ export default function SuccessStoriesPage() {
             and found families who gave them everything.
           </p>
           <div className={styles.introActions}>
-            <Link href="https://bit.ly/halt-adoption" className={styles.btnPrimary}>
-              Adopt an Animal
+            <Link href="https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/" className={styles.btnPrimary}>
+              Meet Our Adoptables on Petfinder
             </Link>
             <Link href="/blog/tags/success-stories" className={styles.btnSecondary}>
               Browse All Stories
@@ -228,14 +228,14 @@ export default function SuccessStoriesPage() {
               ))}
             </div>
             <div className={styles.adoptableCta}>
-              <Link href="https://bit.ly/halt-adoption" className={styles.btnPrimary}>
-                Apply to Adopt
+              <Link href="https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/" className={styles.btnPrimary}>
+                View All on Petfinder
               </Link>
               <Link
-                href="https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/"
+                href="https://bit.ly/halt-adoption"
                 className={styles.btnSecondary}
               >
-                View All on Petfinder
+                Apply to Adopt
               </Link>
             </div>
           </div>
@@ -268,7 +268,7 @@ export default function SuccessStoriesPage() {
             We have small animals of all kinds waiting for their forever homes —
             guinea pigs, rats, hamsters, mice, rabbits, and more.
           </p>
-          <Link href="https://bit.ly/halt-adoption" className={styles.ctaBtn}>
+          <Link href="https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/" className={styles.ctaBtn}>
             Meet Our Adoptables on Petfinder
           </Link>
         </div>
