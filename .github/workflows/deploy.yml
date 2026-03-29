@@ -32,6 +32,9 @@ jobs:
 
       - name: Build website
         run: npm run build
+        env:
+          NODE_OPTIONS: --max-old-space-size=4096
+
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.8.0
