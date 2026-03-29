@@ -125,13 +125,7 @@ export default function AdoptablesPage() {
             <span>We help match you with the right animal for your lifestyle</span>
           </div>
         </div>
-        <div className={styles.infoItem}>
-          <span className={styles.infoIcon}>📍</span>
-          <div>
-            <strong>New England</strong>
-            <span>Serving NH, MA, CT, NY, NJ, and surrounding states</span>
-          </div>
-        </div>
+
       </section>
 
       {/* ── Widget section ───────────────────────────────────────────────── */}
