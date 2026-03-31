@@ -40,9 +40,11 @@ Hamsters are relatively quiet but do vocalize, particularly when stressed or fri
 
 ## Solitary Nature and Housing
 
-Most hamster species — including Syrian hamsters — are **strictly solitary** and must be housed alone. Syrian hamsters in particular are highly territorial and will fight to the death if housed together after weaning. Even dwarf species, which are sometimes kept in pairs, require careful monitoring and should be separated at the first sign of conflict.
+All pet hamster species are best housed alone. Syrian and Chinese hamsters are **strictly solitary** and will fight to the death if housed together after weaning. Dwarf species (Roborovski, Campbell's, Winter White) are sometimes described as more social, but experienced keepers consistently report fatal fighting — even in pairs that have lived together for months. **HALT's recommendation is to house all hamsters individually**, regardless of species.
 
-A hamster kept alone is not lonely — they are living as nature intended. Providing deep bedding, tunnels, a large wheel, and foraging opportunities is far more important for their welfare than companionship.
+It is also worth noting that most Campbell's and Winter White hamsters sold in the US are **hybrids** of the two species, which makes predicting their social tolerance even more difficult. Chinese hamsters, despite sometimes being grouped with the dwarfs, have a wild social structure that is closer to the Syrian's — they too should be treated as fully solitary.
+
+A hamster kept alone is not lonely — they are living as nature intended. Providing deep bedding, tunnels, a large wheel, and foraging opportunities is far more important for their welfare than companionship. If two hamsters appear to be tolerating each other, this does not mean the arrangement is safe — one animal may be suppressing its natural behaviour out of stress, and conflict can escalate without warning.
 
 ## Signs of a Happy and Healthy Hamster
 

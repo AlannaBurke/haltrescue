@@ -39,7 +39,8 @@ Building trust with a hamster takes time and patience, as they can be skittish.
 *   **Handling:** Hold them cupped in your hands, close to a surface like your lap or a table, in case they try to jump. 
 *   **Syrian vs. Dwarf:** Syrian hamsters are generally slower and easier to handle than the much faster and smaller dwarf species.
 
-## Important Note on Species
+## Important Note on Species and Housing
 
 *   **Syrian Hamsters:** Also known as Golden or Teddy Bear hamsters, they are larger and **strictly solitary**. They MUST be housed alone after 8-10 weeks of age to prevent fatal fighting.
-*   **Dwarf Hamsters:** (Roborovski, Campbell's, Winter White) are smaller and can sometimes be housed in same-sex pairs or groups, but only if introduced at a very young age. Be prepared to separate them permanently if fighting occurs.
+*   **Chinese Hamsters:** Despite sometimes being grouped with dwarf species, Chinese hamsters have a solitary wild social structure similar to Syrians. They should be treated as **fully solitary** and housed alone.
+*   **Dwarf Hamsters (Roborovski, Campbell's, Winter White):** While these species are sometimes described as social, **HALT's recommendation is to house all hamsters individually.** Fatal fighting — even between long-bonded pairs — is well-documented across all three dwarf species, including Roborovskis. Additionally, the vast majority of Campbell's and Winter White hamsters sold in the US are **hybrids**, making social compatibility even less predictable. If you choose to attempt cohousing, you must keep a fully-equipped spare cage ready and monitor the animals closely every single day.

@@ -33,38 +33,42 @@ Also known as the Golden Hamster or Teddy Bear Hamster, the Syrian is the most p
 
 ### 2. Dwarf Campbell's Russian Hamster (*Phodopus campbelli*)
 
-One of the two most common dwarf hamsters, Campbell's are small, fast, and can be nippy if not well-socialized. They can sometimes be kept in same-sex pairs if introduced from a young age, but this requires careful monitoring.
+One of the two most common dwarf hamsters, Campbell's are small, fast, and can be nippy if not well-socialized. **Important note for US owners:** the vast majority of Campbell's dwarf hamsters sold in the United States are **hybrids** — crosses between *Phodopus campbelli* and *Phodopus sungorus* (Winter White). Only a very small number of breeders work with verified purebred European lines. This hybridization makes it even harder to predict social compatibility, as hybrid temperament and tolerance for cohousing is less predictable than in purebred lines.
+
+While Campbell's can technically be kept in same-sex pairs if introduced from a young age, fighting — sometimes fatal — is a very real risk that can occur suddenly even in pairs that have cohabited peacefully for months. **HALT's recommendation is to house all hamsters individually.** If you choose to attempt cohousing, you must be prepared to separate them permanently at any time, keep a spare fully-equipped cage ready, and monitor them closely every day.
 
 *   **Size**: 3-4 inches
 *   **Lifespan**: 1.5-2 years
-*   **Social Needs**: Can be kept in same-sex pairs (with caution)
+*   **Social Needs**: **Recommended solo.** Cohousing is high-risk and requires expert-level monitoring.
 *   **Activity**: Primarily nocturnal, but active at dawn and dusk
 
 ### 3. Dwarf Winter White Russian Hamster (*Phodopus sungorus*)
 
-Very similar in appearance to the Campbell's, the Winter White can change its coat to white in winter months (though this rarely happens in captivity). They are generally considered slightly calmer than Campbell's. They can sometimes be kept in same-sex pairs.
+Very similar in appearance to the Campbell's, the Winter White can change its coat to white in winter months (though this rarely happens in captivity). They are generally considered slightly calmer than Campbell's, but this reputation does not reliably translate into safer cohousing. As noted above, most Winter Whites sold in the US are **hybrids** with Campbell's, making true purebred Winter Whites uncommon outside of specialist breeders. While Winter Whites are technically the more colony-oriented of the two Russian dwarf species in the wild, this does not mean captive pairs are low-risk — fatal fights between previously bonded pairs are well-documented.
+
+**HALT's recommendation is to house all hamsters individually.** Cohousing should only be considered by very experienced owners who can recognise the early warning signs of conflict and who have a fully-equipped spare cage ready at all times.
 
 *   **Size**: 3-4 inches
 *   **Lifespan**: 1.5-2 years
-*   **Social Needs**: Can be kept in same-sex pairs (with caution)
+*   **Social Needs**: **Recommended solo.** Cohousing is high-risk and requires expert-level monitoring.
 *   **Activity**: Primarily nocturnal
 
 ### 4. Roborovski Dwarf Hamster (*Phodopus roborovskii*)
 
-The smallest and fastest of all pet hamsters, Roborovskis are best suited for experienced owners who enjoy watching them rather than handling them. They are extremely quick and can be difficult to handle. They are the most social of the dwarf species and do best in same-sex pairs or small groups. [3]
+The smallest and fastest of all pet hamsters, Roborovskis are best suited for experienced owners who enjoy watching them rather than handling them. They are extremely quick and can be difficult to handle. Roborovskis are sometimes described as the most social of the dwarf species, but this reputation can be misleading: experienced keepers report fights to the death in Roborovski pairs and groups at rates comparable to other dwarf species. **HALT's recommendation is to house all hamsters individually**, including Roborovskis. [3]
 
 *   **Size**: 1.5-2 inches
 *   **Lifespan**: 3-3.5 years
-*   **Social Needs**: Best kept in same-sex pairs or groups
+*   **Social Needs**: **Recommended solo.** Despite their reputation, fatal fighting in pairs and groups is well-documented.
 *   **Activity**: Primarily nocturnal
 
 ### 5. Chinese Hamster (*Cricetulus griseus*)
 
-Technically not a true dwarf hamster, the Chinese hamster is slender and mouse-like in appearance, with a longer tail than other hamsters. They are generally gentle and can be tamed, but are less commonly available than the other species.
+Despite sometimes being grouped with the dwarf species, the Chinese hamster is **not a true dwarf hamster** — it belongs to a different genus (*Cricetulus*) and has a wild social structure more similar to the Syrian hamster than to the Russian dwarfs. In the wild, Chinese hamsters are largely solitary. For this reason, **Chinese hamsters should be treated as fully solitary animals** and housed alone. Attempting to cohouse them carries the same risks as with Syrians.
 
 *   **Size**: 3-5 inches
 *   **Lifespan**: 2-3 years
-*   **Social Needs**: Best kept alone or in same-sex pairs (with caution)
+*   **Social Needs**: **Must be kept alone.** Wild social structure is solitary; cohousing is not recommended.
 *   **Activity**: Primarily nocturnal
 
 ## Quick Comparison
@@ -72,10 +76,10 @@ Technically not a true dwarf hamster, the Chinese hamster is slender and mouse-l
 | Species | Size | Lifespan | Social Needs | Handleability |
 | :--- | :--- | :--- | :--- | :--- |
 | **Syrian** | 5-7" | 2-3 yrs | **Solitary (mandatory)** | Excellent |
-| **Campbell's Dwarf** | 3-4" | 1.5-2 yrs | Pairs (with caution) | Moderate |
-| **Winter White Dwarf** | 3-4" | 1.5-2 yrs | Pairs (with caution) | Moderate |
-| **Roborovski Dwarf** | 1.5-2" | 3-3.5 yrs | Pairs/groups | Challenging |
-| **Chinese** | 3-5" | 2-3 yrs | Alone or pairs | Good |
+| **Campbell's Dwarf** | 3-4" | 1.5-2 yrs | **Solo recommended** (mostly hybrids in US) | Moderate |
+| **Winter White Dwarf** | 3-4" | 1.5-2 yrs | **Solo recommended** (mostly hybrids in US) | Moderate |
+| **Roborovski Dwarf** | 1.5-2" | 3-3.5 yrs | **Solo recommended** (fighting risk underestimated) | Challenging |
+| **Chinese** | 3-5" | 2-3 yrs | **Solitary (mandatory)** | Good |
 
 ---
 

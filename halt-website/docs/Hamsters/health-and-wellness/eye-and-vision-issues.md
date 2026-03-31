@@ -52,6 +52,5 @@ Eye problems are a common ailment in hamsters, especially as they age. A healthy
 *   **Use Safe Bedding:** Choose a low-dust bedding like paper or aspen to minimize irritation.
 *   **Ensure a Safe Environment:** Remove any sharp objects from the cage.
 *   **Proper Handling:** Never scruff a hamster too tightly.
-*   **Monitor Social Groups:** In dwarf hamsters that live together, watch for any signs of fighting.
 
 Daily health checks are a great way to spot eye problems early. Any squinting, discharge, or change in the eye's appearance should prompt a call to your vet.

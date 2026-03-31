@@ -22,7 +22,7 @@ Hamsters are often purchased as a first pet for young children, but the reality 
 
 Hamsters typically live **1.5 to 3 years**, depending on species. Syrian hamsters (the large "golden" hamsters) tend to live toward the longer end; dwarf species are often shorter-lived. This brief lifespan can be emotionally difficult, particularly for young children who may not be prepared for the loss.
 
-Hamsters are **solitary animals** and must be housed alone. Syrian hamsters in particular will fight to the death if housed with another hamster after weaning. Dwarf species can sometimes be kept in same-sex pairs if introduced young, but this requires careful monitoring.
+Hamsters are **solitary animals** and should be housed alone. Syrian and Chinese hamsters are strictly solitary and will fight to the death if housed with another hamster after weaning. While dwarf species (Roborovski, Campbell's, Winter White) are sometimes described as social, **HALT's recommendation is to house all hamsters individually** — fatal fighting between previously bonded pairs is well-documented across all dwarf species, and the vast majority of Campbell's and Winter Whites sold in the US are hybrids with unpredictable social compatibility.
 
 ## What They Need Every Day
 
