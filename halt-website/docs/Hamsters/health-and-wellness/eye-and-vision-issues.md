@@ -37,6 +37,11 @@ Eye problems are a common ailment in hamsters, especially as they age. A healthy
     *   **Cause:** This is a traumatic condition where the entire eyeball pops out of its socket. It can be caused by a severe fight or by improper handling (excessive pressure on the scruff).
     *   **Action:** **This is a dire emergency.** The eye must be kept moist with saline solution or lubricant, and the hamster must be rushed to an emergency vet. The vet will attempt to replace the eye, but often removal is the only option.
 
+6.  **Entropion:**
+    *   **Cause:** Entropion is a condition in which the eyelid rolls inward, causing fur or skin to rub against the cornea. It can be primary (a structural/congenital issue) or secondary to chronic conjunctivitis or blepharitis, often triggered by dusty or irritant bedding. It has been reported in both Syrian and dwarf hamsters.
+    *   **Signs:** Persistent ocular discharge, squinting, redness, and visible inward rolling of the eyelid margin. The cornea may appear cloudy if ulceration has developed.
+    *   **Action:** A veterinarian should examine the eye and perform fluorescein staining to check for corneal ulcers. Mild cases may respond to topical lubricants and husbandry improvements (switching to low-dust bedding). Structural entropion requires surgical correction using the modified Hotz-Celsus technique. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
+
 ## Prevention
 
 *   **Use Safe Bedding:** Choose a low-dust bedding like paper or aspen to minimize irritation.

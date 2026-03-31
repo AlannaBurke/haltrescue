@@ -38,6 +38,11 @@ Frequently, owners become alarmed when they see a red, blood-like crust around t
     *   **What it is:** This is a strange but normal behavior where a rat's eyes seem to vibrate or bulge in and out of their sockets. It is the rat equivalent of a cat's purr. It happens when a rat is extremely happy and relaxed, and is often accompanied by teeth grinding (bruxing).
     *   **Action:** Nothing! This is a sign of a very content rat.
 
+4.  **Entropion (Patchwork Rats):**
+    *   **What it is:** Entropion — the inward rolling of the eyelid so that fur rubs against the cornea — is a **genetic condition strongly associated with the patchwork (roan/husky) coat pattern** in domestic rats. In one survey, 100% of patchwork rats examined had entropion. It causes chronic pain, corneal ulceration, and potential vision loss.
+    *   **Signs:** Persistent eye discharge, squinting, redness, and visible inward rolling of the eyelid margin.
+    *   **Action:** Consult an exotic animal veterinarian. Mild cases may be managed with lubricants and husbandry improvements. Structural entropion requires surgical correction. Because this condition is directly linked to the patchwork gene, ethical breeders and rescues strongly advise against breeding patchwork rats. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
+
 ## Prevention
 
 *   **Monitor for Porphyrin:** Use the amount of porphyrin as a daily health check.

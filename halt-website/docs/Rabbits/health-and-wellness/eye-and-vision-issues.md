@@ -41,4 +41,9 @@ A rabbit's teeth grow continuously throughout its life. The roots of the upper i
     *   **Cause:** A clouding of the lens. This can be an age-related change in senior rabbits or can be caused by the parasite *E. cuniculi* in younger rabbits.
     *   **Action:** Rabbits adapt well to blindness. The main importance of a cataract diagnosis is to consider testing and treating for *E. cuniculi* if it is suspected.
 
+5.  **Entropion:**
+    *   **Cause:** Entropion is the most commonly observed eyelid abnormality in rabbits. The eyelid rolls inward, causing fur to rub against the cornea. It can be primary (congenital, with a breed predisposition in New Zealand Whites and French Lops) or secondary to chronic blepharitis or infection.
+    *   **Signs:** Epiphora (tearing), squinting, conjunctival redness, and in advanced cases, corneal ulceration.
+    *   **Action:** A veterinarian should examine the eye and check for corneal ulcers. Surgical correction using the modified Hotz-Celsus technique is the standard treatment. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
+
 Because of the intricate connection between a rabbit's eyes and teeth, any eye problem—especially a weepy one—should be considered a serious warning sign that requires a comprehensive veterinary workup.
