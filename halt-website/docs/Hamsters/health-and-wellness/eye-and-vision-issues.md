@@ -42,6 +42,11 @@ Eye problems are a common ailment in hamsters, especially as they age. A healthy
     *   **Signs:** Persistent ocular discharge, squinting, redness, and visible inward rolling of the eyelid margin. The cornea may appear cloudy if ulceration has developed.
     *   **Action:** A veterinarian should examine the eye and perform fluorescein staining to check for corneal ulcers. Mild cases may respond to topical lubricants and husbandry improvements (switching to low-dust bedding). Structural entropion requires surgical correction using the modified Hotz-Celsus technique. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
 
+7.  **Microphthalmia (Congenital Small Eye):**
+    *   **What it is:** Microphthalmia is a congenital condition in which one or both eyes are abnormally small from birth. In **Campbell's dwarf hamsters**, a specific gene called *Mi* (microphthalmia) causes this condition. Heterozygous (*Mi*/+) hamsters have a distinctive white coat with dark markings and mildly affected eyes. Homozygous (*Mi*/*Mi*) hamsters are born with severely underdeveloped eyes, no incisors, and skeletal abnormalities, and are typically lethal within three weeks. In Syrian hamsters, a hereditary form associated with colobomas (structural gaps in the eye) has also been described.
+    *   **Signs:** One or both eyes appear visibly smaller than normal, or an eyelid may not open fully. There may be persistent discharge from a small or partially closed eye.
+    *   **Action:** A veterinarian should assess whether the eye is comfortable and whether secondary complications such as corneal ulceration are developing. Breeders should be aware of the *Mi* gene in Campbell's dwarf hamster lines and avoid breeding two heterozygous (*Mi*/+) animals together, as this produces 25% lethal homozygous offspring. See our full guide: [Microphthalmia in Small Pets](/docs/general-care/health-and-medical/microphthalmia)
+
 ## Prevention
 
 *   **Use Safe Bedding:** Choose a low-dust bedding like paper or aspen to minimize irritation.

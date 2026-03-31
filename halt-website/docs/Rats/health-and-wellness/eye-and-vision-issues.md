@@ -43,6 +43,11 @@ Frequently, owners become alarmed when they see a red, blood-like crust around t
     *   **Signs:** Persistent eye discharge, squinting, redness, and visible inward rolling of the eyelid margin.
     *   **Action:** Consult an exotic animal veterinarian. Mild cases may be managed with lubricants and husbandry improvements. Structural entropion requires surgical correction. Because this condition is directly linked to the patchwork gene, ethical breeders and rescues strongly advise against breeding patchwork rats. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
 
+5.  **Microphthalmia (Congenital Small Eye):**
+    *   **What it is:** Microphthalmia is a congenital condition in which one or both eyes are abnormally small from birth. In rats, it has been linked to mutations in the **connexin 50** gene, which is essential for normal lens development. Affected rats have significantly smaller eyes and dense cataracts from birth. The condition has also been documented across multiple generations of albino rat lines, indicating it can persist in a breeding population once established.
+    *   **Signs:** One or both eyes appear visibly smaller than normal, often with a cloudy lens. The rat may navigate its familiar environment without apparent difficulty, as rats rely heavily on non-visual senses.
+    *   **Action:** A veterinarian should assess whether the eye is comfortable and whether secondary complications are developing. See our full guide: [Microphthalmia in Small Pets](/docs/general-care/health-and-medical/microphthalmia)
+
 ## Prevention
 
 *   **Monitor for Porphyrin:** Use the amount of porphyrin as a daily health check.

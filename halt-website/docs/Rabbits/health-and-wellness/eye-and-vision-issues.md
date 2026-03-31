@@ -46,4 +46,9 @@ A rabbit's teeth grow continuously throughout its life. The roots of the upper i
     *   **Signs:** Epiphora (tearing), squinting, conjunctival redness, and in advanced cases, corneal ulceration.
     *   **Action:** A veterinarian should examine the eye and check for corneal ulcers. Surgical correction using the modified Hotz-Celsus technique is the standard treatment. See our full guide: [Entropion in Small Pets](/docs/general-care/health-and-medical/entropion)
 
+6.  **Microphthalmia (Congenital Small Eye):**
+    *   **What it is:** Microphthalmia is a congenital condition in which one or both eyes are abnormally small from birth. It may occur alongside other structural eye defects such as cataracts, colobomas, or retinal abnormalities. Some rabbits with a small eye retain partial vision; others have no functional vision in the affected eye.
+    *   **Signs:** One eye visibly smaller than the other, detected at or shortly after birth. The rabbit may navigate poorly in unfamiliar environments or startle more easily. Squinting, discharge, or corneal cloudiness may develop if the small eye is not adequately protected by the eyelids.
+    *   **Action:** A veterinarian should assess whether the eye is comfortable and whether the corneal surface is healthy. Many rabbits adapt well and require only monitoring and lubrication. A chronically painful eye may need to be removed. See our full guide: [Microphthalmia in Small Pets](/docs/general-care/health-and-medical/microphthalmia)
+
 Because of the intricate connection between a rabbit's eyes and teeth, any eye problem—especially a weepy one—should be considered a serious warning sign that requires a comprehensive veterinary workup.

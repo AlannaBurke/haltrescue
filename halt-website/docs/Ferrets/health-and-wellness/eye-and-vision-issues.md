@@ -38,6 +38,11 @@ Because their eyesight is not their primary sense, many ferrets can adapt remark
     *   **Uveitis:** This is an inflammation inside the eye, which can be a sign of systemic disease like Aleutian disease or a spreading cancer.
     *   **Bulging Eyes:** A bulging of one or both eyes can be a sign of lymphoma (cancer) behind the eye or severe heart disease.
 
+5.  **Microphthalmia (Congenital Small Eye):**
+    *   **What it is:** Microphthalmia is a congenital condition in which one or both eyes are abnormally small from birth. In ferrets, it is caused by an **autosomal dominant** mutation, meaning only one copy of the gene from one parent is needed to produce the condition. The mutation causes a syndrome of microphthalmos, congenital cataracts, and retinal dysplasia — all arising from the same underlying failure of normal eye development. Because it is dominant, an affected ferret can pass the condition to offspring even if only one parent carries it.
+    *   **Signs:** One or both eyes appear visibly smaller than normal, often with a cloudy lens (cataract) visible even in young ferrets. Vision in the affected eye is typically poor or absent.
+    *   **Action:** A veterinarian should assess the eye for comfort and secondary complications. Affected ferrets should not be used for breeding. See our full guide: [Microphthalmia in Small Pets](/docs/general-care/health-and-medical/microphthalmia)
+
 ## Living with a Blind or Visually Impaired Ferret
 
 Ferrets adapt incredibly well to blindness. The key to helping them is consistency.

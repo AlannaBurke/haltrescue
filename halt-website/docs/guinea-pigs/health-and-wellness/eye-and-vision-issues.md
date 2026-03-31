@@ -33,6 +33,11 @@ Eye problems are common in guinea pigs and can range from minor irritations to i
     *   **Signs:** A white, opaque appearance deep within the center of the eye. It leads to progressive vision loss.
     *   **Action:** Most guinea pigs adapt very well to the gradual vision loss associated with age-related cataracts. No treatment is typically required, but a vet visit is needed for a proper diagnosis.
 
+5.  **Microphthalmia (Small Eye):**
+    *   **What it is:** Microphthalmia means one or both eyes are abnormally small from birth. It is a congenital (present-at-birth) condition, not something a guinea pig develops over time. In guinea pigs, it is strongly associated with the **roan coat gene**: breeding two roan guinea pigs together can produce "lethal white" offspring with severe microphthalmia or anophthalmia (absent eyes), deafness, and digestive defects. Even in heterozygous roan guinea pigs, the rate of microphthalmos and cataract is statistically higher than in other breeds.
+    *   **Signs:** One or both eyes appear visibly smaller than the other, or are sunken. There may be secondary keratitis (corneal inflammation) if the small eye is not adequately covered by the eyelids.
+    *   **Action:** A veterinarian should assess whether the eye is comfortable and whether the corneal surface is protected. Many guinea pigs with a small eye live comfortably with monitoring and lubrication. A painful or repeatedly ulcerated eye may need to be removed. **Do not breed roan × roan guinea pigs.** See our full guide: [Microphthalmia in Small Pets](/docs/general-care/health-and-medical/microphthalmia)
+
 ## The Normal Milky-White Discharge
 
 It is normal for guinea pigs to secrete a milky-white fluid from their eyes. They use this fluid to groom their faces. You may see them wipe their eyes with their front paws and then clean their fur. This is a normal, healthy behavior and should not be confused with an infectious discharge, which would be thicker, yellowish, and accompanied by redness or swelling.
