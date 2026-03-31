@@ -9,7 +9,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Proper Handling of Pet Hamsters
 
-<InfographicShare imageSrc="/img/hamsters/hamster-handling.png" />
+<InfographicShare
+  imageSrc="/img/hamsters/hamster-handling-infographic.png"
+  alt="Kawaii-style infographic showing five safe hamster handling tips: never grab from above, cup gently from below, stay low, let them sniff your hand first, and start with short 5-minute sessions."
+  title="How to Handle Your Hamster Safely"
+/>
 
 Hamsters are naturally timid prey animals, and earning their trust is a gradual process that requires patience and a gentle approach. Learning how to handle your hamster correctly is the key to building a strong, positive bond and ensuring they feel safe and secure in your care. [1]
 

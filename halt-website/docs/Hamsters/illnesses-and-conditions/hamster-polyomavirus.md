@@ -3,8 +3,15 @@ sidebar_label: Hamster Polyomavirus (HaPyV)
 tags: [hamsters, viral disease, tumors, skin, lymphoma, polyomavirus]
 description: "A comprehensive guide to Hamster Polyomavirus (HaPyV) — the virus responsible for trichoepitheliomas (skin tumors) and lymphoma in Syrian hamsters. Covers causes, clinical signs, diagnosis, and what to do if your hamster is affected."
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Hamster Polyomavirus (HaPyV)
+
+<InfographicShare
+  imageSrc="/img/hamsters/hamster-polyomavirus-infographic.png"
+  alt="Kawaii-style infographic showing a sad hamster with skin nodules, with four info panels: transmitted via urine, age determines outcome, adult skin tumors (trichoepitheliomas), and young hamsters: lymphoma up to 80% fatal. Note at bottom: HaPyV is not the same as HaPV."
+  title="Hamster Polyomavirus (HaPyV) Infographic"
+/>
 
 Hamster Polyomavirus — formally known as *Mesocricetus auratus* polyomavirus 1 and abbreviated **HaPyV** — is a naturally occurring, highly contagious DNA virus that affects Syrian (golden) hamsters (*Mesocricetus auratus*). It is the only well-characterized polyomavirus known in hamsters and is the sole cause of a specific type of skin tumor called a **trichoepithelioma** in this species.[^1] [^2] While HaPyV infection is uncommon in laboratory hamster colonies today, it may be encountered more frequently in some pet hamster populations.[^3]
 

@@ -6,20 +6,17 @@ tags: [hamsters, housing, getting started]
 ---
 
 
-# Hamster Habitat
-
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/hamsters/hamster-habitat-guide.png" />
-
-
-A hamster's cage is its entire world, so creating a safe, spacious, and enriching environment is the most important responsibility of any owner. The right habitat prevents stress, boredom, and escape attempts, allowing your hamster to thrive.
+# Hamster Habitat
 
 <InfographicShare
   imageSrc="/img/hamsters/hamster-habitat-guide.png"
   alt="An infographic showing the ideal habitat setup for hamsters, including enclosure type, bedding depth, enrichment items, and environmental conditions."
   title="Hamster Habitat Guide Infographic"
 />
+
+A hamster's cage is its entire world, so creating a safe, spacious, and enriching environment is the most important responsibility of any owner. The right habitat prevents stress, boredom, and escape attempts, allowing your hamster to thrive.
 
 ## Enclosure: Bigger is Always Better
 
