@@ -8,7 +8,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Entropion in Small Pets
 
-<InfographicShare imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310519663404885239/ir8ZBMkrEmipstzK2EZ9Vs/entropion-infographic-Uu956sN9fFNhmmaihcdgCz.png" />
+<InfographicShare imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310519663404885239/ir8ZBMkrEmipstzK2EZ9Vs/entropion-infographic-v2-BEGcNesGqBqLTbTWNGAgtq.png" />
 
 **Entropion** is a condition in which the eyelid margin rolls inward toward the eye, causing the fur, eyelashes, or skin to rub directly against the cornea (the clear surface of the eye). This constant friction causes pain, irritation, and — if left untreated — progressive corneal damage that can result in scarring, ulceration, and permanent vision loss. Entropion has been documented in several of the species cared for by HALT, including rabbits, hamsters, guinea pigs, and rats.
 

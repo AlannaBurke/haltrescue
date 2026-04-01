@@ -8,7 +8,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Microphthalmia in Small Pets
 
-<InfographicShare imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310519663404885239/ir8ZBMkrEmipstzK2EZ9Vs/microphthalmia-infographic-7hoPNgqZQk4iS7gtrRTpEm.png" />
+<InfographicShare imageSrc="https://d2xsxph8kpxj0f.cloudfront.net/310519663404885239/ir8ZBMkrEmipstzK2EZ9Vs/microphthalmia-infographic-v2-khHzF9xXShjqSNReCN8hSc.png" />
 
 **Microphthalmia** (from the Greek *mikros*, small, and *ophthalmos*, eye) is a congenital developmental abnormality in which one or both eyeballs are smaller than normal. In the most severe form — **anophthalmia** — the globe is entirely absent. The condition arises when the embryonic optic vesicle fails to develop normally during fetal life, and the resulting eye may range from mildly reduced in size to a tiny, non-functional remnant buried beneath the eyelids.[^1]
 
