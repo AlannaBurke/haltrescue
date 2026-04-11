@@ -2,9 +2,7 @@
  * HALT Rescue — Success Stories Page
  * Design: Kawaii / warm teal + coral palette, Nunito font
  *
- * Two sections:
- *   1. "Happy Endings" — animals that have been adopted / found their forever home
- *   2. "Meet Our Adoptables" — animals currently available for adoption
+ * Shows adopted animals only. Adoptables are listed on the Adopt page.
  */
 import React from 'react';
 import Layout from '@theme/Layout';
@@ -89,20 +87,7 @@ const ADOPTED = [
   },
 ];
 
-/* ─────────────────────────────────────────────────────────────
-   ADOPTABLE — still looking for their forever home
-───────────────────────────────────────────────────────────── */
-const ADOPTABLE = [
-  {
-    slug: 'julius-cheeser-forever-home',
-    title: 'Julius Cheeser Is Looking for His Forever Home',
-    date: 'January 11, 2026',
-    desc: 'Found in a storm drain on Long Island, Julius has come so far. He\'s a champion burrower, a secret wheel athlete, and ready for a patient family.',
-    image: '/blog-img/julius-cheeser-photo1.jpg',
-    tags: ['Mice'],
-    blogPath: '/blog/julius-cheeser-forever-home',
-  },
-];
+
 
 /* ─────────────────────────────────────────────────────────────
    Tag color map
@@ -191,11 +176,7 @@ export default function SuccessStoriesPage() {
               <span className={styles.heroStatNumber}>{ADOPTED.length}</span>
               <span className={styles.heroStatLabel}>Happy endings shared</span>
             </div>
-            <div className={styles.heroStatDivider} aria-hidden="true" />
-            <div className={styles.heroStat}>
-              <span className={styles.heroStatNumber}>{ADOPTABLE.length}</span>
-              <span className={styles.heroStatLabel}>Waiting for their home</span>
-            </div>
+
           </div>
         </div>
       </div>
@@ -219,37 +200,7 @@ export default function SuccessStoriesPage() {
         </div>
       </div>
 
-      {/* ── Adoptable Section ────────────────────────────── */}
-      {ADOPTABLE.length > 0 && (
-        <div className={styles.adoptableSection}>
-          <div className={styles.gridInner}>
-            <div className={styles.sectionHeader}>
-              <div className={styles.sectionEyebrow}>Ready for a Forever Home</div>
-              <h2 className={styles.sectionHeading}>Meet Our Adoptables</h2>
-              <p className={styles.sectionSubtext}>
-                These animals are in our care right now and looking for their perfect match.
-                Could that be you?
-              </p>
-            </div>
-            <div className={`${styles.grid} ${ADOPTABLE.length === 1 ? styles.gridCentered : ''}`}>
-              {ADOPTABLE.map((story) => (
-                <StoryCard key={story.slug} story={story} adoptable={true} />
-              ))}
-            </div>
-            <div className={styles.adoptableCta}>
-              <Link href="https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/" className={styles.btnPrimary}>
-                View All on Petfinder
-              </Link>
-              <Link
-                href="https://bit.ly/halt-adoption"
-                className={styles.btnSecondary}
-              >
-                Apply to Adopt
-              </Link>
-            </div>
-          </div>
-        </div>
-      )}
+
 
       {/* ── Happy Endings Grid ───────────────────────────── */}
       <div className={styles.gridSection}>
