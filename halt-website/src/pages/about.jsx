@@ -49,7 +49,7 @@ const FAQS = [
   },
   {
     q: 'Do you take owner surrenders?',
-    a: <span>Yes, for most species. Please note that we are currently <strong>not accepting rabbit or rat surrenders</strong> due to capacity — we are overwhelmed with both at this time. For all other animals, please fill out our <a href="https://bit.ly/halt-surrender">surrender inquiry form</a> and we'll do our best to help. We never judge — we just want what's best for the animal.</span>,
+    a: <span>Yes, for most species. Please note that we are currently <strong>not accepting rabbit surrenders</strong> due to capacity — we are at capacity for this species at this time. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://bit.ly/halt-surrender">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue. We never judge — we just want what's best for the animal.</span>,
   },
   {
     q: 'Do you take in animals from other rescues or shelters?',
@@ -166,7 +166,7 @@ export default function About() {
           <div className={styles.surrenderNotice}>
             <span className={styles.surrenderIcon}>⚠️</span>
             <div>
-              <strong>Surrender notice:</strong> We are currently <strong>not accepting rabbit or rat surrenders</strong> due to capacity. We are at capacity for both species at this time. Please check back or reach out to inquire about future availability.
+              <strong>Surrender notice:</strong> We are currently <strong>not accepting rabbit surrenders</strong> due to capacity. We are at capacity for this species at this time. Please check back or reach out to inquire about future availability. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://bit.ly/halt-surrender">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue.
             </div>
           </div>
 
