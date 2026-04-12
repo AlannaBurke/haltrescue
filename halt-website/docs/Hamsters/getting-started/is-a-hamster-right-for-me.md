@@ -28,7 +28,7 @@ Hamsters are **solitary animals** and should be housed alone. Syrian and Chinese
 
 - **A large enclosure** — the minimum recommended size is 775 square inches of floor space (roughly 40 gallons), with **at least 6 inches of deep substrate** for burrowing, which is a critical behavioral need
 - **A solid-surface wheel** at least 10–11 inches in diameter for Syrian hamsters (smaller for dwarfs) — mesh or barred wheels cause injury
-- **Fresh food daily** alongside a quality seed mix or lab block base diet
+- **Fresh food daily** alongside a quality seed mix and lab blocks
 - **Enrichment** — tunnels, hides, and foraging opportunities to support natural behaviors
 
 Note that hamsters are **primarily active at night**. If you are hoping for a pet that is awake and playful during the day, a hamster will likely disappoint. They are typically asleep until evening, and their wheel can be audible at 2am.
