@@ -88,13 +88,13 @@
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  background: var(--ifm-color-primary-lightest, #e0f5f7);
-  border: 1.5px solid var(--ifm-color-primary, #0f8a93);
+  background: var(--ifm-color-primary, #0f8a93);
+  border: 1.5px solid var(--ifm-color-primary-dark, #0a6e76);
   border-radius: 999px;
   padding: 0.35rem 1rem;
   font-size: 0.95rem;
   font-weight: 600;
-  color: #0a5c63;
+  color: #ffffff;
 }
 
 .animalChipMuted {
