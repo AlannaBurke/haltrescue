@@ -50,7 +50,9 @@ Small animals are frequently marketed as inexpensive pets. The reality is more c
 
 Before getting any pet, research the cost of a veterinary visit for that species in your area. Find an exotic vet who sees your species of interest *before* you have an emergency. Know what an emergency visit costs. If you cannot afford unexpected veterinary care, that is important information.
 
-**What can be worked on:** Pet insurance exists for small animals and can significantly reduce the financial risk of emergency care. Some rescues and low-cost clinics offer reduced-cost services. Building a small emergency fund specifically for pet care — even $20 a month — makes a meaningful difference over time.
+**What can be worked on:** Pet insurance exists for small animals and can significantly reduce the financial risk of emergency care. **[Nationwide](https://www.petinsurance.com/exotics/) is currently the only US pet insurer that offers coverage for exotic pets**, including small mammals (hamsters, gerbils, ferrets, chinchillas, hedgehogs, rats, mice, sugar gliders), birds, rabbits, reptiles, and amphibians.[^11] Their Avian & Exotic Pet Plan covers accidents, injuries, and illnesses, with reimbursement of up to 90% of eligible veterinary expenses. Plans carry a $250 annual deductible and a maximum annual benefit of $7,500. An optional wellness add-on is available for approximately $99/year and provides $181 in routine care benefits with no deductible. Premiums vary by species and location but can start as low as $12–$18/month for small mammals. Nationwide can be reached at 844-397-8937 or at [petinsurance.com/exotics](https://www.petinsurance.com/exotics/). Note that some species are ineligible, including venomous or endangered animals and those requiring permits — check their site for the current eligibility list.
+
+Some rescues and low-cost clinics also offer reduced-cost services. Building a small emergency fund specifically for pet care — even $20 a month — makes a meaningful difference over time.
 
 ---
 
@@ -85,8 +87,8 @@ Every pet will eventually require end-of-life care, and many will require signif
 | Gerbil | 3–5 years |
 | Mouse | 1.5–3 years |
 | Rat | 2–3 years |
-| Guinea pig | 5–7 years |
-| Chinchilla | 10–15 years |
+| Guinea pig | 5–9 years |
+| Chinchilla | 10–20 years |
 | Rabbit | 8–12 years |
 | Ferret | 6–10 years |
 | Degu | 5–8 years |
@@ -148,3 +150,4 @@ HALT has animals available for adoption across New England and the Northeast. Ou
 [^8]: PawWorks. *How Much Does it Cost to Own a Small Pet?* https://pawworks.org/blog/b/how-much-does-it-cost-to-own-a-small-pet
 [^9]: PMC / University of Florida Health. *Housing-related companion animal relinquishment across 21 US shelters*. https://pmc.ncbi.nlm.nih.gov/articles/PMC11266180/
 [^10]: American Academy of Allergy, Asthma & Immunology / Family Allergy. *Animal Allergy*. https://familyallergy.com/education/allergy/animal/
+[^11]: Nationwide. *Exotic Pet Insurance — Avian & Exotic Pet Plan*. https://www.petinsurance.com/exotics/
