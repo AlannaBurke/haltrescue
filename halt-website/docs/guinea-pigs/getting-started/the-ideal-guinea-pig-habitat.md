@@ -9,7 +9,11 @@ description: "Creating a safe, spacious, and enriching environment is one of the
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/guinea-pig-coat-colors.jpg" />
+<InfographicShare
+  imageSrc="/img/guinea-pigs/gp-cage-setup-infographic.png"
+  alt="Infographic showing how to set up a proper guinea pig cage, including cage size, bedding, hides, food and water, extras, litter box, and toys."
+  title="How to Set Up a Proper Guinea Pig Cage"
+/>
 
 
 Creating a safe, spacious, and enriching environment is one of the most important responsibilities of a guinea pig owner. The right habitat directly impacts their physical health and mental well-being. Many cages sold in pet stores are unfortunately too small and do not meet the minimum space requirements for these active animals. Understanding the key components of an ideal habitat will help you provide the best possible home for your cavy.
@@ -20,8 +24,6 @@ Guinea pigs need ample, uninterrupted floor space to run, explore, and exhibit n
 
 *   **Minimum Size:** According to the Humane Society of the United States, the minimum cage size for a single guinea pig is 7.5 square feet, but since guinea pigs are highly social and should always be kept in pairs or groups, a more realistic minimum is **10.5 square feet for two guinea pigs** [1]. This is equivalent to a 2x4 grid C&C cage.
 *   **Why Space Matters:** Adequate space helps prevent boredom, reduces the likelihood of squabbles between cage mates, and encourages exercise, which is crucial for preventing obesity and other health problems.
-
-<InfographicShare imageSrc="/img/guinea-pigs/gp-habitat-diagram.png" />
 
 ## Cage Type: C&C Cages are the Gold Standard
 
