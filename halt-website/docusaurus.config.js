@@ -61,20 +61,29 @@ const config = {
         explicitSearchResultPath: true,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'sanctuary',
+        path: 'sanctuary',
+        routeBasePath: 'sanctuary',
+        sidebarPath: require.resolve('./sidebars.js'),
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: false,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'case-studies',
+        path: 'case-studies',
+        routeBasePath: 'case-studies',
+        sidebarPath: require.resolve('./sidebars.js'),
+        showLastUpdateAuthor: false,
+        showLastUpdateTime: false,
+      },
+    ],
   ],
-  // _old_plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-docs',
-  //     {
-  //       id: 'sanctuary',
-  //       path: 'sanctuary',
-  //       routeBasePath: 'sanctuary',
-  //       sidebarPath: require.resolve('./sidebars.js'),
-  //       showLastUpdateAuthor: false,
-  //       showLastUpdateTime: false,
-  //     },
-  //   ],
-  // ],
 
   presets: [
     [
@@ -114,13 +123,6 @@ const config = {
           src: 'img/logo-square.png',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'sanctuarySidebar',
-          //   docsPluginId: 'sanctuary',
-          //   position: 'left',
-          //   label: 'Sanctuary',
-          // },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -131,8 +133,20 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'left' },
           { to: '/adoptables', label: 'Adopt', position: 'left' },
           { to: '/success-stories', label: 'Success Stories', position: 'left' },
-          { to: '/docs/sanctuary', label: 'Sanctuary', position: 'left' },
-          { to: '/docs/case-studies', label: 'Case Studies', position: 'left' },
+          {
+            type: 'docSidebar',
+            sidebarId: 'sanctuarySidebar',
+            docsPluginId: 'sanctuary',
+            position: 'left',
+            label: 'Sanctuary',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'caseStudiesSidebar',
+            docsPluginId: 'case-studies',
+            position: 'left',
+            label: 'Case Studies',
+          },
         ],
         },
       
