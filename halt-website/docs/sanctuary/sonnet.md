@@ -1,30 +1,38 @@
 ---
 sidebar_label: 'Sonnet'
 sidebar_position: 6
-tags: [sanctuary, guinea pigs, reproductive health]
-description: "Sonnet is a HALT Rescue sanctuary guinea pig who was spayed for ovarian cysts and cervical hyperplasia. She arrived with severe hormonal hairloss and has made a remarkable recovery."
+tags: [sanctuary, guinea pigs, reproductive health, spay, ovarian cysts]
+description: "Sonnet is a tiny, petite guinea pig who arrived at HALT in March 2025 with severe hormonal hair loss, ovarian cysts, and cervical hyperplasia. She was spayed, made a full recovery, and now lives happily with Colin."
 ---
 
 # Sonnet
 
 **Species:** Guinea pig  
 **Status:** Sanctuary resident  
-**Arrived:** March 2025  
-**Condition:** Post-spay; ovarian cysts and cervical hyperplasia (resolved)
+**Arrived:** March 27, 2025  
+**Condition:** Post-spay; ovarian cysts and cervical hyperplasia (fully resolved)
 
 ---
 
-March 2026 marked one year since Sonnet came into our lives, and what a year it has been. She arrived with severe hormonal hair loss caused by ovarian cysts and hyperplasia of the cervical tissue — a rare combination that accounts for less than 2% of biopsied uteruses in guinea pigs.
+March 2026 marked one year since Sonnet came into our lives. She has come an incredibly long way.
 
-## Her Story
+## Her Intake
 
-Sonnet and Lyric came into the rescue back-to-back with the same rare reproductive condition — a remarkable coincidence. Both were spayed, and both have made incredible recoveries. Sonnet's hair has fully grown back and she looks incredible.
+When Sonnet arrived on March 27, 2025, she was a tiny 1-year-old girl weighing just 1.4 lbs — and she was noticeably bald in the middle. She came in with vaginal discharge, a possible mass in the reproductive area, and hair loss that was clearly hormonal. The working diagnosis at intake was ovarian cysts or pyometra, with pyometra being the stronger suspicion given her presentation. On top of all of that, she had slightly slanted front teeth — not as progressed as some cases, but something the team wanted to address sooner rather than later.
 
-While she fills a spot in the sanctuary, she is a reminder of how important it is to have a knowledgeable exotic vet who can recognize and treat reproductive disease in guinea pigs.
+She needed a spay as soon as possible.
 
-## Her Condition
+## Her Diagnosis and Recovery
 
-Ovarian cysts are relatively common in intact female guinea pigs, but the combination Sonnet had — cysts alongside cervical hyperplasia — is quite rare. The treatment was a full spay, which resolved the hormonal imbalance and allowed her coat to regrow.
+After her spay, the full picture became clear: Sonnet had **ovarian cysts and hyperplasia of the cervical tissue** — a rare combination that accounts for less than 2% of biopsied uteruses in guinea pigs. What made it even more remarkable was that **Lyric**, another guinea pig, came into the rescue around the same time with the exact same rare condition. Back to back. The odds of that are extraordinary.
+
+Both were spayed. Both made incredible recoveries.
+
+Sonnet's hair has fully grown back and she looks incredible. She has filled out a bit weight-wise, though she remains a petite girl — her exact age is a little difficult to pin down because of how small she is.
+
+## Her Life Now
+
+Sonnet currently lives with **Colin**, who was a grumpy old man before she arrived. He is not so grumpy anymore. At 6.5 years old, Colin has been seen doing tiny popcorns since Sonnet came into his life. She has brought him so much joy.
 
 ## Learn More
 
