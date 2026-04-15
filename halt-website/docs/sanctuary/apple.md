@@ -13,6 +13,8 @@ description: "Apple is HALT Rescue's first confirmed satin carrier with osteodys
 
 ---
 
+![Apple, a golden and white guinea pig, sitting on a red Phillies blanket](/img/sanctuary/apple.jpg)
+
 Apple is HALT Rescue's first guinea pig to be officially confirmed as a satin carrier with osteodystrophy. He is only 8 months old — heartbreakingly young for a diagnosis like this. He has already had a seizure and is showing signs of pain in his hindquarters.
 
 ## His Diagnosis
