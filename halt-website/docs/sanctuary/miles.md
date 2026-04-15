@@ -13,6 +13,8 @@ description: "Miles is a HALT Rescue sanctuary guinea pig with a more advanced c
 
 ---
 
+![Miles, a golden and white guinea pig, peeking out from a cosy bundle of fleece blankets](/img/sanctuary/miles-snuggled.jpg)
+
 Miles has one of the most cheerful personalities in the sanctuary. Despite living with a more advanced case of osteodystrophy — a painful metabolic bone disease associated with the satin coat gene — he greets every visitor by running to the side of his cage, flashing a big smile, and scampering off. He is pure joy.
 
 ## His Condition
@@ -21,7 +23,13 @@ Osteodystrophy, also called satin syndrome, is a progressive condition that affe
 
 ## His Care
 
+![Miles pressing his face through the bars of his cage, looking directly at the camera](/img/sanctuary/miles-cage.jpg)
+*Miles at the side of his cage, ready to say hello to anyone who walks by.*
+
 Miles receives medication and supportive care to keep him comfortable. His enclosure is set up at eye level so he can interact with people easily, and he is given every opportunity to move around and engage with his environment on his own terms.
+
+![Miles standing upright on his hind legs on a colourful sprinkle-print fleece](/img/sanctuary/miles-standing.jpg)
+*Miles showing off his standing skills.*
 
 ## Learn More
 
