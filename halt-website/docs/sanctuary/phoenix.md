@@ -2,28 +2,39 @@
 sidebar_label: 'Phoenix'
 sidebar_position: 10
 tags: [sanctuary, guinea pigs, liver, stunted growth]
-description: "Phoenix is a tiny HALT Rescue sanctuary guinea pig with stunted growth. No cause was found on physical exam, but a possible liver shunt is being investigated."
+description: "Phoenix is a tiny HALT Rescue sanctuary guinea pig with stunted growth. His ultrasound and bile acid test came back normal — he is being monitored with Milk Thistle for liver support."
 ---
 
 # Phoenix
 
 **Species:** Guinea pig  
 **Status:** Sanctuary resident  
-**Condition:** Stunted growth; possible liver shunt under investigation
+**Condition:** Stunted growth; liver monitoring
 
 ---
 
-Phoenix is one of the smallest guinea pigs in the sanctuary — and not by design. Despite being well-fed and cared for, he has not grown at the expected rate. A thorough physical exam found no obvious cause for his stunted growth, and a possible liver shunt is being investigated.
+![Phoenix at the vet, sitting on a green towel](/img/sanctuary/phoenix-vet.jpg)
 
-## His Progress
+Phoenix is one of the smallest guinea pigs in the sanctuary — and not by design. Despite being well-fed and cared for, he has not grown at the expected rate. His bloodwork raised the possibility of a liver shunt, so his care team investigated further.
 
-The good news: Phoenix is gaining weight. At his most recent vet visit he gained a whopping 173 grams since his last check-in — a significant and encouraging jump. His care team is cautiously optimistic.
+## April 2026 Update: Great News!
 
-## His Care
+Phoenix had an abdominal ultrasound on April 14, 2026 — and everything looked **perfect**. The colored areas visible on the ultrasound screen show proper blood flow through the liver, which is exactly what you want to see. No shunt was detected.
 
-Phoenix receives close monitoring and regular weigh-ins. His diet is carefully managed to support healthy weight gain without putting additional strain on his liver.
+![Color Doppler ultrasound showing proper blood flow in Phoenix's liver](/img/sanctuary/phoenix-ultrasound.jpg)
+*Color Doppler ultrasound showing normal blood flow — the colored areas indicate healthy circulation, not a shunt.*
 
-His page will be updated as his workup continues.
+His team also performed a **Bile Acid Test** to assess liver function directly. The results came back within normal limits.
+
+## His Ongoing Care
+
+With the ultrasound and bile acid test both clear, Phoenix does not need surgical intervention. His plan going forward:
+
+- **Milk Thistle** for liver support
+- **Recheck bloodwork** in 3 months
+- Continued weight monitoring and regular vet visits
+
+His care team is cautiously optimistic. Phoenix continues to gain weight and is doing well.
 
 ## Learn More
 
