@@ -16,11 +16,16 @@ description: "Sonnet is a tiny, petite guinea pig who arrived at HALT in March 2
 
 March 2026 marked one year since Sonnet came into our lives. She has come an incredibly long way.
 
+![Sonnet's rescue pet transformation — before showing her bald patch, after showing her full glossy coat](/img/sanctuary/sonnet-transformation.jpg)
+
 ## Her Intake
 
 When Sonnet arrived on March 27, 2025, she was a tiny 1-year-old girl weighing just 1.4 lbs — and she was noticeably bald in the middle. She came in with vaginal discharge, a possible mass in the reproductive area, and hair loss that was clearly hormonal. The working diagnosis at intake was ovarian cysts or pyometra, with pyometra being the stronger suspicion given her presentation. On top of all of that, she had slightly slanted front teeth — not as progressed as some cases, but something the team wanted to address sooner rather than later.
 
 She needed a spay as soon as possible.
+
+![Sonnet as a young guinea pig at intake, showing her bald patch and small size](/img/sanctuary/sonnet-closeup.jpg)
+*Sonnet shortly after arriving at HALT.*
 
 ## Her Diagnosis and Recovery
 
@@ -31,6 +36,9 @@ Both were spayed. Both made incredible recoveries.
 Sonnet's hair has fully grown back and she looks incredible. She has filled out a bit weight-wise, though she remains a petite girl — her exact age is a little difficult to pin down because of how small she is.
 
 ## Her Life Now
+
+![Sonnet now — a sleek black and white guinea pig with a full, glossy coat, resting on a colourful fleece](/img/sanctuary/sonnet-now.jpg)
+*Sonnet today — full coat, full life.*
 
 Sonnet currently lives with **Colin**, who was a grumpy old man before she arrived. He is not so grumpy anymore. At 6.5 years old, Colin has been seen doing tiny popcorns since Sonnet came into his life. She has brought him so much joy.
 
