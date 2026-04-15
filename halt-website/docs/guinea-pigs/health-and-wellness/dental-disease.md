@@ -8,8 +8,9 @@ description: "Dental disease is one of the most common and serious health proble
 # Dental Disease in Guinea Pigs
 
 import InfographicShare from '@site/src/components/InfographicShare';
+import styles from '@site/src/css/intro.module.css';
 
-<InfographicShare src="/img/guinea-pigs/dental-disease-xray.jpg" />
+<InfographicShare imageSrc="/img/guinea-pigs/dental-disease-xray.jpg" />
 
 
 Dental disease is one of the most common and serious health problems affecting guinea pigs. Unlike humans, a guinea pig's teeth grow continuously throughout their life. This continuous growth can lead to painful and life-threatening complications if their teeth do not wear down properly. Understanding the causes, recognizing the signs, and seeking prompt veterinary care are crucial for managing this condition and ensuring your guinea pig lives a healthy, comfortable life.
@@ -78,6 +79,20 @@ By providing a proper diet and being vigilant about your guinea pig's health, yo
 
 ---
 
+## Real-World Case Study
+
+<div className={styles.sectionGrid}>
+  <a href="/docs/case-studies/toothless-dental-surgery" className={styles.sectionCard}>
+    <img src="/img/sanctuary/toothless-recovery.jpg" alt="Toothless after dental surgery" className={styles.sectionCardImage} />
+    <div className={styles.sectionCardBody}>
+      <h3>Toothless: Broken Incisor and Jaw Abscess</h3>
+      <p>Read how HALT Rescue's Toothless had a broken incisor that penetrated his jaw, creating an abscess — and how Dr. Dana treated it successfully.</p>
+    </div>
+  </a>
+</div>
+
+---
+
 ### References
 
 [1] DeCubellis, J., & Graham, J. (2013). Gastrointestinal Disease in Guinea Pigs and Rabbits. *Veterinary Clinics of North America: Exotic Animal Practice*, 16(2), 421–435. https://pmc.ncbi.nlm.nih.gov/articles/PMC7128126/
@@ -89,6 +104,5 @@ By providing a proper diet and being vigilant about your guinea pig's health, yo
 [4] Wills, A. P. (2016). Diagnosis and treatment of dental disease in guinea pigs. *Journal of the American Veterinary Medical Association*, 249(9), 1000–1008. https://avmajournals.avma.org/view/journals/javma/249/9/javma.249.9.1000.xml
 
 [5] Minarikova, A., et al. (2016). Dental Disease and Periodontitis in a Guinea Pig (Cavia porcellus). *Journal of Exotic Pet Medicine*, 25(2), 129-136. https://www.sciencedirect.com/science/article/abs/pii/S1557506316300155
-
 
 [6] Reddit. (2023). *My Guinea pig is making such a mess!*. [https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/](https://www.reddit.com/r/guineapigs/comments/106mek3/my_guinea_pig_is_making_such_a_mess/)

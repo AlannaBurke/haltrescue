@@ -131,6 +131,8 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'left' },
           { to: '/adoptables', label: 'Adopt', position: 'left' },
           { to: '/success-stories', label: 'Success Stories', position: 'left' },
+          { to: '/docs/sanctuary', label: 'Sanctuary', position: 'left' },
+          { to: '/docs/case-studies', label: 'Case Studies', position: 'left' },
         ],
         },
       
