@@ -10,7 +10,7 @@ description: "Fly strike, also known as myiasis, is a devastating and rapidly pr
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rabbits/rabbit-flystrike.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-flystrike.png" />
 
 
 Fly strike, also known as myiasis, is a devastating and rapidly progressing condition that is a true veterinary emergency. It occurs when flies, typically blowflies, lay eggs on a rabbit. These eggs hatch into maggots, which then burrow into the rabbit's skin and feed on its flesh. This can lead to shock, severe infection, and death in as little as 24 hours [1].

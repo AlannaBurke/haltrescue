@@ -11,7 +11,7 @@ tags: [chinchillas, dental disease, health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/chinchillas/chinchilla-dental-disease.png" />
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-dental-disease.png" />
 
 
 Dental disease is one of the most common and serious health problems in pet chinchillas. Because their teeth grow continuously throughout their lives, any disruption to normal wear can quickly lead to painful overgrowth, misalignment, and secondary complications. Understanding the causes, warning signs, and management options is essential for every chinchilla owner.

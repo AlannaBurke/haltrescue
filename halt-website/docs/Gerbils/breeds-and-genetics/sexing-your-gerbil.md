@@ -11,7 +11,7 @@ tags: [gerbils, sexing, reproductive health, breeding]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/gerbils/gerbil-sexing-guide.png" />
+<InfographicShare imageSrc="/img/gerbils/gerbil-sexing-guide.png" />
 
 
 Correctly identifying the sex of your gerbils is essential, as keeping mixed-sex pairs will quickly result in litters. Fortunately, gerbils are one of the easier small animals to sex, especially once they are adults.

@@ -9,7 +9,7 @@ description: "Grooming is an essential part of responsible guinea pig care that 
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/dalmatian-guinea-pig.jpg" />
+<InfographicShare imageSrc="/img/guinea-pigs/dalmatian-guinea-pig.jpg" />
 
 
 Grooming is an essential part of responsible guinea pig care that goes beyond just keeping them looking their best. Regular grooming sessions are an excellent opportunity to bond with your pet and perform routine health checks, allowing you to spot potential issues early. A consistent grooming schedule for brushing, nail trimming, and cleaning is vital for their comfort and well-being.

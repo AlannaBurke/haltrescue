@@ -8,7 +8,7 @@ tags: [emergency preparedness, safety]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/general-care/emergency-preparedness.png" />
+<InfographicShare imageSrc="/img/general-care/emergency-preparedness.png" />
 
 
 ![Emergency Preparedness Graphic](emergency.png)

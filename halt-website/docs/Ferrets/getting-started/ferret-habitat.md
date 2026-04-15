@@ -10,7 +10,7 @@ tags: [ferrets, housing, getting started]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/ferrets/ferret-habitat-guide.png" />
+<InfographicShare imageSrc="/img/ferrets/ferret-habitat-guide.png" />
 
 
 Ferrets are intelligent, playful, and incredibly curious. Their habitat needs to be a safe and secure home base, but it is not where they should spend all their time. A ferret's cage is for sleeping, eating, and safety, while their real life is lived outside the cage during their daily free-roam time.

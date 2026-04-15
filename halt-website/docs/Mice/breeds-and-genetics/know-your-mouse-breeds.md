@@ -12,7 +12,7 @@ tags: [mice, breeds, coat]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/mice/mouse-color-guide.png" />
+<InfographicShare imageSrc="/img/mice/mouse-color-guide.png" />
 
 
 <figure>

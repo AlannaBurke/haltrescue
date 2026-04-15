@@ -11,7 +11,7 @@ tags: [guinea pigs, neurological, parasites, health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-ecuniculi.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-ecuniculi.png" />
 
 
 ***Encephalitozoon cuniculi*** (commonly abbreviated **E. cuniculi**) is a microscopic intracellular parasite that can infect guinea pigs, causing damage to the brain, kidneys, and eyes. While it is more commonly associated with rabbits, E. cuniculi can and does affect guinea pigs, and the neurological symptoms it causes can be dramatic and distressing. Early diagnosis and treatment give the best chance of managing the condition effectively.

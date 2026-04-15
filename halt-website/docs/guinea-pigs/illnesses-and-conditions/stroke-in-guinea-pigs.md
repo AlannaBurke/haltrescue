@@ -10,7 +10,7 @@ tags: [guinea pigs, neurological, health, emergency]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-stroke.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-stroke.png" />
 
 
 A stroke occurs when blood flow to part of the brain is suddenly interrupted, either by a blockage (ischemic stroke) or a burst blood vessel (hemorrhagic stroke). Strokes can occur in guinea pigs, though they are relatively uncommon. When they do happen, they can be frightening for owners and require prompt veterinary attention.

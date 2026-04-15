@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/hamsters/is-a-hamster-right-for-me.png"
+  imageSrc="/img/hamsters/is-a-hamster-right-for-me.png"
   alt="Is a Hamster Right for You? Quick reference guide from HALT Rescue"
   title="Is a Hamster Right for You?"
 />

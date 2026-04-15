@@ -9,7 +9,7 @@ tags: [emergency preparedness, emergency, safety]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/general-care/beat-the-heat.png" />
+<InfographicShare imageSrc="/img/general-care/beat-the-heat.png" />
 
 
 It's getting warmer - here are some tips to help your small pets stay cool and comfortable in the heat. 

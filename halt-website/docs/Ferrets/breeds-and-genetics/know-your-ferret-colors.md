@@ -11,7 +11,7 @@ tags: [ferrets, coat, breeds]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/ferrets/ferret-common-health-issues.png" />
+<InfographicShare imageSrc="/img/ferrets/ferret-common-health-issues.png" />
 
 
 <figure>

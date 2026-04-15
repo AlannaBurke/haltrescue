@@ -62,7 +62,9 @@ The surgery went smoothly. Toothless woke up happy and hungry.
 ![Toothless wrapped in a towel after surgery, looking up at the camera](/img/sanctuary/toothless-recovery.jpg)
 *Toothless post-surgery, wrapped up and doing well.*
 
-Within days of surgery, Toothless was eating Recovery food by the bowlful and producing well-formed, healthy poops — an excellent sign in guinea pigs, as digestive health is closely tied to overall wellbeing.
+Toothless was eating Recovery food **within minutes** of waking up from anesthesia — a critically important milestone. Guinea pigs (and rabbits) have extremely sensitive gastrointestinal systems that must keep moving at all times. Unlike dogs or cats, they cannot safely fast before or after procedures; even a short period without food can trigger GI stasis, a life-threatening slowdown of the digestive tract. Getting Toothless eating immediately after surgery was one of the best possible outcomes.
+
+Within days he was eating by the bowlful and producing well-formed, healthy poops — confirming his gut was fully back on track.
 
 ![Toothless eating Recovery food from a bowl](/img/sanctuary/toothless-eating.jpg)
 *Toothless eating enthusiastically after surgery — a very good sign.*

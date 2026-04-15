@@ -11,7 +11,7 @@ tags: [rabbits, breeds, getting started]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rabbits/rabbit-breeds-chart.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-breeds-chart.png" />
 
 
 <figure>

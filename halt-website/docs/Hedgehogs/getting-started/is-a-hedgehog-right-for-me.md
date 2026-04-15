@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/hedgehogs/is-a-hedgehog-right-for-me.png"
+  imageSrc="/img/hedgehogs/is-a-hedgehog-right-for-me.png"
   alt="Is a Hedgehog Right for You? Quick reference guide from HALT Rescue"
   title="Is a Hedgehog Right for You?"
 />

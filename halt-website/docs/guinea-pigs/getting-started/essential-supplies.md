@@ -9,7 +9,7 @@ description: "Bringing home a guinea pig (or better yet—a pair!) is an excitin
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-essential-supplies.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-essential-supplies.png" />
 
 
 Bringing home a guinea pig (or better yet—a pair!) is an exciting and joyful experience. To set your new friends up for a happy, healthy life, it’s important to have the right supplies ready from day one. This guide covers the essentials every guinea pig owner needs.

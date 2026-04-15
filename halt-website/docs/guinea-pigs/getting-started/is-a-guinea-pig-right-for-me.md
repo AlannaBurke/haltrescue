@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/guinea-pigs/is-a-guinea-pig-right-for-me.png"
+  imageSrc="/img/guinea-pigs/is-a-guinea-pig-right-for-me.png"
   alt="Is a Guinea Pig Right for You? Quick reference guide from HALT Rescue"
   title="Is a Guinea Pig Right for You?"
 />

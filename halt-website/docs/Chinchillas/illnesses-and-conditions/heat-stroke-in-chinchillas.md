@@ -11,7 +11,7 @@ tags: [chinchillas, emergency, health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/chinchillas/chinchilla-heat-stroke.png" />
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-heat-stroke.png" />
 
 
 Chinchillas are native to the cool, arid highlands of the Andes Mountains in South America, where temperatures rarely exceed 60°F (15°C). Their exceptionally dense fur — one of the thickest of any land mammal — provides excellent insulation against cold but makes it extremely difficult for them to dissipate heat. This makes chinchillas **highly vulnerable to heat stroke**, which can be fatal within minutes if not recognized and treated immediately.

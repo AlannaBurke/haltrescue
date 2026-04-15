@@ -11,7 +11,7 @@ tags: [rabbits, sexing, reproductive health, breeding]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rabbits/rabbit-sexing-guide.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-sexing-guide.png" />
 
 
 Correctly identifying the sex of your rabbit is a fundamental part of responsible ownership. It is essential for preventing unplanned pregnancies, which can happen as early as 12 weeks of age, and for understanding their behavior. [1]

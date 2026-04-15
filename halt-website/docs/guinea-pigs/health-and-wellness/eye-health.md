@@ -9,7 +9,7 @@ description: "Guinea pig eyes are large, bright, and positioned on the sides of 
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-eye-health.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-eye-health.png" />
 
 
 Guinea pig eyes are large, bright, and positioned on the sides of their head, giving them a wide field of vision to watch for predators. While generally robust, their eyes are susceptible to a range of issues, from minor irritations to conditions that can cause blindness. Understanding what's normal and what's not is key to protecting your pet's sight.

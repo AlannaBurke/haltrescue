@@ -12,7 +12,7 @@ tags: [chinchillas, breeds, coat, genetics]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/chinchillas/chinchilla-breeds-chart.png" />
+<InfographicShare imageSrc="/img/chinchillas/chinchilla-breeds-chart.png" />
 
 
 <figure>

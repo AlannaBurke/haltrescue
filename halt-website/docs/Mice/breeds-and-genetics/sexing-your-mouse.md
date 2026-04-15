@@ -11,7 +11,7 @@ tags: [mice, sexing, reproductive health, breeding]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/mice/mouse-sexing-guide.png" />
+<InfographicShare imageSrc="/img/mice/mouse-sexing-guide.png" />
 
 
 Accurately determining the sex of your mice is crucial for preventing unwanted litters and managing social groups appropriately. While it can seem daunting at first, especially with young mice, learning to identify key anatomical differences makes the process straightforward.

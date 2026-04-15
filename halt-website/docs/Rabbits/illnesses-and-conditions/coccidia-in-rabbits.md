@@ -10,7 +10,7 @@ tags: [rabbits, parasites, health, GI health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rabbits/rabbit-coccidia.png" />
+<InfographicShare imageSrc="/img/rabbits/rabbit-coccidia.png" />
 
 
 Coccidia are microscopic protozoan parasites that can infect rabbits, causing a condition known as **coccidiosis**. While often overlooked, coccidiosis can have serious consequences — particularly for young, stressed, or immunocompromised rabbits. Understanding the signs and how to prevent and treat the infection is essential for every rabbit owner.

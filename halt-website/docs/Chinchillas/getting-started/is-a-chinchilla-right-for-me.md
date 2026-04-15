@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/chinchillas/is-a-chinchilla-right-for-me.png"
+  imageSrc="/img/chinchillas/is-a-chinchilla-right-for-me.png"
   alt="Is a Chinchilla Right for You? Quick reference guide from HALT Rescue"
   title="Is a Chinchilla Right for You?"
 />

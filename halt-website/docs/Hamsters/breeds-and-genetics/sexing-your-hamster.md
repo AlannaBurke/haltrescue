@@ -11,7 +11,7 @@ tags: [hamsters, sexing, reproductive health, breeding]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/hamsters/hamster-sexing-guide.png" />
+<InfographicShare imageSrc="/img/hamsters/hamster-sexing-guide.png" />
 
 
 Correctly identifying the sex of your hamster is essential, especially since they are solitary animals and housing them together can lead to fighting and unwanted pregnancies. While it can be tricky with very young hamsters, there are several distinct anatomical clues to look for.

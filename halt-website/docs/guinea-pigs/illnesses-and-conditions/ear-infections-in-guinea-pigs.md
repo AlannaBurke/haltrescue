@@ -11,7 +11,7 @@ tags: [guinea pigs, ear health, neurological, health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-ear-infection.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-ear-infection.png" />
 
 
 Ear infections are a relatively common health problem in guinea pigs and can range from mild outer ear irritation to serious inner ear infections that affect balance and neurological function. Prompt treatment is important — untreated ear infections can spread to deeper structures, causing permanent damage or life-threatening complications.

@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/mice/is-a-mouse-right-for-me.png"
+  imageSrc="/img/mice/is-a-mouse-right-for-me.png"
   alt="Is a Mouse Right for You? Quick reference guide from HALT Rescue"
   title="Is a Mouse Right for You?"
 />

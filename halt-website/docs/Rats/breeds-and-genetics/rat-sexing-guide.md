@@ -9,7 +9,7 @@ description: "Correctly sexing rats is essential to prevent accidental litters a
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rats/rat-sexing-guide.png" />
+<InfographicShare imageSrc="/img/rats/rat-sexing-guide.png" />
 
 
 Correctly sexing rats is essential to prevent accidental litters and ensure proper housing. Rats can reproduce very young, and misidentification is one of the most common causes of surprise pregnancies.

@@ -11,7 +11,7 @@ tags: [guinea pigs, bumblefoot, health, housing, heart disease]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-bumblefoot.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-bumblefoot.png" />
 
 
 Bumblefoot, medically known as **pododermatitis**, is a painful inflammatory condition affecting the feet of guinea pigs. It is one of the most common — and most preventable — health problems in pet guinea pigs. Left untreated, it can progress from mild swelling to deep tissue infection, bone involvement, and severe disability. Understanding the causes and acting early makes all the difference.

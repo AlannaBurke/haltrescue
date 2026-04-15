@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/degus/is-a-degu-right-for-me.png"
+  imageSrc="/img/degus/is-a-degu-right-for-me.png"
   alt="Is a Degu Right for You? Quick reference guide from HALT Rescue"
   title="Is a Degu Right for You?"
 />

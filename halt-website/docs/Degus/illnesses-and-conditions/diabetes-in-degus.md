@@ -10,7 +10,7 @@ tags: [degus, diabetes, health, nutrition]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/degus/diabetes-in-degus.png" />
+<InfographicShare imageSrc="/img/degus/diabetes-in-degus.png" />
 
 
 Diabetes mellitus is one of the most significant health concerns for pet degus. Unlike many other small mammals, degus have a **structural difference in their insulin** that makes them exceptionally sensitive to dietary sugar — even small amounts can cause dangerous blood glucose spikes. Understanding this vulnerability is essential for every degu owner.

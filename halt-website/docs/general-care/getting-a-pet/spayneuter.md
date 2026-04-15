@@ -9,7 +9,7 @@ tags: [reproductive health, veterinary, getting started]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/general-care/animal-hoarding.png" />
+<InfographicShare imageSrc="/img/general-care/animal-hoarding.png" />
 
 
 ![Mutts Comic Strip](mutts.jpg)

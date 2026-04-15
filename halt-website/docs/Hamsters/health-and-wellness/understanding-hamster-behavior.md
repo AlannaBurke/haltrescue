@@ -9,7 +9,7 @@ description: "Hamsters are solitary, nocturnal animals with a fascinating range 
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/hamsters/hamster-behavior-guide.png" />
+<InfographicShare imageSrc="/img/hamsters/hamster-behavior-guide.png" />
 
 
 Hamsters are solitary, nocturnal animals with a fascinating range of behaviors. Because they are most active at night and spend much of the day sleeping, many owners miss important behavioral cues. Learning to read your hamster's body language is essential for building trust and keeping them healthy.

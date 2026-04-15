@@ -12,7 +12,7 @@ tags: [gerbils, breeds, coat]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/gerbils/is-a-gerbil-right-for-me.png" />
+<InfographicShare imageSrc="/img/gerbils/is-a-gerbil-right-for-me.png" />
 
 
 <figure>

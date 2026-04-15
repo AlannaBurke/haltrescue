@@ -9,7 +9,7 @@ description: "This guide is meant to help you quickly check whether a food is ge
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rats/rat-treat-guide.png" />
+<InfographicShare imageSrc="/img/rats/rat-treat-guide.png" />
 
 
 This guide is meant to help you quickly check whether a food is generally safe as a treat for your rats. Research on rat nutrition is limited, so some guidance is based on related species or high-dose studies. If you're unsure or worried about something your rat ate, reach out to your vet.

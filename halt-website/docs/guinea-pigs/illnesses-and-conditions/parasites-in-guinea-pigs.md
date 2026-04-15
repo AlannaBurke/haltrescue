@@ -11,7 +11,7 @@ tags: [guinea pigs, parasites, health]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/guinea-pigs/gp-parasites.png" />
+<InfographicShare imageSrc="/img/guinea-pigs/gp-parasites.png" />
 
 
 Parasites are one of the most common health concerns for guinea pig owners. Both **external parasites** (those living on the skin and fur) and **internal parasites** (those living inside the body) can cause significant discomfort and health problems if left untreated. Early identification and prompt veterinary care are essential to keeping your guinea pig healthy.

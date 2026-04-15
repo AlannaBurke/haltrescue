@@ -11,7 +11,7 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 
 <InfographicShare
-  src="/img/ferrets/is-a-ferret-right-for-me.png"
+  imageSrc="/img/ferrets/is-a-ferret-right-for-me.png"
   alt="Is a Ferret Right for You? Quick reference guide from HALT Rescue"
   title="Is a Ferret Right for You?"
 />

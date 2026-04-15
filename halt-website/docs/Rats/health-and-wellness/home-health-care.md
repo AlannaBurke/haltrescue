@@ -10,7 +10,7 @@ tags: [rats, health, wellness, home health check, veterinary]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/rats/rat-common-health-issues.png" />
+<InfographicShare imageSrc="/img/rats/rat-common-health-issues.png" />
 
 
 Performing regular health checks at home is one of the most important things you can do for your pet rats. Because rats are prey animals, they are masters at hiding signs of illness until a condition is advanced. By familiarizing yourself with your rat's normal appearance, behavior, and physical condition, you can catch subtle changes early and seek veterinary care before a problem becomes a crisis. [1]

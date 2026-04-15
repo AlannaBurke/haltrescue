@@ -9,7 +9,7 @@ tags: [rescue, getting started]
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare src="/img/general-care/rehome.png" />
+<InfographicShare imageSrc="/img/general-care/rehome.png" />
 
 
 We all hope to keep our pets forever, but sometimes life happens and unfortunately, we have to find a new home for our pets. Here is some advice for safely rehoming your pets. 
