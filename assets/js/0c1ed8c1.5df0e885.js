@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhalt_website=self.webpackChunkhalt_website||[]).push([["23999"],{49446(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"case-studies"}')}}]);
