@@ -18,7 +18,7 @@ Hero is one of HALT Rescue's most beloved residents. A lethal white guinea pig, 
 
 ## His Family
 
-Hero's dad is **Gothic**, who lives in his own herd here at HALT. His mom lives in her respective herd as well. His brother **Ziggy**, who does not have health issues, lives with HALT board member Alanna. His brother **Caper** sadly passed away at just a few months old.
+Hero's dad is **Gothic**, who lives in his own herd here at HALT. His mom is **Rhyme**, who also lives in the big herd at HALT. His brother **Ziggy**, who does not have health issues, lives with HALT board member Alanna. His brother **Caper** sadly passed away at just a few months old.
 
 ## What Is a Lethal White?
 
