@@ -51,6 +51,16 @@ Every guinea pig habitat should include these key elements:
 4.  **Enrichment:** To keep your guinea pigs mentally stimulated, provide safe toys and items to explore.
     *   **Safe Toys:** Tunnels, cardboard tubes (with a slit cut lengthwise), and chew toys made from untreated apple wood or willow are great options. For more ideas, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats-and-toys).
 
+## A Note on Exercise Wheels
+
+Exercise wheels and flying saucers are **not appropriate for guinea pigs** and should never be placed in their enclosure. Guinea pigs have a rigid, inflexible spine compared to species like hamsters or rats, and the curved running surface of a wheel forces their back into an unnatural arch that can cause spinal injury and chronic pain. Their body structure simply is not designed for the repetitive circular motion that wheel running requires.
+
+Guinea pigs meet their exercise needs through **floor space and free-roam time**, not wheel running. A large enclosure with ample uninterrupted floor space, combined with regular supervised time outside the cage in a safe, guinea-pig-proofed area, provides all the exercise they need. If your guinea pigs seem restless or inactive, the solution is more space and enrichment — not a wheel.
+
+:::danger Do not use exercise wheels or balls with guinea pigs
+Exercise balls are equally inappropriate. They restrict airflow, prevent normal movement, and cause significant stress. Neither wheels, saucers, nor exercise balls should be used with guinea pigs.
+:::
+
 ## Location and Temperature
 
 The placement of the cage is just as important as its contents.

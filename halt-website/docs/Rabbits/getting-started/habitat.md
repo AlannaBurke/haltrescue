@@ -45,6 +45,16 @@ Any area your rabbit has access to must be made safe. Rabbits have a natural ins
 
 By providing a spacious, safe, and enriching environment, you allow your rabbit to exhibit its natural behaviors, leading to a happier and healthier companion.
 
+## A Note on Exercise Wheels
+
+Exercise wheels and flying saucers are **not appropriate for rabbits** and should never be placed in their enclosure. Rabbits have a long, rigid spine and powerful hindquarters that are built for explosive bursts of speed and jumping — not the repetitive circular motion of wheel running. Forcing a rabbit to run on a wheel causes their spine to arch in an unnatural position, which can lead to spinal injury, spondylosis (spinal arthritis), and chronic pain.
+
+Rabbits meet their exercise needs through **space and free movement** — running, jumping, binkying, and exploring. A large enclosure with ample floor space, combined with regular access to a rabbit-proofed room or play area, provides all the exercise they need. Tunnels, cardboard boxes to explore, and safe toys to toss and rearrange are all excellent enrichment options that do not carry the injury risks of a wheel.
+
+:::danger Do not use exercise wheels or balls with rabbits
+Exercise balls are equally inappropriate for rabbits. They restrict normal movement, prevent proper ventilation, and cause significant stress. Neither wheels, saucers, nor exercise balls should be used with rabbits.
+:::
+
 ---
 
 **References**
