@@ -1,16 +1,16 @@
 ---
-sidebar_label: Parasites
+sidebar_label: External Parasites
 sidebar_position: 3
 tags: [rats, parasites, health, veterinary]
 description: "A guide to external parasites affecting pet rats, including mites, lice, fleas, ticks, and ringworm — how to recognize them, treat them safely, and prevent future infestations."
 ---
 import InfographicShare from '@site/src/components/InfographicShare';
 
-# Parasites in Pet Rats
+# External Parasites in Pet Rats
 
 <InfographicShare imageSrc="/img/rats/rat-parasites.png" />
 
-Parasites are a relatively common health concern in pet rats and can affect even well-cared-for animals. Most infestations are highly treatable when caught early. This guide covers **external parasites** (mites, lice, fleas, ticks) and **fungal infections** (ringworm). For information on internal worms such as pinworms and tapeworms, see the [Worms in Pet Rats](./worms) article.
+External parasites are a relatively common health concern in pet rats and can affect even well-cared-for animals. Most infestations are highly treatable when caught early. This guide covers **external parasites** (mites, lice, fleas, ticks) and **fungal infections** (ringworm) — organisms that live on or in the skin and fur. For information on **internal worms** such as pinworms and tapeworms, see the [Worms in Pet Rats (Internal Parasites)](./worms) article.
 
 ## Preventing Parasites
 

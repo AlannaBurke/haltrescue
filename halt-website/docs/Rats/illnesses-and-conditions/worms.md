@@ -1,15 +1,15 @@
 ---
-sidebar_label: Worms (Internal Parasites)
-tags: [rats, parasites]
-description: "A guide to common internal worms in pet rats, such as pinworms and tapeworms, explaining that they are often asymptomatic and how they are diagnosed and treated."
+sidebar_label: Internal Parasites (Worms)
+tags: [rats, parasites, internal parasites, worms]
+description: "A guide to internal parasites (worms) in pet rats, including pinworms and tapeworms. Most infections are asymptomatic and harmless, but this guide explains how they are diagnosed and treated."
 ---
 import InfographicShare from '@site/src/components/InfographicShare';
 
-# Worms in Pet Rats
+# Internal Parasites (Worms) in Pet Rats
 
 <InfographicShare imageSrc="/img/rats/rat-worms.png" />
 
-The topic of internal parasites, or worms, is a common concern for many pet owners. In pet rats, the reality is that while worm infestations are very common, they very rarely cause any actual harm or signs of illness. The two most common types of worms found in rats are pinworms and tapeworms.
+Internal parasites — commonly called worms — are a frequent concern for pet rat owners. Unlike **external parasites** such as mites and lice (covered in the [External Parasites](./parasites-in-rats) article), internal parasites live inside the body, primarily in the digestive tract. In pet rats, the reality is that while worm infestations are very common, they very rarely cause any actual harm or signs of illness. The two most common types of internal worms found in rats are pinworms and tapeworms.
 
 ## Pinworms
 
