@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Ferret Exercise: Why Wheels Don't Work (And What Does)"
 sidebar_label: "Exercise & Wheels"
 description: "An explanation of why running wheels are generally not appropriate for ferrets, what the risks are, and what forms of exercise and enrichment genuinely meet a ferret's needs."

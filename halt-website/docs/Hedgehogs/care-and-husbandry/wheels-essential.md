@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Hedgehog Wheels: Why They're Essential and How to Choose One"
 sidebar_label: "Running Wheels"
 description: "A complete guide to hedgehog running wheels — why they are a non-negotiable welfare requirement, minimum size recommendations, surface safety, and daily cleaning needs."

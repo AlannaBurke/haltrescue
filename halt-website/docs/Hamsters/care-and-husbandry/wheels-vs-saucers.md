@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Hamster Wheels and Saucers: Size, Safety, and What the Evidence Says"
 sidebar_label: "Wheels & Saucers"
 description: "A comprehensive guide to choosing the right wheel or saucer for your hamster — covering minimum sizes for each species, the risks of wire mesh and saucers, and what the science says about spinal health."

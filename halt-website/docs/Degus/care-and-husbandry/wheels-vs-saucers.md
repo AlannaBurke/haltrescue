@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Degu Wheels and Saucers: Go Big or Go Home"
 sidebar_label: "Wheels & Saucers"
 description: "A guide to choosing a safe, appropriately sized wheel or saucer for degus — covering minimum diameter requirements, solid surface requirements, and the specific size thresholds for discs and saucers."

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Gerbil Wheels and Saucers: Choosing the Right Exercise Option"
 sidebar_label: "Wheels & Saucers"
 description: "A guide to selecting a safe, appropriately sized wheel or saucer for gerbils — covering minimum diameter recommendations, surface safety, and why saucers are generally not the best choice."

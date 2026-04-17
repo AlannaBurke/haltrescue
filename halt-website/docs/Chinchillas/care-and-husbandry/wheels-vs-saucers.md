@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 title: "Chinchilla Wheels and Saucers: What You Need to Know"
 sidebar_label: "Wheels & Saucers"
 description: "A guide to choosing a safe wheel or saucer for chinchillas — covering minimum size recommendations, the flying saucer debate, overheating risks, and what features to look for."

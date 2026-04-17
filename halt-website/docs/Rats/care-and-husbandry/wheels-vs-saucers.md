@@ -1,4 +1,5 @@
 ---
+sidebar_position: 7
 sidebar_label: Wheels vs. Saucers
 tags: [rats, enrichment, care, housing]
 description: "A guide to the debate between upright wheels and flying saucers for pet rats, covering spine safety, size requirements, individual preferences, and what actually matters most for rat exercise."
