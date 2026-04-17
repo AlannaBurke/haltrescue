@@ -48,7 +48,7 @@ Commercial pellets should be a small supplement to the diet, not the main course
 Treats should be given sparingly.
 
 *   **Healthy Options:** Small pieces of fruit like apple, pear, or a few blueberries make excellent occasional treats.
-*   **Avoid:** Never give your guinea pig sugary commercial treats, yogurt drops, or seed sticks. For a comprehensive list of unsafe foods, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats-and-toys).
+*   **Avoid:** Never give your guinea pig sugary commercial treats, yogurt drops, or seed sticks. For a comprehensive list of unsafe foods, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats).
 
 ## The Critical Need for Vitamin C
 

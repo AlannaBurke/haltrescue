@@ -87,7 +87,7 @@ Many guinea pigs with neurological E. cuniculi improve significantly with treatm
 If you keep both guinea pigs and rabbits, always handle and clean their enclosures separately, and wash your hands thoroughly between handling each species to reduce the risk of cross-contamination.
 :::
 
-> For more on introducing new guinea pigs safely, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
+> For more on introducing new guinea pigs safely, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/care-and-husbandry/habitat).
 
 
 ## References

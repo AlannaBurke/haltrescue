@@ -86,7 +86,7 @@ The best prevention is a species-appropriate diet from the start:
 - Provide a large enclosure with a **solid-surface exercise wheel** to encourage activity
 - Maintain a **healthy body weight** — you should be able to feel but not see the ribs
 
-> For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
+> For detailed guidance on what to feed your chinchilla, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/care-and-husbandry/nutrition).
 
 
 ## References

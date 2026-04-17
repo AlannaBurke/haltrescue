@@ -112,7 +112,7 @@ Bumblefoot is almost entirely preventable with good husbandry:
 Fleece liners are one of the best flooring options for guinea pigs. They are soft, washable, and allow for easy daily spot cleaning. Pair with an absorbent layer underneath for best results.
 :::
 
-> For more on setting up a safe guinea pig enclosure, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
+> For more on setting up a safe guinea pig enclosure, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/care-and-husbandry/habitat).
 
 
 ## References

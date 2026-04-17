@@ -100,7 +100,7 @@ Prevention is straightforward and critical:
 - **Buy fresh pellets** and store them in a cool, dark, airtight container; use within 90 days of manufacture
 - **Increase Vitamin C during illness, pregnancy, or growth** — consult your vet for appropriate dosing
 
-> For more information on feeding your guinea pig, see our [Nutrition Information](../getting-started/nutrition-information) guide.
+> For more information on feeding your guinea pig, see our [Nutrition Information](../care-and-husbandry/nutrition) guide.
 
 
 ## References

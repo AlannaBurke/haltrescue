@@ -81,7 +81,7 @@ While genetic malocclusion cannot be prevented, good husbandry significantly red
 - Provide wooden chews and safe gnawing materials to encourage jaw use
 - Schedule **annual veterinary check-ups** including a dental examination
 
-> For more information on feeding your chinchilla correctly, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/getting-started/nutrition).
+> For more information on feeding your chinchilla correctly, see our article on [Chinchilla Nutrition and Diet](/docs/Chinchillas/care-and-husbandry/nutrition).
 
 
 ## References

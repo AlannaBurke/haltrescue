@@ -80,7 +80,7 @@ Good hygiene is the most effective prevention:
 Steam cleaning is one of the most effective ways to kill coccidia oocysts in the environment. If you have had a confirmed case of coccidiosis, steam clean all surfaces, hides, and accessories before reintroducing your guinea pig.
 :::
 
-> For more on keeping your guinea pig's environment clean and safe, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/getting-started/the-ideal-guinea-pig-habitat).
+> For more on keeping your guinea pig's environment clean and safe, see our guide on [The Ideal Guinea Pig Habitat](/docs/guinea-pigs/care-and-husbandry/habitat).
 
 
 ## References

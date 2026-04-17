@@ -68,7 +68,7 @@ Surgery is typically a last resort and is only considered for true obstructions 
 
 ## Further Reading
 
-For more information on rabbit health and care, consider exploring our articles on [Rabbit Dental Health](/docs/Rabbits/health-and-wellness/rabbit-dental-health) and [Emergency Preparedness for Pet Owners](/docs/general-care/emergency).
+For more information on rabbit health and care, consider exploring our articles on [Rabbit Dental Health](/docs/Rabbits/health-and-wellness/dental-health) and [Emergency Preparedness for Pet Owners](/docs/general-care/emergency).
 
 
 ## References

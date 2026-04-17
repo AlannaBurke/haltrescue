@@ -49,7 +49,7 @@ Every guinea pig habitat should include these key elements:
     *   **Water Bottle:** A sipper bottle is the best way to provide fresh, clean water. Check it daily to ensure it is working correctly and the water is fresh.
 
 4.  **Enrichment:** To keep your guinea pigs mentally stimulated, provide safe toys and items to explore.
-    *   **Safe Toys:** Tunnels, cardboard tubes (with a slit cut lengthwise), and chew toys made from untreated apple wood or willow are great options. For more ideas, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats-and-toys).
+    *   **Safe Toys:** Tunnels, cardboard tubes (with a slit cut lengthwise), and chew toys made from untreated apple wood or willow are great options. For more ideas, see our article on [Dangerous Treats and Toys for Guinea Pigs](../safety/dangerous-treats).
 
 ## A Note on Exercise Wheels
 

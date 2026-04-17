@@ -86,7 +86,7 @@ Diabetes in guinea pigs is managed primarily through **diet and lifestyle change
 Weighing your guinea pig weekly is one of the best ways to monitor their health. A kitchen scale accurate to 1 gram works well. Keep a log — gradual weight loss in an overweight guinea pig is a good sign; sudden weight loss in any guinea pig warrants a vet visit.
 :::
 
-> For more on what guinea pigs should and shouldn't eat, see our [Nutrition Information](/docs/guinea-pigs/getting-started/nutrition-information) guide.
+> For more on what guinea pigs should and shouldn't eat, see our [Nutrition Information](/docs/guinea-pigs/care-and-husbandry/nutrition) guide.
 
 
 ## References
