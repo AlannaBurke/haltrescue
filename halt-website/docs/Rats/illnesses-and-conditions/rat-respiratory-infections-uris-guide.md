@@ -10,9 +10,6 @@ description: "Respiratory illness is one of the most common health issues affect
 
 import InfographicShare from '@site/src/components/InfographicShare';
 
-<InfographicShare imageSrc="/img/rats/rat-worms.png" />
-
-
 Respiratory illness is one of the most common health issues affecting pet rats. Nearly all domestic rats are carriers of *Mycoplasma pulmonis*, the primary bacterium responsible for these infections [1]. While this sounds alarming, understanding the signs, seeking prompt veterinary care, and providing a healthy environment can make all the difference in managing this condition.
 
 <InfographicShare imageSrc="/img/rats/rat-uri-guide.png" />
