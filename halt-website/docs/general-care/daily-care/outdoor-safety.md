@@ -6,7 +6,7 @@ tags: [general-care, safety, outdoor, enrichment, rabbits, guinea-pigs, chinchil
 
 # Taking Your Small Pet Outside Safely
 
-![Outdoor safety infographic for small pets](/img/general-care/outdoor-safety.png)
+![Outdoor safety infographic for small pets](/img/general-care/outdoor-safety-v2.png)
 
 Fresh air, natural sunlight, and the smell of grass — outdoor time can be genuinely enriching for many small pets. For prey species like rabbits and guinea pigs, even a few minutes of supervised exploration in a safe, enclosed space can provide mental stimulation and physical exercise that is difficult to replicate indoors.[^1] However, the outdoors is also full of hazards that can injure or kill a small animal in seconds. This guide covers everything you need to know to make outdoor time safe and enjoyable for your pet.
 
@@ -45,7 +45,9 @@ Harnesses allow rabbits and ferrets to explore more freely while remaining under
 
 **Important caveats:**
 - **Guinea pigs should not be harnessed.** Their spines are extremely fragile, and the sudden darting movement of a frightened guinea pig can cause serious spinal injury with a harness attached.[^4]
-- **Chinchillas, hamsters, gerbils, and mice should not be harnessed** for similar reasons, and because they can slip out of almost any harness.
+- **Hamsters should never be harnessed.** Hamster communities and exotic vets are unanimous on this: harnesses and leashes are dangerous for hamsters. Their bodies are not built for the pulling and tugging a harness creates, and the risk of spinal injury, internal injury, and extreme stress is significant. Hamsters are also extraordinarily fast and can escape almost any harness in seconds. A secure playpen or bonding bag is always the safer choice.[^9]
+- **Chinchillas, gerbils, and mice should not be harnessed** — their bodies are too small and fragile, and they can slip out of almost any harness, creating an immediate escape risk.
+- **Ferrets can be harness-trained**, but it requires patience and a ferret-specific harness (not a collar, which they can easily slip). A figure-8 or H-style ferret harness is recommended. Always harness-train indoors first before attempting outdoor walks. Note that ferrets are prone to heatstroke — skip walks above 75°F (24°C) and below 65°F (18°C). Keep walks to 20 minutes or less.[^10]
 - Harness training takes time and patience. Never force a harness on a distressed animal. If your rabbit or ferret consistently resists, switch to an enclosed option.
 - Always check the fit before every outing — a harness that was snug last week may have loosened.
 
@@ -100,6 +102,22 @@ Small mammals are far more vulnerable to heat than humans. Heatstroke can develo
 - Provide fresh, cool water during every outdoor session
 - On warm days, place a frozen water bottle wrapped in a towel inside the enclosure for your pet to lean against
 - Avoid outdoor time between 10 a.m. and 4 p.m. in summer
+
+### A Note on Hiding Spots and Pigloos
+
+![Guinea pig applying sunscreen](/img/general-care/guinea-pig-sunscreen.png)
+
+Providing a hiding spot inside an outdoor enclosure is important for your pet's sense of security — but the type of hiding spot matters enormously outdoors.
+
+**Pigloos and similar plastic dome hides** are popular for guinea pigs indoors, but they can be dangerous outside. A solid plastic pigloo placed in an outdoor enclosure can trap heat like a greenhouse, turning into a dangerously hot oven within minutes in warm weather. Even worse, **clear or translucent pigloos can act as a magnifying lens**, concentrating sunlight and potentially causing sunburn or heat injury to any animal inside.
+
+For outdoor use, choose hiding spots that:
+- Are made of **natural, breathable materials** (untreated wood, wicker, or fleece tunnels) rather than solid plastic
+- Are **open on at least two sides** to allow airflow
+- Are **positioned entirely in shade** — not just partially
+- Do not trap or concentrate heat
+
+If you only have plastic hides available, place them in full shade and monitor the temperature inside regularly. When in doubt, leave them at home and use a simple piece of fleece draped over part of the enclosure to create a shaded retreat instead.
 
 ---
 
@@ -176,3 +194,5 @@ If your pet consistently shows fear outdoors, consider bringing the outdoors in:
 [^6]: USDA APHIS Wildlife Services. *Hawks and Owls*. https://www.aphis.usda.gov/sites/default/files/Hawks-and-Owls.pdf
 [^7]: Rabbit Welfare Association & Fund. *Poisonous Plants*. https://rabbitwelfare.co.uk/poisonous-plants/
 [^8]: AskAVet. (2025). *Vet-Approved Guide to Toxic Plants for Small Mammals: 2025 Edition*. https://askavet.com/blogs/news/vet-approved-guide-to-toxic-plants-for-small-mammals-2025-edition
+[^9]: HamsterCentral Community. (2019). *Are Harnesses and Leashes Okay/Safe for Hamsters?* https://www.hamstercentral.com/community/hamster-chat/76900-harnesses-leashes-okay-safe-hamsters.html
+[^10]: Chewy Editors, reviewed by Byron De La Navarre. (2026). *How To Walk a Ferret—And When It's Safe To Go Outside*. Chewy. https://www.chewy.com/education/small-pet/ferret/how-to-walk-a-ferret
