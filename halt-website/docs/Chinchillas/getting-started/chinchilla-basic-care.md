@@ -78,7 +78,7 @@ Chinchillas are social animals and do best in same-sex pairs or small groups. A 
 
 Chinchillas require an **exotic small mammal veterinarian** — a standard dog and cat vet may not have the knowledge or equipment to treat them. Establish a relationship with an exotic vet before you need one in an emergency.
 
-Common health issues in chinchillas include dental disease (malocclusion), GI stasis, respiratory infections, heat stroke, and fur ring (in males). Annual wellness exams are recommended. See our [Common Health Issues](/docs/Chinchillas/illnesses-and-conditions/common-health-issues) article for more detail.
+Common health issues in chinchillas include dental disease (malocclusion), GI stasis, respiratory infections, heat stroke, and fur ring (in males). Annual wellness exams are recommended. See our [Common Health Issues](/docs/Chinchillas/health/common-health-issues) article for more detail.
 
 ---
 

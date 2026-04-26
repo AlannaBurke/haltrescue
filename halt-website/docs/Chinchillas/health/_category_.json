@@ -1,0 +1,10 @@
+{
+  "label": "Health",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "Health guides for chinchillas — preventive care, common illnesses, dental disease, parasites, and more.",
+    "image": "/img/heroes/chinchillas/hero.png"
+  }
+}

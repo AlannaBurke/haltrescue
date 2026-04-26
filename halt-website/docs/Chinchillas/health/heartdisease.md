@@ -125,7 +125,7 @@ While some cases of heart disease may be genetic and unavoidable, there are seve
 5. **Watch for signs of illness**: Since chinchillas are good at hiding illness, it’s important to pay attention to even subtle changes in behavior or health.
 
 
-> For more information on how diet affects chinchilla health, including the link between sugar and metabolic disease, see our articles on [Chinchilla Nutrition](/docs/Chinchillas/care-and-husbandry/nutrition) and [Diabetes in Chinchillas](/docs/Chinchillas/illnesses-and-conditions/diabetes-in-chinchillas).
+> For more information on how diet affects chinchilla health, including the link between sugar and metabolic disease, see our articles on [Chinchilla Nutrition](/docs/Chinchillas/care-and-husbandry/nutrition) and [Diabetes in Chinchillas](/docs/Chinchillas/health/diabetes-in-chinchillas).
 
 ## References
 

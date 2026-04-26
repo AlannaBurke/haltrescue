@@ -3,17 +3,18 @@ sidebar_position: 1
 sidebar_label: Common Health Issues
 tags: [chinchillas, dental disease, bloat, ringworm, emergency, respiratory infection]
 description: "An overview of the most common health issues affecting pet chinchillas, including dental disease, bloat, ringworm, and heat stroke, with a focus on prevention and recognizing early warning signs."
-image: /img/chinchillas/chinchilla-common-health-issues.png
 ---
+import InfographicShare from '@site/src/components/InfographicShare';
 
 # Common Health Issues in Chinchillas
 
-Chinchillas are generally hardy animals, but like all pets, they are susceptible to specific health problems. Many of these issues are directly related to their unique anatomy and husbandry needs. Understanding these common ailments is key to prevention and early intervention.
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-common-health-issues.png"
+  alt="Infographic summarizing the most common health issues in chinchillas: Dental Disease, Bloat, Ringworm, and Heat Stroke"
+  title="Common Health Issues in Chinchillas"
+/>
 
-<figure>
-    ![An infographic summarizing the most common health issues in chinchillas: Dental Disease, Bloat, Ringworm, and Heat Stroke.](/img/chinchillas/chinchilla-common-health-issues.png)
-    <figcaption>Proactive care and a proper environment are essential for preventing common chinchilla health problems.</figcaption>
-</figure>
+Chinchillas are generally hardy animals, but like all pets, they are susceptible to specific health problems. Many of these issues are directly related to their unique anatomy and husbandry needs. Understanding these common ailments is key to prevention and early intervention.
 
 ## 1. Dental Disease (Malocclusion)
 
@@ -37,6 +38,7 @@ Despite its name, ringworm is a fungal infection of the skin, not a worm. It is 
 
 *   **Signs:** Patches of hair loss, often around the nose, eyes, and feet. The skin may be flaky or crusty.
 *   **Prevention:** Maintain a clean, dry environment. Quarantine new animals before introducing them to existing pets. Good hygiene is essential.
+*   **More Info:** [Parasites & Ringworm in Chinchillas](./parasites)
 
 ## 4. Heat Stroke
 
@@ -44,6 +46,7 @@ Chinchillas have dense fur and cannot sweat, making them extremely susceptible t
 
 *   **Signs:** Lethargy, panting, bright red ears, lying stretched out.
 *   **Prevention:** Keep their cage in a cool, climate-controlled room, away from direct sunlight. Provide a marble or granite slab for them to lie on to cool down. Never place their cage in a garage or un-air-conditioned space.
+*   **More Info:** [Heat Stroke in Chinchillas](./heat-stroke-in-chinchillas)
 
 ## 5. Respiratory Infections
 
