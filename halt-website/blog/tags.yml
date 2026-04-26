@@ -107,3 +107,8 @@ rescue:
   label: Rescue Operations
   permalink: /rescue
   description: Large-scale rescues and intake operations
+
+aprilfools:
+  label: April Fools
+  permalink: /aprilfools
+  description: April Fools posts

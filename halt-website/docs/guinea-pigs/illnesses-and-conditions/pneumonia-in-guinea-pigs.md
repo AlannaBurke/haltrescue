@@ -84,11 +84,9 @@ A chest radiograph will show whether the lungs are healthy or inflamed:
 
 *The images below, reproduced with permission from the Southern Main Hospital for Small Mammals, illustrate this difference clearly.*
 
-![Healthy guinea pig lung x-ray showing dark spaces between ribs](/img/guinea-pigs/xray-healthy.jpg)
-*Healthy lung tissue — black spaces between ribs indicate air-filled, healthy alveoli.*
-
-![Guinea pig lung x-ray showing cloudy areas indicating pneumonia](/img/guinea-pigs/xray-pneumonia.jpg)
-*Pneumonia — cloudy areas between ribs indicate inflammation and infection of the air sacs.*
+:::info X-Ray Images Coming Soon
+X-ray images from the Southern Main Hospital for Small Mammals will be added here. Contact HALT to provide these images. The healthy lung x-ray shows dark spaces between the ribs (air-filled alveoli), while the pneumonia x-ray shows cloudy or white areas indicating inflammation and fluid.
+:::
 
 Additional diagnostics may include:[^5]
 

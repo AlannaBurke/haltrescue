@@ -358,3 +358,108 @@ volunteers:
 
 wellness:
   label: "Wellness"
+
+"mental health":
+  label: "Mental Health"
+
+"coat color":
+  label: "Coat Color"
+
+wheels:
+  label: "Wheels"
+
+exercise:
+  label: "Exercise"
+
+enclosures:
+  label: "Enclosures"
+
+bedding:
+  label: "Bedding"
+
+"viral disease":
+  label: "Viral Disease"
+
+tumors:
+  label: "Tumors"
+
+skin:
+  label: "Skin"
+
+lymphoma:
+  label: "Lymphoma"
+
+polyomavirus:
+  label: "Polyomavirus"
+
+pneumonia:
+  label: "Pneumonia"
+
+wildlife:
+  label: "Wildlife"
+
+surgery:
+  label: "Surgery"
+
+eyelid:
+  label: "Eyelid"
+
+"heat stroke":
+  label: "Heat Stroke"
+
+temperature:
+  label: "Temperature"
+
+congenital:
+  label: "Congenital"
+
+"general care":
+  label: "General Care"
+
+cecotropes:
+  label: "Cecotropes"
+
+poop:
+  label: "Poop"
+
+"health monitoring":
+  label: "Health Monitoring"
+
+plants:
+  label: "Plants"
+
+toxic:
+  label: "Toxic"
+
+outdoor:
+  label: "Outdoor"
+
+introductions:
+  label: "Introductions"
+
+"social behaviour":
+  label: "Social Behaviour"
+
+"guinea-pigs":
+  label: "Guinea Pigs"
+
+"general-care":
+  label: "General Care"
+
+"small animals":
+  label: "Small Animals"
+
+satin:
+  label: "Satin"
+
+osteodystrophy:
+  label: "Osteodystrophy"
+
+"internal parasites":
+  label: "Internal Parasites"
+
+worms:
+  label: "Worms"
+
+aprilfools:
+  label: "April Fools"
