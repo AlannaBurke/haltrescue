@@ -29,8 +29,9 @@ The cage is the foundation of your rats' environment. It needs to be spacious, s
 
 Deep, absorbent bedding is essential for hygiene and for satisfying your rats' natural desire to burrow.
 
-*   **Safe Options:** Use dust-free, absorbent materials like aspen shavings, kiln-dried pine, or recycled paper products. A deep layer (4-6 inches) will allow your rats to dig and burrow [2].
-*   **Materials to Avoid:** **Never use cedar shavings**, as their aromatic oils are toxic to rats. Also avoid dusty beddings, corncobs, and scented litters, which can cause respiratory irritation [2].
+*   **Safe Options:** The two best choices are **aspen shavings** and **recycled paper products** (such as Carefresh, Boxo, or similar brands). Both are dust-free, absorbent, and safe for most rats. A deep layer (4–6 inches) will allow your rats to dig and burrow [2].
+*   **Aspen and Respiratory Health:** Aspen shavings are safe for healthy rats, but if your rat has any respiratory issues — including mycoplasmosis, chronic respiratory disease, or any history of sneezing and wheezing — switch to **paper-based bedding only**. Even low-dust wood shavings can aggravate sensitive airways [3].
+*   **Materials to Avoid:** **Never use pine or cedar shavings.** The aromatic phenol oils in these softwoods are toxic to rats and are a major trigger for respiratory disease, even in kiln-dried forms. Also avoid dusty beddings, corncobs, and scented litters [2].
 
 ## Essential Cage Accessories
 
@@ -59,4 +60,4 @@ Where you place the cage is also important. Keep it in a temperature-controlled 
 
 [2] [Providing a Home for a Rat](https://www.merckvetmanual.com/all-other-pets/rats/providing-a-home-for-a-rat) — Merck Veterinary Manual, 2024
 
-[3] [Creating a good home for rats](https://www.rspca.org.uk/adviceandwelfare/pets/rodents/rats/environment) — RSPCA, Unknown
+[3] [Rat Respiratory Disease and Bedding](https://www.ratbehavior.org/bedding.htm) — The Rat Guide / Rat Behavior and Biology, 2023

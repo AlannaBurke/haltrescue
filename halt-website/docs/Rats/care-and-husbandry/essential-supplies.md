@@ -21,7 +21,7 @@ The bar spacing should be no more than **1/2 inch** to prevent escapes, especial
 
 **Bedding:**
 
-Proper bedding is essential for hygiene and comfort. It should be dust-free to protect your rats' sensitive respiratory systems. Excellent choices include aspen shavings or recycled paper products such as Carefresh. **Never use pine or cedar shavings** — the aromatic oils in these woods are toxic to rats and can cause serious respiratory problems [1].
+Proper bedding is essential for hygiene and comfort. It must be dust-free to protect your rats' sensitive respiratory systems. The two best choices are **aspen shavings** and **recycled paper products** such as Carefresh or Boxo. Aspen is safe for healthy rats, but if your rat has any respiratory symptoms — sneezing, wheezing, or a history of mycoplasmosis — use paper-based bedding only, as even low-dust wood shavings can aggravate sensitive airways [1]. **Never use pine or cedar shavings** — the aromatic phenol oils in these softwoods are toxic to rats and a leading trigger for respiratory disease, even in kiln-dried forms [1].
 
 ## Nutrition: Fueling Your Rat's Adventures
 
