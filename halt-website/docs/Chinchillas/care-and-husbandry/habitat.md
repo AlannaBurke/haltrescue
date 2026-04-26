@@ -8,7 +8,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # The Ideal Chinchilla Habitat
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-habitat.png" />
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-habitat-infographic.png"
+  alt="Kawaii infographic showing ideal chinchilla habitat requirements: cage size, temperature, solid flooring, ventilation, and humidity"
+  title="The Ideal Chinchilla Habitat"
+/>
 
 Creating a safe, stimulating, and comfortable habitat is essential for your chinchilla's physical and mental well-being. Chinchillas are active, curious, and fragile animals, and their environment must be tailored to their unique needs. This guide details the critical components of an ideal chinchilla habitat.
 
@@ -63,6 +67,12 @@ Where you place the cage is just as important as the cage itself.
 *   **Safety**: Keep the cage away from other pets, small children, and any electrical cords or other hazards.
 
 ---
+
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-habitat.png"
+  alt="Illustration of a chinchilla in their habitat"
+  title="Chinchilla Habitat Illustration"
+/>
 
 ### References
 

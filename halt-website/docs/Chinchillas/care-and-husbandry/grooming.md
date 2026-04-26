@@ -9,7 +9,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Grooming Your Pet Chinchilla
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-grooming.png" />
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-grooming-infographic.png"
+  alt="Kawaii infographic: Chinchilla Grooming Guide — dust bath frequency, volcanic ash dust, bath house size, no permanent bath, no water baths, and fur matting tips"
+  title="Chinchilla Grooming Guide"
+/>
 
 A chinchilla's fur is their most defining feature. With up to 60 hairs growing from a single follicle, their coat is incredibly dense and soft. This unique fur requires a special grooming routine that is unlike that of any other pet. [1]
 
@@ -34,6 +38,12 @@ If a mat is severe, it is best to consult a veterinarian or experienced chinchil
 By providing regular access to a high-quality dust bath, you are giving your chinchilla the primary tool it needs to maintain its own luxurious coat.
 
 ---
+
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-grooming.png"
+  alt="Illustration of a chinchilla grooming routine"
+  title="Chinchilla Grooming Illustration"
+/>
 
 **References**
 

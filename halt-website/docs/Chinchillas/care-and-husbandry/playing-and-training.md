@@ -9,7 +9,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Playing with and Training Your Chinchilla
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-play-training.png" />
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-play-training-infographic.png"
+  alt="Kawaii infographic: Playing with and Training Your Chinchilla — out-of-cage time, temperature warning, chinchilla-proofing, positive reinforcement training, enrichment ideas, and crepuscular schedule"
+  title="Playing with & Training Your Chinchilla"
+/>
 
 Chinchillas are extraordinarily athletic animals — in the wild, they leap between rocky outcrops at high altitude, covering several metres in a single bound. They are crepuscular (most active at dawn and dusk) and need daily opportunities to run, jump, and explore. Without adequate enrichment, chinchillas can develop stress-related behaviors and become difficult to handle.[^1]
 

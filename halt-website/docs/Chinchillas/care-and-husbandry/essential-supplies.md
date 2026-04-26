@@ -9,7 +9,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Essential Supplies for Pet Chinchillas
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-essential-supplies.png" />
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-essential-supplies-infographic.png"
+  alt="Kawaii infographic checklist of essential chinchilla supplies: cage, hay, glass water bottle, Chin Spin wheel, dust bath, wooden ledges, thermometer, and ceramic bowl"
+  title="Essential Chinchilla Supplies Checklist"
+/>
 
 Chinchillas are unique pets with specific needs related to their sensitive digestive systems, dense fur, and energetic nature. Preparing their home with all the necessary supplies before they arrive is crucial for their health and well-being. This checklist will guide you through everything you need to get started.
 
@@ -32,6 +36,12 @@ Chinchillas are unique pets with specific needs related to their sensitive diges
 | | **Travel Carrier** | A small, secure carrier for safe transport to the veterinarian. |
 
 ---
+
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-essential-supplies.png"
+  alt="Illustration of essential chinchilla supplies"
+  title="Essential Chinchilla Supplies"
+/>
 
 **References**
 

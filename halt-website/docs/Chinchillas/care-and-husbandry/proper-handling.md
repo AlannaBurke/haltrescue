@@ -9,7 +9,11 @@ import InfographicShare from '@site/src/components/InfographicShare';
 
 # Proper Handling of Pet Chinchillas
 
-<InfographicShare imageSrc="/img/chinchillas/chinchilla-proper-handling.png" />
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-proper-handling-infographic.png"
+  alt="Kawaii infographic: How to Handle Your Chinchilla Safely — full body support, scoop from below, never grab tail middle, fragile rib cage warning, build trust gradually, not suitable for young children"
+  title="How to Handle Your Chinchilla Safely"
+/>
 
 Chinchillas are prey animals with a naturally skittish and flighty demeanor. Building a bond based on trust through correct and gentle handling is essential for a positive relationship with your pet. Their delicate, floating rib cages also mean that improper handling can cause serious injury. [1]
 
@@ -55,6 +59,12 @@ Most chinchillas are not naturally cuddly pets. They prefer to explore and may o
 Always supervise your chinchilla closely during out-of-cage playtime in a chinchilla-proofed room. Their curiosity and need to chew can get them into trouble quickly.
 
 ---
+
+<InfographicShare
+  imageSrc="/img/chinchillas/chinchilla-proper-handling.png"
+  alt="Illustration of proper chinchilla handling technique"
+  title="Chinchilla Handling Illustration"
+/>
 
 **References**
 
