@@ -18,6 +18,16 @@ const config = {
   tagline: 'Finding loving homes for small animals.',
   favicon: 'img/favicon.ico',
 
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'facebook-domain-verification',
+        content: 'rtjdkbevsuqbzw61b6ncw62sjf3vww',
+      },
+    },
+  ],
+
   // Set the production url of your site here
   url: 'https://helpingalllittlethings.org',
   // Set the /<baseUrl>/ pathname under which your site is served
