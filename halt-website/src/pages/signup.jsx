@@ -60,15 +60,14 @@ export default function Signup() {
   return (
     <Layout
       title="Sign Up for Updates"
-      description="Get rescue updates, sanctuary news, and fundraiser alerts from Helping All Little Things by email and text.">
+      description="Sign up for updates from Helping All Little Things. Choose email, texts, or both. We send rescue news, sanctuary stories, care tips, and the occasional fundraiser or auction alert.">
       <main className="container margin-vert--lg">
         <div className={styles.wrap}>
           <h1>Stay Connected with the Rescue</h1>
           <p>
-            Sign up for updates from Helping All Little Things, the small animal
-            rescue and sanctuary. Choose email, texts, or both. We send rescue
-            news, sanctuary stories, care tips, and the occasional fundraiser
-            or auction alert.
+            Sign up for updates from Helping All Little Things. Choose email,
+            texts, or both. We send rescue news, sanctuary stories, care tips,
+            and the occasional fundraiser or auction alert.
           </p>
 
           {status === 'done' ? (
