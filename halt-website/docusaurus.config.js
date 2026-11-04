@@ -221,7 +221,7 @@ const config = {
               },
               {
                 label: 'Sign up for our Newsletter',
-                href: 'https://subscribepage.io/halt',
+                href: 'https://helpingalllittlethings.org/signup',
               },
             ],
           },
