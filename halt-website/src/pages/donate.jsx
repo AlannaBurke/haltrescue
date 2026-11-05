@@ -40,10 +40,11 @@ export default function Donate() {
           <h1>Donate</h1>
           <p>
             Helping All Little Things is an all-volunteer 501(c)(3) rescue,
-            education, and sanctuary for small animals, caring for 200+ guinea
-            pigs, hamsters, cats, and other small animals. Your gift buys food
-            and bedding, covers veterinary care, and supports education and
-            prevention work that keeps small animals out of crisis.
+            sanctuary and educator on small animals, caring for 200+ guinea
+            pigs, hamsters, cats, rabbits, and other small animals. Your gift
+            buys food and bedding, covers veterinary care, and supports the
+            education and prevention work that keeps small animals out of
+            crisis. Thank you for helping all little things.
           </p>
 
           <div className={styles.formWrap}>
