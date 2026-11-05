@@ -5,7 +5,7 @@ description: Privacy Policy for Helping All Little Things
 
 # Privacy Policy
 
-*Last Updated: October 2026*
+*Last Updated: November 2026*
 
 Helping All Little Things ("HALT", "HALT Rescue", "we", "us", or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.
 
@@ -18,5 +18,8 @@ We use your information to send you updates about our rescue, event announcement
 ### 3. SMS Opt-In & Mobile Data Privacy
 **We do not sell, rent, trade, or share your SMS opt-in data or personal mobile information with third parties or affiliates for marketing or promotional purposes.** All mobile information collected for SMS messaging is strictly used to communicate with you regarding Helping All Little Things programs and updates.
 
-### 4. Contact Us
+### 4. Website Analytics
+We use Google Analytics to understand how visitors use our website, including which pages are viewed and how visitors find us. Google Analytics uses cookies to collect this information, and we use it only to improve our website and our outreach. For more information about how Google handles this data, see [Google's Privacy Policy](https://policies.google.com/privacy).
+
+### 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at info@helpingalllittlethings.org.

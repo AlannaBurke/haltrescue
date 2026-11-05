@@ -45,7 +45,7 @@ const FeatureList = [
         makes a huge impact. Thank you for making a difference!
       </>
     ),
-    linkHref: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',
+    linkHref: '/donate',
     linkLabel: 'Donate Now',
   },
 ];

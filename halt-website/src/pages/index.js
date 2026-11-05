@@ -32,7 +32,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary"
-            to="https://www.paypal.com/ncp/payment/8SJFNZQVMQ452"
+            to="/donate"
             aria-label="Donate to support the rescue">
             💛 Donate
           </Link>

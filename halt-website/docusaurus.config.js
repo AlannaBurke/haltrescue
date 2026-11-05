@@ -115,6 +115,10 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         pages: {},
+        gtag: {
+          trackingID: 'G-HQ72J4FN3J',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -157,6 +161,7 @@ const config = {
             position: 'left',
             label: 'Case Studies',
           },
+          { to: '/donate', label: 'Donate', position: 'right' },
         ],
         },
       
