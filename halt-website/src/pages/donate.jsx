@@ -11,17 +11,18 @@ import styles from './donate.module.css';
 const ALT_LINKS = [
   {
     label: 'PayPal',
+    mark: 'PP',
     href: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',
   },
   {
-    label: 'Venmo',
-    sublabel: '@haltrescue',
-    href: 'https://account.venmo.com/u/haltrescue',
+    label: 'Cash App',
+    mark: '$',
+    href: 'https://cash.app/$Haltrescue',
   },
   {
-    label: 'Cash App',
-    sublabel: '$Haltrescue',
-    href: 'https://cash.app/$Haltrescue',
+    label: 'Venmo',
+    mark: 'V',
+    href: 'https://account.venmo.com/u/haltrescue',
   },
 ];
 
@@ -31,17 +32,12 @@ const ALT_LINKS = [
 const MONTHLY_LINKS = [
   {
     label: 'Patreon',
-    sublabel: 'Monthly support',
+    mark: 'P',
     href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',
   },
   {
-    label: 'Givebutter',
-    sublabel: 'One-time or monthly',
-    href: 'https://givebutter.com/help-rescue-200-small-animals-this-year-tbw2xo',
-  },
-  {
     label: 'Facebook',
-    sublabel: 'Subscribe on Facebook',
+    mark: 'f',
     href: 'https://www.facebook.com/HALTRescue/',
   },
 ];
@@ -49,14 +45,15 @@ const MONTHLY_LINKS = [
 function LinkButtons({links}) {
   return (
     <div className={styles.circleGroup}>
-      {links.map(({label, href}) => (
+      {links.map(({label, mark, href}) => (
         <a
           key={href}
-          className={styles.circleBtn}
+          className={styles.optionItem}
           href={href}
           target="_blank"
           rel="noopener noreferrer">
-          {label}
+          <span className={styles.circleBtn}>{mark}</span>
+          <span className={styles.optionLabel}>{label}</span>
         </a>
       ))}
     </div>
@@ -109,38 +106,28 @@ export default function Donate() {
                   <h3>Mail a Check</h3>
                   <p>
                     Checks payable to{' '}
-                    <strong>Helping All Little Things</strong>:
-                  </p>
-                  <address className={styles.address}>
-                    Helping All Little Things
-                    <br />
-                    PO Box 11
-                    <br />
+                    <strong>Helping All Little Things</strong>: PO Box 11,
                     Deerfield, NH 03037
-                  </address>
+                  </p>
                 </div>
               </div>
 
               <div className={styles.sideSection}>
-                <h2>Subscribe another way</h2>
+                <h2>Support us monthly</h2>
                 <LinkButtons links={MONTHLY_LINKS} />
               </div>
             </div>
           </div>
 
           <h2>Could your gift be doubled?</h2>
-          <p>
-            Many employers match donations made by their employees, which can
-            double your gift to the animals at no extra cost to you. Search
-            for your employer below to see if your gift qualifies and how to
-            submit it for a match.
-          </p>
           <div className={styles.matchWrap}>
             <AmplyMatchWidget />
           </div>
-          <p className={styles.formFallback}>
-            Matching gifts are handled through DonateDouble. If your employer
-            matches, their instructions will appear with the search results.
+          <p>
+            Many employers match donations made by their employees, which can
+            double your gift to the animals at no extra cost to you. Search
+            for your employer above to see if your gift qualifies and how to
+            submit it for a match.
           </p>
 
           <p className={styles.thankYou}>
