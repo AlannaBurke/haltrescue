@@ -3,8 +3,31 @@
   margin: 0 auto;
 }
 
+.wrapWide {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.giveGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 1.5rem 2rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+@media (max-width: 768px) {
+  .giveGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sideSection {
+  margin-bottom: 1.75rem;
+}
+
 .formWrap {
-  margin: 1.5rem 0 2rem;
+  margin: 0 0 2rem;
 }
 
 .formFallback {
@@ -24,6 +47,13 @@
   display: flex;
   gap: 0.75rem;
   flex-wrap: wrap;
+  margin: 1rem 0 0.5rem;
+}
+
+.altGroupCol {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
   margin: 1rem 0 0.5rem;
 }
 

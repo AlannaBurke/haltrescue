@@ -46,6 +46,26 @@ const MONTHLY_LINKS = [
   },
 ];
 
+function LinkButtons({links}) {
+  return (
+    <div className={styles.altGroupCol}>
+      {links.map(({label, sublabel, href}) => (
+        <a
+          key={href}
+          className={styles.altBtn}
+          href={href}
+          target="_blank"
+          rel="noopener noreferrer">
+          <span className={styles.altLabel}>{label}</span>
+          {sublabel && (
+            <span className={styles.altSublabel}>{sublabel}</span>
+          )}
+        </a>
+      ))}
+    </div>
+  );
+}
+
 export default function Donate() {
   return (
     <Layout
@@ -58,7 +78,7 @@ export default function Donate() {
         />
       </Head>
       <main className="container margin-vert--lg">
-        <div className={styles.wrap}>
+        <div className={styles.wrapWide}>
           <h1>Donate</h1>
           <p>
             Helping All Little Things is an all-volunteer 501(c)(3) rescue,
@@ -69,18 +89,61 @@ export default function Donate() {
             crisis. Thank you for helping all little things.
           </p>
 
-          <div className={styles.formWrap}>
-            <givebutter-widget id="pEZ2vX"></givebutter-widget>
-            <p className={styles.formFallback}>
-              If the form does not load, you can also give on our{' '}
-              <a
-                href="https://givebutter.com/help-rescue-200-small-animals-this-year-tbw2xo"
-                target="_blank"
-                rel="noopener noreferrer">
-                Givebutter campaign page
-              </a>
-              .
-            </p>
+          <div className={styles.giveGrid}>
+            <div className={styles.formWrap}>
+              <givebutter-widget id="pEZ2vX"></givebutter-widget>
+              <p className={styles.formFallback}>
+                If the form does not load, you can also give on our{' '}
+                <a
+                  href="https://givebutter.com/help-rescue-200-small-animals-this-year-tbw2xo"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Givebutter campaign page
+                </a>
+                .
+              </p>
+            </div>
+
+            <div className={styles.sideCol}>
+              <div className={styles.sideSection}>
+                <h2>Give another way</h2>
+                <LinkButtons links={ALT_LINKS} />
+                <p className={styles.warning}>
+                  Venmo: watch for imposters. We are{' '}
+                  <strong>@haltrescue</strong>, not haltrescue_. Please use
+                  the button above to reach the real account.
+                </p>
+                <p>
+                  After you give, stop by our{' '}
+                  <a href="/thank-you">thank-you page</a> to check whether
+                  your employer will match your gift and double it.
+                </p>
+                <div className={styles.checkBlock}>
+                  <h3>Mail a Check</h3>
+                  <p>
+                    Checks payable to{' '}
+                    <strong>Helping All Little Things</strong>:
+                  </p>
+                  <address className={styles.address}>
+                    Helping All Little Things
+                    <br />
+                    PO Box 11
+                    <br />
+                    Deerfield, NH 03037
+                  </address>
+                </div>
+              </div>
+
+              <div className={styles.sideSection}>
+                <h2>Subscribe another way</h2>
+                <p>
+                  Monthly supporters give the animals steady food, bedding,
+                  and care all year long. Join through whichever service you
+                  like best:
+                </p>
+                <LinkButtons links={MONTHLY_LINKS} />
+              </div>
+            </div>
           </div>
 
           <h2>Could your gift be doubled?</h2>
@@ -97,68 +160,6 @@ export default function Donate() {
             Matching gifts are handled through DonateDouble. If your employer
             matches, their instructions will appear with the search results.
           </p>
-
-          <h2>Give monthly</h2>
-          <p>
-            Monthly supporters give the animals steady food, bedding, and
-            care all year long. Join through whichever service you like best:
-          </p>
-          <div className={styles.altGroup}>
-            {MONTHLY_LINKS.map(({label, sublabel, href}) => (
-              <a
-                key={href}
-                className={styles.altBtn}
-                href={href}
-                target="_blank"
-                rel="noopener noreferrer">
-                <span className={styles.altLabel}>{label}</span>
-                {sublabel && (
-                  <span className={styles.altSublabel}>{sublabel}</span>
-                )}
-              </a>
-            ))}
-          </div>
-
-          <h2>Prefer to give another way?</h2>
-          <div className={styles.altGroup}>
-            {ALT_LINKS.map(({label, sublabel, href}) => (
-              <a
-                key={href}
-                className={styles.altBtn}
-                href={href}
-                target="_blank"
-                rel="noopener noreferrer">
-                <span className={styles.altLabel}>{label}</span>
-                {sublabel && (
-                  <span className={styles.altSublabel}>{sublabel}</span>
-                )}
-              </a>
-            ))}
-          </div>
-          <p className={styles.warning}>
-            Venmo: watch for imposters. We are <strong>@haltrescue</strong>,
-            not haltrescue_. Please use the button above to reach the real
-            account.
-          </p>
-          <p>
-            After you give, stop by our <a href="/thank-you">thank-you page</a>{' '}
-            to check whether your employer will match your gift and double
-            it.
-          </p>
-
-          <div className={styles.checkBlock}>
-            <h3>Mail a Check</h3>
-            <p>
-              Checks payable to <strong>Helping All Little Things</strong>:
-            </p>
-            <address className={styles.address}>
-              Helping All Little Things
-              <br />
-              PO Box 11
-              <br />
-              Deerfield, NH 03037
-            </address>
-          </div>
 
           <p className={styles.thankYou}>
             Thank you for helping all little things. Every gift, in any amount,
