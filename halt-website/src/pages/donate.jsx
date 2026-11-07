@@ -4,56 +4,67 @@ import Head from '@docusaurus/Head';
 import AmplyMatchWidget from '../components/AmplyMatchWidget';
 import styles from './donate.module.css';
 
-// Alternative ways to give. These use the exact links already used in the
-// footer and the blog "Support Us" box, so donors always land in the
-// right place. Note: the real Venmo account is @haltrescue; haltrescue_
-// is an imposter, which is why the button links to the account directly.
+// Alternative ways to give, shown with the same logo buttons the site
+// footer uses (same icon files, brand colors, and destinations, from
+// halt-website/src/theme/Footer/Layout). Note: the real Venmo account
+// is @haltrescue; haltrescue_ is an imposter, which is why the button
+// links to the account directly. Facebook fundraising tools are still
+// in review, so the Facebook button points at the Page for now and can
+// be swapped to a Donate link once Meta approves the application.
 const ALT_LINKS = [
   {
     label: 'PayPal',
-    mark: 'PP',
+    icon: '/img/logos/paypal.svg',
+    bg: '#003087',
     href: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',
   },
   {
-    label: 'Cash App',
-    mark: '$',
+    label: 'CashApp',
+    icon: '/img/logos/cashapp.svg',
+    bg: '#00D632',
     href: 'https://cash.app/$Haltrescue',
   },
   {
     label: 'Venmo',
-    mark: 'V',
+    icon: '/img/logos/venmo.svg',
+    bg: '#008CFF',
     href: 'https://account.venmo.com/u/haltrescue',
   },
-];
-
-// Monthly giving options. Facebook fundraising tools are still in review,
-// so the Facebook option points at Page subscriptions for now and can be
-// swapped to a Donate link once Meta approves the application.
-const MONTHLY_LINKS = [
   {
     label: 'Patreon',
-    mark: 'P',
+    icon: '/img/logos/patreon.svg',
+    bg: '#FF424D',
     href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',
   },
   {
     label: 'Facebook',
-    mark: 'f',
+    icon: '/img/logos/facebook.svg',
+    bg: '#1877F2',
     href: 'https://www.facebook.com/HALTRescue/',
   },
 ];
 
 function LinkButtons({links}) {
   return (
-    <div className={styles.circleGroup}>
-      {links.map(({label, mark, href}) => (
+    <div className={styles.logoGrid}>
+      {links.map(({label, icon, bg, href}) => (
         <a
           key={href}
-          className={styles.optionItem}
+          className={styles.logoBtn}
           href={href}
+          aria-label={label}
+          title={label}
           target="_blank"
           rel="noopener noreferrer">
-          <span className={styles.circleBtn}>{mark}</span>
-          <span className={styles.optionLabel}>{label}</span>
+          <span className={styles.logoBtnIcon} style={{background: bg}}>
+            <img
+              src={icon}
+              alt=""
+              className={styles.logoBtnImg}
+              aria-hidden="true"
+            />
+          </span>
+          <span className={styles.logoBtnLabel}>{label}</span>
         </a>
       ))}
     </div>
@@ -98,37 +109,31 @@ export default function Donate() {
               </p>
             </div>
 
-            <div className={styles.sideCol}>
-              <div className={styles.sideSection}>
-                <h2>Give another way</h2>
-                <LinkButtons links={ALT_LINKS} />
-                <div className={styles.checkBlock}>
-                  <h3>Mail a Check</h3>
-                  <p>
-                    Checks payable to{' '}
-                    <strong>Helping All Little Things</strong>: PO Box 11,
-                    Deerfield, NH 03037
-                  </p>
-                </div>
+            <div className={styles.matchCol}>
+              <h2>Could your gift be doubled?</h2>
+              <div className={styles.matchWrap}>
+                <AmplyMatchWidget />
               </div>
-
-              <div className={styles.sideSection}>
-                <h2>Support us monthly</h2>
-                <LinkButtons links={MONTHLY_LINKS} />
-              </div>
+              <p>
+                Many employers match donations made by their employees, which
+                can double your gift to the animals at no extra cost to you.
+                Search for your employer above to see if your gift qualifies
+                and how to submit it for a match.
+              </p>
             </div>
           </div>
 
-          <h2>Could your gift be doubled?</h2>
-          <div className={styles.matchWrap}>
-            <AmplyMatchWidget />
+          <div className={styles.altSection}>
+            <h2>Give another way</h2>
+            <LinkButtons links={ALT_LINKS} />
+            <div className={styles.checkBlock}>
+              <h3>Mail a Check</h3>
+              <p>
+                Checks payable to <strong>Helping All Little Things</strong>:
+                PO Box 11, Deerfield, NH 03037
+              </p>
+            </div>
           </div>
-          <p>
-            Many employers match donations made by their employees, which can
-            double your gift to the animals at no extra cost to you. Search
-            for your employer above to see if your gift qualifies and how to
-            submit it for a match.
-          </p>
 
           <p className={styles.thankYou}>
             Thank you for helping all little things. Every gift, in any amount,
