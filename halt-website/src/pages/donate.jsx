@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
+import AmplyMatchWidget from '../components/AmplyMatchWidget';
 import styles from './donate.module.css';
 
 // Alternative ways to give. These use the exact links already used in the
@@ -21,6 +22,27 @@ const ALT_LINKS = [
     label: 'Cash App',
     sublabel: '$Haltrescue',
     href: 'https://cash.app/$Haltrescue',
+  },
+];
+
+// Monthly giving options. Facebook fundraising tools are still in review,
+// so the Facebook option points at Page subscriptions for now and can be
+// swapped to a Donate link once Meta approves the application.
+const MONTHLY_LINKS = [
+  {
+    label: 'Patreon',
+    sublabel: 'Monthly support',
+    href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',
+  },
+  {
+    label: 'Givebutter',
+    sublabel: 'One-time or monthly',
+    href: 'https://givebutter.com/help-rescue-200-small-animals-this-year-tbw2xo',
+  },
+  {
+    label: 'Facebook',
+    sublabel: 'Subscribe on Facebook',
+    href: 'https://www.facebook.com/HALTRescue/',
   },
 ];
 
@@ -61,6 +83,42 @@ export default function Donate() {
             </p>
           </div>
 
+          <h2>Could your gift be doubled?</h2>
+          <p>
+            Many employers match donations made by their employees, which can
+            double your gift to the animals at no extra cost to you. Search
+            for your employer below to see if your gift qualifies and how to
+            submit it for a match.
+          </p>
+          <div className={styles.matchWrap}>
+            <AmplyMatchWidget />
+          </div>
+          <p className={styles.formFallback}>
+            Matching gifts are handled through DonateDouble. If your employer
+            matches, their instructions will appear with the search results.
+          </p>
+
+          <h2>Give monthly</h2>
+          <p>
+            Monthly supporters give the animals steady food, bedding, and
+            care all year long. Join through whichever service you like best:
+          </p>
+          <div className={styles.altGroup}>
+            {MONTHLY_LINKS.map(({label, sublabel, href}) => (
+              <a
+                key={href}
+                className={styles.altBtn}
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer">
+                <span className={styles.altLabel}>{label}</span>
+                {sublabel && (
+                  <span className={styles.altSublabel}>{sublabel}</span>
+                )}
+              </a>
+            ))}
+          </div>
+
           <h2>Prefer to give another way?</h2>
           <div className={styles.altGroup}>
             {ALT_LINKS.map(({label, sublabel, href}) => (
@@ -81,6 +139,11 @@ export default function Donate() {
             Venmo: watch for imposters. We are <strong>@haltrescue</strong>,
             not haltrescue_. Please use the button above to reach the real
             account.
+          </p>
+          <p>
+            After you give, stop by our <a href="/thank-you">thank-you page</a>{' '}
+            to check whether your employer will match your gift and double
+            it.
           </p>
 
           <div className={styles.checkBlock}>
