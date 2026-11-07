@@ -48,18 +48,15 @@ const MONTHLY_LINKS = [
 
 function LinkButtons({links}) {
   return (
-    <div className={styles.altGroupCol}>
-      {links.map(({label, sublabel, href}) => (
+    <div className={styles.circleGroup}>
+      {links.map(({label, href}) => (
         <a
           key={href}
-          className={styles.altBtn}
+          className={styles.circleBtn}
           href={href}
           target="_blank"
           rel="noopener noreferrer">
-          <span className={styles.altLabel}>{label}</span>
-          {sublabel && (
-            <span className={styles.altSublabel}>{sublabel}</span>
-          )}
+          {label}
         </a>
       ))}
     </div>
@@ -108,16 +105,6 @@ export default function Donate() {
               <div className={styles.sideSection}>
                 <h2>Give another way</h2>
                 <LinkButtons links={ALT_LINKS} />
-                <p className={styles.warning}>
-                  Venmo: watch for imposters. We are{' '}
-                  <strong>@haltrescue</strong>, not haltrescue_. Please use
-                  the button above to reach the real account.
-                </p>
-                <p>
-                  After you give, stop by our{' '}
-                  <a href="/thank-you">thank-you page</a> to check whether
-                  your employer will match your gift and double it.
-                </p>
                 <div className={styles.checkBlock}>
                   <h3>Mail a Check</h3>
                   <p>
@@ -136,11 +123,6 @@ export default function Donate() {
 
               <div className={styles.sideSection}>
                 <h2>Subscribe another way</h2>
-                <p>
-                  Monthly supporters give the animals steady food, bedding,
-                  and care all year long. Join through whichever service you
-                  like best:
-                </p>
                 <LinkButtons links={MONTHLY_LINKS} />
               </div>
             </div>

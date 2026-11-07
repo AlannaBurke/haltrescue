@@ -43,48 +43,34 @@
   margin: 1rem 0 0.5rem;
 }
 
-.altGroup {
+.circleGroup {
   display: flex;
-  gap: 0.75rem;
+  gap: 0.9rem;
   flex-wrap: wrap;
   margin: 1rem 0 0.5rem;
 }
 
-.altGroupCol {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-  margin: 1rem 0 0.5rem;
-}
-
-.altBtn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.15rem;
-  padding: 0.7rem 1.4rem;
+.circleBtn {
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;
   border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0.4rem;
   font-weight: 700;
+  font-size: 0.78rem;
+  line-height: 1.15;
   color: var(--ifm-font-color-base);
   text-decoration: none;
 }
 
-.altBtn:hover {
+.circleBtn:hover {
   border-color: var(--ifm-color-primary);
   color: var(--ifm-color-primary);
   text-decoration: none;
-}
-
-.altSublabel {
-  font-weight: 400;
-  font-size: 0.85rem;
-  color: var(--ifm-color-emphasis-700);
-}
-
-.warning {
-  font-size: 0.9rem;
-  color: var(--ifm-color-emphasis-700);
 }
 
 .checkBlock {
