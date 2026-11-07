@@ -12,6 +12,12 @@ export default function ThankYou() {
         <div className={styles.wrap}>
           <h1>Thank you!</h1>
           <p>
+            Thank you for your payment. Your transaction has been completed,
+            and a receipt for your donation has been emailed to you. If you
+            paid through PayPal, you can also log into your PayPal account to
+            view the transaction details.
+          </p>
+          <p>
             Your gift goes straight to food, bedding, and veterinary care for
             the 200+ small animals at Helping All Little Things. We are so
             grateful.
