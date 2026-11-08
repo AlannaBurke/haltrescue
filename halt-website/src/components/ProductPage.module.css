@@ -1,0 +1,63 @@
+.wrap {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.photo {
+  display: block;
+  width: 100%;
+  max-width: 620px;
+  height: auto;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+.price {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.25rem;
+}
+
+.category {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1rem;
+}
+
+.buyButton {
+  display: inline-block;
+  padding: 0.7rem 1.8rem;
+  border-radius: 999px;
+  background: var(--ifm-color-primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.buyButton:link,
+.buyButton:visited,
+.buyButton:hover,
+.buyButton:active {
+  color: #fff;
+  text-decoration: none;
+}
+
+.buyButton:hover {
+  background: var(--ifm-color-primary-dark);
+}
+
+.buyNote {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-top: 0.25rem;
+}
+
+.backLink {
+  margin-top: 2rem;
+}
