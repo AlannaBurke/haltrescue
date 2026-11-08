@@ -2,16 +2,14 @@ import React, {useEffect, useRef, useState} from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import {PRODUCTS} from '../data/products';
+import {loadPaypalSdk, renderPaypalButtons} from '../lib/paypal';
 import styles from './checkout.module.css';
 
 const SITE_URL = 'https://helpingalllittlethings.org';
 const CART_KEY = 'haltCartV1';
 
-// Same PayPal app as the product pages. The Client ID is a public
-// identifier that belongs in the page code.
-const PAYPAL_CLIENT_ID =
-  'BAAiYr0r-y_hasJVi4FAnZzwYu4kFMSeaRJuM0NEg5YGMtzZdIimYWJkKEIX1q6U07dHTBkXVPkM0z0S8Y';
-const PAYPAL_SDK_URL = `https://www.paypal.com/sdk/js?client-id=${PAYPAL_CLIENT_ID}&currency=USD`;
+// Same PayPal app as the product pages; the SDK is loaded (with
+// retries) by the shared loader in src/lib/paypal.js.
 
 function productById(id) {
   return PRODUCTS.find((p) => p.id === String(id));
@@ -79,45 +77,6 @@ function storeCart(lines) {
   }
 }
 
-function loadPaypalSdk() {
-  return new Promise((resolve, reject) => {
-    if (typeof window === 'undefined') {
-      reject(new Error('No window'));
-      return;
-    }
-    if (window.paypal) {
-      resolve(window.paypal);
-      return;
-    }
-    const onLoad = () => {
-      if (window.paypal) {
-        resolve(window.paypal);
-      } else {
-        reject(new Error('PayPal SDK unavailable'));
-      }
-    };
-    const existing = document.querySelector(
-      `script[src="${PAYPAL_SDK_URL}"]`,
-    );
-    if (existing) {
-      existing.addEventListener('load', onLoad);
-      existing.addEventListener('error', () =>
-        reject(new Error('PayPal SDK failed to load')),
-      );
-      if (window.paypal) {
-        resolve(window.paypal);
-      }
-      return;
-    }
-    const script = document.createElement('script');
-    script.src = PAYPAL_SDK_URL;
-    script.async = true;
-    script.onload = onLoad;
-    script.onerror = () => reject(new Error('PayPal SDK failed to load'));
-    document.head.appendChild(script);
-  });
-}
-
 function money(n) {
   return Number(n).toFixed(2);
 }
@@ -130,7 +89,6 @@ function CartPaypalButtons({lines, total, onFailure}) {
 
   useEffect(() => {
     let cancelled = false;
-    let buttons = null;
 
     loadPaypalSdk()
       .then((paypal) => {
@@ -138,7 +96,8 @@ function CartPaypalButtons({lines, total, onFailure}) {
           return;
         }
         renderedRef.current = true;
-        buttons = paypal.Buttons({
+        let rendered = false;
+        const options = {
           createOrder: (data, actions) => {
             const current = linesRef.current;
             const items = current.map((l) => ({
@@ -188,12 +147,18 @@ function CartPaypalButtons({lines, total, onFailure}) {
               window.location.href = `${SITE_URL}/order-thank-you`;
             }),
           onError: () => {
-            if (!cancelled) {
+            if (!cancelled && !rendered) {
               onFailure();
             }
           },
+        };
+        return renderPaypalButtons(
+          paypal,
+          options,
+          containerRef.current,
+        ).then(() => {
+          rendered = true;
         });
-        return buttons.render(containerRef.current);
       })
       .catch(() => {
         if (!cancelled) {
@@ -203,9 +168,6 @@ function CartPaypalButtons({lines, total, onFailure}) {
 
     return () => {
       cancelled = true;
-      if (buttons && typeof buttons.close === 'function') {
-        buttons.close().catch(() => {});
-      }
     };
     // The buttons read the live cart through linesRef at order
     // creation time, so they only render once.

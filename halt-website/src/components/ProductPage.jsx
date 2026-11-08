@@ -3,18 +3,16 @@ import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
 import Link from '@docusaurus/Link';
 import {PRODUCTS} from '../data/products';
+import {loadPaypalSdk, renderPaypalButtons} from '../lib/paypal';
 import styles from './ProductPage.module.css';
 
 const SITE_URL = 'https://helpingalllittlethings.org';
 
-// PayPal Smart Buttons. The Client ID is a public identifier that
-// belongs in the page code. The order carries the product's
-// sheetName both as the item name and as the purchase unit's
-// custom_id, so the rescue's order listener can match each payment
-// to the right item in its records.
-const PAYPAL_CLIENT_ID =
-  'BAAiYr0r-y_hasJVi4FAnZzwYu4kFMSeaRJuM0NEg5YGMtzZdIimYWJkKEIX1q6U07dHTBkXVPkM0z0S8Y';
-const PAYPAL_SDK_URL = `https://www.paypal.com/sdk/js?client-id=${PAYPAL_CLIENT_ID}&currency=USD`;
+// PayPal Smart Buttons. The order carries the product's sheetName
+// both as the item name and as the purchase unit's custom_id, so
+// the rescue's order listener can match each payment to the right
+// item in its records. The SDK itself is loaded (with retries) by
+// the shared loader in src/lib/paypal.js.
 
 function productDescription(product) {
   return (
@@ -26,53 +24,12 @@ function productDescription(product) {
   );
 }
 
-function loadPaypalSdk() {
-  return new Promise((resolve, reject) => {
-    if (typeof window === 'undefined') {
-      reject(new Error('No window'));
-      return;
-    }
-    if (window.paypal) {
-      resolve(window.paypal);
-      return;
-    }
-    const onLoad = () => {
-      if (window.paypal) {
-        resolve(window.paypal);
-      } else {
-        reject(new Error('PayPal SDK unavailable'));
-      }
-    };
-    const existing = document.querySelector(
-      `script[src="${PAYPAL_SDK_URL}"]`,
-    );
-    if (existing) {
-      existing.addEventListener('load', onLoad);
-      existing.addEventListener('error', () =>
-        reject(new Error('PayPal SDK failed to load')),
-      );
-      if (window.paypal) {
-        resolve(window.paypal);
-      }
-      return;
-    }
-    const script = document.createElement('script');
-    script.src = PAYPAL_SDK_URL;
-    script.async = true;
-    script.onload = onLoad;
-    script.onerror = () =>
-      reject(new Error('PayPal SDK failed to load'));
-    document.head.appendChild(script);
-  });
-}
-
 function PaypalBuyButtons({product, onFailure}) {
   const containerRef = useRef(null);
   const renderedRef = useRef(false);
 
   useEffect(() => {
     let cancelled = false;
-    let buttons = null;
     const itemName = product.sheetName || product.name;
     const price = Number(product.price).toFixed(2);
 
@@ -82,7 +39,8 @@ function PaypalBuyButtons({product, onFailure}) {
           return;
         }
         renderedRef.current = true;
-        buttons = paypal.Buttons({
+        let rendered = false;
+        const options = {
           createOrder: (data, actions) =>
             actions.order.create({
               purchase_units: [
@@ -120,12 +78,18 @@ function PaypalBuyButtons({product, onFailure}) {
               window.location.href = `${SITE_URL}/order-thank-you`;
             }),
           onError: () => {
-            if (!cancelled) {
+            if (!cancelled && !rendered) {
               onFailure();
             }
           },
+        };
+        return renderPaypalButtons(
+          paypal,
+          options,
+          containerRef.current,
+        ).then(() => {
+          rendered = true;
         });
-        return buttons.render(containerRef.current);
       })
       .catch(() => {
         if (!cancelled) {
@@ -135,9 +99,6 @@ function PaypalBuyButtons({product, onFailure}) {
 
     return () => {
       cancelled = true;
-      if (buttons && typeof buttons.close === 'function') {
-        buttons.close().catch(() => {});
-      }
     };
   }, [product, onFailure]);
 
@@ -186,7 +147,6 @@ export default function ProductPage({productId}) {
     <Layout title={product.name} description={description}>
       <Head>
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
-        <script src={PAYPAL_SDK_URL} async />
       </Head>
       <main className="container margin-vert--lg">
         <div className={styles.wrap}>
