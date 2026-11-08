@@ -22,12 +22,18 @@
   }
 }
 
-.sideCol > h2:first-child {
+.box {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.box h2 {
   margin-top: 0;
 }
 
 .doubledBlock {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .formWrap {
@@ -41,10 +47,7 @@
 }
 
 .matchWrap {
-  border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: 8px;
-  padding: 1rem 1.25rem;
-  margin: 1rem 0 0.5rem;
+  margin: 0.5rem 0;
 }
 
 /* Logo buttons: same structure and sizes as the site footer's logo
@@ -70,15 +73,17 @@
   color: var(--ifm-font-color-base);
 }
 
-.logoBtn:visited {
+.logoBtn:link,
+.logoBtn:visited,
+.logoBtn:hover,
+.logoBtn:active {
   color: var(--ifm-font-color-base);
+  text-decoration: none;
 }
 
 .logoBtn:hover {
   background: var(--ifm-color-emphasis-200);
   transform: translateY(-1px);
-  text-decoration: none;
-  color: var(--ifm-font-color-base);
 }
 
 .logoBtnIcon {
@@ -108,6 +113,7 @@
   font-size: 0.78rem;
   font-weight: 600;
   white-space: nowrap;
+  color: inherit;
 }
 
 .checkBlock {
@@ -115,10 +121,7 @@
   align-items: baseline;
   gap: 0.6rem;
   flex-wrap: wrap;
-  border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: 8px;
-  padding: 0.6rem 0.9rem;
-  margin-top: 1.25rem;
+  margin-top: 1rem;
   font-size: 0.92rem;
 }
 

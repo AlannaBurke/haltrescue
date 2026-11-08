@@ -37,7 +37,7 @@ const ALT_LINKS = [
     href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',
   },
   {
-    label: 'Facebook',
+    label: 'Subscribe via FB',
     icon: '/img/logos/facebook.svg',
     bg: '#1877F2',
     href: 'https://www.facebook.com/HALTRescue/',
@@ -110,17 +110,20 @@ export default function Donate() {
             </div>
 
             <div className={styles.sideCol}>
-              <h2>Give another way</h2>
-              <LinkButtons links={ALT_LINKS} />
-              <div className={styles.checkBlock}>
-                <h3>Mail a Check</h3>
-                <p>
-                  Checks payable to <strong>Helping All Little Things</strong>:
-                  PO Box 11, Deerfield, NH 03037
-                </p>
+              <div className={styles.box}>
+                <h2>Give another way</h2>
+                <LinkButtons links={ALT_LINKS} />
+                <div className={styles.checkBlock}>
+                  <h3>Mail a Check</h3>
+                  <p>
+                    Checks payable to{' '}
+                    <strong>Helping All Little Things</strong>: PO Box 11,
+                    Deerfield, NH 03037
+                  </p>
+                </div>
               </div>
 
-              <div className={styles.doubledBlock}>
+              <div className={`${styles.box} ${styles.doubledBlock}`}>
                 <h2>Could your gift be doubled?</h2>
                 <div className={styles.matchWrap}>
                   <AmplyMatchWidget />
