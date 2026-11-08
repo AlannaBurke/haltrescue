@@ -22,8 +22,12 @@
   }
 }
 
-.matchCol h2 {
+.sideCol > h2:first-child {
   margin-top: 0;
+}
+
+.doubledBlock {
+  margin-top: 2rem;
 }
 
 .formWrap {
@@ -41,10 +45,6 @@
   border-radius: 8px;
   padding: 1rem 1.25rem;
   margin: 1rem 0 0.5rem;
-}
-
-.altSection {
-  margin-top: 2.25rem;
 }
 
 /* Logo buttons: same structure and sizes as the site footer's logo

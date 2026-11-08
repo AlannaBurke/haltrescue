@@ -109,29 +109,29 @@ export default function Donate() {
               </p>
             </div>
 
-            <div className={styles.matchCol}>
-              <h2>Could your gift be doubled?</h2>
-              <div className={styles.matchWrap}>
-                <AmplyMatchWidget />
+            <div className={styles.sideCol}>
+              <h2>Give another way</h2>
+              <LinkButtons links={ALT_LINKS} />
+              <div className={styles.checkBlock}>
+                <h3>Mail a Check</h3>
+                <p>
+                  Checks payable to <strong>Helping All Little Things</strong>:
+                  PO Box 11, Deerfield, NH 03037
+                </p>
               </div>
-              <p>
-                Many employers match donations made by their employees, which
-                can double your gift to the animals at no extra cost to you.
-                Search for your employer above to see if your gift qualifies
-                and how to submit it for a match.
-              </p>
-            </div>
-          </div>
 
-          <div className={styles.altSection}>
-            <h2>Give another way</h2>
-            <LinkButtons links={ALT_LINKS} />
-            <div className={styles.checkBlock}>
-              <h3>Mail a Check</h3>
-              <p>
-                Checks payable to <strong>Helping All Little Things</strong>:
-                PO Box 11, Deerfield, NH 03037
-              </p>
+              <div className={styles.doubledBlock}>
+                <h2>Could your gift be doubled?</h2>
+                <div className={styles.matchWrap}>
+                  <AmplyMatchWidget />
+                </div>
+                <p>
+                  Many employers match donations made by their employees,
+                  which can double your gift to the animals at no extra cost
+                  to you. Search for your employer above to see if your gift
+                  qualifies and how to submit it for a match.
+                </p>
+              </div>
             </div>
           </div>
 
