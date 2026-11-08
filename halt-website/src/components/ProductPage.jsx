@@ -230,6 +230,26 @@ export default function ProductPage({productId}) {
               </p>
             </>
           )}
+          <p>
+            <button
+              type="button"
+              className={styles.buyButton}
+              onClick={() => {
+                try {
+                  const raw = window.localStorage.getItem('haltCartV1');
+                  const stored = raw ? JSON.parse(raw) : {};
+                  stored[product.id] =
+                    (parseInt(stored[product.id], 10) || 0) + 1;
+                  window.localStorage.setItem(
+                    'haltCartV1',
+                    JSON.stringify(stored),
+                  );
+                } catch (e) {}
+                window.location.href = '/checkout';
+              }}>
+              Add to Cart
+            </button>
+          </p>
           <p className={styles.backLink}>
             <Link to="/shop">Back to the HALT Shop</Link>
           </p>

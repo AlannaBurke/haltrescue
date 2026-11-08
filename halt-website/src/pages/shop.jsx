@@ -50,6 +50,11 @@ export default function Shop() {
             Prints are 5x7, pre-matted, and ready to frame, on premium
             uncoated cover stock.
           </p>
+          <p>
+            Buying more than one item? Open an item and use Add to
+            Cart, then check out once from{' '}
+            <a href="/checkout">your cart</a>.
+          </p>
 
           <div className={styles.filters}>
             {CATEGORIES.map((c) => (
