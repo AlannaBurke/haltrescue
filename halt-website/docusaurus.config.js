@@ -26,6 +26,13 @@ const config = {
         content: 'rtjdkbevsuqbzw61b6ncw62sjf3vww',
       },
     },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'impact-site-verification',
+        value: '6037c031-dd5b-451e-a18b-5c7cdc1b180b',
+      },
+    },
   ],
 
   // Set the production url of your site here
