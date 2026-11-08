@@ -124,7 +124,7 @@ export default function Donate() {
               </div>
 
               <div className={`${styles.box} ${styles.doubledBlock}`}>
-                <h2>Could your gift be doubled?</h2>
+                <h2>Could your gift be matched?</h2>
                 <div className={styles.matchWrap}>
                   <AmplyMatchWidget />
                 </div>
@@ -137,11 +137,6 @@ export default function Donate() {
               </div>
             </div>
           </div>
-
-          <p className={styles.thankYou}>
-            Thank you for helping all little things. Every gift, in any amount,
-            goes directly to the care and comfort of the animals.
-          </p>
         </div>
       </main>
     </Layout>
