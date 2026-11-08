@@ -198,7 +198,11 @@ export default function ProductPage({productId}) {
           />
           <p className={styles.price}>${product.price}</p>
           <p className={styles.category}>{product.category}</p>
-          <p>{description}</p>
+          {product.description
+            .split('\n\n')
+            .map((paragraph, i) => (
+              <p key={i}>{paragraph}</p>
+            ))}
           {paypalFailed ? (
             <>
               <p>

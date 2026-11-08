@@ -24,6 +24,7 @@ export const PRODUCTS = [
     sheetName: "Little Guy - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/little-guy-5x7-170767084?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/little-guy-5x7-170767084?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170767166",
@@ -34,6 +35,7 @@ export const PRODUCTS = [
     sheetName: "Peekaboo - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/peekaboo-5x7-170767166?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/peekaboo-5x7-170767166?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170766864",
@@ -44,6 +46,7 @@ export const PRODUCTS = [
     sheetName: "Logo - Sticker",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-logo-170766864?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-logo-170766864?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nThis is a 3 inch vinyl sticker with the words \u201cHelping All Little Things\u201d above a heart full of small animals.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170766664",
@@ -54,6 +57,7 @@ export const PRODUCTS = [
     sheetName: "Resting Piggie Face - Sticker",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/resting-piggy-170766664?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/resting-piggy-170766664?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nThis is a 3 inch vinyl sticker with the words \u201cresting piggy face\u201d. Water bottle shows size reference.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170766470",
@@ -64,6 +68,7 @@ export const PRODUCTS = [
     sheetName: "Big or Small - Sticker",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-170766470?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-170766470?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nThis is a 3 inch vinyl sticker with the words \u201cbig or small adopt them all\u201d. Water bottle shows size reference.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170766265",
@@ -74,6 +79,7 @@ export const PRODUCTS = [
     sheetName: "halt Finding Loving Homes - Sticker",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-finding-170766265?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-finding-170766265?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nThis is a 3 inch vinyl sticker with the words \u201cFinding Loving Homes for Small Animals\u201d. Water bottle shows size reference.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170759968",
@@ -84,6 +90,7 @@ export const PRODUCTS = [
     sheetName: "Think Outside the Box - Sticker",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/think-outside-170759968?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/think-outside-170759968?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nThis is a 3 inch vinyl sticker with the words \u201cthink outside the box adopt don\u2019t shop!\u201d Surrounding a group of small animals.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170729498",
@@ -94,6 +101,7 @@ export const PRODUCTS = [
     sheetName: "Happy Boy - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/happy-boy-5x7-170729498?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/happy-boy-5x7-170729498?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170687996",
@@ -104,6 +112,7 @@ export const PRODUCTS = [
     sheetName: "Reunited - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/reunited-5x7-170687996?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/reunited-5x7-170687996?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170687866",
@@ -114,6 +123,7 @@ export const PRODUCTS = [
     sheetName: "Ploy - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/ploy-5x7-matted-170687866?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/ploy-5x7-matted-170687866?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170687300",
@@ -124,6 +134,7 @@ export const PRODUCTS = [
     sheetName: "Keanu - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/keanu-5x7-matted-170687300?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/keanu-5x7-matted-170687300?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686854",
@@ -134,6 +145,7 @@ export const PRODUCTS = [
     sheetName: "Pinecone - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/pinecone-5x7-170686854?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/pinecone-5x7-170686854?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686673",
@@ -144,6 +156,7 @@ export const PRODUCTS = [
     sheetName: "Marshmallow And Lilypad - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/marshmallow-and-lilypad-170686673?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/marshmallow-and-lilypad-170686673?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686409",
@@ -154,6 +167,7 @@ export const PRODUCTS = [
     sheetName: "Orville And Wilbur - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/orville-and-5x7-170686409?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/orville-and-5x7-170686409?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686318",
@@ -164,6 +178,7 @@ export const PRODUCTS = [
     sheetName: "Duckie - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/duckie-5x7-print-170686318?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/duckie-5x7-print-170686318?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686237",
@@ -174,6 +189,7 @@ export const PRODUCTS = [
     sheetName: "Flavio - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flavio-5x7-print-170686237?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flavio-5x7-print-170686237?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170686083",
@@ -184,6 +200,7 @@ export const PRODUCTS = [
     sheetName: "Roger - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/roger-5x7-matted-170686083?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/roger-5x7-matted-170686083?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170685998",
@@ -194,6 +211,7 @@ export const PRODUCTS = [
     sheetName: "Castor And Pollux - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/castor-and-5x7-170685998?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/castor-and-5x7-170685998?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170603434",
@@ -204,6 +222,7 @@ export const PRODUCTS = [
     sheetName: "Rodent Raindrops - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/rodent-raindrops-170603434?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/rodent-raindrops-170603434?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170685713",
@@ -214,6 +233,7 @@ export const PRODUCTS = [
     sheetName: "Abby - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/abby-5x7-matted-170685713?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/abby-5x7-matted-170685713?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170685581",
@@ -224,6 +244,7 @@ export const PRODUCTS = [
     sheetName: "Penelope - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/penelope-5x7-170685581?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/penelope-5x7-170685581?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170388778",
@@ -234,6 +255,7 @@ export const PRODUCTS = [
     sheetName: "The Orchard - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/orchard-print-170388778?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/orchard-print-170388778?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170385256",
@@ -244,6 +266,7 @@ export const PRODUCTS = [
     sheetName: "Fall Shiver - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/fall-shiver-170385256?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/fall-shiver-170385256?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170382215",
@@ -254,6 +277,7 @@ export const PRODUCTS = [
     sheetName: "Ghoulish Fun - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/ghoulish-fun-170382215?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/ghoulish-fun-170382215?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "170381779",
@@ -264,6 +288,7 @@ export const PRODUCTS = [
     sheetName: "Sweet Tooth - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/sweet-tooth-170381779?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/sweet-tooth-170381779?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166445256",
@@ -274,6 +299,7 @@ export const PRODUCTS = [
     sheetName: "The Auburn Rabbit - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/auburn-rabbit-166445256?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/auburn-rabbit-166445256?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166445099",
@@ -284,6 +310,7 @@ export const PRODUCTS = [
     sheetName: "Guinea Pig Riot - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/guinea-pig-riot-5x7-166445099?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/guinea-pig-riot-5x7-166445099?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166444612",
@@ -294,6 +321,7 @@ export const PRODUCTS = [
     sheetName: "Heated Ratvalry - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/heated-ratvalry-166444612?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/heated-ratvalry-166444612?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166294492",
@@ -304,6 +332,7 @@ export const PRODUCTS = [
     sheetName: "Tootsies - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/tootsies-5x7-166294492?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/tootsies-5x7-166294492?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166291718",
@@ -314,6 +343,7 @@ export const PRODUCTS = [
     sheetName: "HALT Critter Infinity - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-critter-5x7-166291718?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-critter-5x7-166291718?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166291532",
@@ -324,6 +354,7 @@ export const PRODUCTS = [
     sheetName: "Pool Party - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/pool-party-5x7-166291532?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/pool-party-5x7-166291532?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166288132",
@@ -334,6 +365,7 @@ export const PRODUCTS = [
     sheetName: "All Dolled Up - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/all-dolled-up-166288132?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/all-dolled-up-166288132?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166287941",
@@ -344,6 +376,7 @@ export const PRODUCTS = [
     sheetName: "Sweet Little Thing - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/sweet-little-thing-5x7-166287941?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/sweet-little-thing-5x7-166287941?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166286421",
@@ -354,6 +387,7 @@ export const PRODUCTS = [
     sheetName: "Tiny Romeo - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/tiny-romeo-5x7-166286421?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/tiny-romeo-5x7-166286421?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166161270",
@@ -364,6 +398,7 @@ export const PRODUCTS = [
     sheetName: "Flower Hat - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flower-hat-5x7-166161270?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flower-hat-5x7-166161270?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166161153",
@@ -374,6 +409,7 @@ export const PRODUCTS = [
     sheetName: "Dandelion Camouflage - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/dandelion-5x7-166161153?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/dandelion-5x7-166161153?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166082490",
@@ -384,6 +420,7 @@ export const PRODUCTS = [
     sheetName: "The Imposters - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/imposters-5x7-166082490?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/imposters-5x7-166082490?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166082204",
@@ -394,6 +431,7 @@ export const PRODUCTS = [
     sheetName: "Look! - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/look-5x7-166082204?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/look-5x7-166082204?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166081783",
@@ -404,6 +442,7 @@ export const PRODUCTS = [
     sheetName: "The Unicorn Tamer - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/unicorn-tamer-166081783?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/unicorn-tamer-166081783?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "166081593",
@@ -414,6 +453,7 @@ export const PRODUCTS = [
     sheetName: "The Flower Girls - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flower-girls-5x7-166081593?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/flower-girls-5x7-166081593?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "165595118",
@@ -424,6 +464,7 @@ export const PRODUCTS = [
     sheetName: "HALT Letters and Critters - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-letters-165595118?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/halt-letters-165595118?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock. This is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the print looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every dollar from the sale of this print, after production costs, goes directly to providing veterinary care, specialized diets, and enrichment supplies for the small animals currently in our care at Helping All Little Things Rescue.",
   },
   {
     id: "165475525",
@@ -434,6 +475,7 @@ export const PRODUCTS = [
     sheetName: "Adopt Them All Colored - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-all-165475525?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-all-165475525?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock. This is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the print looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every dollar from the sale of this print, after production costs, goes directly to providing veterinary care, specialized diets, and enrichment supplies for the small animals currently in our care at Helping All Little Things Rescue.",
   },
   {
     id: "156792733",
@@ -444,6 +486,7 @@ export const PRODUCTS = [
     sheetName: "Adopt Them All B&W - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-156792733?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/big-or-small-156792733?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock. This is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the print looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every dollar from the sale of this print, after production costs, goes directly to providing veterinary care, specialized diets, and enrichment supplies for the small animals currently in our care at Helping All Little Things Rescue.",
   },
   {
     id: "156802238",
@@ -454,6 +497,7 @@ export const PRODUCTS = [
     sheetName: "Rainbow Bridge - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/rainbow-bridge-156802238?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/rainbow-bridge-156802238?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock. This is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the print looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every dollar from the sale of this print, after production costs, goes directly to providing veterinary care, specialized diets, and enrichment supplies for the small animals currently in our care at Helping All Little Things Rescue.",
   },
   {
     id: "156802585",
@@ -464,6 +508,7 @@ export const PRODUCTS = [
     sheetName: "Resting Piggie Face - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/resting-piggie-156802585?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/resting-piggie-156802585?source=storefront",
+    description: "Every purchase directly supports the medical care, specialized food, and enrichment for small animals in our care.\n\nPaper: Premium Cougar Uncoated Cover stock.\n\nThis is a heavy-weight paper with a beautiful, velvety matte finish (zero glare), ensuring the artistic ink-work looks exceptional.\n\nPresentation: Each print arrives pre-matted and ready to frame immediately.\n\nWhere does the money go? Every purchase directly supports the animals at Helping All Little Things Rescue, helping provide veterinary care, specialized diets, medications, and enrichment for the small animals in our care. As a rescue that works extensively with rats and other small mammals, we're honored to share and preserve a piece of the history of these often-overlooked animals while raising funds for their care today.",
   },
   {
     id: "165386038",
@@ -474,5 +519,6 @@ export const PRODUCTS = [
     sheetName: "Historic Rat Photography - Print",
     url: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/historic-fancy-165386038?source=storefront",
     buyUrl: "https://www.patreon.com/HelpingAllLittleThingsRescue/posts/historic-fancy-165386038?source=storefront",
+    description: "Celebrate the rich heritage of fancy rats with this unique 5x7 matted print, featuring a beautifully reproduced archival photograph. This piece is perfect for rat lovers, history buffs, and art collectors alike.\n\nAbout the Image\n\nLong before rats were beloved pets, they were carefully bred and exhibited by enthusiasts in the early 20th century. This image captures the charm and character of those pioneering fancy rats, offering a rare look into a fascinating chapter of pet history.\n\nFor rat lovers and collectors, this print is both a conversation piece and a tribute to the extraordinary bond between humans and their rattie companions.\n\nThe Print Specifications\n\nTo preserve the history, the photograph has been carefully printed on high-quality archival paper, showcasing its timeless detail and sepia-toned character.\n\nHistoric Reproduction: Carefully reproduced from a rare archival photograph.\n\nMatte Finish: Minimizes glare and enhances the antique character of the image.\n\nReady to Display: Printed and matted for easy framing and display.\n\nWhere does the money go? Every dollar from the sale of this print, after production costs, goes directly to providing veterinary care, specialized diets, and enrichment supplies for the small animals currently in our care at Helping All Little Things Rescue.",
   },
 ];
