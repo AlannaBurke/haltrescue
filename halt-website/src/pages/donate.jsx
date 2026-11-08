@@ -115,6 +115,18 @@ export default function Donate() {
 
             <div className={styles.sideCol}>
               <div className={styles.box}>
+                <h2>Give another way</h2>
+                <LinkButtons links={ALT_LINKS} />
+                <div className={styles.checkBlock}>
+                  <h3>Mail a Check</h3>
+                  <p>
+                    Payable to <strong>Helping All Little Things</strong>:
+                    PO Box 11, Deerfield, NH 03037
+                  </p>
+                </div>
+              </div>
+
+              <div className={`${styles.box} ${styles.secondBox}`}>
                 <h2>Could your gift be matched?</h2>
                 <div className={styles.matchWrap}>
                   <AmplyMatchWidget />
@@ -125,18 +137,6 @@ export default function Donate() {
                   to you. Search for your employer above to see if your gift
                   qualifies and how to submit it for a match.
                 </p>
-              </div>
-
-              <div className={`${styles.box} ${styles.secondBox}`}>
-                <h2>Give another way</h2>
-                <LinkButtons links={ALT_LINKS} />
-                <div className={styles.checkBlock}>
-                  <h3>Mail a Check</h3>
-                  <p>
-                    Payable to <strong>Helping All Little Things</strong>:
-                    PO Box 11, Deerfield, NH 03037
-                  </p>
-                </div>
               </div>
             </div>
           </div>
