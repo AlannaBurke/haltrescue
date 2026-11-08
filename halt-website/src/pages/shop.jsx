@@ -5,8 +5,8 @@ import {PRODUCTS} from '../data/products';
 
 // Product data lives in src/data/products.js, shared with the
 // individual product pages under /shop/<id>. Clicking an item in
-// the grid opens its product page here on the site, and the Buy
-// button there takes the buyer to Patreon to check out.
+// the grid opens its product page here on the site, where the
+// buyer checks out with PayPal.
 const CATEGORIES = ['All', 'Prints', 'Stickers'];
 
 function ProductCard({product}) {
@@ -41,10 +41,10 @@ export default function Shop() {
         <div className={styles.wrap}>
           <h1>HALT Shop</h1>
           <p>
-            Every print and sticker below is sold through our Patreon shop,
-            and every purchase supports veterinary care, specialized diets,
-            medications, and enrichment for the small animals of Helping All
-            Little Things. Click any item to buy it on Patreon.
+            Every purchase supports veterinary care, specialized diets,
+            medications, and enrichment for the small animals of Helping
+            All Little Things. Click any item to open its page, where
+            you can check out with PayPal.
           </p>
           <p>
             Prints are 5x7, pre-matted, and ready to frame, on premium
