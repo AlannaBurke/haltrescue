@@ -21,5 +21,7 @@ We use your information to send you updates about our rescue, event announcement
 ### 4. Website Analytics
 We use Google Analytics to understand how visitors use our website, including which pages are viewed and how visitors find us. Google Analytics uses cookies to collect this information, and we use it only to improve our website and our outreach. For more information about how Google handles this data, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
+We also use the Meta (Facebook) Pixel on our website. The pixel uses cookies to measure how visitors who come to us from Facebook or Instagram use our website, for example which pages they view, so we can understand which of our posts and outreach are working. Meta may use this information as described in [Meta's Privacy Policy](https://www.facebook.com/privacy/policy/).
+
 ### 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at info@helpingalllittlethings.org.
