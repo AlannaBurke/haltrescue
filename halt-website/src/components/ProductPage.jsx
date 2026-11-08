@@ -117,7 +117,7 @@ function PaypalBuyButtons({product, onFailure}) {
             }),
           onApprove: (data, actions) =>
             actions.order.capture().then(() => {
-              window.location.href = `${SITE_URL}/thank-you`;
+              window.location.href = `${SITE_URL}/order-thank-you`;
             }),
           onError: () => {
             if (!cancelled) {
