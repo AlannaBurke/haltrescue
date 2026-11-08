@@ -30,7 +30,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'impact-site-verification',
-        value: '6f96c150-8ede-40c5-b2a0-45e95e0edc5a',
+        value: '3984e056-6d0a-4afb-8d7a-49b433245524',
       },
     },
   ],
