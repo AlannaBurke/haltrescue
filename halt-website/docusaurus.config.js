@@ -33,6 +33,13 @@ const config = {
         value: '3984e056-6d0a-4afb-8d7a-49b433245524',
       },
     },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'impact-site-verification',
+        value: '284aa240-afc2-42d7-9427-ee310da2244b',
+      },
+    },
   ],
 
   // Set the production url of your site here
