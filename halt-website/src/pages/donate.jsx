@@ -64,7 +64,11 @@ function LinkButtons({links}) {
               aria-hidden="true"
             />
           </span>
-          <span className={styles.logoBtnLabel}>{label}</span>
+          <span
+            className={styles.logoBtnLabel}
+            style={{color: 'var(--ifm-font-color-base)'}}>
+            {label}
+          </span>
         </a>
       ))}
     </div>
@@ -116,9 +120,8 @@ export default function Donate() {
                 <div className={styles.checkBlock}>
                   <h3>Mail a Check</h3>
                   <p>
-                    Checks payable to{' '}
-                    <strong>Helping All Little Things</strong>: PO Box 11,
-                    Deerfield, NH 03037
+                    Payable to <strong>Helping All Little Things</strong>:
+                    PO Box 11, Deerfield, NH 03037
                   </p>
                 </div>
               </div>

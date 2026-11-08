@@ -113,7 +113,7 @@
   font-size: 0.78rem;
   font-weight: 600;
   white-space: nowrap;
-  color: inherit;
+  color: var(--ifm-font-color-base) !important;
 }
 
 .checkBlock {
