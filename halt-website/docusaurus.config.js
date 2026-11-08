@@ -40,6 +40,13 @@ const config = {
         value: '284aa240-afc2-42d7-9427-ee310da2244b',
       },
     },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'impact-site-verification',
+        value: '78631883-dc71-4c0b-a3c2-3787efb83b99',
+      },
+    },
   ],
 
   // Set the production url of your site here
