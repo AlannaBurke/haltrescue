@@ -1,0 +1,99 @@
+.wrap {
+  max-width: 1040px;
+  margin: 0 auto;
+}
+
+.filters {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0;
+}
+
+.filterBtn {
+  padding: 0.45rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.filterBtn:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+
+.filterBtnActive {
+  background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.filterBtnActive:hover {
+  color: #fff;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+}
+
+.card:link,
+.card:visited,
+.card:hover,
+.card:active {
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+}
+
+.cardImgWrap {
+  display: block;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.cardImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  transition: transform 0.2s;
+}
+
+.card:hover .cardImg {
+  transform: scale(1.04);
+}
+
+.cardName {
+  font-weight: 600;
+  font-size: 0.92rem;
+  line-height: 1.3;
+}
+
+.cardPrice {
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.note {
+  margin-top: 2rem;
+}
