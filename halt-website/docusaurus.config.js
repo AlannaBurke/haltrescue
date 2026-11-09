@@ -18,6 +18,8 @@ const config = {
   tagline: 'Finding loving homes for small animals.',
   favicon: 'img/favicon.ico',
 
+  scripts: [{src: '/js/cart-badge.js', defer: true}],
+
   headTags: [
     {
       tagName: 'meta',
@@ -201,6 +203,13 @@ const config = {
             ],
           },
           { to: '/donate', label: 'Donate', position: 'right' },
+          {
+            to: '/checkout',
+            label: '🛒 Cart',
+            position: 'right',
+            className: 'halt-cart-link',
+            'aria-label': 'Your cart',
+          },
         ],
         },
       

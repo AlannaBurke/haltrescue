@@ -1,18 +1,16 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React from 'react';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
 import Link from '@docusaurus/Link';
 import {PRODUCTS} from '../data/products';
-import {loadPaypalSdk, renderPaypalButtons} from '../lib/paypal';
 import styles from './ProductPage.module.css';
 
 const SITE_URL = 'https://helpingalllittlethings.org';
 
-// PayPal Smart Buttons. The order carries the product's sheetName
-// both as the item name and as the purchase unit's custom_id, so
-// the rescue's order listener can match each payment to the right
-// item in its records. The SDK itself is loaded (with retries) by
-// the shared loader in src/lib/paypal.js.
+// Product pages are cart-only (user decision 2026-11-08): the buy
+// action is Add to Cart, which takes the buyer to /checkout, plus
+// a small Buy on Patreon link underneath. All PayPal checkout
+// happens on the cart page.
 
 function productDescription(product) {
   return (
@@ -24,90 +22,8 @@ function productDescription(product) {
   );
 }
 
-function PaypalBuyButtons({product, onFailure}) {
-  const containerRef = useRef(null);
-  const renderedRef = useRef(false);
-
-  useEffect(() => {
-    let cancelled = false;
-    const itemName = product.sheetName || product.name;
-    const price = Number(product.price).toFixed(2);
-
-    loadPaypalSdk()
-      .then((paypal) => {
-        if (cancelled || renderedRef.current || !containerRef.current) {
-          return;
-        }
-        renderedRef.current = true;
-        let rendered = false;
-        const options = {
-          createOrder: (data, actions) =>
-            actions.order.create({
-              purchase_units: [
-                {
-                  custom_id: itemName,
-                  amount: {
-                    currency_code: 'USD',
-                    value: price,
-                    breakdown: {
-                      item_total: {
-                        currency_code: 'USD',
-                        value: price,
-                      },
-                    },
-                  },
-                  items: [
-                    {
-                      name: itemName,
-                      quantity: '1',
-                      unit_amount: {
-                        currency_code: 'USD',
-                        value: price,
-                      },
-                    },
-                  ],
-                },
-              ],
-              application_context: {
-                shipping_preference: 'GET_FROM_FILE',
-                brand_name: 'Helping All Little Things',
-              },
-            }),
-          onApprove: (data, actions) =>
-            actions.order.capture().then(() => {
-              window.location.href = `${SITE_URL}/order-thank-you`;
-            }),
-          onError: () => {
-            if (!cancelled && !rendered) {
-              onFailure();
-            }
-          },
-        };
-        return renderPaypalButtons(
-          paypal,
-          options,
-          containerRef.current,
-        ).then(() => {
-          rendered = true;
-        });
-      })
-      .catch(() => {
-        if (!cancelled) {
-          onFailure();
-        }
-      });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [product, onFailure]);
-
-  return <div ref={containerRef} />;
-}
-
 export default function ProductPage({productId}) {
   const product = PRODUCTS.find((p) => p.id === String(productId));
-  const [paypalFailed, setPaypalFailed] = useState(false);
 
   if (!product) {
     return (
@@ -163,33 +79,6 @@ export default function ProductPage({productId}) {
             .map((paragraph, i) => (
               <p key={i}>{paragraph}</p>
             ))}
-          {paypalFailed ? (
-            <>
-              <p>
-                <a
-                  className={styles.buyButton}
-                  href={product.buyUrl}
-                  target="_blank"
-                  rel="noopener noreferrer">
-                  Buy on Patreon
-                </a>
-              </p>
-              <p className={styles.buyNote}>
-                You will complete your purchase on Patreon.
-              </p>
-            </>
-          ) : (
-            <>
-              <PaypalBuyButtons
-                product={product}
-                onFailure={() => setPaypalFailed(true)}
-              />
-              <p className={styles.buyNote}>
-                Pay with PayPal or a debit or credit card. Shipping is
-                free.
-              </p>
-            </>
-          )}
           <p>
             <button
               type="button"
@@ -209,6 +98,18 @@ export default function ProductPage({productId}) {
               }}>
               Add to Cart
             </button>
+          </p>
+          <p className={styles.buyNote}>
+            Checkout with PayPal or a debit or credit card on the next
+            page. Shipping is free.
+          </p>
+          <p className={styles.buyNote}>
+            <a
+              href={product.buyUrl}
+              target="_blank"
+              rel="noopener noreferrer">
+              Buy on Patreon
+            </a>
           </p>
           <p className={styles.backLink}>
             <Link to="/shop">Back to the HALT Shop</Link>

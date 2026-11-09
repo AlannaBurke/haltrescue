@@ -282,11 +282,24 @@ export default function Checkout() {
                 </span>
               </p>
               {paypalFailed ? (
-                <p>
-                  Online checkout is unavailable right now. You can
-                  still buy each item on its own page in the{' '}
-                  <Link to="/shop">HALT Shop</Link>.
-                </p>
+                <div>
+                  <p>
+                    Online checkout is unavailable right now. You can
+                    still buy these items on Patreon:
+                  </p>
+                  <ul>
+                    {lines.map((l) => (
+                      <li key={l.product.id}>
+                        <a
+                          href={l.product.buyUrl}
+                          target="_blank"
+                          rel="noopener noreferrer">
+                          {l.product.name} on Patreon
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               ) : (
                 <>
                   <CartPaypalButtons
