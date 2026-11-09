@@ -37,12 +37,12 @@
     justify-content: center;
     flex: 1;
     gap: 0.2rem;
-    padding: 0.4rem 0.5rem;
+    padding: 0.4rem 0.2rem;
     border-radius: 14px;
     text-decoration: none !important;
     color: var(--halt-text-medium);
     font-weight: 700;
-    font-size: 0.72rem;
+    font-size: 0.68rem;
     letter-spacing: 0.01em;
     transition: background 0.18s ease, color 0.18s ease, transform 0.18s ease;
     -webkit-tap-highlight-color: transparent;
@@ -90,6 +90,77 @@
   }
 
   .navLabel {
-    line-height: 1;
+    line-height: 1.05;
+    text-align: center;
+  }
+
+  /* The Stories & Blog item is a <button>, not a link — reset button chrome */
+  .navButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  .menuBackdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 9988;
+    background: transparent;
+  }
+
+  .storiesMenu {
+    position: fixed;
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: calc(4.8rem + env(safe-area-inset-bottom));
+    z-index: 9989;
+    background: rgba(255, 255, 255, 0.98);
+    border: 2px solid var(--halt-teal-light);
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(15, 138, 147, 0.18);
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  [data-theme='dark'] .storiesMenu {
+    background: rgba(18, 18, 31, 0.98);
+    border-color: rgba(45, 212, 223, 0.25);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .storiesMenuItem {
+    display: block;
+    padding: 0.7rem 0.9rem;
+    border-radius: 10px;
+    text-decoration: none !important;
+    color: var(--halt-text-medium);
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+
+  .storiesMenuItem:hover {
+    background: var(--halt-teal-light);
+    color: var(--halt-teal-dark);
+    text-decoration: none !important;
+  }
+
+  [data-theme='dark'] .storiesMenuItem:hover {
+    background: rgba(45, 212, 223, 0.12);
+    color: var(--halt-teal);
+  }
+
+  .storiesMenuItemActive {
+    background: var(--halt-teal-light);
+    color: var(--halt-teal-dark) !important;
+  }
+
+  [data-theme='dark'] .storiesMenuItemActive {
+    background: rgba(45, 212, 223, 0.18);
+    color: var(--halt-teal) !important;
   }
 }

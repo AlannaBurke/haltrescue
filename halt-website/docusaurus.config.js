@@ -168,13 +168,13 @@ const config = {
           src: 'img/logo-square.png',
         },
         items: [
+          { to: '/adoptables', label: 'Adopt', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Resources',
+            label: 'Resources & Education',
           },
-          { to: '/about', label: 'About', position: 'left' },
           {
             type: 'dropdown',
             label: 'Stories, Blogs & Updates',
@@ -196,7 +196,7 @@ const config = {
               },
             ],
           },
-          { to: '/adoptables', label: 'Adopt', position: 'left' },
+          { to: '/about', label: 'About', position: 'left' },
           {
             type: 'dropdown',
             label: 'Shop',
