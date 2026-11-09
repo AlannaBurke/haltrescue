@@ -12,6 +12,9 @@ import styles from './ShopDonateNavbarItem.module.css';
 // the space between the bubble and the menu so the pointer never
 // crosses dead air, and closing is delayed briefly so a small slip
 // off the path does not slam the menu shut before the click lands.
+// Only the Shop half (and the open menu itself) reacts to hover: the
+// Donate half never opens the menu, so a first tap on Donate always
+// navigates instead of being spent on opening the menu.
 export default function ShopDonateNavbarItem() {
   const [open, setOpen] = useState(false);
   const closeTimer = useRef(null);
@@ -46,27 +49,33 @@ export default function ShopDonateNavbarItem() {
   );
 
   return (
-    <div
-      className={styles.wrap}
-      onMouseEnter={openNow}
-      onMouseLeave={closeSoon}
-    >
+    <div className={styles.wrap}>
       <div className={styles.bubble}>
         <button
           type="button"
           className={styles.shopHalf}
           aria-expanded={open}
           aria-haspopup="menu"
+          onMouseEnter={openNow}
+          onMouseLeave={closeSoon}
           onClick={() => (open ? setOpen(false) : openNow())}
         >
           Shop <span className={styles.caret} aria-hidden="true">▾</span>
         </button>
-        <Link className={styles.donateHalf} to="/donate">
+        <Link
+          className={styles.donateHalf}
+          to="/donate"
+          onMouseEnter={() => setOpen(false)}
+        >
           Donate
         </Link>
       </div>
       {open && (
-        <div className={styles.menuOuter}>
+        <div
+          className={styles.menuOuter}
+          onMouseEnter={openNow}
+          onMouseLeave={closeSoon}
+        >
           <div className={styles.menu} role="menu">
             <Link
               className={styles.menuItem}
