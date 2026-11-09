@@ -20,7 +20,7 @@ const Icons = {
       <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
     </svg>
   ),
-  stories: (
+  blog: (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
       <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
     </svg>
@@ -48,55 +48,71 @@ const Icons = {
   ),
 };
 
-// Same four destinations as the desktop "Stories, Blogs & Updates" dropdown
-const STORY_LINKS = [
-  { label: 'Blog', to: '/blog', activePrefix: '/blog' },
-  { label: 'Success Stories', to: '/success-stories', activePrefix: '/success-stories' },
-  { label: 'Sanctuary', to: '/sanctuary', activePrefix: '/sanctuary' },
-  { label: 'Case Studies', to: '/case-studies', activePrefix: '/case-studies' },
-];
+// Drop-up menus. Blog carries the same four destinations as the desktop
+// "Stories, Blogs & Updates" dropdown; Shop carries the same two pages
+// as the desktop Shop menu. No caret/triangle markers on the bar items.
+const MENUS = {
+  blog: {
+    ariaLabel: 'Blog and stories',
+    links: [
+      { label: 'Blog', to: '/blog', activePrefix: '/blog' },
+      { label: 'Success Stories', to: '/success-stories', activePrefix: '/success-stories' },
+      { label: 'Sanctuary', to: '/sanctuary', activePrefix: '/sanctuary' },
+      { label: 'Case Studies', to: '/case-studies', activePrefix: '/case-studies' },
+    ],
+  },
+  shop: {
+    ariaLabel: 'Shop',
+    links: [
+      { label: 'HALT Shop', to: '/shop', activePrefix: '/shop' },
+      { label: 'HALT Affiliate Products', to: '/affiliate-products', activePrefix: '/affiliate-products' },
+    ],
+  },
+};
 
 const NAV_ITEMS = [
   { label: 'Adopt', to: '/adoptables', icon: Icons.adopt, activePrefix: '/adoptables' },
-  { label: 'Resources & Education', to: '/docs/intro', icon: Icons.resources, activePrefix: '/docs' },
-  { label: 'Stories & Blog', dropdown: true, icon: Icons.stories },
+  { label: 'Resources', to: '/docs/intro', icon: Icons.resources, activePrefix: '/docs' },
+  { label: 'Blog', menu: 'blog', icon: Icons.blog },
   { label: 'About', to: '/about', icon: Icons.about, activePrefix: '/about' },
-  { label: 'Shop', to: '/shop', icon: Icons.shop, activePrefix: '/shop' },
+  { label: 'Shop', menu: 'shop', icon: Icons.shop },
   { label: 'Donate', to: '/donate', icon: Icons.donate, activePrefix: '/donate' },
 ];
 
+function isPathActive(pathname, to, activePrefix) {
+  return pathname === to || (activePrefix && pathname.startsWith(activePrefix));
+}
+
 export default function MobileNavBar() {
   const { pathname } = useLocation();
-  const [storiesOpen, setStoriesOpen] = useState(false);
+  const [openMenu, setOpenMenu] = useState(null);
 
-  // Close the Stories menu whenever the page changes
+  // Close any open menu whenever the page changes
   useEffect(() => {
-    setStoriesOpen(false);
+    setOpenMenu(null);
   }, [pathname]);
 
-  const storiesActive = STORY_LINKS.some(
-    ({ to, activePrefix }) => pathname === to || pathname.startsWith(activePrefix)
-  );
+  const menu = openMenu ? MENUS[openMenu] : null;
 
   return (
     <>
-      {storiesOpen && (
+      {menu && (
         <>
           <div
             className={styles.menuBackdrop}
-            onClick={() => setStoriesOpen(false)}
+            onClick={() => setOpenMenu(null)}
             aria-hidden="true"
           />
-          <div className={styles.storiesMenu} role="menu" aria-label="Stories and Blog">
-            {STORY_LINKS.map(({ label, to, activePrefix }) => {
-              const isActive = pathname === to || pathname.startsWith(activePrefix);
+          <div className={styles.storiesMenu} role="menu" aria-label={menu.ariaLabel}>
+            {menu.links.map(({ label, to, activePrefix }) => {
+              const isActive = isPathActive(pathname, to, activePrefix);
               return (
                 <Link
                   key={label}
                   to={to}
                   role="menuitem"
                   className={`${styles.storiesMenuItem} ${isActive ? styles.storiesMenuItemActive : ''}`}
-                  onClick={() => setStoriesOpen(false)}
+                  onClick={() => setOpenMenu(null)}
                 >
                   {label}
                 </Link>
@@ -107,24 +123,27 @@ export default function MobileNavBar() {
       )}
       <nav className={styles.mobileNav} aria-label="Mobile navigation">
         {NAV_ITEMS.map((item) => {
-          if (item.dropdown) {
+          if (item.menu) {
+            const itemActive = MENUS[item.menu].links.some(({ to, activePrefix }) =>
+              isPathActive(pathname, to, activePrefix)
+            );
             return (
               <button
                 key={item.label}
                 type="button"
-                className={`${styles.navItem} ${styles.navButton} ${storiesActive || storiesOpen ? styles.navItemActive : ''}`}
-                aria-expanded={storiesOpen}
+                className={`${styles.navItem} ${styles.navButton} ${itemActive || openMenu === item.menu ? styles.navItemActive : ''}`}
+                aria-expanded={openMenu === item.menu}
                 aria-haspopup="menu"
-                onClick={() => setStoriesOpen((open) => !open)}
+                onClick={() =>
+                  setOpenMenu((current) => (current === item.menu ? null : item.menu))
+                }
               >
                 <span className={styles.navIcon}>{item.icon}</span>
                 <span className={styles.navLabel}>{item.label}</span>
               </button>
             );
           }
-          const isActive =
-            pathname === item.to ||
-            (item.activePrefix && pathname.startsWith(item.activePrefix));
+          const isActive = isPathActive(pathname, item.to, item.activePrefix);
           return (
             <Link
               key={item.label}
