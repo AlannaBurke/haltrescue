@@ -197,17 +197,7 @@ const config = {
             ],
           },
           { to: '/about', label: 'About', position: 'left' },
-          {
-            type: 'dropdown',
-            label: 'Shop',
-            position: 'left',
-            items: [
-              { to: '/shop', label: 'HALT Shop' },
-              { to: '/affiliate-products', label: 'HALT Affiliate Products' },
-            ],
-          },
-          { to: '/donate', label: 'Donate', position: 'right' },
-          { type: 'custom-cart', position: 'right' },
+          { type: 'custom-shop-donate', position: 'right' },
         ],
         },
       

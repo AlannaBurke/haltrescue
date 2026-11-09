@@ -1,0 +1,107 @@
+/* ( Shop | Donate ) pill at the right end of the navbar */
+.wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-left: 0.75rem;
+}
+
+.bubble {
+  display: inline-flex;
+  align-items: stretch;
+  border: 2px solid var(--halt-teal);
+  border-radius: 999px;
+  overflow: hidden;
+  background: #fff;
+  line-height: 1;
+}
+
+.shopHalf {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+  color: var(--halt-teal-dark);
+  padding: 0.45rem 0.6rem 0.45rem 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.shopHalf:hover {
+  background: var(--halt-teal-light);
+}
+
+.caret {
+  font-size: 0.7em;
+}
+
+.donateHalf {
+  background: var(--halt-teal);
+  color: #fff !important;
+  font-weight: 700;
+  padding: 0.45rem 0.95rem 0.45rem 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none !important;
+  border-left: 2px solid var(--halt-teal);
+}
+
+.donateHalf:hover {
+  background: var(--halt-teal-dark);
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+[data-theme='dark'] .bubble {
+  background: rgba(18, 18, 31, 0.9);
+}
+
+[data-theme='dark'] .shopHalf {
+  color: var(--halt-teal);
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 0.45rem);
+  left: 0;
+  min-width: 13rem;
+  background: #fff;
+  border: 2px solid var(--halt-teal-light);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(15, 138, 147, 0.18);
+  padding: 0.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  z-index: 10000;
+}
+
+[data-theme='dark'] .menu {
+  background: rgba(18, 18, 31, 0.98);
+  border-color: rgba(45, 212, 223, 0.25);
+}
+
+.menuItem {
+  display: block;
+  padding: 0.6rem 0.8rem;
+  border-radius: 9px;
+  font-weight: 600;
+  color: var(--halt-text-medium) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.menuItem:hover {
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark) !important;
+  text-decoration: none !important;
+}
+
+[data-theme='dark'] .menuItem:hover {
+  background: rgba(45, 212, 223, 0.12);
+  color: var(--halt-teal) !important;
+}
