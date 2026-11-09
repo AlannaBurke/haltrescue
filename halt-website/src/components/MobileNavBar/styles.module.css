@@ -55,6 +55,15 @@
     transform: translateY(-2px);
   }
 
+  /* Bottom-bar words keep their color after their page has been visited */
+  .navItem:visited {
+    color: var(--halt-text-medium);
+  }
+
+  .navItemActive:visited {
+    color: var(--halt-teal-dark);
+  }
+
   [data-theme='dark'] .navItem {
     color: var(--halt-text-medium);
   }
@@ -141,6 +150,14 @@
     color: var(--halt-text-medium);
     font-weight: 700;
     font-size: 0.95rem;
+  }
+
+  .storiesMenuItem:visited {
+    color: var(--halt-text-medium);
+  }
+
+  .storiesMenuItemActive:visited {
+    color: var(--halt-teal-dark);
   }
 
   .storiesMenuItem:hover {

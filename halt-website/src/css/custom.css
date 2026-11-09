@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar__brand {
   font-size: 1.15rem;
   font-weight: 800;
-  color: var(--halt-teal-dark);
+  color: #1c1e21;
   gap: 0.5rem;
 }
 
@@ -167,11 +167,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar__title {
   font-weight: 800;
-  color: var(--halt-teal-dark);
+  color: #1c1e21;
 }
 
 [data-theme='dark'] .navbar__title {
-  color: var(--halt-teal);
+  color: #f5f6f7;
 }
 
 .navbar__link {
@@ -185,14 +185,14 @@ h1, h2, h3, h4, h5, h6 {
 .navbar__link:hover,
 .navbar__link--active {
   background: var(--halt-teal-light);
-  color: var(--halt-teal-dark) !important;
+  color: #1c1e21 !important;
   text-decoration: none;
 }
 
 [data-theme='dark'] .navbar__link:hover,
 [data-theme='dark'] .navbar__link--active {
   background: rgba(45, 212, 223, 0.15);
-  color: var(--halt-teal) !important;
+  color: #f5f6f7 !important;
 }
 
 /* ============================================================
@@ -976,13 +976,31 @@ img[alt=board-pic] {
    ACCESSIBILITY — Contrast fixes (WCAG 2.2 AA)
    ============================================================ */
 
-/* Visited links: prevent browser default purple from failing contrast */
+/* Visited links: prevent browser default purple from failing contrast.
+   Scoped so navigation never recolors: a word in a nav bar must look
+   the same whether or not its page has been visited. */
 a:visited {
   color: var(--ifm-color-primary-dark, #0d7c84);
 }
 
 [data-theme='dark'] a:visited {
   color: var(--ifm-color-primary-light, #3cdde8);
+}
+
+.navbar__link:visited,
+.dropdown__toggle:visited,
+.dropdown__link:visited {
+  color: var(--ifm-navbar-link-color);
+}
+
+.navbar__brand:visited,
+.navbar__title:visited {
+  color: #1c1e21;
+}
+
+[data-theme='dark'] .navbar__brand:visited,
+[data-theme='dark'] .navbar__title:visited {
+  color: #f5f6f7;
 }
 
 /* Breadcrumb links */

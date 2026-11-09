@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Link from '@docusaurus/Link';
 import { useLocation } from '@docusaurus/router';
 import styles from './ShopDonateNavbarItem.module.css';
@@ -7,19 +7,49 @@ import styles from './ShopDonateNavbarItem.module.css';
 // Shop opens a small menu with the two shop pages; Donate goes straight
 // to /donate and is filled in teal so it reads as the action button.
 // Registered as the navbar item type "custom-shop-donate".
+//
+// The menu is deliberately forgiving to use: an invisible bridge fills
+// the space between the bubble and the menu so the pointer never
+// crosses dead air, and closing is delayed briefly so a small slip
+// off the path does not slam the menu shut before the click lands.
 export default function ShopDonateNavbarItem() {
   const [open, setOpen] = useState(false);
+  const closeTimer = useRef(null);
   const { pathname } = useLocation();
+
+  const openNow = () => {
+    if (closeTimer.current) {
+      clearTimeout(closeTimer.current);
+      closeTimer.current = null;
+    }
+    setOpen(true);
+  };
+
+  const closeSoon = () => {
+    if (closeTimer.current) {
+      clearTimeout(closeTimer.current);
+    }
+    closeTimer.current = setTimeout(() => setOpen(false), 350);
+  };
 
   useEffect(() => {
     setOpen(false);
   }, [pathname]);
 
+  useEffect(
+    () => () => {
+      if (closeTimer.current) {
+        clearTimeout(closeTimer.current);
+      }
+    },
+    []
+  );
+
   return (
     <div
       className={styles.wrap}
-      onMouseEnter={() => setOpen(true)}
-      onMouseLeave={() => setOpen(false)}
+      onMouseEnter={openNow}
+      onMouseLeave={closeSoon}
     >
       <div className={styles.bubble}>
         <button
@@ -27,7 +57,7 @@ export default function ShopDonateNavbarItem() {
           className={styles.shopHalf}
           aria-expanded={open}
           aria-haspopup="menu"
-          onClick={() => setOpen((o) => !o)}
+          onClick={() => (open ? setOpen(false) : openNow())}
         >
           Shop <span className={styles.caret} aria-hidden="true">▾</span>
         </button>
@@ -36,23 +66,25 @@ export default function ShopDonateNavbarItem() {
         </Link>
       </div>
       {open && (
-        <div className={styles.menu} role="menu">
-          <Link
-            className={styles.menuItem}
-            to="/shop"
-            role="menuitem"
-            onClick={() => setOpen(false)}
-          >
-            HALT Shop
-          </Link>
-          <Link
-            className={styles.menuItem}
-            to="/affiliate-products"
-            role="menuitem"
-            onClick={() => setOpen(false)}
-          >
-            HALT Affiliate Products
-          </Link>
+        <div className={styles.menuOuter}>
+          <div className={styles.menu} role="menu">
+            <Link
+              className={styles.menuItem}
+              to="/shop"
+              role="menuitem"
+              onClick={() => setOpen(false)}
+            >
+              HALT Shop
+            </Link>
+            <Link
+              className={styles.menuItem}
+              to="/affiliate-products"
+              role="menuitem"
+              onClick={() => setOpen(false)}
+            >
+              HALT Affiliate Products
+            </Link>
+          </div>
         </div>
       )}
     </div>
