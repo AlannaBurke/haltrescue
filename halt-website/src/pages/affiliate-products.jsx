@@ -19,7 +19,7 @@ function StoreButtons({product}) {
       {product.chewy && (
         <a
           className={styles.storeBtn}
-          href={CHEWY_STOREFRONT}
+          href={product.chewyUrl || CHEWY_STOREFRONT}
           target="_blank"
           rel="noopener noreferrer">
           <img
@@ -47,7 +47,7 @@ function StoreButtons({product}) {
           rel="noopener noreferrer">
           <img
             className={styles.logoWord}
-            src="/img/logos/amazon-logo.svg"
+            src="/img/logos/amazon-logo.png"
             alt="Amazon"
           />
         </a>
@@ -55,7 +55,7 @@ function StoreButtons({product}) {
         <span className={`${styles.storeBtn} ${styles.storeBtnSoon}`}>
           <img
             className={styles.logoWord}
-            src="/img/logos/amazon-logo.svg"
+            src="/img/logos/amazon-logo.png"
             alt="Amazon"
           />
         </span>
