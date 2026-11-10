@@ -45,13 +45,19 @@ function StoreButtons({product}) {
           href={product.amazonUrl}
           target="_blank"
           rel="noopener noreferrer">
-          <img src="/img/logos/amazon.svg" alt="" />
-          Amazon
+          <img
+            className={styles.logoWord}
+            src="/img/logos/amazon-logo.svg"
+            alt="Amazon"
+          />
         </a>
       ) : (
         <span className={`${styles.storeBtn} ${styles.storeBtnSoon}`}>
-          <img src="/img/logos/amazon.svg" alt="" />
-          Amazon
+          <img
+            className={styles.logoWord}
+            src="/img/logos/amazon-logo.svg"
+            alt="Amazon"
+          />
         </span>
       )}
     </span>
@@ -105,35 +111,19 @@ export default function AffiliateProducts() {
 
           <div className={styles.deals}>
             <h2>Our affiliate deals</h2>
-            <ul>
-              <li>
-                <strong>Chewy:</strong> buy through our Chewy storefront
-                and Chewy sends us 10% of eligible orders. Anything bought
-                through the storefront counts. Pharmacy items and autoship
-                orders do not earn.
-              </li>
-              <li>
-                <strong>Amazon:</strong> we are an Amazon Associate. Buying
-                through an item's Amazon button earns us a commission that
-                varies by product. The window is 24 hours after you click:
-                anything ordered in that day counts, and items added to
-                the cart in that window still count if they are ordered
-                within 90 days. Amazon buttons are being added item by
-                item, so check back.
-              </li>
-              <li>
-                <strong>Exotic Nutrition:</strong> buy the Carefresh
-                bedding through our link and we earn a commission on the
-                order. The window is 30 days after you click.
-              </li>
-              <li>
-                <strong>Coming soon:</strong> we have applications in with
-                PetSmart (2%, 15-day window), Walmart (up to 4%, 3-day
-                window), Petco (about 2%, 7-day window), and Target (rates
-                vary). Their buttons will appear here as we are approved.
-              </li>
-            </ul>
-            <p>You pay the same price either way.</p>
+            <p>
+              When you shop through the buttons on this page, the store
+              pays us a small commission at no extra cost to you, and it
+              usually counts for everything in your order, not just the
+              item you clicked. Buying the same day you click always
+              helps. The buttons under each product are listed in order
+              of the best commission for us, based on where that product
+              is sold.
+            </p>
+            <p>
+              Coming soon: PetSmart, Walmart, Target, and Petco. Their
+              buttons will appear here as we are approved.
+            </p>
           </div>
 
           <div className={shopStyles.filters}>
