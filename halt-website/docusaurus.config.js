@@ -48,7 +48,7 @@ const config = {
         !function(f,b,e,v,n,t,s)
         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
         n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        if(!f._fbq)f._bq=n;n.push=n;n.loaded=!0;n.version='2.0';
         n.queue=[];t=b.createElement(e);t.async=!0;
         t.src=v;s=b.getElementsByTagName(e)[0];
         s.parentNode.insertBefore(t,s)}(window, document,'script',
@@ -75,12 +75,66 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans', 'fr', 'es', 'de', 'pl', 'pt-BR', 'nl', 'ru', 'cs', 'ja'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        htmlLang: 'en',
+        direction: 'ltr',
+      },
+      'zh-Hans': {
+        label: '简体中文',
+        htmlLang: 'zh-Hans',
+        direction: 'ltr',
+      },
+      fr: {
+        label: 'Français',
+        htmlLang: 'fr',
+        direction: 'ltr',
+      },
+      es: {
+        label: 'Español',
+        htmlLang: 'es',
+        direction: 'ltr',
+      },
+      de: {
+        label: 'Deutsch',
+        htmlLang: 'de',
+        direction: 'ltr',
+      },
+      pl: {
+        label: 'Polski',
+        htmlLang: 'pl',
+        direction: 'ltr',
+      },
+      'pt-BR': {
+        label: 'Português',
+        htmlLang: 'pt-BR',
+        direction: 'ltr',
+      },
+      nl: {
+        label: 'Nederlands',
+        htmlLang: 'nl',
+        direction: 'ltr',
+      },
+      ru: {
+        label: 'Русский',
+        htmlLang: 'ru',
+        direction: 'ltr',
+      },
+      cs: {
+        label: 'Čeština',
+        htmlLang: 'cs',
+        direction: 'ltr',
+      },
+      ja: {
+        label: '日本語',
+        htmlLang: 'ja',
+        direction: 'ltr',
+      },
+    },
   },
 
   clientModules: [
@@ -197,10 +251,11 @@ const config = {
             ],
           },
           { to: '/about', label: 'About', position: 'left' },
+          { type: 'localeDropdown', position: 'right' },
+          { type: 'colorMode', position: 'right' },
           { type: 'custom-shop-donate', position: 'right' },
         ],
-        },
-      
+      },
       footer: {
         style: 'dark',
         links: [
@@ -235,7 +290,7 @@ const config = {
               {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/HALTRescue/',
-              }, 
+              },
               {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/helpingalllittlethings/',
