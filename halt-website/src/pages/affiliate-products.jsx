@@ -123,6 +123,10 @@ export default function AffiliateProducts() {
               <ProductCard key={product.name} product={product} />
             ))}
           </div>
+
+          <p style={{textAlign: 'center', marginTop: '2rem'}}>
+            As an Amazon Associate I earn from qualifying purchases.
+          </p>
         </div>
       </main>
     </Layout>
