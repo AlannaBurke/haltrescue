@@ -11,12 +11,17 @@ function Footer() {
   }
   const {copyright, links, logo, style} = footer;
   return (
-    <FooterLayout
-      style={style}
-      links={links && links.length > 0 && <FooterLinks links={links} />}
-      logo={logo && <FooterLogo logo={logo} />}
-      copyright={copyright && <FooterCopyright copyright={copyright} />}
-    />
+    <>
+      <FooterLayout
+        style={style}
+        links={links && links.length > 0 && <FooterLinks links={links} />}
+        logo={logo && <FooterLogo logo={logo} />}
+        copyright={copyright && <FooterCopyright copyright={copyright} />}
+      />
+      <div style={{textAlign: 'center', padding: '0.5rem 1rem'}}>
+        As an Amazon Associate I earn from qualifying purchases.
+      </div>
+    </>
   );
 }
 export default React.memo(Footer);

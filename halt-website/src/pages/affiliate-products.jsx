@@ -2,24 +2,20 @@ import React, {useState} from 'react';
 import Layout from '@theme/Layout';
 import shopStyles from './shop.module.css';
 import styles from './affiliate-products.module.css';
-import {ENDORSED, CHEWY_STOREFRONT} from '../data/endorsed';
+import {ENDORSED} from '../data/endorsed';
+import {amazonUrlForProduct} from '../data/amazon-links';
 
-// HALT Affiliate Products: products the rescue uses and endorses.
-// Each card shows the product photo and name, with a button for
-// every store where buying it supports the rescue through an
-// affiliate program. Buttons are listed in the order that helps
-// the rescue most: Chewy (10% through Chewpanions) first, then
-// Exotic Nutrition (5%), then Amazon once that storefront exists.
-
+// HALT Affiliate Products: endorsed products with store links provided by the rescue.
 const CATEGORIES = ['All', 'Small Animals', 'Cats', 'Dogs', 'Cleaning'];
 
 function StoreButtons({product}) {
+  const amazonUrl = amazonUrlForProduct(product.name);
   return (
     <span className={styles.buttons}>
       {product.chewy && (
         <a
           className={styles.storeBtn}
-          href={product.chewyUrl || CHEWY_STOREFRONT}
+          href={product.chewyUrl || 'https://chewpanions.chewy.com/840da941987'}
           target="_blank"
           rel="noopener noreferrer">
           <img
@@ -29,23 +25,10 @@ function StoreButtons({product}) {
           />
         </a>
       )}
-      {product.exoticUrl && (
+      {amazonUrl && (
         <a
           className={styles.storeBtn}
-          href={product.exoticUrl}
-          target="_blank"
-          rel="noopener noreferrer">
-          <img
-            className={styles.logoEn}
-            src="/img/logos/exotic-nutrition-logo.png"
-            alt="Exotic Nutrition"
-          />
-        </a>
-      )}
-      {product.amazonUrl ? (
-        <a
-          className={styles.storeBtn}
-          href={product.amazonUrl}
+          href={amazonUrl}
           target="_blank"
           rel="noopener noreferrer">
           <img
@@ -54,14 +37,6 @@ function StoreButtons({product}) {
             alt="Amazon"
           />
         </a>
-      ) : (
-        <span className={`${styles.storeBtn} ${styles.storeBtnSoon}`}>
-          <img
-            className={styles.logoWord}
-            src="/img/logos/amazon-logo.png"
-            alt="Amazon"
-          />
-        </span>
       )}
     </span>
   );
@@ -86,10 +61,13 @@ function ProductCard({product}) {
 
 export default function AffiliateProducts() {
   const [category, setCategory] = useState('All');
+  const eligible = ENDORSED.filter(
+    (product) => product.name !== 'Oxbow Critical Care Herbivore Apple-Banana, 141-gm bag',
+  );
   const visible =
     category === 'All'
-      ? ENDORSED
-      : ENDORSED.filter((p) => p.category === category);
+      ? eligible
+      : eligible.filter((product) => product.category === category);
 
   return (
     <Layout
@@ -123,10 +101,6 @@ export default function AffiliateProducts() {
               of the best commission for us, based on where that product
               is sold.
             </p>
-            <p>
-              Coming soon: PetSmart, Walmart, Target, and Petco. Their
-              buttons will appear here as we are approved.
-            </p>
           </div>
 
           <div className={shopStyles.filters}>
@@ -145,8 +119,8 @@ export default function AffiliateProducts() {
           </div>
 
           <div className={shopStyles.grid}>
-            {visible.map((p) => (
-              <ProductCard key={p.name} product={p} />
+            {visible.map((product) => (
+              <ProductCard key={product.name} product={product} />
             ))}
           </div>
         </div>
