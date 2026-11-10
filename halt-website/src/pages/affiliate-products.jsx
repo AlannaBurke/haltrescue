@@ -35,8 +35,11 @@ function StoreButtons({product}) {
           href={product.exoticUrl}
           target="_blank"
           rel="noopener noreferrer">
-          <span className={styles.exoticDot}>EN</span>
-          Exotic Nutrition
+          <img
+            className={styles.logoEn}
+            src="/img/logos/exotic-nutrition-logo.png"
+            alt="Exotic Nutrition"
+          />
         </a>
       )}
       {product.amazonUrl ? (

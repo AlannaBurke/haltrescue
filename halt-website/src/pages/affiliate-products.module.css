@@ -40,6 +40,11 @@
   width: auto;
 }
 
+.storeBtn .logoEn {
+  height: 26px;
+  width: auto;
+}
+
 .storeBtnSoon {
   opacity: 0.55;
   cursor: default;
