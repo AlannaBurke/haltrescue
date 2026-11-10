@@ -22,8 +22,11 @@ function StoreButtons({product}) {
           href={CHEWY_STOREFRONT}
           target="_blank"
           rel="noopener noreferrer">
-          <img src="/img/logos/chewy.svg" alt="" />
-          Chewy
+          <img
+            className={styles.logoWord}
+            src="/img/logos/chewy-logo.svg"
+            alt="Chewy"
+          />
         </a>
       )}
       {product.exoticUrl && (
@@ -36,7 +39,7 @@ function StoreButtons({product}) {
           Exotic Nutrition
         </a>
       )}
-      {product.amazonUrl && (
+      {product.amazonUrl ? (
         <a
           className={styles.storeBtn}
           href={product.amazonUrl}
@@ -45,6 +48,11 @@ function StoreButtons({product}) {
           <img src="/img/logos/amazon.svg" alt="" />
           Amazon
         </a>
+      ) : (
+        <span className={`${styles.storeBtn} ${styles.storeBtnSoon}`}>
+          <img src="/img/logos/amazon.svg" alt="" />
+          Amazon
+        </span>
       )}
     </span>
   );
@@ -94,6 +102,34 @@ export default function AffiliateProducts() {
             Our own prints and stickers are in the{' '}
             <a href="/shop">HALT Shop</a>.
           </p>
+
+          <div className={styles.deals}>
+            <h2>Our affiliate deals</h2>
+            <ul>
+              <li>
+                <strong>Chewy:</strong> buy through our Chewy storefront
+                and Chewy sends us 10% of eligible orders. Pharmacy items
+                and autoship orders do not earn.
+              </li>
+              <li>
+                <strong>Amazon:</strong> we are an Amazon Associate. Buying
+                through an item's Amazon button earns us a commission that
+                varies by product. Amazon buttons are being added item by
+                item, so check back.
+              </li>
+              <li>
+                <strong>Exotic Nutrition:</strong> buy the Carefresh
+                bedding through our link and we earn a commission on the
+                order.
+              </li>
+              <li>
+                <strong>Coming soon:</strong> we have applications in with
+                PetSmart, Walmart, Target, and Petco. Their buttons will
+                appear here as we are approved.
+              </li>
+            </ul>
+            <p>You pay the same price either way.</p>
+          </div>
 
           <div className={shopStyles.filters}>
             {CATEGORIES.map((c) => (

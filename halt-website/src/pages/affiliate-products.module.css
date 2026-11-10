@@ -35,6 +35,31 @@
   box-shadow: none !important;
 }
 
+.storeBtn .logoWord {
+  height: 20px;
+  width: auto;
+}
+
+.storeBtnSoon {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.deals {
+  max-width: 720px;
+  margin: 0 auto 8px;
+  text-align: left;
+}
+
+.deals h2 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.deals ul {
+  margin-bottom: 8px;
+}
+
 .exoticDot {
   width: 20px;
   height: 20px;
