@@ -108,24 +108,29 @@ export default function AffiliateProducts() {
             <ul>
               <li>
                 <strong>Chewy:</strong> buy through our Chewy storefront
-                and Chewy sends us 10% of eligible orders. Pharmacy items
-                and autoship orders do not earn.
+                and Chewy sends us 10% of eligible orders. Anything bought
+                through the storefront counts. Pharmacy items and autoship
+                orders do not earn.
               </li>
               <li>
                 <strong>Amazon:</strong> we are an Amazon Associate. Buying
                 through an item's Amazon button earns us a commission that
-                varies by product. Amazon buttons are being added item by
+                varies by product. The window is 24 hours after you click:
+                anything ordered in that day counts, and items added to
+                the cart in that window still count if they are ordered
+                within 90 days. Amazon buttons are being added item by
                 item, so check back.
               </li>
               <li>
                 <strong>Exotic Nutrition:</strong> buy the Carefresh
                 bedding through our link and we earn a commission on the
-                order.
+                order. The window is 30 days after you click.
               </li>
               <li>
                 <strong>Coming soon:</strong> we have applications in with
-                PetSmart, Walmart, Target, and Petco. Their buttons will
-                appear here as we are approved.
+                PetSmart (2%, 15-day window), Walmart (up to 4%, 3-day
+                window), Petco (about 2%, 7-day window), and Target (rates
+                vary). Their buttons will appear here as we are approved.
               </li>
             </ul>
             <p>You pay the same price either way.</p>
