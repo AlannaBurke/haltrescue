@@ -1,8 +1,9 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
 import Link from '@docusaurus/Link';
 import {PRODUCTS} from '../data/products';
+import {trackMetaEvent} from '../lib/meta-pixel';
 import styles from './ProductPage.module.css';
 
 const SITE_URL = 'https://helpingalllittlethings.org';
@@ -24,6 +25,19 @@ function productDescription(product) {
 
 export default function ProductPage({productId}) {
   const product = PRODUCTS.find((p) => p.id === String(productId));
+
+  useEffect(() => {
+    if (!product) {
+      return;
+    }
+    trackMetaEvent('ViewContent', {
+      content_ids: [product.id],
+      content_type: 'product',
+      content_name: product.name,
+      value: product.price,
+      currency: 'USD',
+    });
+  }, [product]);
 
   if (!product) {
     return (
@@ -94,6 +108,14 @@ export default function ProductPage({productId}) {
                     JSON.stringify(stored),
                   );
                 } catch (e) {}
+                trackMetaEvent('AddToCart', {
+                  content_ids: [product.id],
+                  content_type: 'product',
+                  content_name: product.name,
+                  contents: [{id: product.id, quantity: 1, item_price: product.price}],
+                  value: product.price,
+                  currency: 'USD',
+                });
                 window.location.href = '/checkout';
               }}>
               Add to Cart

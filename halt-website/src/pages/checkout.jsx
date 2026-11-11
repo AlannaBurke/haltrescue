@@ -3,6 +3,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import {PRODUCTS} from '../data/products';
 import {loadPaypalSdk, renderPaypalButtons} from '../lib/paypal';
+import {trackMetaEvent} from '../lib/meta-pixel';
 import styles from './checkout.module.css';
 
 const SITE_URL = 'https://helpingalllittlethings.org';
@@ -140,7 +141,28 @@ function CartPaypalButtons({lines, total, onFailure}) {
             });
           },
           onApprove: (data, actions) =>
-            actions.order.capture().then(() => {
+            actions.order.capture().then((capture) => {
+              const purchasedLines = linesRef.current;
+              const purchaseTotal = purchasedLines.reduce(
+                (sum, line) => sum + line.product.price * line.qty,
+                0,
+              );
+              const paypalCaptureId = capture?.purchase_units?.[0]?.payments?.captures?.[0]?.id;
+              trackMetaEvent(
+                'Purchase',
+                {
+                  content_ids: purchasedLines.map((line) => line.product.id),
+                  content_type: 'product',
+                  contents: purchasedLines.map((line) => ({
+                    id: line.product.id,
+                    quantity: line.qty,
+                    item_price: line.product.price,
+                  })),
+                  value: purchaseTotal,
+                  currency: 'USD',
+                },
+                paypalCaptureId ? `paypal-${paypalCaptureId}` : undefined,
+              );
               try {
                 window.localStorage.removeItem(CART_KEY);
               } catch (e) {}
@@ -186,6 +208,22 @@ export default function Checkout() {
     if (fromParam && fromParam.length) {
       setLines(fromParam);
       storeCart(fromParam);
+      // Meta Shops pre-populates this cart, so track that cart addition here.
+      const value = fromParam.reduce(
+        (sum, line) => sum + line.product.price * line.qty,
+        0,
+      );
+      trackMetaEvent('AddToCart', {
+        content_ids: fromParam.map((line) => line.product.id),
+        content_type: 'product',
+        contents: fromParam.map((line) => ({
+          id: line.product.id,
+          quantity: line.qty,
+          item_price: line.product.price,
+        })),
+        value,
+        currency: 'USD',
+      });
     } else {
       setLines(readStoredCart());
     }
