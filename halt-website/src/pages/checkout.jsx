@@ -205,7 +205,9 @@ export default function Checkout() {
 
   useEffect(() => {
     const fromParam = parseProductsParam(window.location.search);
+    let initial;
     if (fromParam && fromParam.length) {
+      initial = fromParam;
       setLines(fromParam);
       storeCart(fromParam);
       // Meta Shops pre-populates this cart, so track that cart addition here.
@@ -225,7 +227,26 @@ export default function Checkout() {
         currency: 'USD',
       });
     } else {
-      setLines(readStoredCart());
+      initial = readStoredCart();
+      setLines(initial);
+    }
+    // Reaching checkout with items is the standard InitiateCheckout event.
+    if (initial && initial.length) {
+      trackMetaEvent('InitiateCheckout', {
+        content_ids: initial.map((line) => line.product.id),
+        content_type: 'product',
+        contents: initial.map((line) => ({
+          id: line.product.id,
+          quantity: line.qty,
+          item_price: line.product.price,
+        })),
+        value: initial.reduce(
+          (sum, line) => sum + line.product.price * line.qty,
+          0,
+        ),
+        currency: 'USD',
+        num_items: initial.reduce((sum, line) => sum + line.qty, 0),
+      });
     }
   }, []);
 

@@ -37,7 +37,15 @@ const Icons = {
       <path d="M16 10a4 4 0 0 1-8 0"/>
     </svg>
   ),
-  donate: (
+  volunteer: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+      <circle cx="9" cy="7" r="4"/>
+      <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+      <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+    </svg>
+  ),
+  support: (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
       <polyline points="20 12 20 22 4 22 4 12"/>
       <rect x="2" y="7" width="20" height="5"/>
@@ -49,8 +57,9 @@ const Icons = {
 };
 
 // Drop-up menus. Blog carries the same four destinations as the desktop
-// "Stories, Blogs & Updates" dropdown; Shop carries the same two pages
-// as the desktop Shop menu. No caret/triangle markers on the bar items.
+// "Stories, Blogs & Updates" dropdown. Support Us carries Donate, a Shop
+// sub-menu with the same two pages as the desktop Shop menu, and Free
+// Ways to Support. No caret/triangle markers on the bar items.
 const MENUS = {
   blog: {
     ariaLabel: 'Blog and stories',
@@ -61,11 +70,18 @@ const MENUS = {
       { label: 'Case Studies', to: '/case-studies', activePrefix: '/case-studies' },
     ],
   },
-  shop: {
-    ariaLabel: 'Shop',
+  support: {
+    ariaLabel: 'Support us',
     links: [
-      { label: 'HALT Shop', to: '/shop', activePrefix: '/shop' },
-      { label: 'HALT Affiliate Products', to: '/affiliate-products', activePrefix: '/affiliate-products' },
+      { label: 'Donate', to: '/donate', activePrefix: '/donate' },
+      {
+        label: 'Shop',
+        submenu: [
+          { label: 'HALT Shop', to: '/shop', activePrefix: '/shop' },
+          { label: 'HALT Affiliate Products', to: '/affiliate-products', activePrefix: '/affiliate-products' },
+        ],
+      },
+      { label: 'Free Ways to Support', to: '/free-ways-to-support', activePrefix: '/free-ways-to-support' },
     ],
   },
 };
@@ -75,8 +91,8 @@ const NAV_ITEMS = [
   { label: 'Resources', to: '/docs/intro', icon: Icons.resources, activePrefix: '/docs' },
   { label: 'Blog', menu: 'blog', icon: Icons.blog },
   { label: 'About', to: '/about', icon: Icons.about, activePrefix: '/about' },
-  { label: 'Shop', menu: 'shop', icon: Icons.shop },
-  { label: 'Donate', to: '/donate', icon: Icons.donate, activePrefix: '/donate' },
+  { label: 'Volunteer', to: '/volunteer', icon: Icons.volunteer, activePrefix: '/volunteer' },
+  { label: 'Support Us', menu: 'support', icon: Icons.support },
 ];
 
 function isPathActive(pathname, to, activePrefix) {
@@ -86,13 +102,30 @@ function isPathActive(pathname, to, activePrefix) {
 export default function MobileNavBar() {
   const { pathname } = useLocation();
   const [openMenu, setOpenMenu] = useState(null);
+  const [openSubmenu, setOpenSubmenu] = useState(null);
 
   // Close any open menu whenever the page changes
   useEffect(() => {
     setOpenMenu(null);
+    setOpenSubmenu(null);
   }, [pathname]);
 
   const menu = openMenu ? MENUS[openMenu] : null;
+
+  const renderMenuLink = ({ label, to, activePrefix }, sub) => {
+    const isActive = isPathActive(pathname, to, activePrefix);
+    return (
+      <Link
+        key={label}
+        to={to}
+        role="menuitem"
+        className={`${sub ? styles.storiesSubMenuItem : styles.storiesMenuItem} ${isActive ? styles.storiesMenuItemActive : ''}`}
+        onClick={() => setOpenMenu(null)}
+      >
+        {label}
+      </Link>
+    );
+  };
 
   return (
     <>
@@ -104,19 +137,29 @@ export default function MobileNavBar() {
             aria-hidden="true"
           />
           <div className={styles.storiesMenu} role="menu" aria-label={menu.ariaLabel}>
-            {menu.links.map(({ label, to, activePrefix }) => {
-              const isActive = isPathActive(pathname, to, activePrefix);
-              return (
-                <Link
-                  key={label}
-                  to={to}
-                  role="menuitem"
-                  className={`${styles.storiesMenuItem} ${isActive ? styles.storiesMenuItemActive : ''}`}
-                  onClick={() => setOpenMenu(null)}
-                >
-                  {label}
-                </Link>
-              );
+            {menu.links.map((entry) => {
+              if (entry.submenu) {
+                const subActive = entry.submenu.some(({ to, activePrefix }) =>
+                  isPathActive(pathname, to, activePrefix)
+                );
+                const expanded = openSubmenu === entry.label;
+                return (
+                  <React.Fragment key={entry.label}>
+                    <button
+                      type="button"
+                      role="menuitem"
+                      aria-expanded={expanded}
+                      aria-haspopup="menu"
+                      className={`${styles.storiesMenuItem} ${styles.storiesMenuToggle} ${subActive ? styles.storiesMenuItemActive : ''}`}
+                      onClick={() => setOpenSubmenu(expanded ? null : entry.label)}
+                    >
+                      {entry.label}
+                    </button>
+                    {expanded && entry.submenu.map((link) => renderMenuLink(link, true))}
+                  </React.Fragment>
+                );
+              }
+              return renderMenuLink(entry, false);
             })}
           </div>
         </>
@@ -124,9 +167,12 @@ export default function MobileNavBar() {
       <nav className={styles.mobileNav} aria-label="Mobile navigation">
         {NAV_ITEMS.map((item) => {
           if (item.menu) {
-            const itemActive = MENUS[item.menu].links.some(({ to, activePrefix }) =>
-              isPathActive(pathname, to, activePrefix)
-            );
+            const itemActive = MENUS[item.menu].links.some((entry) => {
+              const links = entry.submenu || [entry];
+              return links.some(({ to, activePrefix }) =>
+                isPathActive(pathname, to, activePrefix)
+              );
+            });
             return (
               <button
                 key={item.label}
@@ -134,9 +180,10 @@ export default function MobileNavBar() {
                 className={`${styles.navItem} ${styles.navButton} ${itemActive || openMenu === item.menu ? styles.navItemActive : ''}`}
                 aria-expanded={openMenu === item.menu}
                 aria-haspopup="menu"
-                onClick={() =>
-                  setOpenMenu((current) => (current === item.menu ? null : item.menu))
-                }
+                onClick={() => {
+                  setOpenSubmenu(null);
+                  setOpenMenu((current) => (current === item.menu ? null : item.menu));
+                }}
               >
                 <span className={styles.navIcon}>{item.icon}</span>
                 <span className={styles.navLabel}>{item.label}</span>

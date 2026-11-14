@@ -180,4 +180,42 @@
     background: rgba(45, 212, 223, 0.18);
     color: var(--halt-teal) !important;
   }
+
+  /* Sub-menu toggle inside a drop-up (a <button> styled as a menu item) */
+  .storiesMenuToggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    text-align: left;
+    width: 100%;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  /* Links one level down inside a drop-up sub-menu */
+  .storiesSubMenuItem {
+    display: block;
+    padding: 0.6rem 0.9rem 0.6rem 1.7rem;
+    border-radius: 10px;
+    text-decoration: none !important;
+    color: var(--halt-text-medium);
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .storiesSubMenuItem:visited {
+    color: var(--halt-text-medium);
+  }
+
+  .storiesSubMenuItem:hover {
+    background: var(--halt-teal-light);
+    color: var(--halt-teal-dark);
+    text-decoration: none !important;
+  }
+
+  [data-theme='dark'] .storiesSubMenuItem:hover {
+    background: rgba(45, 212, 223, 0.12);
+    color: var(--halt-teal);
+  }
 }

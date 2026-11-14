@@ -59,6 +59,10 @@ export default function ProductPage({productId}) {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Product',
+    // Meta's catalog tools read the product id from the JSON-LD; without it
+    // they refuse to auto-add or match products from the website.
+    productID: product.id,
+    sku: product.id,
     name: product.name,
     image: `${SITE_URL}${product.image}`,
     url: pageUrl,

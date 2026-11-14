@@ -65,6 +65,7 @@ const config = {
   },
   clientModules: [
     require.resolve('./src/clientModules/sidebarAccordion.js'),
+    require.resolve('./src/clientModules/metaPixelPageView.js'),
   ],
   plugins: [
     [
