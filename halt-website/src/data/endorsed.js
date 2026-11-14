@@ -8,13 +8,12 @@
 // Photos live in static/img/affiliate/.
 // `chewy: true` means the item is on the rescue's Chewy
 // storefront; every Chewy button points at the storefront.
-// `exoticUrl` is the item's Exotic Nutrition affiliate link.
 //
 // TO ADD AN AMAZON LINK: every item below has an empty
 // amazonUrl: '' slot. Paste the item's Amazon affiliate link
 // between the quotes, like amazonUrl: 'https://www.amazon.com/...'
 // and save. The Amazon button then appears on that item's card
-// automatically, after the Chewy and Exotic Nutrition buttons.
+// automatically, after the Chewy button.
 // Items with an empty slot simply show no Amazon button yet.
 
 export const CHEWY_STOREFRONT =
@@ -36,7 +35,7 @@ export const ENDORSED = [
   {name: 'MidWest Critter Nation Deluxe Small Animal Cage, Double Story', category: 'Small Animals', image: '/img/affiliate/midwest-critter-nation-deluxe-double-story-cage.webp', chewy: true, chewyUrl: 'https://creator.anchor.store/a/fq9mqCSNoV', amazonUrl: ''},
   {name: 'MidWest Critter Nation Upper Scatter Guard', category: 'Small Animals', image: '/img/affiliate/midwest-critter-nation-upper-scatter-guard.webp', chewy: true, chewyUrl: 'https://creator.anchor.store/a/DYQGTzDFMb', amazonUrl: ''},
   {name: 'MidWest Critter Nation Lower Scatter Guard', category: 'Small Animals', image: '/img/affiliate/midwest-critter-nation-lower-scatter-guard.webp', chewy: true, chewyUrl: 'https://creator.anchor.store/a/GvgrXtkhLO', amazonUrl: ''},
-  {name: 'Carefresh Complete Bedding, Natural, 6L', category: 'Small Animals', image: '/img/affiliate/carefresh-complete-bedding.jpg', chewy: true, chewyUrl: 'https://creator.anchor.store/a/CsSZ2lXcwv', exoticUrl: 'https://exoticnutrition.com/products/carefresh-complete-bedding?sca_ref=12727910.0pNlDA4ilmJmKU', amazonUrl: ''},
+  {name: 'Carefresh Complete Bedding, Natural, 6L', category: 'Small Animals', image: '/img/affiliate/carefresh-complete-bedding.jpg', chewy: true, chewyUrl: 'https://creator.anchor.store/a/CsSZ2lXcwv', amazonUrl: ''},
   // Cats
   {name: 'Fussie Cat Market Fresh Turkey & Guineafowl Wet Cat Food, case of 24', category: 'Cats', image: '/img/affiliate/fussie-cat-market-fresh-turkey-and-guineafowl-wet-cat-food-5.5oz-case-of-24.webp', chewy: true, chewyUrl: 'https://creator.anchor.store/a/PTEJNWIlYZ', amazonUrl: ''},
   {name: 'Fussie Cat Market Fresh Lamb & Pork Wet Cat Food, case of 24', category: 'Cats', image: '/img/affiliate/fussie-cat-market-fresh-lamb-and-pork-wet-cat-food-5.5oz-case-of-24.webp', chewy: true, chewyUrl: 'https://creator.anchor.store/a/0xDYmwZED5', amazonUrl: ''},
