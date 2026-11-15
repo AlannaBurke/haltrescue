@@ -1,0 +1,80 @@
+/* Homepage hero Support Us button and its dropdown menu, styled to
+   match the navbar menus (white card, teal border, soft shadow). */
+.wrap {
+  position: relative;
+  display: inline-block;
+}
+
+.caret {
+  font-size: 0.7em;
+}
+
+.menu {
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 13rem;
+  background: #fff;
+  border: 2px solid var(--halt-teal-light);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(15, 138, 147, 0.18);
+  padding: 0.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  text-align: left;
+  z-index: 10000;
+}
+
+[data-theme='dark'] .menu {
+  background: rgba(18, 18, 31, 0.98);
+  border-color: rgba(45, 212, 223, 0.25);
+}
+
+.menuItem {
+  display: block;
+  padding: 0.8rem 0.9rem;
+  border-radius: 9px;
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--halt-text-medium) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.menuItem:visited {
+  color: var(--halt-text-medium) !important;
+}
+
+.menuItem:hover {
+  background: var(--halt-teal-light);
+  color: var(--halt-teal-dark) !important;
+  text-decoration: none !important;
+}
+
+[data-theme='dark'] .menuItem:hover {
+  background: rgba(45, 212, 223, 0.12);
+  color: var(--halt-teal) !important;
+}
+
+/* The Shop row inside the menu is a toggle button, not a link. */
+.menuToggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+  text-align: left;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.subMenuItem {
+  padding-left: 1.7rem;
+  font-weight: 500;
+}

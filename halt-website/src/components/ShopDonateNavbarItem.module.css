@@ -1,5 +1,4 @@
-/* "Support Us" pill button at the right end of the navbar, with a
-   dropdown mirroring the mobile bottom bar's Support Us menu. */
+/* ( Shop | Donate ) pill at the right end of the navbar */
 .wrap {
   position: relative;
   display: flex;
@@ -7,40 +6,71 @@
   margin-left: 0.75rem;
 }
 
-.supportButton {
-  background: var(--halt-teal);
+.bubble {
+  display: inline-flex;
+  align-items: stretch;
   border: 2px solid var(--halt-teal);
   border-radius: 999px;
+  overflow: hidden;
+  background: #fff;
+  line-height: 1;
+}
+
+.shopHalf {
+  background: none;
+  border: none;
   cursor: pointer;
   font: inherit;
   font-weight: 700;
-  color: #fff;
-  padding: 0.45rem 1.05rem;
+  color: var(--halt-teal-dark);
+  padding: 0.45rem 0.6rem 0.45rem 0.95rem;
   display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
-  line-height: 1;
+  gap: 0.25rem;
   -webkit-appearance: none;
   appearance: none;
 }
 
-.supportButton:hover {
-  background: var(--halt-teal-dark);
-  border-color: var(--halt-teal-dark);
+.shopHalf:hover {
+  background: var(--halt-teal-light);
 }
 
 .caret {
   font-size: 0.7em;
 }
 
-/* Invisible bridge between the button and the menu: keeps the hover
+.donateHalf {
+  background: var(--halt-teal);
+  color: #fff !important;
+  font-weight: 700;
+  padding: 0.45rem 0.95rem 0.45rem 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none !important;
+  border-left: 2px solid var(--halt-teal);
+}
+
+.donateHalf:hover {
+  background: var(--halt-teal-dark);
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+[data-theme='dark'] .bubble {
+  background: rgba(18, 18, 31, 0.9);
+}
+
+[data-theme='dark'] .shopHalf {
+  color: var(--halt-teal);
+}
+
+/* Invisible bridge between the bubble and the menu: keeps the hover
    path continuous so the menu does not close while the pointer is
-   travelling down to it. The menu aligns to the button's right edge
-   so it never spills past the side of the window. */
+   travelling down to it. */
 .menuOuter {
   position: absolute;
   top: 100%;
-  right: 0;
+  left: 0;
   padding-top: 0.55rem;
   z-index: 10000;
 }
@@ -85,25 +115,4 @@
 [data-theme='dark'] .menuItem:hover {
   background: rgba(45, 212, 223, 0.12);
   color: var(--halt-teal) !important;
-}
-
-/* The Shop row inside the menu is a toggle button, not a link. */
-.menuToggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font: inherit;
-  font-weight: 600;
-  text-align: left;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  -webkit-appearance: none;
-  appearance: none;
-}
-
-.subMenuItem {
-  padding-left: 1.7rem;
-  font-weight: 500;
 }

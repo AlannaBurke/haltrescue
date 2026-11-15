@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HeroSupportUs from '@site/src/components/HeroSupportUs';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import heroBannerUrl from '@site/static/img/hero-banner.png';
@@ -30,12 +31,7 @@ function HomepageHeader() {
             aria-label="Read our rescue blog">
             📖 Read Our Blog
           </Link>
-          <Link
-            className="button button--secondary"
-            to="/donate"
-            aria-label="Donate to support the rescue">
-            💛 Donate
-          </Link>
+          <HeroSupportUs />
         </div>
 
         <img
