@@ -49,7 +49,7 @@ export default function ShopDonateNavbarItem() {
   );
 
   return (
-    <div className={styles.wrap}>
+    <div className={styles.wrap + ' shop-donate-nav'}>
       <div className={styles.bubble}>
         <button
           type="button"
