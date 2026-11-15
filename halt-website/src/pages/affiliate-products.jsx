@@ -101,6 +101,18 @@ export default function AffiliateProducts() {
               of the best commission for us, based on where that product
               is sold.
             </p>
+            <p>
+              New to Chewy? If you have never ordered from Chewy
+              before, start with our{' '}
+              <a
+                href="https://chewyshelterandrescue.sjv.io/c/8148608/2941955/34823"
+                target="_blank"
+                rel="noopener noreferrer">
+                rescue referral link
+              </a>{' '}
+              instead: Chewy sends us $20 for your first order, at no
+              extra cost to you.
+            </p>
           </div>
 
           <div className={shopStyles.filters}>

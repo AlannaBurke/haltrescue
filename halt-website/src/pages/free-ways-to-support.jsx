@@ -23,6 +23,13 @@ const WAYS = [
     href: 'https://chewpanions.chewy.com/840da941987',
   },
   {
+    emoji: '🎁',
+    title: 'New to Chewy? Earn us $20',
+    text: 'If you have never ordered from Chewy before, shop through our rescue referral link for your first order and Chewy sends the rescue $20, at no extra cost to you.',
+    linkLabel: 'Use our new-shopper link',
+    href: 'https://chewyshelterandrescue.sjv.io/c/8148608/2941955/34823',
+  },
+  {
     emoji: '📦',
     title: 'Start your Amazon shopping with our link',
     text: 'Click through our Amazon link before you shop for anything, and Amazon may pay the rescue a small commission on your order, at no extra cost to you.',
