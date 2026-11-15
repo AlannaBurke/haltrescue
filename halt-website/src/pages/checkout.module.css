@@ -95,3 +95,56 @@
 .backLink {
   margin-top: 1.5rem;
 }
+
+.promo {
+  text-align: right;
+  margin: 0.5rem 0 1rem;
+}
+
+.promoRow {
+  display: inline-flex;
+  gap: 0.5rem;
+}
+
+.promoRow input {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  padding: 0.35rem 0.6rem;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+}
+
+.promoRow button {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-background-surface-color);
+  border-radius: 6px;
+  padding: 0.35rem 0.9rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.promoApplied {
+  font-weight: 600;
+}
+
+.promoRemove {
+  border: none;
+  background: none;
+  color: var(--ifm-color-primary);
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.promoError {
+  color: var(--ifm-color-danger);
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+}
+
+.subtotal {
+  text-align: right;
+  font-size: 1.05rem;
+  margin: 0.15rem 0;
+}

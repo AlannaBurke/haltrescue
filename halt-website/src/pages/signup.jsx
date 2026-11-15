@@ -74,6 +74,11 @@ export default function Signup() {
             texts, or both. We send rescue news, sanctuary stories, care tips,
             and the occasional fundraiser or auction alert.
           </p>
+          <p>
+            As a thank-you for signing up, you will get a code for
+            <strong> 10% off </strong>
+            an order in our shop.
+          </p>
 
           {status === 'done' ? (
             <div className={styles.success}>
@@ -82,6 +87,12 @@ export default function Signup() {
                 Thank you for joining us. If you signed up for texts, a welcome
                 text will confirm your subscription. Email friends, watch your
                 inbox for the next newsletter.
+              </p>
+              <p>
+                Here is your 10% off code for our shop:{' '}
+                <strong>WELCOME10</strong>. Enter it in the discount code box
+                at checkout in{' '}
+                <a href="/shop">the HALT Shop</a>.
               </p>
             </div>
           ) : (

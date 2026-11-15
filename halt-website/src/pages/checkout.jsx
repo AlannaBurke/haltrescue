@@ -82,7 +82,20 @@ function money(n) {
   return Number(n).toFixed(2);
 }
 
-function CartPaypalButtons({lines, total, onFailure}) {
+// Signup thank-you code: 10% off the item total. One shared code,
+// printed on the signup success screen and sent in the welcome text
+// and welcome email.
+const PROMO_CODE = 'WELCOME10';
+const PROMO_RATE = 0.1;
+
+function discountFor(itemTotal, code) {
+  if (!code || code !== PROMO_CODE) {
+    return 0;
+  }
+  return Math.round(itemTotal * PROMO_RATE * 100) / 100;
+}
+
+function CartPaypalButtons({lines, promoRef, onFailure}) {
   const containerRef = useRef(null);
   const renderedRef = useRef(false);
   const linesRef = useRef(lines);
@@ -113,6 +126,19 @@ function CartPaypalButtons({lines, total, onFailure}) {
               (sum, l) => sum + l.product.price * l.qty,
               0,
             );
+            const discount = discountFor(itemTotal, promoRef.current);
+            const breakdown = {
+              item_total: {
+                currency_code: 'USD',
+                value: money(itemTotal),
+              },
+            };
+            if (discount > 0) {
+              breakdown.discount = {
+                currency_code: 'USD',
+                value: money(discount),
+              };
+            }
             const customId = current
               .map((l) => l.product.sheetName || l.product.name)
               .join(' | ')
@@ -123,13 +149,8 @@ function CartPaypalButtons({lines, total, onFailure}) {
                   custom_id: customId,
                   amount: {
                     currency_code: 'USD',
-                    value: money(itemTotal),
-                    breakdown: {
-                      item_total: {
-                        currency_code: 'USD',
-                        value: money(itemTotal),
-                      },
-                    },
+                    value: money(itemTotal - discount),
+                    breakdown: breakdown,
                   },
                   items: items,
                 },
@@ -147,6 +168,9 @@ function CartPaypalButtons({lines, total, onFailure}) {
                 (sum, line) => sum + line.product.price * line.qty,
                 0,
               );
+              const chargedTotal =
+                purchaseTotal -
+                discountFor(purchaseTotal, promoRef.current);
               const paypalCaptureId = capture?.purchase_units?.[0]?.payments?.captures?.[0]?.id;
               trackMetaEvent(
                 'Purchase',
@@ -158,7 +182,7 @@ function CartPaypalButtons({lines, total, onFailure}) {
                     quantity: line.qty,
                     item_price: line.product.price,
                   })),
-                  value: purchaseTotal,
+                  value: chargedTotal,
                   currency: 'USD',
                 },
                 paypalCaptureId ? `paypal-${paypalCaptureId}` : undefined,
@@ -202,6 +226,11 @@ function CartPaypalButtons({lines, total, onFailure}) {
 export default function Checkout() {
   const [lines, setLines] = useState(null);
   const [paypalFailed, setPaypalFailed] = useState(false);
+  const [promoInput, setPromoInput] = useState('');
+  const [appliedCode, setAppliedCode] = useState(null);
+  const [promoError, setPromoError] = useState('');
+  const promoRef = useRef(null);
+  promoRef.current = appliedCode;
 
   useEffect(() => {
     const fromParam = parseProductsParam(window.location.search);
@@ -230,9 +259,16 @@ export default function Checkout() {
       initial = readStoredCart();
       setLines(initial);
     }
+    // A discount code can arrive in the URL (Meta Shops passes a
+    // coupon parameter when a shopper comes from an offer there).
+    const couponParam = new URLSearchParams(window.location.search).get(
+      'coupon',
+    );
+    if (couponParam && couponParam.trim().toUpperCase() === PROMO_CODE) {
+      setAppliedCode(PROMO_CODE);
+    }
     // Reaching checkout with items is the standard InitiateCheckout event.
-    if (initial && initial.length) {
-      trackMetaEvent('InitiateCheckout', {
+    if (initial && initial.length) {      trackMetaEvent('InitiateCheckout', {
         content_ids: initial.map((line) => line.product.id),
         content_type: 'product',
         contents: initial.map((line) => ({
@@ -265,10 +301,28 @@ export default function Checkout() {
     );
   };
 
+  const applyPromo = () => {
+    const entered = promoInput.trim().toUpperCase();
+    if (entered === PROMO_CODE) {
+      setAppliedCode(PROMO_CODE);
+      setPromoError('');
+    } else {
+      setPromoError('That code was not recognized.');
+    }
+  };
+
+  const removePromo = () => {
+    setAppliedCode(null);
+    setPromoInput('');
+    setPromoError('');
+  };
+
   const total =
     lines === null
       ? 0
       : lines.reduce((sum, l) => sum + l.product.price * l.qty, 0);
+  const discount = discountFor(total, appliedCode);
+  const grandTotal = total - discount;
 
   return (
     <Layout
@@ -333,8 +387,49 @@ export default function Checkout() {
                   </div>
                 ))}
               </div>
+              <div className={styles.promo}>
+                {appliedCode ? (
+                  <p className={styles.promoApplied}>
+                    Code {appliedCode} applied, 10% off your order.{' '}
+                    <button
+                      type="button"
+                      className={styles.promoRemove}
+                      onClick={removePromo}>
+                      Remove
+                    </button>
+                  </p>
+                ) : (
+                  <>
+                    <span className={styles.promoRow}>
+                      <input
+                        type="text"
+                        value={promoInput}
+                        onChange={(e) => setPromoInput(e.target.value)}
+                        placeholder="Discount code"
+                        aria-label="Discount code"
+                      />
+                      <button type="button" onClick={applyPromo}>
+                        Apply
+                      </button>
+                    </span>
+                    {promoError ? (
+                      <p className={styles.promoError}>{promoError}</p>
+                    ) : null}
+                  </>
+                )}
+              </div>
+              {discount > 0 ? (
+                <>
+                  <p className={styles.subtotal}>
+                    Subtotal: ${money(total)}
+                  </p>
+                  <p className={styles.subtotal}>
+                    Discount ({appliedCode}): -${money(discount)}
+                  </p>
+                </>
+              ) : null}
               <p className={styles.total}>
-                Total: ${money(total)}
+                Total: ${money(grandTotal)}
                 <span className={styles.shipNote}>
                   {' '}
                   Shipping is free.
@@ -363,7 +458,7 @@ export default function Checkout() {
                 <>
                   <CartPaypalButtons
                     lines={lines}
-                    total={total}
+                    promoRef={promoRef}
                     onFailure={() => setPaypalFailed(true)}
                   />
                   <p className={styles.buyNote}>
