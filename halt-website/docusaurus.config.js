@@ -151,11 +151,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Resources & Education',
+            label: 'Education',
           },
           {
             type: 'dropdown',
-            label: 'Stories, Blogs & Updates',
+            label: 'Stories and Updates',
             position: 'left',
             items: [
               {to: '/blog', label: 'Blog'},
@@ -174,8 +174,8 @@ const config = {
               },
             ],
           },
-          {to: '/about', label: 'About', position: 'left'},
           {to: '/volunteer', label: 'Volunteer', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
           {type: 'custom-shop-donate', position: 'right'},
         ],
       },
