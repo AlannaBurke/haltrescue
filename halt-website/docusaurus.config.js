@@ -175,6 +175,7 @@ const config = {
             ],
           },
           {to: '/about', label: 'About', position: 'left'},
+          {to: '/volunteer', label: 'Volunteer', position: 'left'},
           {type: 'custom-shop-donate', position: 'right'},
         ],
       },
