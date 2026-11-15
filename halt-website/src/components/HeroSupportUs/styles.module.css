@@ -5,6 +5,13 @@
   display: inline-block;
 }
 
+/* A real <button> does not inherit the page font the way the
+   neighboring link buttons do, so set it explicitly or the label
+   renders in the browser's default button font instead of Nunito. */
+.heroButton {
+  font-family: inherit;
+}
+
 .caret {
   font-size: 0.7em;
 }

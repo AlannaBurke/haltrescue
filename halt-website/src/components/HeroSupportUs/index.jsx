@@ -42,7 +42,7 @@ export default function HeroSupportUs() {
     <div className={styles.wrap} ref={wrapRef}>
       <button
         type="button"
-        className="button button--secondary"
+        className={'button button--secondary ' + styles.heroButton}
         aria-expanded={open}
         aria-haspopup="menu"
         aria-label="Support us: ways to support the rescue"
