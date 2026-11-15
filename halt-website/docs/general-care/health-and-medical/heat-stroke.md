@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Heat Stroke Emergency Guide'
 sidebar_position: 5
 tags: [general care, emergency, heat stroke, safety, temperature]

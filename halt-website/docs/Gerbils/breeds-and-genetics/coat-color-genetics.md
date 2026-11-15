@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Gerbil Coat Color and Genetics
 sidebar_label: Coat Color Genetics
 tags: [gerbils, genetics, coat color, breeds]

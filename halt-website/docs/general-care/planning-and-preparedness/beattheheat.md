@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Help Your Small Pets Beat the Heat'
 sidebar_position: 2
 description: "It's getting warmer - here are some tips to help your small pets stay cool and comfortable in the heat."

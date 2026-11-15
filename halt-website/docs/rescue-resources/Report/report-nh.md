@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Report Pet Store Neglect in New Hampshire'
 sidebar_position: 3
 tags: [rescue, nonprofit]

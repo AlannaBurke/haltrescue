@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Satin Chinchillas and Satin Syndrome
 sidebar_label: Satin Syndrome
 tags: [chinchillas, genetics, satin, health, osteodystrophy]

@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Eye & Vision Issues
 tags: [rats, eye health]
 description: "A guide to common eye and vision issues in rats, explaining the significance of porphyrin (red tears) as a health indicator and discussing common infections and age-related blindness."

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Safe Treats for Small Pets
 description: A comprehensive guide to safe and unsafe treats for all small pet species, including rabbits, guinea pigs, rats, hamsters, gerbils, chinchillas, ferrets, hedgehogs, mice, and degus.
 tags: [diet, treats, nutrition, safety, rabbits, guinea-pigs, rats, hamsters, gerbils, chinchillas, ferrets, hedgehogs, mice, degus]

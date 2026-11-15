@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Hamster Coat Color and Genetics
 sidebar_label: Coat Color Genetics
 tags: [hamsters, genetics, coat color, breeds]

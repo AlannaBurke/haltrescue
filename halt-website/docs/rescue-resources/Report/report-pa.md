@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Report Pet Store Neglect in Pennsylvania'
 sidebar_position: 6
 tags: [rescue, nonprofit]

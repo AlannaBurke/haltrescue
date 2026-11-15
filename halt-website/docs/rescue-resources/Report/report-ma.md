@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Report Pet Store Neglect in Massachusetts'
 sidebar_position: 2
 tags: [rescue, nonprofit]

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Know Your Hedgehog Colors and Varieties
 sidebar_label: Colors & Varieties
 ---

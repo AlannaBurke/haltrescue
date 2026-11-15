@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Entropion
 tags: [eye health, rabbits, hamsters, rats, guinea pigs, surgery, eyelid]
 description: "A comprehensive guide to entropion — the inward rolling of the eyelid — in small pets including rabbits, hamsters, guinea pigs, and rats. Covers causes, clinical signs, diagnosis, and treatment options."

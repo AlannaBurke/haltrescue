@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Poop Guide: What Is Normal?'
 sidebar_position: 6
 tags: [general care, GI health, poop, cecotropes, health monitoring]

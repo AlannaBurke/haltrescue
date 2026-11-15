@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Pneumonia in Small Pets
 tags: [general care, pneumonia, respiratory infection, health, rabbits, rats, hamsters, ferrets, chinchillas, hedgehogs, gerbils, mice, degus]
 description: "A general guide to pneumonia in small pets, covering causes, species-specific signs, diagnosis, treatment, and prevention for rabbits, rats, ferrets, chinchillas, hamsters, gerbils, hedgehogs, mice, and degus."

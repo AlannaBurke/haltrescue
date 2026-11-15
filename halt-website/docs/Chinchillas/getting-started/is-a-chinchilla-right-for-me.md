@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Chinchilla Right for Me?'
 sidebar_position: 3
 tags: [chinchillas, getting started, cost]

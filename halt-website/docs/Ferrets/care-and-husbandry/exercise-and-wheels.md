@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_position: 7
 title: "Ferret Exercise: Why Wheels Don't Work (And What Does)"
 sidebar_label: "Exercise & Wheels"

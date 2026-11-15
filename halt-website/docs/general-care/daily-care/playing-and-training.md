@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Playing & Training Your Small Pet'
 sidebar_position: 7
 tags: [general care, enrichment, training, behavior, mental health]

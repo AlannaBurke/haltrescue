@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Dental Health
 tags: [gerbils, dental disease]
 description: "A guide to dental health in gerbils, focusing on the causes and prevention of incisor overgrowth (malocclusion) and the critical role of chewing materials."

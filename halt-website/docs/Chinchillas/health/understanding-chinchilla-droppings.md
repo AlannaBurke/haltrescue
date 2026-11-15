@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Understanding Chinchilla Droppings
 sidebar_position: 14
 tags: [chinchillas, droppings, poop, digestive-health, cecotropes, health]

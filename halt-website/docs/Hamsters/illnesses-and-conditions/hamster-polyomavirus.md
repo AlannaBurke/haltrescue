@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Hamster Polyomavirus (HaPyV)
 tags: [hamsters, viral disease, tumors, skin, lymphoma, polyomavirus]
 description: "A comprehensive guide to Hamster Polyomavirus (HaPyV) — the virus responsible for trichoepitheliomas (skin tumors) and lymphoma in Syrian hamsters. Covers causes, clinical signs, diagnosis, and what to do if your hamster is affected."

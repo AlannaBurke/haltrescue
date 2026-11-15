@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Animal Hoarding
 tags: [rescue, animal welfare, special needs]
 image: /img/general-care/hoarding/warning-signs.png

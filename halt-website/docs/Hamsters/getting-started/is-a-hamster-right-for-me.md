@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Hamster Right for Me?'
 sidebar_position: 5
 tags: [hamsters, getting started, cost]

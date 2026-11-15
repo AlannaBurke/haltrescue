@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Playing & Training'
 sidebar_position: 6
 tags: [hedgehogs, enrichment, training, behavior, mental health]

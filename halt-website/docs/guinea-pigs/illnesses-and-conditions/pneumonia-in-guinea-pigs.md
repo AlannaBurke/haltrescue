@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Pneumonia
 tags: [guinea pigs, pneumonia, respiratory infection, health]
 description: "A comprehensive guide to pneumonia in guinea pigs, including the critical warning that guinea pigs often show no cough, asymptomatic carriers, diagnosis by x-ray, and treatment."

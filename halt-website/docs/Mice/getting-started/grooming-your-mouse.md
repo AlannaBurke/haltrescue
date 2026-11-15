@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Grooming Your Pet Mouse
 description: A guide to the grooming needs of pet mice, explaining their self-grooming habits and outlining when and how to assist with bathing and nail care.
 sidebar_label: Grooming Your Mouse

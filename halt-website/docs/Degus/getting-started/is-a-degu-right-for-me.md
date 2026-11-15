@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Degu Right for Me?'
 sidebar_position: 5
 tags: [degus, getting started, cost]

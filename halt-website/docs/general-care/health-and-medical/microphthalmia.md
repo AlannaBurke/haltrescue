@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Microphthalmia
 tags: [eye health, congenital, genetics, rabbits, ferrets, hamsters, guinea pigs, rats]
 description: "A comprehensive guide to microphthalmia (abnormally small eyes) in small pets, covering its genetic causes, species-specific presentations in rabbits, ferrets, hamsters, guinea pigs, and rats, and how to manage affected animals."

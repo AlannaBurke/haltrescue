@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Taking Your Small Pet Outside Safely
 sidebar_label: Taking Your Pet Outside
 tags: [general-care, safety, outdoor, enrichment, rabbits, guinea-pigs, chinchillas, ferrets, hedgehogs, rats]

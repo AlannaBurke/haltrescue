@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: GI Health
 tags: [hamsters, GI health, diarrhea]
 description: "A guide to gastrointestinal (GI) health in hamsters, with a focus on the causes of diarrhea and the serious, often fatal condition known as Wet Tail."

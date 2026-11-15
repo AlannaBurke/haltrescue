@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Introductions and Bonding
 description: How to safely introduce small pets to each other — covering quarantine, scent swapping, neutral space introductions, and warning signs for all HALT species.
 tags: [bonding, introductions, social behaviour, rabbits, guinea-pigs, rats, hamsters, gerbils, chinchillas, ferrets, hedgehogs, mice, degus]

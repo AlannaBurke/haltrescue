@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Guinea Pig Exercise and Enrichment
 sidebar_label: Exercise & Enrichment
 ---

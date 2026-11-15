@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Report Pet Store Neglect in Connecticut'
 sidebar_position: 1
 tags: [rescue, nonprofit]

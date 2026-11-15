@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Know Your Ferret Colors & Patterns
 sidebar_label: Know Your Ferret Colors
 sidebar_position: 1

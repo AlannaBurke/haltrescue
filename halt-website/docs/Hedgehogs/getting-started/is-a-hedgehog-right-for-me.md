@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Hedgehog Right for Me?'
 sidebar_position: 5
 tags: [hedgehogs, getting started, cost]

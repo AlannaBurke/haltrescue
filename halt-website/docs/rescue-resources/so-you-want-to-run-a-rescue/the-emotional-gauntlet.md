@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_position: 6
 sidebar_label: "Part 2: The Emotional Gauntlet"
 tags: [rescue, volunteers]

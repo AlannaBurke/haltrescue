@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Mouse Right for Me?'
 sidebar_position: 5
 tags: [mice, getting started, cost, housing]

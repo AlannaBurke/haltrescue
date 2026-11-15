@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: GI Health
 tags: [rats, GI health, diarrhea, mycoplasma]
 description: "A guide to gastrointestinal (GI) health in rats, covering their omnivorous digestive system and the common causes of diarrhea, including diet, stress, and secondary effects from other illnesses."

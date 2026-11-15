@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Is a Guinea Pig Right for Me?'
 sidebar_position: 4
 tags: [guinea pigs, getting started, cost]

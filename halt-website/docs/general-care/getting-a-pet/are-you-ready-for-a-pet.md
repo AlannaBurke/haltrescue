@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: 'Are You Ready for a Pet?'
 sidebar_position: 1
 description: "Before bringing any animal home, ask yourself the hard questions. This guide covers the most common reasons pets are surrendered — and what to think through before it ever comes to that."

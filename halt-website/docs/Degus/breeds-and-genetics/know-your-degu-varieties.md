@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Know Your Degu Colors and Varieties
 sidebar_label: Colors & Varieties
 ---

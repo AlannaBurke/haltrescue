@@ -1,4 +1,5 @@
 ---
+draft: true
 sidebar_label: Common Skin Issues
 tags: [skin health, urinary health, parasites, ringworm, bumblefoot, health, rabbits, guinea pigs, chinchillas, ferrets, rats, mice, hamsters, gerbils, hedgehogs, degus]
 description: "A comprehensive guide to identifying, preventing, and treating common skin problems in small exotic pets, including urine scald, mites, ringworm, and bacterial infections, with species-specific advice."
