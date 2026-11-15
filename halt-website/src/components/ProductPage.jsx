@@ -81,6 +81,14 @@ export default function ProductPage({productId}) {
     <Layout title={product.name} description={description}>
       <Head>
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+        <meta property="og:type" content="product" />
+        <meta property="og:title" content={product.name} />
+        <meta property="og:description" content={description} />
+        <meta property="og:url" content={pageUrl} />
+        <meta property="og:image" content={`${SITE_URL}${product.image}`} />
+        <meta property="product:price:amount" content={String(product.price)} />
+        <meta property="product:price:currency" content="USD" />
+        <meta property="product:availability" content="in stock" />
       </Head>
       <main className="container margin-vert--lg">
         <div className={styles.wrap}>

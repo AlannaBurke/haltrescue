@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
 import AmplyMatchWidget from '../components/AmplyMatchWidget';
+import {trackMetaEvent} from '../lib/meta-pixel';
 import styles from './donate.module.css';
 
 // Alternative ways to give, shown with the same logo buttons the site
@@ -55,7 +56,10 @@ function LinkButtons({links}) {
           aria-label={label}
           title={label}
           target="_blank"
-          rel="noopener noreferrer">
+          rel="noopener noreferrer"
+          onClick={() =>
+            trackMetaEvent('Donate', {content_name: label})
+          }>
           <span className={styles.logoBtnIcon} style={{background: bg}}>
             <img
               src={icon}

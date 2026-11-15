@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import Layout from '@theme/Layout';
+import {trackMetaEvent} from '../lib/meta-pixel';
 import styles from './signup.module.css';
 
 // Public Apps Script endpoint for the HALT signup system (same Sheet,
@@ -51,6 +52,10 @@ export default function Signup() {
     try {
       await fetch(ENDPOINT_URL, {method: 'POST', mode: 'no-cors', body});
       setStatus('done');
+      trackMetaEvent('Lead', {
+        content_name: 'Email and text signup',
+        content_category: 'Signup',
+      });
     } catch (err) {
       setStatus('error');
       setError('Something went wrong sending the form. Please try again, or email us at hello@helpingalllittlethings.org and we will add you.');
