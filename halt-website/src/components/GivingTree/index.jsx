@@ -290,7 +290,7 @@ const WISHES = [
     name: 'Sawyer',
     img: '/img/giving-tree/sawyer.jpg',
     item: 'Fleece pee pads',
-    line: 'Sawyer would like fleece pee pads, soft and washable, for his favorite napping spot.',
+    line: 'Sawyer would like fleece pee pads, soft and washable, to keep his space clean and comfy.',
     price: 'About $15',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
