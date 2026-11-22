@@ -18,6 +18,33 @@ import styles from './styles.module.css';
 const AMAZON_WISHLIST = 'https://tinyurl.com/HALT-Amazon-Wishlist';
 const CHEWY_WISHLIST = 'https://tinyurl.com/HALT-Chewy-Wishlist';
 
+// Visitors can pin wishes they want to come back to or fulfill. Pins
+// are remembered in their browser (localStorage key
+// haltPinnedWishesV1) and shown in a box under the tree.
+const PIN_STORAGE_KEY = 'haltPinnedWishesV1';
+
+function wishKey(w) {
+  return `${w.name}|${w.item}`;
+}
+
+function readPinned() {
+  try {
+    const raw = window.localStorage.getItem(PIN_STORAGE_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed.filter((k) => typeof k === 'string') : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function writePinned(keys) {
+  try {
+    window.localStorage.setItem(PIN_STORAGE_KEY, JSON.stringify(keys));
+  } catch (e) {
+    // Private browsing etc: pins just will not persist.
+  }
+}
+
 const WISHES = [
   {
     name: 'Violet',
@@ -164,10 +191,10 @@ const WISHES = [
     linkLabel: 'Send it from our wishlist',
   },
   {
-    name: 'The night shift',
-    img: null,
+    name: 'Hero',
+    img: '/img/giving-tree/hero.jpg',
     item: 'A bedside bassinet for round the clock feedings',
-    line: 'For the nights when someone tiny needs hand feeding around the clock, right next to the bed instead of in it.',
+    line: 'Hero would like a bedside bassinet. When he needed feeding around the clock, he slept in a blanket next to the bed all night, which meant the occasional rude pee awakening. This keeps the next tiny patient safe, close, and right there for every feeding.',
     price: 'About $60',
     link: 'https://www.amazon.com/JinxZap-Bedside-Adjustable-Height-Small/dp/B0GLP4L66C',
     linkLabel: 'Send the bassinet',
@@ -224,7 +251,21 @@ export default function GivingTree() {
   // The wishes are shuffled every time the tree opens, so no wish
   // always sits at the front of the click through order.
   const [deck, setDeck] = useState(WISHES);
+  const [pinned, setPinned] = useState([]);
   const { pathname } = useLocation();
+
+  useEffect(() => {
+    setPinned(readPinned());
+  }, []);
+
+  const togglePin = (w) => {
+    const key = wishKey(w);
+    setPinned((cur) => {
+      const next = cur.includes(key) ? cur.filter((k) => k !== key) : cur.concat(key);
+      writePinned(next);
+      return next;
+    });
+  };
 
   const openTree = () => {
     setDeck(shuffledWishes());
@@ -330,6 +371,40 @@ export default function GivingTree() {
                   ))}
                 </div>
                 <p className={styles.hint}>Psst, you can also just tap the tree.</p>
+                {pinned.length > 0 && (
+                  <div className={styles.pinnedBox}>
+                    <div className={styles.pinnedTitle}>📌 Your pinned wishes</div>
+                    {pinned
+                      .map((key) => WISHES.find((w) => wishKey(w) === key))
+                      .filter(Boolean)
+                      .map((w) => (
+                        <div key={wishKey(w)} className={styles.pinnedRow}>
+                          {w.img && <img className={styles.pinnedThumb} src={w.img} alt="" />}
+                          <div className={styles.pinnedInfo}>
+                            <span className={styles.pinnedName}>{w.name}</span>: {w.item}
+                            <div className={styles.pinnedPrice}>{w.price}</div>
+                          </div>
+                          <a
+                            className={styles.sendSmall}
+                            href={w.link}
+                            target={w.link.startsWith('http') ? '_blank' : undefined}
+                            rel="noreferrer"
+                          >
+                            Send it
+                          </a>
+                          <button
+                            type="button"
+                            className={styles.unpinButton}
+                            onClick={() => togglePin(w)}
+                            aria-label={`Unpin ${w.name}'s wish`}
+                          >
+                            ×
+                          </button>
+                        </div>
+                      ))}
+                    <p className={styles.pinnedNote}>Pins are saved in your browser, so they will still be here when you come back.</p>
+                  </div>
+                )}
               </>
             ) : (
               <div className={styles.wishView}>
@@ -340,13 +415,7 @@ export default function GivingTree() {
                   <button type="button" className={`${styles.navButton} ${styles.navPrev}`} onClick={() => step(-1)} aria-label="Previous wish">
                     ‹
                   </button>
-                  {current.img && (
-                    <img
-                      className={current.name === 'The night shift' ? styles.wishPhotoWide : styles.wishPhoto}
-                      src={current.img}
-                      alt={current.name === 'The night shift' ? 'A bedside bassinet for a tiny patient' : current.name}
-                    />
-                  )}
+                  {current.img && <img className={styles.wishPhoto} src={current.img} alt={current.name} />}
                   <div className={styles.wishText}>
                     <div className={styles.wishName}>{current.name}</div>
                     <div className={styles.wishItem}>{current.item}</div>
@@ -356,6 +425,15 @@ export default function GivingTree() {
                       <a className={styles.sendButton} href={current.link} target={current.link.startsWith('http') ? '_blank' : undefined} rel="noreferrer">
                         {current.linkLabel} →
                       </a>
+                    </div>
+                    <div>
+                      <button
+                        type="button"
+                        className={`${styles.pinButton} ${pinned.includes(wishKey(current)) ? styles.pinButtonActive : ''}`}
+                        onClick={() => togglePin(current)}
+                      >
+                        {pinned.includes(wishKey(current)) ? '📌 Pinned! Tap to unpin' : '📌 Pin this wish'}
+                      </button>
                     </div>
                     <p className={styles.shipNote}>
                       Or pick it up yourself and mail it to Helping All Little Things, PO Box 11, Deerfield, NH 03037.

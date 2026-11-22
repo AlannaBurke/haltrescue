@@ -266,6 +266,126 @@
   transform: translateY(-1px);
 }
 
+.pinButton {
+  margin-top: 0.7rem;
+  padding: 0.45rem 1.1rem;
+  border-radius: 999px;
+  border: 2px solid #f5c542;
+  background: transparent;
+  color: var(--ifm-font-color-base, #333);
+  font-weight: 800;
+  font-size: 0.92rem;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.pinButton:hover {
+  background: #fdf3d7;
+}
+
+.pinButtonActive {
+  background: #fdf3d7;
+  color: #7a5b00;
+}
+
+/* ---------- Pinned wishes box, under the tree ---------- */
+
+.pinnedBox {
+  margin: 1rem auto 0;
+  max-width: 30rem;
+  border: 2px dashed #f5c542;
+  border-radius: 14px;
+  background: #fffdf4;
+  padding: 0.8rem 0.9rem 0.6rem;
+  text-align: left;
+}
+
+[data-theme='dark'] .pinnedBox {
+  background: #2b2b1e;
+}
+
+.pinnedTitle {
+  font-weight: 800;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  color: #14532d;
+}
+
+[data-theme='dark'] .pinnedTitle {
+  color: #7ee2a8;
+}
+
+.pinnedRow {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.45rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.pinnedThumb {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #f5c542;
+  flex-shrink: 0;
+}
+
+.pinnedInfo {
+  flex: 1;
+  font-size: 0.9rem;
+  line-height: 1.25;
+}
+
+.pinnedName {
+  font-weight: 800;
+}
+
+.pinnedPrice {
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+.sendSmall {
+  flex-shrink: 0;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: #e0245e;
+  color: #fff !important;
+  font-weight: 800;
+  font-size: 0.82rem;
+  text-decoration: none !important;
+}
+
+.sendSmall:hover {
+  background: #c2184f;
+}
+
+.unpinButton {
+  flex-shrink: 0;
+  width: 1.8rem;
+  height: 1.8rem;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--ifm-font-color-base, #333);
+  opacity: 0.6;
+}
+
+.unpinButton:hover {
+  opacity: 1;
+}
+
+.pinnedNote {
+  font-size: 0.78rem;
+  opacity: 0.7;
+  margin: 0.5rem 0 0.2rem;
+}
+
 .shipNote {
   margin: 0.8rem auto 0;
   max-width: 24rem;
