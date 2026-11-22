@@ -57,12 +57,12 @@ const SHORT_LABELS = {
   Thora: 'Paper towels',
   Autumn: 'Paper bedding',
   Harold: 'Hamster toys',
-  Ilya: 'Crinkle tunnel',
+  Ilya: 'Tunnel',
   Quill: 'Chew kabob',
-  Grimoire: 'Laundry detergent',
-  Jasper: 'Cleaning wipes',
+  Grimoire: 'Detergent',
+  Jasper: 'Wipes',
   Paris: 'Gloves & masks',
-  Lumi: 'Gift certificate',
+  Lumi: 'Gift cert.',
   Evangeline: 'Vet account',
   Sinatra: 'Baked treats',
   Monarch: 'Soft bed',
@@ -484,6 +484,7 @@ export default function GivingTree() {
                       style={{
                         left: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].x}%`,
                         top: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].y}%`,
+                        zIndex: 100 - ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].y,
                       }}
                       onClick={(e) => {
                         e.stopPropagation();

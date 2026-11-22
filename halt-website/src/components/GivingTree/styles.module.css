@@ -240,7 +240,9 @@
 }
 
 .ornamentLabel {
-  font-size: 0.68rem;
+  position: relative;
+  z-index: 2;
+  font-size: 0.66rem;
   font-weight: 800;
   line-height: 1.1;
   text-align: center;
