@@ -5,7 +5,7 @@
 .floatingCart {
   position: fixed;
   right: 1.25rem;
-  bottom: 10.9rem;
+  bottom: 9.4rem;
   z-index: 9991;
   width: 3.6rem;
   height: 3.6rem;
@@ -52,7 +52,7 @@
   .floatingCart {
     /* Above the mobile bottom tab bar, and above the Giving Tree
        button that sits right over the tab bar */
-    bottom: calc(15.1rem + env(safe-area-inset-bottom));
+    bottom: calc(12.9rem + env(safe-area-inset-bottom));
     right: 0.9rem;
   }
 }

@@ -47,33 +47,6 @@ function writeStoredOrder(keys) {
   }
 }
 
-// Short version of each wish's ask, shown on the ornament itself so
-// people can see the asks while they browse the tree.
-const SHORT_LABELS = {
-  Violet: 'Veggie gift card',
-  'Honey Magnolia': 'Garbage bags',
-  Jersey: 'Hidey house',
-  Tally: 'Orchard grass',
-  Thora: 'Paper towels',
-  Autumn: 'Paper bedding',
-  Harold: 'Hamster toys',
-  Ilya: 'Tunnel',
-  Quill: 'Chew kabob',
-  Grimoire: 'Detergent',
-  Jasper: 'Wipes',
-  Paris: 'Gloves & masks',
-  Lumi: 'Gift cert.',
-  Evangeline: 'Vet account',
-  Sinatra: 'Baked treats',
-  Monarch: 'Soft bed',
-  Hero: 'Bassinet',
-  Villain: 'Play table',
-  Owen: 'Dangly toy',
-  April: 'Toy pack',
-  Sawyer: 'Pee pads',
-  Sunshine: 'Cat food',
-};
-
 function wishKey(w) {
   return `${w.name}|${w.item}`;
 }
@@ -494,19 +467,12 @@ export default function GivingTree() {
                     >
                       <span className={styles.bauble} style={{ animationDelay: `${(i % 6) * 0.35}s` }}>
                         <span className={styles.baubleCap} />
-                        {w.img ? (
-                          <img src={w.img} alt="" />
-                        ) : (
-                          <span
-                            className={styles.baubleFallback}
-                            style={{ background: ORNAMENT_COLORS[i % ORNAMENT_COLORS.length] }}
-                          >
-                            {w.name.charAt(0)}
-                          </span>
-                        )}
+                        <span
+                          className={styles.baubleBall}
+                          style={{ background: ORNAMENT_COLORS[i % ORNAMENT_COLORS.length] }}
+                        />
                         <span className={styles.baubleShine} />
                       </span>
-                      <span className={styles.ornamentLabel}>{SHORT_LABELS[w.name] || w.item}</span>
                     </button>
                   ))}
                 </div>
