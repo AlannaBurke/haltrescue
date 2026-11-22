@@ -23,6 +23,57 @@ const CHEWY_WISHLIST = 'https://tinyurl.com/HALT-Chewy-Wishlist';
 // haltPinnedWishesV1) and shown in a box under the tree.
 const PIN_STORAGE_KEY = 'haltPinnedWishesV1';
 
+// Each visitor gets their own shuffled wish order, saved in their
+// browser (localStorage key haltGivingTreeOrderV1), so the order is
+// different from person to person but stays the same for that person
+// every time they open the tree.
+const ORDER_STORAGE_KEY = 'haltGivingTreeOrderV1';
+
+function readStoredOrder() {
+  try {
+    const raw = window.localStorage.getItem(ORDER_STORAGE_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed.filter((k) => typeof k === 'string') : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function writeStoredOrder(keys) {
+  try {
+    window.localStorage.setItem(ORDER_STORAGE_KEY, JSON.stringify(keys));
+  } catch (e) {
+    // Private browsing etc: the order just will not persist.
+  }
+}
+
+// Short version of each wish's ask, shown on the ornament itself so
+// people can see the asks while they browse the tree.
+const SHORT_LABELS = {
+  Violet: 'Veggie gift card',
+  'Honey Magnolia': 'Garbage bags',
+  Jersey: 'Hidey house',
+  Tally: 'Orchard grass',
+  Thora: 'Paper towels',
+  Autumn: 'Paper bedding',
+  Harold: 'Hamster toys',
+  Ilya: 'Crinkle tunnel',
+  Quill: 'Chew kabob',
+  Grimoire: 'Laundry detergent',
+  Jasper: 'Cleaning wipes',
+  Paris: 'Gloves & masks',
+  Lumi: 'Gift certificate',
+  Evangeline: 'Vet account',
+  Sinatra: 'Baked treats',
+  Monarch: 'Soft bed',
+  Hero: 'Bassinet',
+  Villain: 'Play table',
+  Owen: 'Dangly toy',
+  April: 'Toy pack',
+  Sawyer: 'Pee pads',
+  Sunshine: 'Cat food',
+};
+
 function wishKey(w) {
   return `${w.name}|${w.item}`;
 }
@@ -112,45 +163,45 @@ const WISHES = [
   {
     name: 'Ilya',
     img: '/img/giving-tree/ilya.jpg',
-    item: 'A crinkle tunnel',
+    item: 'A Kaytee crinkle tunnel',
     line: 'Ilya would like a crinkle tunnel, because the rats go just as bonkers for them as the piggies do.',
-    price: 'About $12',
-    link: AMAZON_WISHLIST,
-    linkLabel: 'Send it from our wishlist',
+    price: 'About $13',
+    link: 'https://www.chewy.com/kaytee-crinkle-tunnel-oversized/dp/129044',
+    linkLabel: 'Send this tunnel',
   },
   {
     name: 'Quill',
     img: '/img/giving-tree/quill.jpg',
-    item: 'A big chew kabob',
-    line: 'Quill would like a big kabob to gnaw on, the kind that lasts the whole wonky old man crew a good long while.',
+    item: 'A big rainbow chew block kabob',
+    line: 'Quill would like a SunGrow rainbow chew block kabob to gnaw on, the kind that lasts the whole wonky old man crew a good long while.',
     price: 'About $10',
-    link: AMAZON_WISHLIST,
-    linkLabel: 'Send it from our wishlist',
+    link: 'https://www.chewy.com/sungrow-rainbow-foraging-chew-blocks/dp/359520',
+    linkLabel: 'Send this chew',
   },
   {
     name: 'Grimoire',
     img: '/img/giving-tree/grimoire.jpg',
-    item: 'Laundry detergent',
-    line: 'Grimoire would like laundry detergent, to keep his blankets clean and smelling nice.',
-    price: 'About $13',
+    item: 'Arm & Hammer Deep Clean laundry detergent',
+    line: 'Grimoire would like laundry detergent, the Arm & Hammer Deep Clean, to keep his blankets clean and smelling nice. It is the favorite around here.',
+    price: 'About $9',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
   },
   {
     name: 'Jasper',
     img: '/img/giving-tree/jasper.jpg',
-    item: 'Textured cleaning wipes',
-    line: 'Jasper would like textured wipes, the grippy kind, for keeping his space (and his face) tidy.',
-    price: 'About $8',
+    item: 'Thick textured baby wipes',
+    line: 'Jasper would like the thick Bc Babycare cloud wipes, the grippy textured kind, for keeping his space (and his face) tidy.',
+    price: 'About $15',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
   },
   {
     name: 'Paris',
     img: '/img/giving-tree/paris.jpg',
-    item: 'Plastic gloves and cleaning masks',
-    line: 'Paris would like gloves and masks for the humans, so cleaning day stays safe and sneeze free.',
-    price: 'About $15',
+    item: 'Nitrile gloves and face masks for cleaning',
+    line: 'Paris would like the black FRAMAR nitrile gloves and the purple FENFEN masks for the humans, so cleaning day stays safe and sneeze free.',
+    price: 'About $16 each',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
   },
@@ -178,17 +229,17 @@ const WISHES = [
     item: 'Oven baked treats',
     line: 'Sinatra would like some oven baked treats, for doing things his way.',
     price: 'About $6',
-    link: 'https://link.amazon/B0aNOp3cv',
+    link: 'https://creator.anchor.store/a/qkewPzKH9P',
     linkLabel: 'Send these treats',
   },
   {
     name: 'Monarch',
     img: '/img/giving-tree/monarch.jpg',
-    item: 'A soft new bed',
+    item: 'A plush cuddle cup bed',
     line: 'Monarch would like a soft new bed, ideally one that is very good for hiding in.',
-    price: 'About $12',
-    link: CHEWY_WISHLIST,
-    linkLabel: 'Send it from our wishlist',
+    price: 'About $14',
+    link: 'https://www.chewy.com/kaytee-cuddle-e-cup-plush-small/dp/129035',
+    linkLabel: 'Send this bed',
   },
   {
     name: 'Hero',
@@ -199,16 +250,63 @@ const WISHES = [
     link: 'https://www.amazon.com/JinxZap-Bedside-Adjustable-Height-Small/dp/B0GLP4L66C',
     linkLabel: 'Send the bassinet',
   },
+  {
+    name: 'Villain',
+    img: '/img/giving-tree/villain.jpg',
+    item: 'An Oxbow play table',
+    line: 'Villain would like an Oxbow play table to climb on and play under. Despite the name, he is the sweetest boy, full of kisses.',
+    price: 'About $22',
+    link: 'https://www.chewy.com/oxbow-play-table-small-animal-toy/dp/226841',
+    linkLabel: 'Send this play table',
+  },
+  {
+    name: 'Owen',
+    img: '/img/giving-tree/owen.jpg',
+    item: 'A dangly toy',
+    line: 'Owen would like a dangly toy, the chinchilla safe kind, to bat around and chew on.',
+    price: 'About $9',
+    link: 'https://www.chewy.com/bird-life-parakeet-small-bird-combo/dp/370545',
+    linkLabel: 'Send this toy',
+  },
+  {
+    name: 'April',
+    img: '/img/giving-tree/april.jpg',
+    item: 'A dangly toy party pack',
+    line: 'April would like the Oxbow dangly party pack, new toys to bat around and show off with.',
+    price: 'About $19',
+    link: 'https://www.chewy.com/oxbow-enriched-life-natural-dangly/dp/782318',
+    linkLabel: 'Send these toys',
+  },
+  {
+    name: 'Sawyer',
+    img: '/img/giving-tree/sawyer.jpg',
+    item: 'Fleece pee pads',
+    line: 'Sawyer would like fleece pee pads, soft and washable, for his favorite napping spots.',
+    price: 'About $15',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Sunshine',
+    img: '/img/giving-tree/sunshine.jpg',
+    item: 'Wet food for the sanctuary cats',
+    line: 'Sunshine would like wet food for the sanctuary cats, the good stuff from our endorsed list.',
+    price: 'About $20',
+    link: 'https://creator.anchor.store/a/djHH3CAm04',
+    linkLabel: 'Send this food',
+  },
 ];
 
 // Where each ornament hangs on the big tree, as % of the tree area.
 const ORNAMENT_POSITIONS = [
-  { x: 50, y: 27 },
-  { x: 41, y: 36 }, { x: 59, y: 36 },
-  { x: 33, y: 46 }, { x: 50, y: 48 }, { x: 67, y: 46 },
-  { x: 27, y: 57 }, { x: 42, y: 59 }, { x: 58, y: 59 }, { x: 73, y: 57 },
-  { x: 21, y: 69 }, { x: 36, y: 71 }, { x: 50, y: 72 }, { x: 64, y: 71 }, { x: 79, y: 69 },
-  { x: 30, y: 82 }, { x: 50, y: 84 }, { x: 70, y: 82 },
+  { x: 50, y: 15 },
+  { x: 34, y: 25 }, { x: 66, y: 25 },
+  { x: 21, y: 36 }, { x: 50, y: 38 }, { x: 79, y: 36 },
+  { x: 13, y: 49 }, { x: 32, y: 51 }, { x: 53, y: 51 }, { x: 74, y: 49 }, { x: 89, y: 51 },
+  { x: 19, y: 63 }, { x: 41, y: 65 }, { x: 63, y: 65 }, { x: 85, y: 63 },
+  { x: 27, y: 77 }, { x: 50, y: 79 }, { x: 73, y: 77 },
+  { x: 37, y: 88 }, { x: 63, y: 88 },
+  { x: 11, y: 63 }, { x: 89, y: 77 },
 ];
 
 const ORNAMENT_COLORS = [
@@ -225,6 +323,16 @@ function TreeSvg({ mini }) {
       <path d="M100 104 L168 196 Q100 172 32 196 Z" fill="#1f7a44" />
       <path d="M58 84 Q100 104 142 84" stroke="#f5c542" strokeWidth="4" fill="none" strokeLinecap="round" strokeDasharray="1 10" />
       <path d="M44 142 Q100 166 156 142" stroke="#e0245e" strokeWidth="4" fill="none" strokeLinecap="round" strokeDasharray="1 10" />
+      {mini && (
+        <>
+          <circle cx="100" cy="52" r="7" fill="#e0245e" stroke="#f5c542" strokeWidth="2" />
+          <circle cx="76" cy="102" r="7" fill="#f59e0b" stroke="#f5c542" strokeWidth="2" />
+          <circle cx="124" cy="102" r="7" fill="#0f8a93" stroke="#f5c542" strokeWidth="2" />
+          <circle cx="62" cy="152" r="7" fill="#7c3aed" stroke="#f5c542" strokeWidth="2" />
+          <circle cx="100" cy="160" r="7" fill="#e0245e" stroke="#f5c542" strokeWidth="2" />
+          <circle cx="138" cy="152" r="7" fill="#f59e0b" stroke="#f5c542" strokeWidth="2" />
+        </>
+      )}
       <rect x="90" y="196" width="20" height="26" rx="3" fill="#8a5a33" />
       <ellipse cx="100" cy="228" rx="46" ry="7" fill="#e8f4f1" />
       <circle cx="76" cy="120" r="3" fill="#ffffff" opacity="0.85" />
@@ -234,8 +342,8 @@ function TreeSvg({ mini }) {
   );
 }
 
-function shuffledWishes() {
-  const deck = WISHES.slice();
+function shuffle(list) {
+  const deck = list.slice();
   for (let i = deck.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     const tmp = deck[i];
@@ -245,17 +353,36 @@ function shuffledWishes() {
   return deck;
 }
 
+// Build this visitor's personal wish order: the order saved in their
+// browser if they have one (wishes that no longer exist drop out, new
+// wishes join at the end in a shuffled order), or a fresh shuffle for
+// a first time visitor.
+function buildDeck() {
+  const stored = readStoredOrder();
+  const byKey = new Map(WISHES.map((w) => [wishKey(w), w]));
+  const deck = [];
+  stored.forEach((key) => {
+    if (byKey.has(key)) {
+      deck.push(byKey.get(key));
+      byKey.delete(key);
+    }
+  });
+  deck.push(...shuffle(WISHES.filter((w) => byKey.has(wishKey(w)))));
+  return deck;
+}
+
 export default function GivingTree() {
   const [open, setOpen] = useState(false);
   const [wish, setWish] = useState(null);
-  // The wishes are shuffled every time the tree opens, so no wish
-  // always sits at the front of the click through order.
   const [deck, setDeck] = useState(WISHES);
   const [pinned, setPinned] = useState([]);
   const { pathname } = useLocation();
 
   useEffect(() => {
     setPinned(readPinned());
+    const personal = buildDeck();
+    setDeck(personal);
+    writeStoredOrder(personal.map(wishKey));
   }, []);
 
   const togglePin = (w) => {
@@ -268,7 +395,6 @@ export default function GivingTree() {
   };
 
   const openTree = () => {
-    setDeck(shuffledWishes());
     setWish(null);
     setOpen(true);
   };
@@ -326,7 +452,6 @@ export default function GivingTree() {
         aria-label="Open the Giving Tree and see what our animals are wishing for"
       >
         <TreeSvg mini />
-        <span className={styles.treeButtonLabel}>Giving Tree</span>
       </button>
 
       {open && (
@@ -357,17 +482,31 @@ export default function GivingTree() {
                       type="button"
                       className={styles.ornament}
                       style={{
-                        left: `${ORNAMENT_POSITIONS[i].x}%`,
-                        top: `${ORNAMENT_POSITIONS[i].y}%`,
-                        background: `radial-gradient(circle at 32% 30%, #ffffffcc 0 18%, transparent 42%), ${ORNAMENT_COLORS[i % ORNAMENT_COLORS.length]}`,
-                        animationDelay: `${(i % 6) * 0.35}s`,
+                        left: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].x}%`,
+                        top: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].y}%`,
                       }}
                       onClick={(e) => {
                         e.stopPropagation();
                         setWish(i);
                       }}
                       aria-label={`Wish from ${w.name}: ${w.item}`}
-                    />
+                    >
+                      <span className={styles.bauble} style={{ animationDelay: `${(i % 6) * 0.35}s` }}>
+                        <span className={styles.baubleCap} />
+                        {w.img ? (
+                          <img src={w.img} alt="" />
+                        ) : (
+                          <span
+                            className={styles.baubleFallback}
+                            style={{ background: ORNAMENT_COLORS[i % ORNAMENT_COLORS.length] }}
+                          >
+                            {w.name.charAt(0)}
+                          </span>
+                        )}
+                        <span className={styles.baubleShine} />
+                      </span>
+                      <span className={styles.ornamentLabel}>{SHORT_LABELS[w.name] || w.item}</span>
+                    </button>
                   ))}
                 </div>
                 <p className={styles.hint}>Psst, you can also just tap the tree.</p>

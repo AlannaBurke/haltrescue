@@ -5,48 +5,47 @@
 
 .treeButton {
   position: fixed;
-  right: 1.25rem;
-  bottom: 1.25rem;
+  right: 1.1rem;
+  bottom: 1.1rem;
   z-index: 9990;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0;
-  width: 4.6rem;
-  height: 4.6rem;
-  padding: 0.3rem 0 0.15rem;
-  border-radius: 50%;
-  border: 3px solid #f5c542;
-  background: #14532d;
-  color: #fff;
+  width: 7.6rem;
+  height: 9.1rem;
+  padding: 0;
+  border: none;
+  background: transparent;
   cursor: pointer;
-  box-shadow: 0 8px 24px rgba(20, 83, 45, 0.45);
-  transition: transform 0.18s ease, bottom 0.18s ease;
+  filter: drop-shadow(0 10px 16px rgba(6, 40, 35, 0.4));
+  transform-origin: 50% 100%;
+  animation: givingTreeSway 3.8s ease-in-out infinite;
+  transition: bottom 0.18s ease;
 }
 
 .treeButton:hover {
-  transform: translateY(-2px) rotate(-2deg);
+  animation-play-state: paused;
+  transform: rotate(-2deg) scale(1.04);
+}
+
+@keyframes givingTreeSway {
+  0%, 100% {
+    transform: rotate(-1.4deg);
+  }
+  50% {
+    transform: rotate(1.4deg);
+  }
 }
 
 .miniTree {
-  width: 2.2rem;
-  height: 2.6rem;
-  margin-top: -0.35rem;
-}
-
-.treeButtonLabel {
-  font-size: 0.52rem;
-  font-weight: 800;
-  letter-spacing: 0.02em;
-  line-height: 1;
-  margin-top: -0.45rem;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  width: 100%;
+  height: 100%;
+  display: block;
 }
 
 @media screen and (max-width: 996px) {
   .treeButton {
-    bottom: calc(5.4rem + env(safe-area-inset-bottom));
-    right: 0.9rem;
+    bottom: calc(5.2rem + env(safe-area-inset-bottom));
+    right: 0.6rem;
+    width: 6.9rem;
+    height: 8.3rem;
   }
 }
 
@@ -56,25 +55,34 @@
   position: fixed;
   inset: 0;
   z-index: 9995;
-  background: rgba(6, 40, 35, 0.6);
+  background: rgba(6, 40, 35, 0.74);
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0.75rem;
 }
 
+/* Solid colors on purpose: this site's theme defines
+   --ifm-background-color as transparent in one scope, which made the
+   panel see-through. Never use that variable here. */
 .panel {
   position: relative;
   width: 100%;
   max-width: 620px;
   max-height: 94vh;
   overflow-y: auto;
-  background: var(--ifm-background-color, #fff);
+  background: #ffffff;
+  color: #22312a;
   border-radius: 20px;
   border: 3px solid #f5c542;
   padding: 1.25rem 1.25rem 1rem;
   box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
   animation: givingTreePop 0.18s ease;
+}
+
+[data-theme='dark'] .panel {
+  background: #20302a;
+  color: #eaf6ef;
 }
 
 @keyframes givingTreePop {
@@ -98,7 +106,7 @@
   border-radius: 50%;
   border: none;
   background: transparent;
-  color: var(--ifm-font-color-base, #333);
+  color: inherit;
   font-size: 1.7rem;
   line-height: 1;
   cursor: pointer;
@@ -128,7 +136,7 @@
 
 .treeWrap {
   position: relative;
-  width: min(400px, 88vw);
+  width: min(430px, 92vw);
   margin: 0 auto;
   cursor: pointer;
 }
@@ -139,22 +147,115 @@
   display: block;
 }
 
+/* Each ornament is a little bauble: a string and gold cap on top, the
+   critter's photo in a shiny round ball, and a label chip under it
+   naming the ask, so the wishes are readable right on the tree. */
 .ornament {
   position: absolute;
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  border: 2px solid #fff;
-  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
   transform: translate(-50%, -50%);
-  cursor: pointer;
+  width: 94px;
   padding: 0;
-  animation: givingTreeTwinkle 2.4s ease-in-out infinite;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  z-index: 2;
+}
+
+.bauble {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+  animation: givingTreeTwinkle 2.6s ease-in-out infinite;
   transition: scale 0.15s ease;
 }
 
-.ornament:hover {
-  scale: 1.3;
+.ornament:hover .bauble,
+.ornament:focus-visible .bauble {
+  scale: 1.15;
+}
+
+.bauble::before {
+  content: '';
+  position: absolute;
+  top: -13px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 2px;
+  height: 9px;
+  background: rgba(105, 80, 20, 0.65);
+}
+
+.baubleCap {
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 17px;
+  height: 10px;
+  border-radius: 3px;
+  background: linear-gradient(#ffe9a8, #d9a521);
+  border: 1px solid #a87e0f;
+  z-index: 2;
+}
+
+.bauble img,
+.baubleFallback {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 3px solid #f5c542;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35), inset 0 0 0 2px rgba(255, 255, 255, 0.35);
+  display: block;
+}
+
+.bauble img {
+  object-fit: cover;
+}
+
+.baubleFallback {
+  color: #fff;
+  font-weight: 800;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.baubleShine {
+  position: absolute;
+  top: 7px;
+  left: 10px;
+  width: 17px;
+  height: 12px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.55);
+  filter: blur(1px);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.ornamentLabel {
+  font-size: 0.68rem;
+  font-weight: 800;
+  line-height: 1.1;
+  text-align: center;
+  color: #14532d;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1.5px solid #f5c542;
+  border-radius: 999px;
+  padding: 2px 7px;
+  max-width: 94px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+[data-theme='dark'] .ornamentLabel {
+  color: #dff5e6;
+  background: rgba(20, 40, 32, 0.94);
 }
 
 @keyframes givingTreeTwinkle {
@@ -162,14 +263,24 @@
     filter: brightness(1);
   }
   50% {
-    filter: brightness(1.35);
+    filter: brightness(1.3);
   }
 }
 
 @media screen and (max-width: 480px) {
   .ornament {
-    width: 27px;
-    height: 27px;
+    width: 84px;
+  }
+
+  .bauble {
+    width: 50px;
+    height: 50px;
+  }
+
+  .ornamentLabel {
+    font-size: 0.62rem;
+    padding: 1px 6px;
+    max-width: 84px;
   }
 }
 
@@ -214,7 +325,7 @@
 }
 
 .wishName {
-  font-size: 1.7rem;
+  font-size: 1.85rem;
   font-weight: 800;
   margin-top: 0.7rem;
   color: #14532d;
@@ -225,15 +336,16 @@
 }
 
 .wishItem {
-  font-size: 1.15rem;
-  font-weight: 700;
-  margin-top: 0.15rem;
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin-top: 0.2rem;
 }
 
 .wishLine {
-  margin: 0.5rem auto 0.25rem;
+  margin: 0.55rem auto 0.25rem;
   max-width: 26rem;
-  font-size: 1rem;
+  font-size: 1.06rem;
+  line-height: 1.45;
 }
 
 .priceChip {
@@ -272,7 +384,7 @@
   border-radius: 999px;
   border: 2px solid #f5c542;
   background: transparent;
-  color: var(--ifm-font-color-base, #333);
+  color: inherit;
   font-weight: 800;
   font-size: 0.92rem;
   cursor: pointer;
@@ -372,7 +484,7 @@
   font-size: 1.15rem;
   line-height: 1;
   cursor: pointer;
-  color: var(--ifm-font-color-base, #333);
+  color: inherit;
   opacity: 0.6;
 }
 
