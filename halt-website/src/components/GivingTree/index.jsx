@@ -367,10 +367,61 @@ function shuffle(list) {
   return deck;
 }
 
+// Which species each critter is, used to spread the deck out so the
+// hamsters (and everyone else) are not bunched together. Anyone not
+// listed here is a guinea pig.
+const SPECIES_BY_NAME = {
+  Harold: 'hamster',
+  Carter: 'hamster',
+  Domino: 'hamster',
+  Tod: 'hamster',
+  Owen: 'chinchilla',
+  April: 'chinchilla',
+  Ilya: 'rat',
+  Sunshine: 'cat',
+};
+
+function speciesOf(w) {
+  return SPECIES_BY_NAME[w.name] || 'guinea pig';
+}
+
+// Spread a deck out so wishes from the same species are dispersed
+// evenly through the list: deal from the biggest remaining group,
+// never the same species twice in a row while another species still
+// has wishes waiting. The order inside each species is kept as it
+// was, and feeding an already spread deck back through gives the
+// same order out, so a returning visitor's order stays stable.
+function spreadSpecies(deck) {
+  const queues = new Map();
+  deck.forEach((w) => {
+    const s = speciesOf(w);
+    if (!queues.has(s)) {
+      queues.set(s, []);
+    }
+    queues.get(s).push(w);
+  });
+  const out = [];
+  let last = null;
+  while (out.length < deck.length) {
+    let best = null;
+    queues.forEach((q, s) => {
+      if (q.length && s !== last && (best === null || q.length > queues.get(best).length)) {
+        best = s;
+      }
+    });
+    if (best === null) {
+      best = last;
+    }
+    out.push(queues.get(best).shift());
+    last = best;
+  }
+  return out;
+}
+
 // Build this visitor's personal wish order: the order saved in their
 // browser if they have one (wishes that no longer exist drop out, new
-// wishes join at the end in a shuffled order), or a fresh shuffle for
-// a first time visitor.
+// wishes join in a shuffled order), or a fresh shuffle for a first
+// time visitor. Either way the result is spread across species.
 function buildDeck() {
   const stored = readStoredOrder();
   const byKey = new Map(WISHES.map((w) => [wishKey(w), w]));
@@ -382,7 +433,7 @@ function buildDeck() {
     }
   });
   deck.push(...shuffle(WISHES.filter((w) => byKey.has(wishKey(w)))));
-  return deck;
+  return spreadSpecies(deck);
 }
 
 export default function GivingTree() {
