@@ -1,0 +1,358 @@
+import React, { useCallback, useEffect, useState } from 'react';
+import { useLocation } from '@docusaurus/router';
+import styles from './styles.module.css';
+
+// The Giving Tree: a little Christmas tree that lives in the bottom
+// right corner of every page. Clicking it opens a big tree in the
+// middle of the screen. Every ornament on the tree is one resident's
+// holiday wish. Clicking an ornament (or the tree itself) opens that
+// wish as a simple ticket: the critter's photo, what they are wishing
+// for, a one line reason, the price, and a link to send the gift
+// digitally so it comes straight to the rescue. The < and > buttons
+// flip through the wishes. Mounted in the site Layout
+// (src/theme/Layout), next to the MobileNavBar and FloatingCartButton.
+//
+// TO CHANGE THE WISHES: edit the WISHES list below. Photos live in
+// static/img/giving-tree/. Only use photos of living residents.
+
+const AMAZON_WISHLIST = 'https://tinyurl.com/HALT-Amazon-Wishlist';
+const CHEWY_WISHLIST = 'https://tinyurl.com/HALT-Chewy-Wishlist';
+
+const WISHES = [
+  {
+    name: 'Violet',
+    img: '/img/giving-tree/violet.jpg',
+    item: 'A Market Basket gift card for veggies',
+    line: 'Violet would like a veggie gift card, to keep the bell peppers coming after her naps.',
+    price: 'Any amount, $25 is perfect',
+    link: '/donate',
+    linkLabel: 'Send veggie money',
+  },
+  {
+    name: 'Honey Magnolia',
+    img: '/img/giving-tree/honey-magnolia.jpg',
+    item: 'Market Basket garbage bags',
+    line: 'Honey Magnolia would like garbage bags, because a herd this loved makes a heroic amount of trash. The Market Basket brand ones are the best, honestly.',
+    price: 'About $10',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Jersey',
+    img: '/img/giving-tree/jersey.jpg',
+    item: 'A hidey house that is easy to sanitize',
+    line: 'Jersey would like a hidey house of his own, somewhere cozy to be brave in private.',
+    price: 'About $15',
+    link: 'https://link.amazon/B07FJubYF',
+    linkLabel: 'Send this hidey',
+  },
+  {
+    name: 'Tally',
+    img: '/img/giving-tree/tally.jpg',
+    item: '50 lb of orchard grass',
+    line: 'Tally would like orchard grass, for hiding in, snacking on, and generally being nowhere to be found.',
+    price: 'About $40',
+    link: 'https://link.amazon/B0g1BtOJA',
+    linkLabel: 'Send orchard grass',
+  },
+  {
+    name: 'Thora',
+    img: '/img/giving-tree/thora.jpg',
+    item: 'Paper towels',
+    line: 'Thora would like paper towels, because she and Mushroom take their dinner bowl very seriously.',
+    price: 'About $15',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Autumn',
+    img: '/img/giving-tree/autumn.jpg',
+    item: 'Paper bedding',
+    line: 'Autumn would like fresh paper bedding, so a growing girl always has a soft place to land.',
+    price: 'About $25',
+    link: 'https://link.amazon/B0auxZUJz',
+    linkLabel: 'Send this bedding',
+  },
+  {
+    name: 'Harold',
+    img: '/img/giving-tree/harold.jpg',
+    item: 'Hamster enrichment toys',
+    line: 'Harold would like new things to climb, chew, and judge from a distance. Do not wake him up to give them to him.',
+    price: 'About $20',
+    link: 'https://link.amazon/B096UDLt6',
+    linkLabel: 'Send hamster fun',
+  },
+  {
+    name: 'Ilya',
+    img: '/img/giving-tree/ilya.jpg',
+    item: 'A crinkle tunnel',
+    line: 'Ilya would like a crinkle tunnel, because the rats go just as bonkers for them as the piggies do.',
+    price: 'About $12',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Quill',
+    img: '/img/giving-tree/quill.jpg',
+    item: 'A big chew kabob',
+    line: 'Quill would like a big kabob to gnaw on, the kind that lasts the whole wonky old man crew a good long while.',
+    price: 'About $10',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Grimoire',
+    img: '/img/giving-tree/grimoire.jpg',
+    item: 'Laundry detergent',
+    line: 'Grimoire would like laundry detergent, to keep his blankets clean and smelling nice.',
+    price: 'About $13',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Jasper',
+    img: '/img/giving-tree/jasper.jpg',
+    item: 'Textured cleaning wipes',
+    line: 'Jasper would like textured wipes, the grippy kind, for keeping his space (and his face) tidy.',
+    price: 'About $8',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Paris',
+    img: '/img/giving-tree/paris.jpg',
+    item: 'Plastic gloves and cleaning masks',
+    line: 'Paris would like gloves and masks for the humans, so cleaning day stays safe and sneeze free.',
+    price: 'About $15',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Lumi',
+    img: '/img/giving-tree/lumi.jpg',
+    item: 'A gift certificate to Guinea Pig Market',
+    line: 'Lumi would like a Guinea Pig Market gift certificate, for something special picked out just for piggies.',
+    price: 'Any amount',
+    link: 'http://guineapigmarket.com',
+    linkLabel: 'Send a gift certificate',
+  },
+  {
+    name: 'Evangeline',
+    img: '/img/giving-tree/evangeline.jpg',
+    item: 'Money on our vet account',
+    line: 'Evangeline would like a little money on the vet account, so her next checkup is already covered.',
+    price: 'Any amount, a wellness exam is $67',
+    link: '/donate',
+    linkLabel: 'Put money on the vet account',
+  },
+  {
+    name: 'Sinatra',
+    img: '/img/giving-tree/sinatra.jpg',
+    item: 'Oven baked treats',
+    line: 'Sinatra would like some oven baked treats, for doing things his way.',
+    price: 'About $6',
+    link: 'https://link.amazon/B0aNOp3cv',
+    linkLabel: 'Send these treats',
+  },
+  {
+    name: 'Monarch',
+    img: '/img/giving-tree/monarch.jpg',
+    item: 'A soft new bed',
+    line: 'Monarch would like a soft new bed, ideally one that is very good for hiding in.',
+    price: 'About $12',
+    link: CHEWY_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'The night shift',
+    img: null,
+    item: 'A bedside bassinet for round the clock feedings',
+    line: 'For the nights when someone tiny needs hand feeding around the clock, right next to the bed instead of in it.',
+    price: 'About $60',
+    link: 'https://www.amazon.com/JinxZap-Bedside-Adjustable-Height-Small/dp/B0GLP4L66C',
+    linkLabel: 'Send the bassinet',
+  },
+];
+
+// Where each ornament hangs on the big tree, as % of the tree area.
+const ORNAMENT_POSITIONS = [
+  { x: 50, y: 27 },
+  { x: 41, y: 36 }, { x: 59, y: 36 },
+  { x: 33, y: 46 }, { x: 50, y: 48 }, { x: 67, y: 46 },
+  { x: 27, y: 57 }, { x: 42, y: 59 }, { x: 58, y: 59 }, { x: 73, y: 57 },
+  { x: 21, y: 69 }, { x: 36, y: 71 }, { x: 50, y: 72 }, { x: 64, y: 71 }, { x: 79, y: 69 },
+  { x: 30, y: 82 }, { x: 50, y: 84 }, { x: 70, y: 82 },
+];
+
+const ORNAMENT_COLORS = [
+  '#e0245e', '#f59e0b', '#0f8a93', '#7c3aed', '#16a34a', '#eab308',
+  '#dc2626', '#0891b2', '#db2777', '#65a30d', '#ea580c', '#2563eb',
+];
+
+function TreeSvg({ mini }) {
+  return (
+    <svg viewBox="0 0 200 240" className={mini ? styles.miniTree : styles.bigTree} aria-hidden="true">
+      <polygon points="100,4 112,22 100,18 88,22" fill="#f5c542" />
+      <path d="M100 18 L138 78 Q100 62 62 78 Z" fill="#2e9e5b" />
+      <path d="M100 58 L152 132 Q100 112 48 132 Z" fill="#27894e" />
+      <path d="M100 104 L168 196 Q100 172 32 196 Z" fill="#1f7a44" />
+      <path d="M58 84 Q100 104 142 84" stroke="#f5c542" strokeWidth="4" fill="none" strokeLinecap="round" strokeDasharray="1 10" />
+      <path d="M44 142 Q100 166 156 142" stroke="#e0245e" strokeWidth="4" fill="none" strokeLinecap="round" strokeDasharray="1 10" />
+      <rect x="90" y="196" width="20" height="26" rx="3" fill="#8a5a33" />
+      <ellipse cx="100" cy="228" rx="46" ry="7" fill="#e8f4f1" />
+      <circle cx="76" cy="120" r="3" fill="#ffffff" opacity="0.85" />
+      <circle cx="126" cy="150" r="3" fill="#ffffff" opacity="0.85" />
+      <circle cx="92" cy="168" r="2.5" fill="#ffffff" opacity="0.7" />
+    </svg>
+  );
+}
+
+export default function GivingTree() {
+  const [open, setOpen] = useState(false);
+  const [wish, setWish] = useState(null);
+  const { pathname } = useLocation();
+
+  const close = useCallback(() => {
+    setOpen(false);
+    setWish(null);
+  }, []);
+
+  const step = useCallback(
+    (dir) => {
+      setWish((cur) => {
+        if (cur === null) {
+          return dir > 0 ? 0 : WISHES.length - 1;
+        }
+        return (cur + dir + WISHES.length) % WISHES.length;
+      });
+    },
+    []
+  );
+
+  useEffect(() => {
+    if (!open) {
+      return undefined;
+    }
+    const onKey = (e) => {
+      if (e.key === 'Escape') {
+        close();
+      } else if (e.key === 'ArrowRight') {
+        step(1);
+      } else if (e.key === 'ArrowLeft') {
+        step(-1);
+      }
+    };
+    document.addEventListener('keydown', onKey);
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.removeEventListener('keydown', onKey);
+      document.body.style.overflow = '';
+    };
+  }, [open, close, step]);
+
+  if (pathname === '/checkout') {
+    return null;
+  }
+
+  const current = wish === null ? null : WISHES[wish];
+
+  return (
+    <>
+      <button
+        type="button"
+        className={styles.treeButton}
+        onClick={() => setOpen(true)}
+        aria-label="Open the Giving Tree and see what our animals are wishing for"
+      >
+        <TreeSvg mini />
+        <span className={styles.treeButtonLabel}>Giving Tree</span>
+      </button>
+
+      {open && (
+        <div className={styles.backdrop} onClick={close} role="presentation">
+          <div
+            className={styles.panel}
+            onClick={(e) => e.stopPropagation()}
+            role="dialog"
+            aria-modal="true"
+            aria-label="The Giving Tree"
+          >
+            <button type="button" className={styles.closeButton} onClick={close} aria-label="Close the Giving Tree">
+              ×
+            </button>
+
+            {current === null ? (
+              <>
+                <h2 className={styles.title}>🎄 The Giving Tree 🎄</h2>
+                <p className={styles.intro}>
+                  Every ornament is a wish from one of our residents. Tap an ornament to see who is wishing, and what
+                  they would love this holiday.
+                </p>
+                <div className={styles.treeWrap} onClick={() => setWish(0)}>
+                  <TreeSvg />
+                  {WISHES.map((w, i) => (
+                    <button
+                      key={w.name + w.item}
+                      type="button"
+                      className={styles.ornament}
+                      style={{
+                        left: `${ORNAMENT_POSITIONS[i].x}%`,
+                        top: `${ORNAMENT_POSITIONS[i].y}%`,
+                        background: `radial-gradient(circle at 32% 30%, #ffffffcc 0 18%, transparent 42%), ${ORNAMENT_COLORS[i % ORNAMENT_COLORS.length]}`,
+                        animationDelay: `${(i % 6) * 0.35}s`,
+                      }}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setWish(i);
+                      }}
+                      aria-label={`Wish from ${w.name}: ${w.item}`}
+                    />
+                  ))}
+                </div>
+                <p className={styles.hint}>Psst, you can also just tap the tree.</p>
+              </>
+            ) : (
+              <div className={styles.wishView}>
+                <button type="button" className={styles.backButton} onClick={() => setWish(null)}>
+                  🎄 Back to the tree
+                </button>
+                <div className={styles.wishCard}>
+                  <button type="button" className={`${styles.navButton} ${styles.navPrev}`} onClick={() => step(-1)} aria-label="Previous wish">
+                    ‹
+                  </button>
+                  {current.img && (
+                    <img
+                      className={current.name === 'The night shift' ? styles.wishPhotoWide : styles.wishPhoto}
+                      src={current.img}
+                      alt={current.name === 'The night shift' ? 'A bedside bassinet for a tiny patient' : current.name}
+                    />
+                  )}
+                  <div className={styles.wishText}>
+                    <div className={styles.wishName}>{current.name}</div>
+                    <div className={styles.wishItem}>{current.item}</div>
+                    <p className={styles.wishLine}>{current.line}</p>
+                    <div className={styles.priceChip}>🎁 {current.price}</div>
+                    <div>
+                      <a className={styles.sendButton} href={current.link} target={current.link.startsWith('http') ? '_blank' : undefined} rel="noreferrer">
+                        {current.linkLabel} →
+                      </a>
+                    </div>
+                    <p className={styles.shipNote}>
+                      Or pick it up yourself and mail it to Helping All Little Things, PO Box 11, Deerfield, NH 03037.
+                    </p>
+                  </div>
+                  <button type="button" className={`${styles.navButton} ${styles.navNext}`} onClick={() => step(1)} aria-label="Next wish">
+                    ›
+                  </button>
+                </div>
+                <div className={styles.wishCount}>
+                  Wish {wish + 1} of {WISHES.length}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+    </>
+  );
+}
