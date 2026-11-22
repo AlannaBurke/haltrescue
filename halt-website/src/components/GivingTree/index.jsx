@@ -127,11 +127,11 @@ const WISHES = [
   {
     name: 'Harold',
     img: '/img/giving-tree/harold.jpg',
-    item: 'A garden dig box',
-    line: 'Harold would like a garden dig box, for digging, foraging, and having opinions about the soil. Do not wake him up to give it to him.',
-    price: 'About $19',
-    link: 'https://www.chewy.com/oxbow-animal-health-enriched-life/dp/531966',
-    linkLabel: 'Send this dig box',
+    item: 'A timothy tunnel',
+    line: 'Harold would like a timothy tunnel, for hiding in, running through, and slowly eating his own house. Do not wake him up to give it to him.',
+    price: 'About $12',
+    link: 'https://www.chewy.com/oxbow-timothy-club-tunnel-small/dp/123718',
+    linkLabel: 'Send this tunnel',
   },
   {
     name: 'Carter',
