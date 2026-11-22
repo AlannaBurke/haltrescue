@@ -275,14 +275,16 @@ const WISHES = [
 // decoration that sits ON the foliage (positions follow the tree's
 // triangular shape), and each one reveals a wish when tapped. The
 // arrows on a wish ticket flip through all of the wishes.
+// Positions are % of the tree area, worked out against the tree
+// drawing itself: every ball sits fully on the green, in the three
+// bands between the two dotted garlands (the garlands arc across at
+// roughly y 35-40% and y 59-65%) and above the foliage's bottom edge.
 const DECOR_POSITIONS = [
-  { x: 50, y: 20 },
-  { x: 39, y: 28 }, { x: 61, y: 28 },
-  { x: 40, y: 42 }, { x: 60, y: 42 },
-  { x: 50, y: 49 },
-  { x: 37, y: 63 }, { x: 63, y: 63 },
-  { x: 50, y: 67 },
-  { x: 26, y: 76 }, { x: 50, y: 78 }, { x: 74, y: 76 },
+  { x: 50, y: 17 },
+  { x: 41, y: 27 }, { x: 59, y: 27 },
+  { x: 35, y: 49 }, { x: 65, y: 49 },
+  { x: 50, y: 52 },
+  { x: 30, y: 72 }, { x: 43, y: 73 }, { x: 57, y: 73 }, { x: 70, y: 72 },
 ];
 
 const ORNAMENT_COLORS = [
