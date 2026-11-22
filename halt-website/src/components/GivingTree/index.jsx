@@ -82,8 +82,8 @@ const WISHES = [
   {
     name: 'Honey Magnolia',
     img: '/img/giving-tree/honey-magnolia.jpg',
-    item: 'Market Basket garbage bags',
-    line: 'Honey Magnolia would like garbage bags, because a herd this loved makes a heroic amount of trash. The Market Basket brand ones are the best, honestly.',
+    item: 'Garbage bags',
+    line: 'Honey Magnolia would like garbage bags, because a herd this loved makes a heroic amount of trash.',
     price: 'About $10',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
@@ -91,8 +91,8 @@ const WISHES = [
   {
     name: 'Jersey',
     img: '/img/giving-tree/jersey.jpg',
-    item: 'A hidey house that is easy to sanitize',
-    line: 'Jersey would like a hidey house of his own, somewhere cozy to be brave in private.',
+    item: 'A hidey house',
+    line: 'Jersey would like a hidey house of his own, to be brave in private.',
     price: 'About $15',
     link: 'https://link.amazon/B07FJubYF',
     linkLabel: 'Send this hidey',
@@ -110,7 +110,7 @@ const WISHES = [
     name: 'Thora',
     img: '/img/giving-tree/thora.jpg',
     item: 'Paper towels',
-    line: 'Thora would like paper towels, because she and Mushroom take their dinner bowl very seriously.',
+    line: 'Thora would like paper towels, for wiping down cages and keeping every little space clean.',
     price: 'About $15',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
@@ -118,26 +118,53 @@ const WISHES = [
   {
     name: 'Autumn',
     img: '/img/giving-tree/autumn.jpg',
+    item: 'A plush cuddle cup bed',
+    line: 'Autumn would like a soft cuddle cup bed, just her size for serious naps.',
+    price: 'About $14',
+    link: 'https://www.chewy.com/kaytee-cuddle-e-cup-plush-small/dp/129035',
+    linkLabel: 'Send this bed',
+  },
+  {
+    name: 'Harold',
+    img: '/img/giving-tree/harold.jpg',
+    item: 'A garden dig box',
+    line: 'Harold would like a garden dig box, for digging, foraging, and having opinions about the soil. Do not wake him up to give it to him.',
+    price: 'About $19',
+    link: 'https://www.chewy.com/oxbow-animal-health-enriched-life/dp/531966',
+    linkLabel: 'Send this dig box',
+  },
+  {
+    name: 'Harold',
+    img: '/img/giving-tree/harold.jpg',
+    item: 'A fiddle sticks hideout',
+    line: 'Harold would like a fiddle sticks hideout, a bendy little bridge to climb over, hide under, and chew on.',
+    price: 'About $7',
+    link: 'https://www.chewy.com/kaytee-tropical-fiddle-sticks/dp/248462',
+    linkLabel: 'Send this hideout',
+  },
+  {
+    name: 'Harold',
+    img: '/img/giving-tree/harold.jpg',
+    item: 'Knot nibbler chew toys',
+    line: 'Harold would like knot nibbler chews, something satisfying to gnaw on between naps.',
+    price: 'About $7',
+    link: 'https://www.chewy.com/kaytee-knot-nibbler-small-animal-chew/dp/129031',
+    linkLabel: 'Send these chews',
+  },
+  {
+    name: 'Harold',
+    img: '/img/giving-tree/harold.jpg',
     item: 'Paper bedding',
-    line: 'Autumn would like fresh paper bedding, so a growing girl always has a soft place to land.',
+    line: 'Harold would like fresh paper bedding, so a grumpy old man always has a soft place to land.',
     price: 'About $25',
     link: 'https://link.amazon/B0auxZUJz',
     linkLabel: 'Send this bedding',
   },
   {
-    name: 'Harold',
-    img: '/img/giving-tree/harold.jpg',
-    item: 'Hamster enrichment toys',
-    line: 'Harold would like new things to climb, chew, and judge from a distance. Do not wake him up to give them to him.',
-    price: 'About $20',
-    link: 'https://link.amazon/B096UDLt6',
-    linkLabel: 'Send hamster fun',
-  },
-  {
     name: 'Ilya',
     img: '/img/giving-tree/ilya.jpg',
     item: 'A Kaytee crinkle tunnel',
-    line: 'Ilya would like a crinkle tunnel, because the rats go just as bonkers for them as the piggies do.',
+    line: 'Ilya would like a crinkle tunnel of his own, perfect for zooming through, hiding in, and crinkling at top volume.',
     price: 'About $13',
     link: 'https://www.chewy.com/kaytee-crinkle-tunnel-oversized/dp/129044',
     linkLabel: 'Send this tunnel',
@@ -145,17 +172,17 @@ const WISHES = [
   {
     name: 'Quill',
     img: '/img/giving-tree/quill.jpg',
-    item: 'A big rainbow chew block kabob',
-    line: 'Quill would like a SunGrow rainbow chew block kabob to gnaw on, the kind that lasts the whole wonky old man crew a good long while.',
-    price: 'About $10',
-    link: 'https://www.chewy.com/sungrow-rainbow-foraging-chew-blocks/dp/359520',
-    linkLabel: 'Send this chew',
+    item: 'A dangly toy party pack',
+    line: 'Quill would like the Oxbow dangly party pack, new toys to bat around and chew on.',
+    price: 'About $19',
+    link: 'https://www.chewy.com/oxbow-enriched-life-natural-dangly/dp/782318',
+    linkLabel: 'Send these toys',
   },
   {
     name: 'Grimoire',
     img: '/img/giving-tree/grimoire.jpg',
     item: 'Arm & Hammer Deep Clean laundry detergent',
-    line: 'Grimoire would like laundry detergent, the Arm & Hammer Deep Clean, to keep his blankets clean and smelling nice. It is the favorite around here.',
+    line: 'Grimoire would like laundry detergent, the Arm & Hammer Deep Clean, to keep his blankets clean and smelling nice.',
     price: 'About $9',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
@@ -172,9 +199,18 @@ const WISHES = [
   {
     name: 'Paris',
     img: '/img/giving-tree/paris.jpg',
-    item: 'Nitrile gloves and face masks for cleaning',
-    line: 'Paris would like the black FRAMAR nitrile gloves and the purple FENFEN masks for the humans, so cleaning day stays safe and sneeze free.',
-    price: 'About $16 each',
+    item: 'Nitrile gloves for chopping veggies',
+    line: 'Paris would like the black FRAMAR nitrile gloves for the humans. They are for chopping veggies, because Danni at sanctuary headquarters is allergic to them, so the gloves keep her hands safe.',
+    price: 'About $16',
+    link: AMAZON_WISHLIST,
+    linkLabel: 'Send it from our wishlist',
+  },
+  {
+    name: 'Paris',
+    img: '/img/giving-tree/paris.jpg',
+    item: 'Face masks for cleaning',
+    line: 'Paris would like the purple FENFEN face masks for the humans, so cleaning day stays safe and sneeze free.',
+    price: 'About $16',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
   },
@@ -206,19 +242,19 @@ const WISHES = [
     linkLabel: 'Send these treats',
   },
   {
-    name: 'Monarch',
-    img: '/img/giving-tree/monarch.jpg',
-    item: 'A plush cuddle cup bed',
-    line: 'Monarch would like a soft new bed, ideally one that is very good for hiding in.',
-    price: 'About $14',
-    link: 'https://www.chewy.com/kaytee-cuddle-e-cup-plush-small/dp/129035',
+    name: 'Sinatra',
+    img: '/img/giving-tree/sinatra.jpg',
+    item: 'A soft sleeper bed',
+    line: 'Sinatra would like a new sleeper bed, because a freshly made bed is his favorite place to do things his way.',
+    price: 'About $19',
+    link: 'https://www.chewy.com/ware-safari-small-animal-sleeper-bed/dp/181279',
     linkLabel: 'Send this bed',
   },
   {
     name: 'Hero',
     img: '/img/giving-tree/hero.jpg',
     item: 'A bedside bassinet for round the clock feedings',
-    line: 'Hero would like a bedside bassinet. When he needed feeding around the clock, he slept in a blanket next to the bed all night, which meant the occasional rude pee awakening. This keeps the next tiny patient safe, close, and right there for every feeding.',
+    line: "Hero's life was made possible by round the clock feedings, curled up in a blanket next to the bed so he was right there for every one. In his honor, the team would like a bedside bassinet, so the next tiny patient can stay just as safe and close.",
     price: 'About $60',
     link: 'https://www.amazon.com/JinxZap-Bedside-Adjustable-Height-Small/dp/B0GLP4L66C',
     linkLabel: 'Send the bassinet',
@@ -236,7 +272,7 @@ const WISHES = [
     name: 'Owen',
     img: '/img/giving-tree/owen.jpg',
     item: 'A dangly toy',
-    line: 'Owen would like a dangly toy, the chinchilla safe kind, to bat around and chew on.',
+    line: 'Owen would like a dangly toy to bat around and chew on.',
     price: 'About $9',
     link: 'https://www.chewy.com/bird-life-parakeet-small-bird-combo/dp/370545',
     linkLabel: 'Send this toy',
@@ -244,17 +280,17 @@ const WISHES = [
   {
     name: 'April',
     img: '/img/giving-tree/april.jpg',
-    item: 'A dangly toy party pack',
-    line: 'April would like the Oxbow dangly party pack, new toys to bat around and show off with.',
-    price: 'About $19',
-    link: 'https://www.chewy.com/oxbow-enriched-life-natural-dangly/dp/782318',
-    linkLabel: 'Send these toys',
+    item: 'A big rainbow chew block kabob',
+    line: 'April would like a SunGrow rainbow chew block kabob to gnaw on, made just right for chinchilla teeth.',
+    price: 'About $10',
+    link: 'https://www.chewy.com/sungrow-rainbow-foraging-chew-blocks/dp/359520',
+    linkLabel: 'Send this chew',
   },
   {
     name: 'Sawyer',
     img: '/img/giving-tree/sawyer.jpg',
     item: 'Fleece pee pads',
-    line: 'Sawyer would like fleece pee pads, soft and washable, for his favorite napping spots.',
+    line: 'Sawyer would like fleece pee pads, soft and washable, for his favorite napping spot.',
     price: 'About $15',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
@@ -263,7 +299,7 @@ const WISHES = [
     name: 'Sunshine',
     img: '/img/giving-tree/sunshine.jpg',
     item: 'Wet food for the sanctuary cats',
-    line: 'Sunshine would like wet food for the sanctuary cats, the good stuff from our endorsed list.',
+    line: 'Sunshine would like her favorite wet foods, the good stuff that is safe for all her sanctuary buddies too.',
     price: 'About $20',
     link: 'https://creator.anchor.store/a/djHH3CAm04',
     linkLabel: 'Send this food',
@@ -352,6 +388,10 @@ function buildDeck() {
 export default function GivingTree() {
   const [open, setOpen] = useState(false);
   const [wish, setWish] = useState(null);
+  // The wish this visitor was shown first. Wish numbers on the ticket
+  // are counted from here, so the first wish anyone sees is always
+  // "Wish 1" for them, whatever order their deck is in.
+  const [start, setStart] = useState(0);
   const [deck, setDeck] = useState(WISHES);
   const [pinned, setPinned] = useState([]);
   const { pathname } = useLocation();
@@ -382,11 +422,25 @@ export default function GivingTree() {
     setWish(null);
   }, []);
 
+  const openWish = useCallback(
+    (i) => {
+      setWish((cur) => {
+        if (cur === null) {
+          setStart(i);
+        }
+        return i;
+      });
+    },
+    []
+  );
+
   const step = useCallback(
     (dir) => {
       setWish((cur) => {
         if (cur === null) {
-          return dir > 0 ? 0 : deck.length - 1;
+          const first = dir > 0 ? 0 : deck.length - 1;
+          setStart(first);
+          return first;
         }
         return (cur + dir + deck.length) % deck.length;
       });
@@ -449,9 +503,9 @@ export default function GivingTree() {
               <>
                 <h2 className={styles.title}>🎄 The Giving Tree 🎄</h2>
                 <p className={styles.intro}>
-                  Tap an ornament to reveal a wish from one of our residents, and what they would love this holiday.
+                  Tap an ornament to reveal a wish from one of our residents.
                 </p>
-                <div className={styles.treeWrap} onClick={() => setWish(0)}>
+                <div className={styles.treeWrap} onClick={() => openWish(0)}>
                   <TreeSvg />
                   {DECOR_POSITIONS.map((pos, i) => (
                     <button
@@ -464,7 +518,7 @@ export default function GivingTree() {
                       }}
                       onClick={(e) => {
                         e.stopPropagation();
-                        setWish(i % deck.length);
+                        openWish(i % deck.length);
                       }}
                       aria-label="Reveal a wish"
                     >
@@ -552,7 +606,7 @@ export default function GivingTree() {
                   </button>
                 </div>
                 <div className={styles.wishCount}>
-                  Wish {wish + 1} of {deck.length}
+                  Wish {((wish - start + deck.length) % deck.length) + 1} of {deck.length}
                 </div>
               </div>
             )}
