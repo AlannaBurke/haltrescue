@@ -113,6 +113,19 @@ export default function AffiliateProducts() {
               instead: Chewy sends us $20 for your first order, at no
               extra cost to you.
             </p>
+            <p>
+              Shopping somewhere else entirely? Join{' '}
+              <a
+                href="https://www.iGive.com/HelpingAllLittleThings"
+                target="_blank"
+                rel="noopener noreferrer">
+                iGive
+              </a>
+              , choose Helping All Little Things as your cause, and
+              shop at more than 2,000 stores the way you normally
+              would. A percentage of what you spend comes back to the
+              rescue, at no extra cost to you.
+            </p>
           </div>
 
           <div className={shopStyles.filters}>
