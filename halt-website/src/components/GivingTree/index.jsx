@@ -206,10 +206,10 @@ const WISHES = [
     linkLabel: 'Send it from our wishlist',
   },
   {
-    name: 'Paris',
-    img: '/img/giving-tree/paris.jpg',
+    name: 'Miles',
+    img: '/img/giving-tree/miles.jpg',
     item: 'Face masks for cleaning',
-    line: 'Paris would like the purple FENFEN face masks for the humans, so cleaning day stays safe and sneeze free.',
+    line: 'Miles would like the purple FENFEN face masks for the humans, so cleaning day stays safe and sneeze free.',
     price: 'About $16',
     link: AMAZON_WISHLIST,
     linkLabel: 'Send it from our wishlist',
