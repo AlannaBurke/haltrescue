@@ -260,10 +260,10 @@ const WISHES = [
     linkLabel: 'Send the bassinet',
   },
   {
-    name: 'Villain',
-    img: '/img/giving-tree/villain.jpg',
+    name: 'Juliet',
+    img: '/img/giving-tree/juliet.jpg',
     item: 'An Oxbow play table',
-    line: 'Villain would like an Oxbow play table to climb on and play under. Despite the name, he is the sweetest boy, full of kisses.',
+    line: 'Juliet would like an Oxbow play table, for nibbling on, hiding under, and supervising the room from.',
     price: 'About $22',
     link: 'https://www.chewy.com/oxbow-play-table-small-animal-toy/dp/226841',
     linkLabel: 'Send this play table',
