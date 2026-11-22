@@ -207,10 +207,30 @@ function TreeSvg({ mini }) {
   );
 }
 
+function shuffledWishes() {
+  const deck = WISHES.slice();
+  for (let i = deck.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const tmp = deck[i];
+    deck[i] = deck[j];
+    deck[j] = tmp;
+  }
+  return deck;
+}
+
 export default function GivingTree() {
   const [open, setOpen] = useState(false);
   const [wish, setWish] = useState(null);
+  // The wishes are shuffled every time the tree opens, so no wish
+  // always sits at the front of the click through order.
+  const [deck, setDeck] = useState(WISHES);
   const { pathname } = useLocation();
+
+  const openTree = () => {
+    setDeck(shuffledWishes());
+    setWish(null);
+    setOpen(true);
+  };
 
   const close = useCallback(() => {
     setOpen(false);
@@ -221,12 +241,12 @@ export default function GivingTree() {
     (dir) => {
       setWish((cur) => {
         if (cur === null) {
-          return dir > 0 ? 0 : WISHES.length - 1;
+          return dir > 0 ? 0 : deck.length - 1;
         }
-        return (cur + dir + WISHES.length) % WISHES.length;
+        return (cur + dir + deck.length) % deck.length;
       });
     },
-    []
+    [deck]
   );
 
   useEffect(() => {
@@ -254,14 +274,14 @@ export default function GivingTree() {
     return null;
   }
 
-  const current = wish === null ? null : WISHES[wish];
+  const current = wish === null ? null : deck[wish];
 
   return (
     <>
       <button
         type="button"
         className={styles.treeButton}
-        onClick={() => setOpen(true)}
+        onClick={openTree}
         aria-label="Open the Giving Tree and see what our animals are wishing for"
       >
         <TreeSvg mini />
@@ -290,7 +310,7 @@ export default function GivingTree() {
                 </p>
                 <div className={styles.treeWrap} onClick={() => setWish(0)}>
                   <TreeSvg />
-                  {WISHES.map((w, i) => (
+                  {deck.map((w, i) => (
                     <button
                       key={w.name + w.item}
                       type="button"
@@ -346,7 +366,7 @@ export default function GivingTree() {
                   </button>
                 </div>
                 <div className={styles.wishCount}>
-                  Wish {wish + 1} of {WISHES.length}
+                  Wish {wish + 1} of {deck.length}
                 </div>
               </div>
             )}
