@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 // The Giving Tree: a little Christmas tree that lives in the bottom
 // right corner of every page. Clicking it opens a big tree in the
-// middle of the screen. Every ornament on the tree is one resident's
-// holiday wish. Clicking an ornament (or the tree itself) opens that
+// middle of the screen. The tree carries a set of decorative
+// ornaments; clicking an ornament (or the tree itself) reveals a
 // wish as a simple ticket: the critter's photo, what they are wishing
 // for, a one line reason, the price, and a link to send the gift
 // digitally so it comes straight to the rescue. The < and > buttons
@@ -270,16 +270,19 @@ const WISHES = [
   },
 ];
 
-// Where each ornament hangs on the big tree, as % of the tree area.
-const ORNAMENT_POSITIONS = [
-  { x: 50, y: 14 },
-  { x: 33, y: 24 }, { x: 67, y: 24 },
-  { x: 20, y: 35 }, { x: 50, y: 35 }, { x: 80, y: 35 },
-  { x: 12, y: 46 }, { x: 37, y: 46 }, { x: 62, y: 46 }, { x: 87, y: 46 },
-  { x: 12, y: 57 }, { x: 37, y: 57 }, { x: 62, y: 57 }, { x: 87, y: 57 },
-  { x: 20, y: 68 }, { x: 50, y: 68 }, { x: 80, y: 68 },
-  { x: 20, y: 79 }, { x: 50, y: 79 }, { x: 80, y: 79 },
-  { x: 37, y: 89 }, { x: 63, y: 89 },
+// Decorative ornaments on the big tree, as % of the tree area. There
+// are deliberately fewer of these than there are wishes: they are
+// decoration that sits ON the foliage (positions follow the tree's
+// triangular shape), and each one reveals a wish when tapped. The
+// arrows on a wish ticket flip through all of the wishes.
+const DECOR_POSITIONS = [
+  { x: 50, y: 20 },
+  { x: 39, y: 28 }, { x: 61, y: 28 },
+  { x: 40, y: 42 }, { x: 60, y: 42 },
+  { x: 50, y: 49 },
+  { x: 37, y: 63 }, { x: 63, y: 63 },
+  { x: 50, y: 67 },
+  { x: 26, y: 76 }, { x: 50, y: 78 }, { x: 74, y: 76 },
 ];
 
 const ORNAMENT_COLORS = [
@@ -444,26 +447,24 @@ export default function GivingTree() {
               <>
                 <h2 className={styles.title}>🎄 The Giving Tree 🎄</h2>
                 <p className={styles.intro}>
-                  Every ornament is a wish from one of our residents. Tap an ornament to see who is wishing, and what
-                  they would love this holiday.
+                  Tap an ornament to reveal a wish from one of our residents, and what they would love this holiday.
                 </p>
                 <div className={styles.treeWrap} onClick={() => setWish(0)}>
                   <TreeSvg />
-                  {deck.map((w, i) => (
+                  {DECOR_POSITIONS.map((pos, i) => (
                     <button
-                      key={w.name + w.item}
+                      key={i}
                       type="button"
                       className={styles.ornament}
                       style={{
-                        left: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].x}%`,
-                        top: `${ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].y}%`,
-                        zIndex: 100 - ORNAMENT_POSITIONS[i % ORNAMENT_POSITIONS.length].y,
+                        left: `${pos.x}%`,
+                        top: `${pos.y}%`,
                       }}
                       onClick={(e) => {
                         e.stopPropagation();
-                        setWish(i);
+                        setWish(i % deck.length);
                       }}
-                      aria-label={`Wish from ${w.name}: ${w.item}`}
+                      aria-label="Reveal a wish"
                     >
                       <span className={styles.bauble} style={{ animationDelay: `${(i % 6) * 0.35}s` }}>
                         <span className={styles.baubleCap} />
@@ -476,7 +477,6 @@ export default function GivingTree() {
                     </button>
                   ))}
                 </div>
-                <p className={styles.hint}>Psst, you can also just tap the tree.</p>
                 {pinned.length > 0 && (
                   <div className={styles.pinnedBox}>
                     <div className={styles.pinnedTitle}>📌 Your pinned wishes</div>
