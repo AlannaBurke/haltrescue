@@ -562,33 +562,14 @@ export default function GivingTree() {
 
   return (
     <>
-      <div className={styles.treeDock}>
-        <button
-          type="button"
-          className={styles.treeButton}
-          onClick={openTree}
-          aria-label="Open the Giving Tree and see what our animals are wishing for"
-        >
-          <TreeSvg mini />
-        </button>
-        <button
-          type="button"
-          className={styles.cornerShare}
-          onClick={shareTree}
-          aria-label="Share the Giving Tree"
-          title="Share the Giving Tree"
-        >
-          {shared ? (
-            '✓'
-          ) : (
-            <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="#ffffff" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-              <path d="M12 15V4" />
-              <path d="M7 8l5-5 5 5" />
-              <path d="M5 13v6a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-6" />
-            </svg>
-          )}
-        </button>
-      </div>
+      <button
+        type="button"
+        className={styles.treeButton}
+        onClick={openTree}
+        aria-label="Open the Giving Tree and see what our animals are wishing for"
+      >
+        <TreeSvg mini />
+      </button>
 
       {open && (
         <div className={styles.backdrop} onClick={close} role="presentation">
