@@ -436,9 +436,15 @@ function buildDeck() {
   return spreadSpecies(deck);
 }
 
+// The shareable link for the tree. The tree lives on every page, and
+// opening any page with this hash pops the tree open on arrival, so a
+// shared link lands people right on the tree.
+const SHARE_URL = 'https://helpingalllittlethings.org/#giving-tree';
+
 export default function GivingTree() {
   const [open, setOpen] = useState(false);
   const [wish, setWish] = useState(null);
+  const [shared, setShared] = useState(false);
   // The wish this visitor was shown first. Wish numbers on the ticket
   // are counted from here, so the first wish anyone sees is always
   // "Wish 1" for them, whatever order their deck is in.
@@ -452,7 +458,35 @@ export default function GivingTree() {
     const personal = buildDeck();
     setDeck(personal);
     writeStoredOrder(personal.map(wishKey));
+    // Arriving from a shared link (#giving-tree) opens the tree.
+    if (window.location.hash === '#giving-tree') {
+      setOpen(true);
+    }
   }, []);
+
+  const shareTree = async () => {
+    const shareData = {
+      title: 'The Giving Tree | Helping All Little Things',
+      text: 'Our rescue critters have a Giving Tree! Pick a wish and help make their holidays brighter.',
+      url: SHARE_URL,
+    };
+    if (navigator.share) {
+      try {
+        await navigator.share(shareData);
+      } catch (e) {
+        // The visitor closed the share sheet; nothing to do.
+      }
+      return;
+    }
+    try {
+      await navigator.clipboard.writeText(SHARE_URL);
+      setShared(true);
+      window.setTimeout(() => setShared(false), 3000);
+    } catch (e) {
+      // Clipboard blocked; the address bar still has the link.
+      setShared(false);
+    }
+  };
 
   const togglePin = (w) => {
     const key = wishKey(w);
@@ -583,6 +617,11 @@ export default function GivingTree() {
                       </span>
                     </button>
                   ))}
+                </div>
+                <div className={styles.shareWrap}>
+                  <button type="button" className={styles.shareButton} onClick={shareTree}>
+                    {shared ? '✅ Link copied!' : '🔗 Share this tree'}
+                  </button>
                 </div>
                 {pinned.length > 0 && (
                   <div className={styles.pinnedBox}>
