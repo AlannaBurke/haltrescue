@@ -9,7 +9,7 @@ import styles from './meter-hq.module.css';
 // polls that mailbox and adds new entries to the stream's donation bar.
 const ENDPOINT_URL = 'https://script.google.com/macros/s/AKfycbwCFQNw3MKH8u2UIEzFT_6J7AY_lwrvhhbnvQVOPhesKvaXxFa-bhBFRkjpp02H0mkC/exec';
 
-const CHANNELS = ['Givebutter', 'PayPal', 'Venmo', 'Cash App', 'Facebook', 'Check', 'Cash', 'Other'];
+const CHANNELS = ['PayPal', 'Venmo', 'Cash App', 'Facebook', 'Check', 'Cash', 'Other'];
 const STORE_KEY = 'meterHqSentV1';
 
 export default function MeterHq() {
@@ -70,8 +70,8 @@ export default function MeterHq() {
           <h1>Donation Meter: Remote Entry</h1>
           <p>
             Add a gift here and it lands on the stream's donation bar within
-            about 15 seconds, wherever you are. PayPal adds itself, so this
-            page is for everything else.
+            about 15 seconds, wherever you are. PayPal and Givebutter add
+            themselves, so this page is for everything else.
           </p>
 
           <form onSubmit={handleSubmit} className={styles.form}>
