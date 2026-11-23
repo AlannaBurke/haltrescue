@@ -82,7 +82,7 @@ Preventing heat stroke is far easier than treating it:
 Freeze a ceramic tile or a small water bottle wrapped in a cloth and place it in the enclosure during hot weather. Chinchillas will naturally seek out cool surfaces to regulate their temperature.
 :::
 
-> For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/getting-started/chinchilla-habitat).
+> For more information on setting up a safe chinchilla environment, see our article on [The Ideal Chinchilla Habitat](/docs/Chinchillas/care-and-husbandry/habitat).
 
 
 ## References

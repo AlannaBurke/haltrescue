@@ -33,5 +33,5 @@ Despite the name, Villain is just the sweetest boy, full of kisses. Hero and Vil
 
 :::tip Guinea Pig Bonding
 Guinea pigs are highly social animals and should not live alone. When introducing new companions, especially adult males, a neutral territory introduction is essential. If you're bonding guinea pigs for the first time, our care guide has tips on safe introductions.
-[Read our Guinea Pig Care Guide →](/docs/guinea-pigs/getting-started/guinea-pig-care-guide)
+[Read our Guinea Pig Care Guide →](/docs/guinea-pigs/getting-started/guineapigcare)
 :::

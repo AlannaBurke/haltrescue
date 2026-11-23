@@ -15,7 +15,7 @@ const FeatureList = [
         and the Northeast — so distance is rarely a barrier to adoption!
       </>
     ),
-    linkHref: 'https://bit.ly/halt-adoption',
+    linkHref: 'https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform',
     linkLabel: 'Apply to Adopt or Foster',
   },
   {

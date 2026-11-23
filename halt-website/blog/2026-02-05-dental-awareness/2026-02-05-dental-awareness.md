@@ -45,7 +45,7 @@ We see this sentiment in guinea pig groups far too often, and we want to address
 Veterinary science has come leaps and bounds for exotic animals. There are now vets who specialize in small mammals and have the equipment and training to catch dental issues, heart conditions, respiratory problems, and more — long before they become emergencies. Waiting until your guinea pig is visibly sick often means waiting until they are critically ill.
 
 :::tip Our Dental Resources
-We have detailed guides on dental health for guinea pigs. Check out our [guinea pig dental disease guide](/docs/guinea-pigs/health-and-wellness/dental-disease) and [dental health overview](/docs/guinea-pigs/health-and-wellness/dental-health) for everything you need to know about keeping your pig's teeth healthy.
+We have detailed guides on dental health for guinea pigs. Check out our [guinea pig dental disease guide](/docs/guinea-pigs/health-and-wellness/dental-health) and [dental health overview](/docs/guinea-pigs/health-and-wellness/dental-health) for everything you need to know about keeping your pig's teeth healthy.
 :::
 
 Don't wait until it's too late. Schedule that wellness exam. 💛

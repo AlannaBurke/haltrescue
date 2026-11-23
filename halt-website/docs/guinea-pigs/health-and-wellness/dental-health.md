@@ -79,7 +79,7 @@ By providing a diet that promotes natural chewing behavior, you are taking the m
 
 ## Real-World Case Study
 
-**[Toothless: Broken Incisor and Jaw Abscess](/docs/case-studies/toothless-dental-surgery)**
+**[Toothless: Broken Incisor and Jaw Abscess](/case-studies/toothless-dental-surgery)**
 
 Read how HALT Rescue's Toothless had a broken incisor that penetrated his jaw, creating an abscess — and how Dr. Dana treated it successfully.
 

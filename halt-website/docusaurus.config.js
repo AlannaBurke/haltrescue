@@ -185,8 +185,8 @@ const config = {
           {
             title: 'Rescue',
             items: [
-              {label: 'Adoption/Foster Application', href: 'https://bit.ly/halt-adoption'},
-              {label: 'Surrender a Pet', href: 'https://bit.ly/halt-surrender'},
+              {label: 'Adoption/Foster Application', href: 'https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform'},
+              {label: 'Surrender a Pet', href: 'https://docs.google.com/forms/d/e/1FAIpQLSf3rMvC-Yy9DDmtaQryik6QsGgxmiCRFgo0UN4HoQtUQY6y1g/viewform'},
               {label: 'Adoptable Animals', to: '/adoptables'},
               {label: 'Petfinder', href: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/'},
               {label: 'Success Stories', to: '/success-stories'},
@@ -211,7 +211,7 @@ const config = {
               {label: 'PayPal', href: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452'},
               {label: 'Venmo', href: 'https://account.venmo.com/u/haltrescue'},
               {label: 'CashApp', href: 'https://cash.app/$Haltrescue'},
-              {label: 'Amazon Wish List', href: 'https://bit.ly/halt-piggies'},
+              {label: 'Amazon Wish List', href: 'https://www.amazon.com/registry/wishlist/2HEWPDNQ8T6KV/ref=cm_sw_r_cp_ep_ws_5RBgAb8X4S6SZ'},
               {label: 'Chewy Wish List', href: 'https://www.chewy.com/g/helping-all-little-things_b129784992'},
               {label: 'Gift Card for Veggies', href: 'https://giftcards.shopmarketbasket.com/products/mb-gift-card-fresh-produce'},
               {label: 'Patreon', href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue'},

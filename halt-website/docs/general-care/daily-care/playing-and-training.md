@@ -81,7 +81,7 @@ Empty cardboard boxes, paper towel rolls, and tissue paper are among the best an
 Providing multiple tunnels and hideouts gives small pets a sense of security and encourages exploration. Rotate them regularly to keep the environment novel.
 
 **Safe Chew Items:**
-Chewing is a natural and necessary behavior for all small mammals. Provide species-appropriate chew items such as untreated wooden blocks, willow balls, apple branches, or commercially available chew toys. This also helps maintain dental health. See our [Dental Health](/docs/general-care/health-and-medical/dental-health) article for more information.
+Chewing is a natural and necessary behavior for all small mammals. Provide species-appropriate chew items such as untreated wooden blocks, willow balls, apple branches, or commercially available chew toys. This also helps maintain dental health. See our [Dental Health](/docs/guinea-pigs/health-and-wellness/dental-health) article for more information.
 
 ---
 

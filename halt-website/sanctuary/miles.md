@@ -35,4 +35,4 @@ Miles receives medication and supportive care to keep him comfortable. His enclo
 
 Satin syndrome is an important topic for anyone considering a satin-coated guinea pig:
 
-👉 [Satin Syndrome / Osteodystrophy in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/osteodystrophy-satin-syndrome)
+👉 [Satin Syndrome / Osteodystrophy in Guinea Pigs](/docs/guinea-pigs/breeds-and-genetics/satinsyndrome)

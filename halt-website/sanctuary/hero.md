@@ -34,4 +34,4 @@ As a lethal white, Hero's teeth and overall health are monitored closely by **Dr
 
 ## Learn More
 
-👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-disease)
+👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-health)

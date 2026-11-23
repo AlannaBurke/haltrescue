@@ -7,7 +7,7 @@ description: "In April 2026, HALT Rescue's Toothless had emergency dental surger
 
 # Case Study: Toothless — Broken Incisor and Jaw Abscess
 
-**Animal:** [Toothless](/docs/sanctuary/toothless) (guinea pig, sanctuary resident)  
+**Animal:** [Toothless](/sanctuary/toothless) (guinea pig, sanctuary resident)  
 **Date:** April 15, 2026  
 **Veterinarian:** Dr. Dana  
 **Outcome:** Full recovery expected
@@ -91,5 +91,5 @@ Dental disease in guinea pigs can progress quickly. Early intervention significa
 
 ## Related Resources
 
-- 👉 [Toothless's Sanctuary Profile](/docs/sanctuary/toothless)
-- 👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-disease)
+- 👉 [Toothless's Sanctuary Profile](/sanctuary/toothless)
+- 👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-health)

@@ -188,6 +188,21 @@ function CartPaypalButtons({lines, promoRef, onFailure}) {
                 paypalCaptureId ? `paypal-${paypalCaptureId}` : undefined,
               );
               try {
+                if (typeof window !== 'undefined' && window.gtag) {
+                  window.gtag('event', 'purchase', {
+                    transaction_id: paypalCaptureId || data.orderID,
+                    value: chargedTotal,
+                    currency: 'USD',
+                    items: purchasedLines.map((line) => ({
+                      item_id: line.product.id,
+                      item_name: line.product.name,
+                      price: line.product.price,
+                      quantity: line.qty,
+                    })),
+                  });
+                }
+              } catch (e) {}
+              try {
                 window.localStorage.removeItem(CART_KEY);
               } catch (e) {}
               window.location.href = `${SITE_URL}/order-thank-you`;

@@ -31,4 +31,4 @@ Apple's case is a reminder of why HALT strongly discourages purchasing satin-coa
 
 ## Learn More
 
-👉 [Satin Syndrome / Osteodystrophy in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/osteodystrophy-satin-syndrome)
+👉 [Satin Syndrome / Osteodystrophy in Guinea Pigs](/docs/guinea-pigs/breeds-and-genetics/satinsyndrome)

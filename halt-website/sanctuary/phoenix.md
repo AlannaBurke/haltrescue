@@ -38,4 +38,4 @@ His care team is cautiously optimistic. Phoenix continues to gain weight and is 
 
 ## Learn More
 
-👉 [Common Health Issues in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/common-health-issues)
+👉 [Common Health Issues in Guinea Pigs](/docs/guinea-pigs/illnesses-and-conditions/common-health-issues)

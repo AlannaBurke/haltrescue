@@ -21,7 +21,7 @@ function HomepageHeader() {
         <div className="halt-hero-buttons">
           <Link
             className="button button--primary"
-            to="https://bit.ly/halt-adoption"
+            to="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform"
             aria-label="Apply to adopt or foster a small animal">
             🐾 Adopt or Foster
           </Link>

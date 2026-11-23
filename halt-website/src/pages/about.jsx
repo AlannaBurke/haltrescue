@@ -49,7 +49,7 @@ const FAQS = [
   },
   {
     q: 'Do you take owner surrenders?',
-    a: <span>Yes, for most species. Please note that we are currently <strong>not accepting rabbit surrenders</strong> due to capacity — we are at capacity for this species at this time. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://bit.ly/halt-surrender">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue. We never judge — we just want what's best for the animal.</span>,
+    a: <span>Yes, for most species. Please note that we are currently <strong>not accepting rabbit surrenders</strong> due to capacity — we are at capacity for this species at this time. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf3rMvC-Yy9DDmtaQryik6QsGgxmiCRFgo0UN4HoQtUQY6y1g/viewform">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue. We never judge — we just want what's best for the animal.</span>,
   },
   {
     q: 'Do you take in animals from other rescues or shelters?',
@@ -65,7 +65,7 @@ const FAQS = [
   },
   {
     q: 'Are you a 501(c)(3)?',
-    a: 'Yes! Helping All Little Things is a federally recognized 501(c)(3) nonprofit organization. All donations are tax-deductible to the extent permitted by law. If you need our EIN for donation records or employer matching programs, please reach out and we\'ll be happy to provide it.',
+    a: 'Yes! Helping All Little Things is a federally recognized 501(c)(3) nonprofit organization. All donations are tax-deductible to the extent permitted by law. Our EIN is 99-4325677 — please feel free to use it for donation records or employer matching programs.',
   },
   {
     q: 'How is the rescue funded?',
@@ -166,7 +166,7 @@ export default function About() {
           <div className={styles.surrenderNotice}>
             <span className={styles.surrenderIcon}>⚠️</span>
             <div>
-              <strong>Surrender notice:</strong> We are currently <strong>not accepting rabbit surrenders</strong> due to capacity. We are at capacity for this species at this time. Please check back or reach out to inquire about future availability. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://bit.ly/halt-surrender">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue.
+              <strong>Surrender notice:</strong> We are currently <strong>not accepting rabbit surrenders</strong> due to capacity. We are at capacity for this species at this time. Please check back or reach out to inquire about future availability. Additionally, our current ability to take in any animals, especially those who are not emergent, is low, and our surrender wait list is long. If you need to surrender your animal, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf3rMvC-Yy9DDmtaQryik6QsGgxmiCRFgo0UN4HoQtUQY6y1g/viewform">fill out the form</a>, and also feel free to reach out to us for other possible options for rehoming or rescue.
             </div>
           </div>
 
@@ -292,9 +292,17 @@ export default function About() {
               <div>
                 <strong className={styles.contactLabel}>Email</strong>
                 <span className={styles.contactDetail}>info@helpingalllittlethings.org</span>
-                <span className={styles.contactNote}>For detailed inquiries, documentation, or EIN requests.</span>
+                <span className={styles.contactNote}>For detailed inquiries or documentation.</span>
               </div>
             </a>
+            <div className={styles.contactCard}>
+              <span className={styles.contactIcon}>📬</span>
+              <div>
+                <strong className={styles.contactLabel}>Mailing Address</strong>
+                <span className={styles.contactDetail}>Helping All Little Things, PO Box 11, Deerfield, NH 03037</span>
+                <span className={styles.contactNote}>Our EIN is 99-4325677, for donation records and employer matching.</span>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -306,7 +314,7 @@ export default function About() {
             real difference in the lives of these little animals.
           </p>
           <div className={styles.ctaButtons}>
-            <a href="https://bit.ly/halt-adoption" className={styles.ctaBtnPrimary}>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform" className={styles.ctaBtnPrimary}>
               🐾 Adopt or Foster
             </a>
             <a href="https://www.paypal.com/ncp/payment/8SJFNZQVMQ452" className={styles.ctaBtnSecondary}>

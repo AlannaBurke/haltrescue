@@ -83,7 +83,7 @@ export default function AdoptablesPage() {
           </p>
           <div className={styles.heroCtas}>
             <a
-              href="https://bit.ly/halt-adoption"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaPrimary}
@@ -91,7 +91,7 @@ export default function AdoptablesPage() {
               Apply to Adopt
             </a>
             <a
-              href="https://bit.ly/halt-adoption"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaSecondary}
@@ -179,7 +179,7 @@ export default function AdoptablesPage() {
           </div>
           <div className={styles.processCta}>
             <a
-              href="https://bit.ly/halt-adoption"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.ctaPrimary}
@@ -204,7 +204,7 @@ export default function AdoptablesPage() {
                 an animal on their journey to their forever home.
               </p>
               <a
-                href="https://bit.ly/halt-adoption"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.ctaSecondarySmall}

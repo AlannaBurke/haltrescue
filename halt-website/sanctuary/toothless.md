@@ -41,10 +41,10 @@ Toothless will require:
 
 Toothless's dental surgery is documented in detail in our case study. If you have a guinea pig with similar symptoms — drooling, weight loss, reluctance to eat, or a visible lump on the chin or jaw — please see a vet as soon as possible.
 
-👉 [Read the Case Study: Toothless — Broken Incisor and Jaw Abscess](/docs/case-studies/toothless-dental-surgery)
+👉 [Read the Case Study: Toothless — Broken Incisor and Jaw Abscess](/case-studies/toothless-dental-surgery)
 
 ## Learn More
 
 Dental disease is one of the most common serious health issues in guinea pigs. Learn about causes, signs, and treatment:
 
-👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-disease)
+👉 [Dental Disease in Guinea Pigs](/docs/guinea-pigs/health-and-wellness/dental-health)

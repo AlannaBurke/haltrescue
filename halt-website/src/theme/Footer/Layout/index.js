@@ -20,15 +20,15 @@ const DONATE_LINKS = [
   { label: 'PayPal',          href: 'https://www.paypal.com/ncp/payment/8SJFNZQVMQ452',                                  logo: '/img/logos/paypal.svg',   bg: '#003087' },
   { label: 'Venmo',           href: 'https://account.venmo.com/u/haltrescue',                                            logo: '/img/logos/venmo.svg',    bg: '#008CFF' },
   { label: 'CashApp',         href: 'https://cash.app/$Haltrescue',                                                       logo: '/img/logos/cashapp.svg',  bg: '#00D632' },
-  { label: 'Amazon Wish List',href: 'https://bit.ly/halt-piggies',                                                        logo: '/img/logos/amazon.svg',   bg: '#FF9900' },
+  { label: 'Amazon Wish List',href: 'https://www.amazon.com/registry/wishlist/2HEWPDNQ8T6KV/ref=cm_sw_r_cp_ep_ws_5RBgAb8X4S6SZ',                                                        logo: '/img/logos/amazon.svg',   bg: '#FF9900' },
   { label: 'Chewy Wish List', href: 'https://www.chewy.com/g/helping-all-little-things_b129784992',                      logo: '/img/logos/chewy.svg',    bg: '#0075C9' },
   { label: 'Patreon',         href: 'https://www.patreon.com/cw/helpingalllittlethingsrescue',                                   logo: '/img/logos/patreon.svg',  bg: '#FF424D' },
 ];
 
 // ─── Rescue links ─────────────────────────────────────────────────────────────
 const RESCUE_LINKS = [
-  { label: 'Adoption/Foster Application', href: 'https://bit.ly/halt-adoption' },
-  { label: 'Surrender a Pet',             href: 'https://bit.ly/halt-surrender' },
+  { label: 'Adoption/Foster Application', href: 'https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform' },
+  { label: 'Surrender a Pet',             href: 'https://docs.google.com/forms/d/e/1FAIpQLSf3rMvC-Yy9DDmtaQryik6QsGgxmiCRFgo0UN4HoQtUQY6y1g/viewform' },
   { label: 'Petfinder',                   href: 'https://www.petfinder.com/member/us/nh/deerfield/helping-all-little-pipsqueaks-nj654/' },
 ];
 
@@ -74,6 +74,7 @@ export default function FooterLayout({ style, links, logo, copyright }) {
             <span className={styles.brandName}>Helping All Little Things</span>
             <span className={styles.brandTagline}>Small animal rescue &amp; education · 501(c)(3) non-profit</span>
             <span className={styles.brandTagline}>Sanctuary in Deerfield, NH · Fosters in MA, NJ &amp; PA · Transport throughout New England &amp; the Northeast</span>
+            <span className={styles.brandTagline}>PO Box 11, Deerfield, NH 03037 · EIN 99-4325677</span>
           </div>
         </div>
 

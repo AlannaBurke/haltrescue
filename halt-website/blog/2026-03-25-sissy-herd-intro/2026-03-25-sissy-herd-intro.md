@@ -23,5 +23,5 @@ Red Sky, formerly known as Hot Cakes, was absolutely infatuated with Sissy from 
 
 :::tip Introducing Young Guinea Pigs to a Herd
 Young guinea pigs should be introduced to established herds gradually and with supervision. They need to be large enough that adult pigs cannot accidentally injure them during normal herd activity. Neutral territory introductions and short supervised visits are the safest approach before full integration.
-[Read our Guinea Pig Care Guide →](/docs/guinea-pigs/getting-started/guinea-pig-care-guide)
+[Read our Guinea Pig Care Guide →](/docs/guinea-pigs/getting-started/guineapigcare)
 :::

@@ -33,7 +33,7 @@ Degus need a large, solid-surface wheel — at least **25–28 cm (10–11 inche
 | **Dust bath** | Chinchilla dust bath 2–3 times per week |
 | **Social** | Time with bonded cage-mates — degus housed alone suffer significantly |
 
-> **Sugar warning:** Degus are extremely prone to diabetes. Never use sugary treats as rewards. Safe reward foods include small pieces of plain dried herb (dandelion, nettle), a single pumpkin seed, or a tiny piece of plain vegetable. See our [Nutrition](/docs/Degus/care-and-husbandry/degu-nutrition) article for safe food lists.
+> **Sugar warning:** Degus are extremely prone to diabetes. Never use sugary treats as rewards. Safe reward foods include small pieces of plain dried herb (dandelion, nettle), a single pumpkin seed, or a tiny piece of plain vegetable. See our [Nutrition](/docs/Degus/care-and-husbandry/nutrition) article for safe food lists.
 
 ---
 

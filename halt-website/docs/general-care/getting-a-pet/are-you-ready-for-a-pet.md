@@ -135,7 +135,7 @@ Before getting a pet, identify at least one person in your life who could care f
 
 If you have worked through these questions and are ready to get a pet, please consider adopting from a rescue or shelter rather than purchasing from a pet store or breeder. Rescues can tell you the animal's history, temperament, and health status. The animals in our care have been assessed by people who know the species well. Adoption fees are typically much lower than purchase prices, and the animal you adopt is one that genuinely needs a home.
 
-HALT has animals available for adoption across New England and the Northeast. Our [adoption page](/adopt) has current listings, and our [surrender form](https://bit.ly/halt-surrender) is available if you are in a situation where you need to rehome an animal you already have. We never judge — we just want what is best for the animal.
+HALT has animals available for adoption across New England and the Northeast. Our [adoption page](/adoptables) has current listings, and our [surrender form](https://docs.google.com/forms/d/e/1FAIpQLSf3rMvC-Yy9DDmtaQryik6QsGgxmiCRFgo0UN4HoQtUQY6y1g/viewform) is available if you are in a situation where you need to rehome an animal you already have. We never judge — we just want what is best for the animal.
 
 ---
 

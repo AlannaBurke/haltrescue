@@ -14,7 +14,7 @@ const AREAS = [
     title: 'Foster a Small Animal',
     text: 'Open your home to a guinea pig, rabbit, hamster, or other small animal while they wait for their forever family. We provide guidance and support, and fostering truly saves lives.',
     linkLabel: 'Foster and adoption application',
-    href: 'https://bit.ly/halt-adoption',
+    href: 'https://docs.google.com/forms/d/e/1FAIpQLSdq-__M7PsY43wTObwZiZ40xLQk_KutPrV-RO4qRmx1Zxpxyw/viewform',
   },
   {
     emoji: '🚗',
