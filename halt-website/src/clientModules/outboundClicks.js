@@ -46,6 +46,11 @@ function matchHost(list, hostname) {
   return null;
 }
 
+// The volunteer interest form lives on Google Forms, so a completed form
+// can never be seen from our site. The click through to it is the countable
+// step: it fires its own event instead of a generic outbound click.
+const VOLUNTEER_FORM_MARKER = '1FAIpQLSeeH8FoK1ktMUSMrc_ZTkxb69KbFma3j0CMONr2mzyTJgw0zQ';
+
 function classify(hostname) {
   const method = matchHost(DONATE_HOSTS, hostname);
   if (method) {
@@ -85,6 +90,13 @@ function onClick(event) {
     return;
   }
   if (url.hostname === window.location.hostname) {
+    return;
+  }
+  if (url.href.includes(VOLUNTEER_FORM_MARKER)) {
+    window.gtag('event', 'volunteer_form_click', {
+      link_url: url.href,
+      transport_type: 'beacon',
+    });
     return;
   }
   const [eventName, params] = classify(url.hostname);

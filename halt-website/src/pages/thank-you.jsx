@@ -1,9 +1,26 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import Layout from '@theme/Layout';
 import AmplyMatchWidget from '../components/AmplyMatchWidget';
 import styles from './donate.module.css';
 
 export default function ThankYou() {
+  // GA4 conversion event for Google Ads (added 2026-11-24): Givebutter
+  // redirects donors to this page after a completed gift, carrying the
+  // ad click ID. Fire donation_complete only for arrivals that look like
+  // that redirect (came from Givebutter, or the URL carries its details),
+  // so casual direct visits do not count. No donor details are read or sent.
+  useEffect(() => {
+    if (typeof window === 'undefined' || typeof window.gtag !== 'function') {
+      return;
+    }
+    const fromGivebutter =
+      (document.referrer && document.referrer.includes('givebutter.com')) ||
+      window.location.search.length > 1;
+    if (fromGivebutter) {
+      window.gtag('event', 'donation_complete', {method: 'Givebutter'});
+    }
+  }, []);
+
   return (
     <Layout
       title="Thank You"

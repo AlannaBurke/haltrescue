@@ -52,6 +52,15 @@ export default function Signup() {
     try {
       await fetch(ENDPOINT_URL, {method: 'POST', mode: 'no-cors', body});
       setStatus('done');
+      // GA4 conversion event for Google Ads (added 2026-11-24): a completed
+      // signup is a primary conversion. Channel flags only, no contact info.
+      if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+        window.gtag('event', 'signup_complete', {
+          email_newsletter: emailNewsletter,
+          info_texts: infoTexts,
+          promo_texts: promoTexts,
+        });
+      }
       trackMetaEvent('Lead', {
         content_name: 'Email and text signup',
         content_category: 'Signup',
