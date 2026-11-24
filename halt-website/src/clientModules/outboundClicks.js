@@ -29,12 +29,21 @@ const SOCIAL_HOSTS = [
 
 const AFFILIATE_HOSTS = [
   [/chewy\.com$/, 'Chewy'],
+  // Chewy Shelters and Rescues tracking links run through sjv.io and land
+  // on Chewy; count them as Chewy.
+  [/sjv\.io$/, 'Chewy'],
   [/amazon\.com$/, 'Amazon'],
   [/amzn\.to$/, 'Amazon'],
+  // The shop's Amazon product links use the link.amazon short domain.
+  [/^link\.amazon$/, 'Amazon'],
   [/walmart\.com$/, 'Walmart'],
   [/target\.com$/, 'Target'],
   [/petsmart\.com$/, 'PetSmart'],
   [/petco\.com$/, 'Petco'],
+  // The Anchor storefront (creator.anchor.store) carries the Chewpanions
+  // per-product links; an affiliate route in its own right.
+  [/anchor\.store$/, 'Anchor'],
+  [/igive\.com$/, 'iGive'],
 ];
 
 function matchHost(list, hostname) {
